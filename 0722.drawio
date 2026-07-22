@@ -47,7 +47,7 @@
           <mxGeometry height="20" width="300" x="2030" y="1450" as="geometry" />
         </mxCell>
         <mxCell id="de3czWMEIzvuPJSH_oaj-13" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontColor=#333333;fontFamily=Microsoft YaHei;" value="&lt;b&gt;核心应用领域&lt;/b&gt;" vertex="1">
-          <mxGeometry height="20" width="80" x="2430" y="1450" as="geometry" />
+          <mxGeometry height="20" width="80" x="2385" y="1450" as="geometry" />
         </mxCell>
         <mxCell id="de3czWMEIzvuPJSH_oaj-14" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontFamily=Microsoft YaHei;fontStyle=1;" value="&lt;b&gt;时间与历法&lt;/b&gt;" vertex="1">
           <mxGeometry height="20" width="70" x="1155" y="1505" as="geometry" />
