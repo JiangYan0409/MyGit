@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="日月影响体系" id="PU04TooXAPIhaAKXJBPA">
-    <mxGraphModel dx="2175" dy="1223" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1768" dy="994" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -53,10 +53,10 @@
           <mxGeometry height="18" width="200" x="660" y="533" as="geometry" />
         </mxCell>
         <mxCell id="Iael_UGuqMmBIXJ2PFKk-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;" value="米兰科维奇循环：太阳引力主导 + 巨行星摄动 + 月球调制岁差 → 冰期-间冰期交替 · 演化节拍" vertex="1">
-          <mxGeometry height="22" width="280" x="480" y="554" as="geometry" />
+          <mxGeometry height="28" width="280" x="480" y="552" as="geometry" />
         </mxCell>
         <mxCell id="Iael_UGuqMmBIXJ2PFKk-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;" value="大小潮：日月引潮力叠加/抵消 → 海洋栖息多样性 · 繁殖同步信号" vertex="1">
-          <mxGeometry height="22" width="300" x="780" y="554" as="geometry" />
+          <mxGeometry height="28" width="300" x="780" y="552" as="geometry" />
         </mxCell>
         <mxCell id="Iael_UGuqMmBIXJ2PFKk-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#333333;strokeWidth=2;dashed=1;fontSize=13;fontFamily=Microsoft YaHei;verticalAlign=top;align=center;spacingTop=10;" value="&lt;b&gt;主体：日月影响体系&lt;/b&gt;&lt;br&gt;（古代气论视角 · 认知递进 · 观测→规律→法则→应用）" vertex="1">
           <mxGeometry height="620" width="1280" x="159" y="670" as="geometry" />
