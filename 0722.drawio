@@ -25,7 +25,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="de3czWMEIzvuPJSH_oaj-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#333333;strokeWidth=2;dashed=1;fontSize=13;fontFamily=Microsoft YaHei;verticalAlign=top;align=center;spacingTop=10;" value="&lt;b&gt;正篇：日月影响体系（交互矩阵）&lt;/b&gt;&lt;br&gt;（古代气论视角 · 认知递进 · 日月协同 · 按应用领域展开）" vertex="1">
-          <mxGeometry height="810" width="1380" x="1150" y="1390" as="geometry" />
+          <mxGeometry height="640" width="1380" x="1150" y="1390" as="geometry" />
         </mxCell>
         <mxCell id="de3czWMEIzvuPJSH_oaj-8" edge="1" parent="1" source="de3czWMEIzvuPJSH_oaj-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#333333;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="de3czWMEIzvuPJSH_oaj-7">
           <mxGeometry relative="1" as="geometry">
@@ -161,7 +161,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="de3czWMEIzvuPJSH_oaj-54" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#999999;strokeWidth=2;fontSize=13;fontFamily=Microsoft YaHei;verticalAlign=middle;align=center;" value="&lt;b&gt;日月并举&lt;/b&gt; —— 宇宙完整与时间流动的象征&lt;br&gt;全部影响的最终文化汇聚：阴阳合历 · 天人合一 · 日月崇拜 · 文学意象" vertex="1">
-          <mxGeometry height="60" width="800" x="1440" y="2278" as="geometry" />
+          <mxGeometry height="60" width="800" x="1439" y="2140" as="geometry" />
         </mxCell>
         <mxCell id="de3czWMEIzvuPJSH_oaj-55" edge="1" parent="1" source="de3czWMEIzvuPJSH_oaj-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#333333;" target="de3czWMEIzvuPJSH_oaj-54">
           <mxGeometry relative="1" as="geometry" />
@@ -170,21 +170,6 @@
           <mxGeometry relative="1" x="-0.1" y="1" as="geometry">
             <mxPoint y="-5" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="de3czWMEIzvuPJSH_oaj-58" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Microsoft YaHei;" value="&lt;b&gt;颜色图例&lt;/b&gt;" vertex="1">
-          <mxGeometry height="18" width="160" x="2360" y="2250" as="geometry" />
-        </mxCell>
-        <mxCell id="de3czWMEIzvuPJSH_oaj-59" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#d6b656;fontFamily=Microsoft YaHei;" value="黄色背景：太阳相关" vertex="1">
-          <mxGeometry height="18" width="160" x="2360" y="2270" as="geometry" />
-        </mxCell>
-        <mxCell id="de3czWMEIzvuPJSH_oaj-60" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#82b366;fontFamily=Microsoft YaHei;" value="绿色背景：日月协同" vertex="1">
-          <mxGeometry height="18" width="160" x="2360" y="2288" as="geometry" />
-        </mxCell>
-        <mxCell id="de3czWMEIzvuPJSH_oaj-61" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#b85450;fontFamily=Microsoft YaHei;" value="白色背景（红框）：月亮相关" vertex="1">
-          <mxGeometry height="18" width="160" x="2360" y="2306" as="geometry" />
-        </mxCell>
-        <mxCell id="de3czWMEIzvuPJSH_oaj-62" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#333333;fontFamily=Microsoft YaHei;" value="应用列：各领域最终落地" vertex="1">
-          <mxGeometry height="18" width="160" x="2360" y="2324" as="geometry" />
         </mxCell>
         <mxCell id="de3czWMEIzvuPJSH_oaj-63" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#333333;exitX=1;exitY=0.5;entryX=0;entryY=0.5;entryDx=0;entryDy=0;">
           <mxGeometry relative="1" as="geometry">
