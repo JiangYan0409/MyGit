@@ -221,10 +221,7 @@
           <mxGeometry height="120" width="160" x="1270" as="geometry" />
         </mxCell>
         <mxCell id="Iael_UGuqMmBIXJ2PFKk-52" parent="GA418cDt1_m3VD-Izj2L-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#333333;strokeWidth=1;fontSize=11;fontFamily=Microsoft YaHei;verticalAlign=top;align=left;spacingLeft=10;spacingTop=8;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
-          <mxGeometry height="120" width="160" as="geometry" />
-        </mxCell>
-        <mxCell id="Iael_UGuqMmBIXJ2PFKk-53" parent="GA418cDt1_m3VD-Izj2L-1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Microsoft YaHei;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;b&gt;颜色图例&lt;/b&gt;" vertex="1">
-          <mxGeometry height="18" width="140" x="10" y="10" as="geometry" />
+          <mxGeometry height="90" width="160" y="30" as="geometry" />
         </mxCell>
         <mxCell id="Iael_UGuqMmBIXJ2PFKk-54" parent="GA418cDt1_m3VD-Izj2L-1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#FF8C00;fontFamily=Microsoft YaHei;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="🟠 农业 · 养生 · 作息 · 医学" vertex="1">
           <mxGeometry height="18" width="140" x="10" y="30" as="geometry" />
