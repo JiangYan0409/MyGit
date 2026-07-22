@@ -1,0 +1,94 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="日月体系-气论" id="pupl_vsDlSBYKikdX1jX">
+    <mxGraphModel dx="1768" dy="994" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8qapM0CR1zAKqdI2z981-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;fontFamily=Microsoft YaHei;" value="&lt;b&gt;太虚即气&lt;/b&gt;&lt;br&gt;（万物本体）" vertex="1">
+          <mxGeometry height="50" width="160" x="340" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="8qapM0CR1zAKqdI2z981-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12;fontFamily=Microsoft YaHei;" value="&lt;b&gt;阳气&lt;/b&gt;&lt;br&gt;（清轻·升发·弥散）" vertex="1">
+          <mxGeometry height="50" width="160" x="200" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="8qapM0CR1zAKqdI2z981-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=12;fontFamily=Microsoft YaHei;" value="&lt;b&gt;阴气&lt;/b&gt;&lt;br&gt;（重浊·沉降·凝聚）" vertex="1">
+          <mxGeometry height="50" width="160" x="480" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="8qapM0CR1zAKqdI2z981-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12;fontFamily=Microsoft YaHei;" value="&lt;b&gt;太阳&lt;/b&gt;&lt;br&gt;（阳气之精凝聚·内含阴精）" vertex="1">
+          <mxGeometry height="50" width="180" x="160" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="8qapM0CR1zAKqdI2z981-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=12;fontFamily=Microsoft YaHei;" value="&lt;b&gt;月亮&lt;/b&gt;&lt;br&gt;（阴气之精凝聚·内含阳精）" vertex="1">
+          <mxGeometry height="50" width="180" x="500" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="8qapM0CR1zAKqdI2z981-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#999999;fontSize=11;fontFamily=Microsoft YaHei;align=center;" value="&lt;b&gt;一气之中&lt;/b&gt;&lt;br&gt;阴阳之精相互推荡，清浊之质相互感移&lt;br&gt;日月之行即太虚元气自身之呼吸开阖" vertex="1">
+          <mxGeometry height="60" width="360" x="240" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="8qapM0CR1zAKqdI2z981-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;fontFamily=Microsoft YaHei;" value="&lt;b&gt;一气整体消息盈虚&lt;/b&gt;&lt;br&gt;（日节律 / 月节律 / 年节律）" vertex="1">
+          <mxGeometry height="50" width="200" x="160" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="8qapM0CR1zAKqdI2z981-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;fontFamily=Microsoft YaHei;" value="&lt;b&gt;同类相感，万物应之&lt;/b&gt;&lt;br&gt;（海潮 / 气血 / 植物荣枯）" vertex="1">
+          <mxGeometry height="50" width="200" x="480" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="8qapM0CR1zAKqdI2z981-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;fontFamily=Microsoft YaHei;" value="&lt;b&gt;万物与日月同其节律&lt;/b&gt;" vertex="1">
+          <mxGeometry height="50" width="200" x="320" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="8qapM0CR1zAKqdI2z981-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12;fontFamily=Microsoft YaHei;" value="&lt;b&gt;观测现象&lt;/b&gt;&lt;br&gt;（潮汐 / 日影 / 月相 / 寒暑）" vertex="1">
+          <mxGeometry height="50" width="200" x="160" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="8qapM0CR1zAKqdI2z981-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12;fontFamily=Microsoft YaHei;" value="&lt;b&gt;发现规律&lt;/b&gt;&lt;br&gt;（朔望月 / 回归年 / 交食周期）" vertex="1">
+          <mxGeometry height="50" width="200" x="480" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="8qapM0CR1zAKqdI2z981-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=11;fontFamily=Microsoft YaHei;" value="&lt;b&gt;抽象法则&lt;/b&gt;&lt;br&gt;（天地同气 / 阴阳 / 相感 / 消长 / 四时 / 气血 / 政治月令）" vertex="1">
+          <mxGeometry height="60" width="320" x="260" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="8qapM0CR1zAKqdI2z981-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12;fontFamily=Microsoft YaHei;" value="&lt;b&gt;扩展应用&lt;/b&gt;&lt;br&gt;（医学 / 农业 / 政治 / 建筑 / 文学 / 宗教）" vertex="1">
+          <mxGeometry height="50" width="300" x="270" y="950" as="geometry" />
+        </mxCell>
+        <mxCell id="8qapM0CR1zAKqdI2z981-14" edge="1" parent="1" source="8qapM0CR1zAKqdI2z981-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;entryX=0.5;entryY=0;" target="8qapM0CR1zAKqdI2z981-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8qapM0CR1zAKqdI2z981-15" edge="1" parent="1" source="8qapM0CR1zAKqdI2z981-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;entryX=0.5;entryY=0;" target="8qapM0CR1zAKqdI2z981-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8qapM0CR1zAKqdI2z981-16" edge="1" parent="1" source="8qapM0CR1zAKqdI2z981-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" target="8qapM0CR1zAKqdI2z981-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8qapM0CR1zAKqdI2z981-17" edge="1" parent="1" source="8qapM0CR1zAKqdI2z981-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" target="8qapM0CR1zAKqdI2z981-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8qapM0CR1zAKqdI2z981-18" edge="1" parent="1" source="8qapM0CR1zAKqdI2z981-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;entryX=0.25;entryY=0;" target="8qapM0CR1zAKqdI2z981-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8qapM0CR1zAKqdI2z981-19" edge="1" parent="1" source="8qapM0CR1zAKqdI2z981-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;entryX=0.75;entryY=0;" target="8qapM0CR1zAKqdI2z981-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8qapM0CR1zAKqdI2z981-20" edge="1" parent="1" source="8qapM0CR1zAKqdI2z981-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;entryX=0.5;entryY=0;" target="8qapM0CR1zAKqdI2z981-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8qapM0CR1zAKqdI2z981-21" edge="1" parent="1" source="8qapM0CR1zAKqdI2z981-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;entryX=0.5;entryY=0;" target="8qapM0CR1zAKqdI2z981-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8qapM0CR1zAKqdI2z981-22" edge="1" parent="1" source="8qapM0CR1zAKqdI2z981-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;entryX=0.25;entryY=0;" target="8qapM0CR1zAKqdI2z981-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8qapM0CR1zAKqdI2z981-23" edge="1" parent="1" source="8qapM0CR1zAKqdI2z981-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;entryX=0.75;entryY=0;" target="8qapM0CR1zAKqdI2z981-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8qapM0CR1zAKqdI2z981-24" edge="1" parent="1" source="8qapM0CR1zAKqdI2z981-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;entryX=0.5;entryY=0;" target="8qapM0CR1zAKqdI2z981-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8qapM0CR1zAKqdI2z981-25" edge="1" parent="1" source="8qapM0CR1zAKqdI2z981-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;entryX=0.5;entryY=0;" target="8qapM0CR1zAKqdI2z981-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8qapM0CR1zAKqdI2z981-26" edge="1" parent="1" source="8qapM0CR1zAKqdI2z981-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;entryX=0.25;entryY=0;" target="8qapM0CR1zAKqdI2z981-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8qapM0CR1zAKqdI2z981-27" edge="1" parent="1" source="8qapM0CR1zAKqdI2z981-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;entryX=0.75;entryY=0;" target="8qapM0CR1zAKqdI2z981-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8qapM0CR1zAKqdI2z981-28" edge="1" parent="1" source="8qapM0CR1zAKqdI2z981-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" target="8qapM0CR1zAKqdI2z981-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
