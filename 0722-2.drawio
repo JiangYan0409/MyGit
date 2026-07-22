@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net">
   <diagram name="日月影响体系" id="PU04TooXAPIhaAKXJBPA">
-    <mxGraphModel dx="960" dy="3037" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1643" dy="4101" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="GA418cDt1_m3VD-Izj2L-3" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="1540" width="1441.5" x="100" y="-1510" as="geometry" />
+          <mxGeometry height="1540" width="1441.5" x="-500" y="-2320" as="geometry" />
         </mxCell>
         <mxCell id="Iael_UGuqMmBIXJ2PFKk-77" connectable="0" parent="GA418cDt1_m3VD-Izj2L-3" style="group;opacity=80;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
           <mxGeometry height="1181" width="1441.5" y="359" as="geometry" />
@@ -137,10 +137,10 @@
         <mxCell id="Iael_UGuqMmBIXJ2PFKk-39" parent="Iael_UGuqMmBIXJ2PFKk-67" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#82b366;fontFamily=Microsoft YaHei;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;b&gt;日月协同的影响（阴阳互推）&lt;/b&gt;" vertex="1">
           <mxGeometry height="21.384615384615387" width="340" x="470" y="66.76923076923077" as="geometry" />
         </mxCell>
-        <mxCell id="Iael_UGuqMmBIXJ2PFKk-40" parent="Iael_UGuqMmBIXJ2PFKk-67" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#82b366;strokeWidth=1;fontSize=11;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;verticalAlign=top;spacingTop=5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;b&gt;八：同气相感（日、月同时影响）&lt;/b&gt;&lt;br&gt;现象：大小潮半月周期&lt;br&gt;规律：朔望叠加，上下弦抵消&lt;br&gt;应用：渔业🟢" vertex="1">
+        <mxCell id="Iael_UGuqMmBIXJ2PFKk-40" parent="Iael_UGuqMmBIXJ2PFKk-67" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#82b366;strokeWidth=1;fontSize=11;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;verticalAlign=top;spacingTop=5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;b&gt;八：&lt;/b&gt;&lt;span style=&quot;caret-color: rgb(15, 17, 21); color: rgb(15, 17, 21); background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Microsoft YaHei&quot;&gt;&lt;b&gt;日月阴阳精粹相互推荡引发的周期性波动（同类相感）&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;br&gt;现象：大小潮半月周期&lt;br&gt;规律：朔望叠加，上下弦抵消&lt;br&gt;应用：渔业🟢" vertex="1">
           <mxGeometry height="74.84615384615385" width="360" x="460" y="98.84615384615385" as="geometry" />
         </mxCell>
-        <mxCell id="Iael_UGuqMmBIXJ2PFKk-41" parent="Iael_UGuqMmBIXJ2PFKk-67" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#82b366;strokeWidth=1;fontSize=11;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;verticalAlign=top;spacingTop=5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;b&gt;线索九：律历同源&lt;/b&gt;&lt;br&gt;现象：冬至地气变化&lt;br&gt;规律：律管候气、三分损益法&lt;br&gt;应用：度量衡🟢 祭祀乐舞🟢" vertex="1">
+        <mxCell id="Iael_UGuqMmBIXJ2PFKk-41" parent="Iael_UGuqMmBIXJ2PFKk-67" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#82b366;strokeWidth=1;fontSize=11;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;verticalAlign=top;spacingTop=5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;b&gt;线索九：律历同源（气的消长在时间和空间领域同步显示）&lt;/b&gt;&lt;br&gt;现象：冬至地气变化&lt;br&gt;规律：律管候气、三分损益法&lt;br&gt;应用：度量衡🟢 祭祀乐舞🟢" vertex="1">
           <mxGeometry height="74.84615384615385" width="360" x="460" y="189.73076923076925" as="geometry" />
         </mxCell>
         <mxCell id="Iael_UGuqMmBIXJ2PFKk-42" parent="Iael_UGuqMmBIXJ2PFKk-67" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#82b366;strokeWidth=1;fontSize=11;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;verticalAlign=top;spacingTop=5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;b&gt;线索十：政治月令&lt;/b&gt;&lt;br&gt;现象：日月周期不同步&lt;br&gt;规律：十九年七闰&lt;br&gt;应用：阴阳合历🔴 月令行政🔴 日月祭祀🔴" vertex="1">
