@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="日月影响体系" id="PU04TooXAPIhaAKXJBPA">
-    <mxGraphModel dx="4362" dy="5495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2491" dy="4442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -71,7 +71,7 @@
           <mxGeometry height="30" width="1290" y="203" as="geometry" />
         </mxCell>
         <mxCell id="vw3Ic-9iz_ZoJB-vH6MB-26" parent="Iael_UGuqMmBIXJ2PFKk-66" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;变&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="32" width="64" x="-40" y="732" as="geometry" />
+          <mxGeometry height="32" width="64" x="-47" y="732" as="geometry" />
         </mxCell>
         <mxCell id="Iael_UGuqMmBIXJ2PFKk-67" connectable="0" parent="Iael_UGuqMmBIXJ2PFKk-77" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
           <mxGeometry height="834" width="1343" x="59" y="310" as="geometry" />
@@ -91,7 +91,7 @@
         <mxCell id="Iael_UGuqMmBIXJ2PFKk-25" parent="Iael_UGuqMmBIXJ2PFKk-67" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=1;fontSize=11;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;verticalAlign=top;spacingTop=5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;b&gt;二：&lt;/b&gt;&lt;b style=&quot;caret-color: rgb(15, 17, 21); color: rgb(15, 17, 21);&quot;&gt;太阳周日运行所体现的阳气年度消息盈虚规律（气每日循环）&lt;/b&gt;&lt;br&gt;现象：昼夜更替&lt;br&gt;规律：日周期、平太阳时&lt;br&gt;应用：子午觉🟠 子午流注🟠" vertex="1">
           <mxGeometry height="74.84615384615385" width="350" x="35" y="189.73076923076925" as="geometry" />
         </mxCell>
-        <mxCell id="Iael_UGuqMmBIXJ2PFKk-26" parent="Iael_UGuqMmBIXJ2PFKk-67" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=1;fontSize=11;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;verticalAlign=top;spacingTop=5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;b&gt;三：地气升降规律（地气运行）&lt;/b&gt;&lt;br&gt;现象：大地解冻封冻&lt;br&gt;规律：地温年变化&lt;br&gt;应用：坐北朝南🩵&amp;nbsp;风水🩵 神圣对位🩵" vertex="1">
+        <mxCell id="Iael_UGuqMmBIXJ2PFKk-26" parent="Iael_UGuqMmBIXJ2PFKk-67" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=1;fontSize=11;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;verticalAlign=top;spacingTop=5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;b&gt;三：地气升降规律（地气运行与太阳运转同步）&lt;/b&gt;&lt;br&gt;现象：大地解冻封冻&lt;br&gt;规律：地温年变化&lt;br&gt;应用：坐北朝南🩵&amp;nbsp;风水🩵 神圣对位🩵" vertex="1">
           <mxGeometry height="74.84615384615385" width="350" x="35" y="280.61538461538464" as="geometry" />
         </mxCell>
         <mxCell id="Iael_UGuqMmBIXJ2PFKk-27" parent="Iael_UGuqMmBIXJ2PFKk-67" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;fontSize=11;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;verticalAlign=top;spacingTop=5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;b&gt;四：气的变（气的不常见表达）&lt;/b&gt;&lt;br&gt;现象：日食、黑子&lt;br&gt;规律：交点月、沙罗周期&lt;br&gt;应用：灾异谏政🔴" vertex="1">
@@ -187,6 +187,12 @@
         <mxCell id="vw3Ic-9iz_ZoJB-vH6MB-25" parent="Iael_UGuqMmBIXJ2PFKk-67" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fillColor=none;strokeColor=default;direction=west;" value="" vertex="1">
           <mxGeometry height="218" width="42" x="1301" y="112.85000000000014" as="geometry" />
         </mxCell>
+        <mxCell id="vw3Ic-9iz_ZoJB-vH6MB-28" edge="1" parent="Iael_UGuqMmBIXJ2PFKk-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endSize=6;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="22" y="747.0000000000005" as="sourcePoint" />
+            <mxPoint x="86" y="746.8800000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Iael_UGuqMmBIXJ2PFKk-2" parent="GA418cDt1_m3VD-Izj2L-3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#9673a6;fontFamily=Microsoft YaHei;fontStyle=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="气分阴阳 · 阴阳相推 · 日月为精 · 万物同体" vertex="1">
           <mxGeometry height="20" width="340" x="537" y="40" as="geometry" />
         </mxCell>
@@ -248,7 +254,7 @@
           <mxGeometry height="18" width="140" x="10" y="102" as="geometry" />
         </mxCell>
         <mxCell id="vw3Ic-9iz_ZoJB-vH6MB-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;常&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="32" width="64" x="-544" y="-1445.1499999999999" as="geometry" />
+          <mxGeometry height="32" width="64" x="-548" y="-1445.1499999999999" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
