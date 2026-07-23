@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="日月影响体系" id="PU04TooXAPIhaAKXJBPA">
-    <mxGraphModel dx="3969" dy="5274" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3002" dy="4730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,7 +20,7 @@
           <mxGeometry height="1160" width="1410" as="geometry" />
         </mxCell>
         <mxCell id="Iael_UGuqMmBIXJ2PFKk-65" connectable="0" parent="Iael_UGuqMmBIXJ2PFKk-66" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
-          <mxGeometry height="231" width="1290" x="45" y="69" as="geometry" />
+          <mxGeometry height="231" width="1290" x="45" y="56" as="geometry" />
         </mxCell>
         <mxCell id="Iael_UGuqMmBIXJ2PFKk-4" parent="Iael_UGuqMmBIXJ2PFKk-65" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fffde8;strokeColor=#d6b656;strokeWidth=1;dashed=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
           <mxGeometry height="120" width="580" x="15" as="geometry" />
@@ -41,19 +41,19 @@
           <mxGeometry height="27" width="260" x="315" y="41" as="geometry" />
         </mxCell>
         <mxCell id="Iael_UGuqMmBIXJ2PFKk-10" parent="Iael_UGuqMmBIXJ2PFKk-65" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8f8f8;strokeColor=#666666;strokeWidth=1;dashed=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
-          <mxGeometry height="120" width="580" x="675" as="geometry" />
+          <mxGeometry height="120" width="580" x="693" as="geometry" />
         </mxCell>
         <mxCell id="Iael_UGuqMmBIXJ2PFKk-11" parent="Iael_UGuqMmBIXJ2PFKk-65" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontColor=#666666;fontFamily=Microsoft YaHei;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;b&gt;月球的独立贡献&lt;/b&gt;" vertex="1">
-          <mxGeometry height="18" width="180" x="875" y="5" as="geometry" />
+          <mxGeometry height="18" width="180" x="883" y="9" as="geometry" />
         </mxCell>
         <mxCell id="Iael_UGuqMmBIXJ2PFKk-12" parent="Iael_UGuqMmBIXJ2PFKk-65" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=11;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="地轴倾角稳定 → 四季温和 + 气候长期稳定" vertex="1">
-          <mxGeometry height="22" width="260" x="865" y="28" as="geometry" />
+          <mxGeometry height="22" width="260" x="873" y="32" as="geometry" />
         </mxCell>
         <mxCell id="Iael_UGuqMmBIXJ2PFKk-13" parent="Iael_UGuqMmBIXJ2PFKk-65" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=11;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="潮汐与生命起源 → 潮汐池 + 干湿循环 + 分子聚合" vertex="1">
-          <mxGeometry height="22" width="260" x="865" y="55" as="geometry" />
+          <mxGeometry height="22" width="260" x="873" y="59" as="geometry" />
         </mxCell>
         <mxCell id="Iael_UGuqMmBIXJ2PFKk-14" parent="Iael_UGuqMmBIXJ2PFKk-65" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=11;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="自转减速 → 昼夜温差减小 + 环流温和" vertex="1">
-          <mxGeometry height="22" width="260" x="865" y="82" as="geometry" />
+          <mxGeometry height="22" width="260" x="873" y="86" as="geometry" />
         </mxCell>
         <mxCell id="Iael_UGuqMmBIXJ2PFKk-15" parent="Iael_UGuqMmBIXJ2PFKk-65" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0fff0;strokeColor=#82b366;strokeWidth=1;dashed=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
           <mxGeometry height="55" width="640" x="315" y="130" as="geometry" />
@@ -64,11 +64,11 @@
         <mxCell id="Iael_UGuqMmBIXJ2PFKk-17" parent="Iael_UGuqMmBIXJ2PFKk-65" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="米兰科维奇循环：太阳引力主导 + 巨行星摄动 + 月球调制岁差 → 冰期-间冰期交替 + 演化节拍" vertex="1">
           <mxGeometry height="28" width="280" x="335" y="153" as="geometry" />
         </mxCell>
-        <mxCell id="Iael_UGuqMmBIXJ2PFKk-18" parent="Iael_UGuqMmBIXJ2PFKk-65" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="大小潮：日月引潮力叠加/抵消 → 海洋栖息多样性 + 繁殖同步信号" vertex="1">
+        <mxCell id="Iael_UGuqMmBIXJ2PFKk-18" parent="Iael_UGuqMmBIXJ2PFKk-65" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="大小潮：日月引潮力叠加/抵消 → 海洋栖息多样性 + 繁殖同步信号" vertex="1">
           <mxGeometry height="28" width="300" x="635" y="153" as="geometry" />
         </mxCell>
         <mxCell id="Iael_UGuqMmBIXJ2PFKk-62" parent="Iael_UGuqMmBIXJ2PFKk-65" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=1;labelBackgroundColor=light-dark(#a0f3f1, #ededed);labelBorderColor=none;arcSize=50;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;日月通过引力与辐射，为地球创造了一个宜居环境。太阳引力固定轨道，阳光辐射驱动气候、&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 8px; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif;&quot;&gt;生命，并催生臭氧层保护陆地；&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8px; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif;&quot;&gt;月球稳定地轴使气候长期温和，引发潮汐塑造海岸环境并可能参与生命起源，同时减缓自转至适宜节律。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8px; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif;&quot;&gt;日月协同在万年尺度调控冰期轮回，在半月尺度调制潮汐节律&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="1290" y="197" as="geometry" />
+          <mxGeometry height="30" width="1290" y="203" as="geometry" />
         </mxCell>
         <mxCell id="Iael_UGuqMmBIXJ2PFKk-67" connectable="0" parent="Iael_UGuqMmBIXJ2PFKk-77" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
           <mxGeometry height="834" width="1280" x="59" y="310" as="geometry" />
