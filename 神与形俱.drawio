@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="日月体系-气论" id="6LFZQo16GFOAQUiR_pcO">
-    <mxGraphModel dx="1643" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2187" dy="990" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -63,22 +63,22 @@
         <mxCell id="1xnrSVUVyxCPAyk9uC0B-9" parent="1xnrSVUVyxCPAyk9uC0B-8" style="swimlane;startSize=30;fontSize=11;fillColor=#ffe6cc;strokeColor=#d79b00;" value="精神表达（五神/认知功能）&#xa;《灵枢·本神》" vertex="1">
           <mxGeometry height="230" width="280" x="10" y="60" as="geometry" />
         </mxCell>
-        <mxCell id="1xnrSVUVyxCPAyk9uC0B-10" parent="1xnrSVUVyxCPAyk9uC0B-9" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="魂&#xa;知觉/情感/梦境" vertex="1">
+        <mxCell id="1xnrSVUVyxCPAyk9uC0B-10" parent="1xnrSVUVyxCPAyk9uC0B-9" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#FF0000;" value="魂&#xa;知觉/情感/梦境" vertex="1">
           <mxGeometry height="50" width="110" x="20" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="1xnrSVUVyxCPAyk9uC0B-11" parent="1xnrSVUVyxCPAyk9uC0B-9" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="魄&#xa;本能/感官" vertex="1">
+        <mxCell id="1xnrSVUVyxCPAyk9uC0B-11" parent="1xnrSVUVyxCPAyk9uC0B-9" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#FF0000;" value="魄&#xa;本能/感官" vertex="1">
           <mxGeometry height="50" width="110" x="150" y="40" as="geometry" />
         </mxCell>
         <mxCell id="1xnrSVUVyxCPAyk9uC0B-36" edge="1" parent="1xnrSVUVyxCPAyk9uC0B-9" source="1xnrSVUVyxCPAyk9uC0B-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=1;fillColor=#f8cecc;strokeColor=#b85450;" target="1xnrSVUVyxCPAyk9uC0B-13" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1xnrSVUVyxCPAyk9uC0B-12" parent="1xnrSVUVyxCPAyk9uC0B-9" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#f8cecc;strokeColor=#b85450;" value="意&#xa;初级认知" vertex="1">
+        <mxCell id="1xnrSVUVyxCPAyk9uC0B-12" parent="1xnrSVUVyxCPAyk9uC0B-9" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#f8cecc;strokeColor=#b85450;fontColor=#009900;" value="意&#xa;初级认知" vertex="1">
           <mxGeometry height="50" width="60" x="20" y="100" as="geometry" />
         </mxCell>
         <mxCell id="1xnrSVUVyxCPAyk9uC0B-37" edge="1" parent="1xnrSVUVyxCPAyk9uC0B-9" source="1xnrSVUVyxCPAyk9uC0B-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=1;fillColor=#f8cecc;strokeColor=#b85450;" target="1xnrSVUVyxCPAyk9uC0B-14" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1xnrSVUVyxCPAyk9uC0B-13" parent="1xnrSVUVyxCPAyk9uC0B-9" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#f8cecc;strokeColor=#b85450;" value="志&#xa;定力/记忆" vertex="1">
+        <mxCell id="1xnrSVUVyxCPAyk9uC0B-13" parent="1xnrSVUVyxCPAyk9uC0B-9" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#f8cecc;strokeColor=#b85450;fontColor=#009900;" value="志&#xa;定力/记忆" vertex="1">
           <mxGeometry height="50" width="60" x="110" y="100" as="geometry" />
         </mxCell>
         <mxCell id="1xnrSVUVyxCPAyk9uC0B-38" edge="1" parent="1xnrSVUVyxCPAyk9uC0B-9" source="1xnrSVUVyxCPAyk9uC0B-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=1;fillColor=#f8cecc;strokeColor=#b85450;" target="1xnrSVUVyxCPAyk9uC0B-15">
@@ -91,16 +91,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1xnrSVUVyxCPAyk9uC0B-14" parent="1xnrSVUVyxCPAyk9uC0B-9" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#f8cecc;strokeColor=#b85450;" value="思&#xa;分析/推理" vertex="1">
+        <mxCell id="1xnrSVUVyxCPAyk9uC0B-14" parent="1xnrSVUVyxCPAyk9uC0B-9" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#f8cecc;strokeColor=#b85450;fontColor=#009900;" value="思&#xa;分析/推理" vertex="1">
           <mxGeometry height="50" width="60" x="200" y="100" as="geometry" />
         </mxCell>
         <mxCell id="1xnrSVUVyxCPAyk9uC0B-39" edge="1" parent="1xnrSVUVyxCPAyk9uC0B-9" source="1xnrSVUVyxCPAyk9uC0B-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;fillColor=#f8cecc;strokeColor=#b85450;" target="1xnrSVUVyxCPAyk9uC0B-16" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1xnrSVUVyxCPAyk9uC0B-15" parent="1xnrSVUVyxCPAyk9uC0B-9" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#f8cecc;strokeColor=#b85450;" value="虑&#xa;深谋/规划" vertex="1">
+        <mxCell id="1xnrSVUVyxCPAyk9uC0B-15" parent="1xnrSVUVyxCPAyk9uC0B-9" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#f8cecc;strokeColor=#b85450;fontColor=#009900;" value="虑&#xa;深谋/规划" vertex="1">
           <mxGeometry height="50" width="60" x="70" y="168" as="geometry" />
         </mxCell>
-        <mxCell id="1xnrSVUVyxCPAyk9uC0B-16" parent="1xnrSVUVyxCPAyk9uC0B-9" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#f8cecc;strokeColor=#b85450;" value="智&#xa;决策/行动" vertex="1">
+        <mxCell id="1xnrSVUVyxCPAyk9uC0B-16" parent="1xnrSVUVyxCPAyk9uC0B-9" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#f8cecc;strokeColor=#b85450;fontColor=#009900;" value="智&#xa;决策/行动" vertex="1">
           <mxGeometry height="50" width="60" x="160" y="168" as="geometry" />
         </mxCell>
         <mxCell id="1xnrSVUVyxCPAyk9uC0B-28" edge="1" parent="1" source="1xnrSVUVyxCPAyk9uC0B-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="1xnrSVUVyxCPAyk9uC0B-3">
@@ -153,46 +153,46 @@
             <mxPoint x="-25" y="-5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1xnrSVUVyxCPAyk9uC0B-17" parent="1" style="swimlane;startSize=30;fontSize=11;fillColor=#fff2cc;strokeColor=#d6b656;" value="情绪表达（五志/情绪反应）&#xa;《素问·阴阳应象大论》" vertex="1">
+        <mxCell id="1xnrSVUVyxCPAyk9uC0B-17" parent="1" style="swimlane;startSize=30;fontSize=11;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#009900;" value="情绪表达（五志/情绪反应）&#xa;《素问·阴阳应象大论》" vertex="1">
           <mxGeometry height="90" width="280" x="1410" y="1250" as="geometry" />
         </mxCell>
-        <mxCell id="1xnrSVUVyxCPAyk9uC0B-18" parent="1xnrSVUVyxCPAyk9uC0B-17" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#f8cecc;strokeColor=#b85450;" value="怒（肝）" vertex="1">
+        <mxCell id="1xnrSVUVyxCPAyk9uC0B-18" parent="1xnrSVUVyxCPAyk9uC0B-17" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#f8cecc;strokeColor=#b85450;fontColor=#009900;" value="怒（肝）" vertex="1">
           <mxGeometry height="40" width="50" x="5" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="1xnrSVUVyxCPAyk9uC0B-19" parent="1xnrSVUVyxCPAyk9uC0B-17" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#f8cecc;strokeColor=#b85450;" value="喜（心）" vertex="1">
+        <mxCell id="1xnrSVUVyxCPAyk9uC0B-19" parent="1xnrSVUVyxCPAyk9uC0B-17" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#f8cecc;strokeColor=#b85450;fontColor=#009900;" value="喜（心）" vertex="1">
           <mxGeometry height="40" width="50" x="60" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="1xnrSVUVyxCPAyk9uC0B-20" parent="1xnrSVUVyxCPAyk9uC0B-17" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#f8cecc;strokeColor=#b85450;" value="思/忧（脾）" vertex="1">
+        <mxCell id="1xnrSVUVyxCPAyk9uC0B-20" parent="1xnrSVUVyxCPAyk9uC0B-17" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#f8cecc;strokeColor=#b85450;fontColor=#009900;" value="思/忧（脾）" vertex="1">
           <mxGeometry height="40" width="50" x="115" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="1xnrSVUVyxCPAyk9uC0B-21" parent="1xnrSVUVyxCPAyk9uC0B-17" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#f8cecc;strokeColor=#b85450;" value="悲（肺）" vertex="1">
+        <mxCell id="1xnrSVUVyxCPAyk9uC0B-21" parent="1xnrSVUVyxCPAyk9uC0B-17" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#f8cecc;strokeColor=#b85450;fontColor=#009900;" value="悲（肺）" vertex="1">
           <mxGeometry height="40" width="50" x="170" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="1xnrSVUVyxCPAyk9uC0B-22" parent="1xnrSVUVyxCPAyk9uC0B-17" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#f8cecc;strokeColor=#b85450;" value="恐（肾）" vertex="1">
+        <mxCell id="1xnrSVUVyxCPAyk9uC0B-22" parent="1xnrSVUVyxCPAyk9uC0B-17" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#f8cecc;strokeColor=#b85450;fontColor=#009900;" value="恐（肾）" vertex="1">
           <mxGeometry height="40" width="50" x="225" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="1xnrSVUVyxCPAyk9uC0B-23" parent="1" style="swimlane;startSize=30;fontSize=11;fillColor=#fff2cc;strokeColor=#d6b656;" value="生命状态表达（生命力表现）&#xa;临床诊断（望诊）" vertex="1">
+        <mxCell id="1xnrSVUVyxCPAyk9uC0B-23" parent="1" style="swimlane;startSize=30;fontSize=11;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#FF8000;" value="生命状态表达（生命力表现）&#xa;临床诊断（望诊）" vertex="1">
           <mxGeometry height="140" width="280" x="1410" y="1360" as="geometry" />
         </mxCell>
-        <mxCell id="1xnrSVUVyxCPAyk9uC0B-24" parent="1xnrSVUVyxCPAyk9uC0B-23" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#f8cecc;strokeColor=#b85450;" value="面色（光泽/晦暗）" vertex="1">
+        <mxCell id="1xnrSVUVyxCPAyk9uC0B-24" parent="1xnrSVUVyxCPAyk9uC0B-23" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#f8cecc;strokeColor=#b85450;fontColor=#FF8000;" value="面色（光泽/晦暗）" vertex="1">
           <mxGeometry height="40" width="120" x="10" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="1xnrSVUVyxCPAyk9uC0B-25" parent="1xnrSVUVyxCPAyk9uC0B-23" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#f8cecc;strokeColor=#b85450;" value="眼神（清亮/浑浊）" vertex="1">
+        <mxCell id="1xnrSVUVyxCPAyk9uC0B-25" parent="1xnrSVUVyxCPAyk9uC0B-23" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#f8cecc;strokeColor=#b85450;fontColor=#FF8000;" value="眼神（清亮/浑浊）" vertex="1">
           <mxGeometry height="40" width="120" x="150" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="1xnrSVUVyxCPAyk9uC0B-26" parent="1xnrSVUVyxCPAyk9uC0B-23" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#f8cecc;strokeColor=#b85450;" value="言语（清晰/含混）" vertex="1">
+        <mxCell id="1xnrSVUVyxCPAyk9uC0B-26" parent="1xnrSVUVyxCPAyk9uC0B-23" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#f8cecc;strokeColor=#b85450;fontColor=#FF8000;" value="言语（清晰/含混）" vertex="1">
           <mxGeometry height="40" width="120" x="10" y="90" as="geometry" />
         </mxCell>
-        <mxCell id="1xnrSVUVyxCPAyk9uC0B-27" parent="1xnrSVUVyxCPAyk9uC0B-23" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#f8cecc;strokeColor=#b85450;" value="舌象/脉象（鲜活/枯败）" vertex="1">
+        <mxCell id="1xnrSVUVyxCPAyk9uC0B-27" parent="1xnrSVUVyxCPAyk9uC0B-23" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#f8cecc;strokeColor=#b85450;fontColor=#FF8000;" value="舌象/脉象（鲜活/枯败）" vertex="1">
           <mxGeometry height="40" width="120" x="150" y="90" as="geometry" />
         </mxCell>
         <mxCell id="4hOxsyU3DE6hKYaoCaZV-3" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1;" value="五脏藏五神（固定居所）" vertex="1">
           <mxGeometry height="30" width="600" x="1880" y="900" as="geometry" />
         </mxCell>
-        <mxCell id="4hOxsyU3DE6hKYaoCaZV-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;" value="肝（脏）" vertex="1">
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontColor=#FF8000;" value="肝（脏）" vertex="1">
           <mxGeometry height="40" width="100" x="1880" y="970" as="geometry" />
         </mxCell>
-        <mxCell id="4hOxsyU3DE6hKYaoCaZV-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#e1d5e7;strokeColor=#9673a6;" value="魂&#xa;（知觉/情感/梦境）" vertex="1">
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#e1d5e7;strokeColor=#9673a6;fontColor=#FF8000;" value="魂&#xa;（知觉/情感/梦境）" vertex="1">
           <mxGeometry height="50" width="120" x="2020" y="965" as="geometry" />
         </mxCell>
         <mxCell id="4hOxsyU3DE6hKYaoCaZV-6" edge="1" parent="1" source="4hOxsyU3DE6hKYaoCaZV-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;" target="4hOxsyU3DE6hKYaoCaZV-5">
@@ -203,7 +203,7 @@
             <mxPoint x="-10" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4hOxsyU3DE6hKYaoCaZV-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;" value="心（脏）" vertex="1">
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontColor=#FF8000;" value="心（脏）" vertex="1">
           <mxGeometry height="40" width="100" x="1880" y="1030" as="geometry" />
         </mxCell>
         <mxCell id="4hOxsyU3DE6hKYaoCaZV-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;" value="神&#xa;（生命主宰/统领诸神）" vertex="1">
@@ -217,10 +217,10 @@
             <mxPoint x="-10" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4hOxsyU3DE6hKYaoCaZV-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;" value="脾（脏）" vertex="1">
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontColor=#FF8000;" value="脾（脏）" vertex="1">
           <mxGeometry height="40" width="100" x="1880" y="1090" as="geometry" />
         </mxCell>
-        <mxCell id="4hOxsyU3DE6hKYaoCaZV-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#e1d5e7;strokeColor=#9673a6;" value="意&#xa;（初级认知/接应外物）" vertex="1">
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#e1d5e7;strokeColor=#9673a6;fontColor=#FF8000;" value="意&#xa;（初级认知/接应外物）" vertex="1">
           <mxGeometry height="50" width="120" x="2020" y="1085" as="geometry" />
         </mxCell>
         <mxCell id="4hOxsyU3DE6hKYaoCaZV-14" edge="1" parent="1" source="4hOxsyU3DE6hKYaoCaZV-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;" target="4hOxsyU3DE6hKYaoCaZV-13">
@@ -231,10 +231,10 @@
             <mxPoint x="-10" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4hOxsyU3DE6hKYaoCaZV-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;" value="肺（脏）" vertex="1">
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontColor=#FF8000;" value="肺（脏）" vertex="1">
           <mxGeometry height="40" width="100" x="1880" y="1150" as="geometry" />
         </mxCell>
-        <mxCell id="4hOxsyU3DE6hKYaoCaZV-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#e1d5e7;strokeColor=#9673a6;" value="魄&#xa;（本能/感官/生理）" vertex="1">
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#e1d5e7;strokeColor=#9673a6;fontColor=#FF8000;" value="魄&#xa;（本能/感官/生理）" vertex="1">
           <mxGeometry height="50" width="120" x="2020" y="1145" as="geometry" />
         </mxCell>
         <mxCell id="4hOxsyU3DE6hKYaoCaZV-18" edge="1" parent="1" source="4hOxsyU3DE6hKYaoCaZV-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;" target="4hOxsyU3DE6hKYaoCaZV-17">
@@ -245,10 +245,10 @@
             <mxPoint x="-10" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4hOxsyU3DE6hKYaoCaZV-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;" value="肾（脏）" vertex="1">
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontColor=#FF8000;" value="肾（脏）" vertex="1">
           <mxGeometry height="40" width="100" x="1880" y="1210" as="geometry" />
         </mxCell>
-        <mxCell id="4hOxsyU3DE6hKYaoCaZV-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#e1d5e7;strokeColor=#9673a6;" value="志&#xa;（定力/记忆/目标）" vertex="1">
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#e1d5e7;strokeColor=#9673a6;fontColor=#FF8000;" value="志&#xa;（定力/记忆/目标）" vertex="1">
           <mxGeometry height="50" width="120" x="2020" y="1205" as="geometry" />
         </mxCell>
         <mxCell id="4hOxsyU3DE6hKYaoCaZV-22" edge="1" parent="1" source="4hOxsyU3DE6hKYaoCaZV-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;" target="4hOxsyU3DE6hKYaoCaZV-21">
@@ -262,10 +262,10 @@
         <mxCell id="4hOxsyU3DE6hKYaoCaZV-25" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1;" value="认知链（流动协作）" vertex="1">
           <mxGeometry height="30" width="600" x="2359" y="900" as="geometry" />
         </mxCell>
-        <mxCell id="4hOxsyU3DE6hKYaoCaZV-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#fff2cc;strokeColor=#d6b656;" value="精&#xa;（生命的本源物质）" vertex="1">
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=light-dark(#ff2600, #ededed);" value="精&#xa;（生命的本源物质）" vertex="1">
           <mxGeometry height="50" width="120" x="2359" y="950" as="geometry" />
         </mxCell>
-        <mxCell id="4hOxsyU3DE6hKYaoCaZV-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;" value="神&#xa;（两精相搏，生命诞生）" vertex="1">
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;fontColor=light-dark(#ff2600, #ededed);" value="神&#xa;（两精相搏，生命诞生）" vertex="1">
           <mxGeometry height="50" width="140" x="2519" y="950" as="geometry" />
         </mxCell>
         <mxCell id="4hOxsyU3DE6hKYaoCaZV-28" edge="1" parent="1" source="4hOxsyU3DE6hKYaoCaZV-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="4hOxsyU3DE6hKYaoCaZV-27">
@@ -276,10 +276,10 @@
             <mxPoint x="12" y="-34" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4hOxsyU3DE6hKYaoCaZV-30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#e1d5e7;strokeColor=#9673a6;" value="魂&#xa;（随神往来）" vertex="1">
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#e1d5e7;strokeColor=#9673a6;fontColor=#FF8000;" value="魂&#xa;（随神往来）" vertex="1">
           <mxGeometry height="50" width="120" x="2359" y="1040" as="geometry" />
         </mxCell>
-        <mxCell id="4hOxsyU3DE6hKYaoCaZV-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#e1d5e7;strokeColor=#9673a6;" value="魄&#xa;（并精出入）" vertex="1">
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#e1d5e7;strokeColor=#9673a6;fontColor=light-dark(#ff2600, #ededed);" value="魄&#xa;（并精出入）" vertex="1">
           <mxGeometry height="50" width="120" x="2359" y="1150" as="geometry" />
         </mxCell>
         <mxCell id="4hOxsyU3DE6hKYaoCaZV-32" edge="1" parent="1" source="4hOxsyU3DE6hKYaoCaZV-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="4hOxsyU3DE6hKYaoCaZV-30">
@@ -293,7 +293,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4hOxsyU3DE6hKYaoCaZV-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#e1d5e7;strokeColor=#9673a6;" value="意&#xa;（心有所忆）" vertex="1">
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#e1d5e7;strokeColor=#9673a6;fontColor=#009900;" value="意&#xa;（心有所忆）" vertex="1">
           <mxGeometry height="50" width="120" x="2519" y="1110" as="geometry" />
         </mxCell>
         <mxCell id="4hOxsyU3DE6hKYaoCaZV-35" edge="1" parent="1" source="4hOxsyU3DE6hKYaoCaZV-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="4hOxsyU3DE6hKYaoCaZV-34">
@@ -302,13 +302,13 @@
         <mxCell id="4hOxsyU3DE6hKYaoCaZV-36" edge="1" parent="1" source="4hOxsyU3DE6hKYaoCaZV-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="4hOxsyU3DE6hKYaoCaZV-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4hOxsyU3DE6hKYaoCaZV-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#e1d5e7;strokeColor=#9673a6;" value="志&#xa;（意之所存）" vertex="1">
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#e1d5e7;strokeColor=#9673a6;fontColor=#009900;" value="志&#xa;（意之所存）" vertex="1">
           <mxGeometry height="50" width="120" x="2519" y="1205" as="geometry" />
         </mxCell>
         <mxCell id="4hOxsyU3DE6hKYaoCaZV-38" edge="1" parent="1" source="4hOxsyU3DE6hKYaoCaZV-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="4hOxsyU3DE6hKYaoCaZV-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4hOxsyU3DE6hKYaoCaZV-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#ffe6cc;strokeColor=#d79b00;" value="思&#xa;（因志而存变）" vertex="1">
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#ffe6cc;strokeColor=#d79b00;fontColor=#009900;" value="思&#xa;（因志而存变）" vertex="1">
           <mxGeometry height="50" width="120" x="2739" y="1070" as="geometry" />
         </mxCell>
         <mxCell id="4hOxsyU3DE6hKYaoCaZV-40" edge="1" parent="1" source="4hOxsyU3DE6hKYaoCaZV-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="4hOxsyU3DE6hKYaoCaZV-39">
@@ -321,10 +321,10 @@
             <mxPoint x="204" y="-100" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4hOxsyU3DE6hKYaoCaZV-42" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#ffe6cc;strokeColor=#d79b00;" value="虑&#xa;（因思而远慕）" vertex="1">
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-42" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#ffe6cc;strokeColor=#d79b00;fontColor=#009900;" value="虑&#xa;（因思而远慕）" vertex="1">
           <mxGeometry height="50" width="120" x="2739" y="1150" as="geometry" />
         </mxCell>
-        <mxCell id="4hOxsyU3DE6hKYaoCaZV-45" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#ffe6cc;strokeColor=#d79b00;" value="智&#xa;（因虑而处物）" vertex="1">
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-45" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#ffe6cc;strokeColor=#d79b00;fontColor=#009900;" value="智&#xa;（因虑而处物）" vertex="1">
           <mxGeometry height="50" width="120" x="2739" y="1230" as="geometry" />
         </mxCell>
         <mxCell id="4hOxsyU3DE6hKYaoCaZV-49" edge="1" parent="1" source="4hOxsyU3DE6hKYaoCaZV-5" style="edgeStyle=orthogonalEdgeStyle;html=1;dashed=1;dashPattern=5 3;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;fontColor=#808080;" target="4hOxsyU3DE6hKYaoCaZV-30">
@@ -348,94 +348,94 @@
         <mxCell id="4hOxsyU3DE6hKYaoCaZV-74" parent="1" style="swimlane;startSize=30;fontSize=13;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;" value="第一层：生命基本物质（精、气、津、液、血、脉）" vertex="1">
           <mxGeometry height="100" width="1120" x="-146" y="1650" as="geometry" />
         </mxCell>
-        <mxCell id="4hOxsyU3DE6hKYaoCaZV-75" parent="4hOxsyU3DE6hKYaoCaZV-74" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#e1d5e7;strokeColor=#9673a6;" value="精&#xa;（生命的本源物质）" vertex="1">
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-75" parent="4hOxsyU3DE6hKYaoCaZV-74" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#e1d5e7;strokeColor=#9673a6;fontColor=light-dark(#ff2600, #ededed);" value="精&#xa;（生命的本源物质）" vertex="1">
           <mxGeometry height="50" width="160" x="20" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="4hOxsyU3DE6hKYaoCaZV-76" parent="4hOxsyU3DE6hKYaoCaZV-74" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#e1d5e7;strokeColor=#9673a6;" value="气&#xa;（活力很强的精微物质）" vertex="1">
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-76" parent="4hOxsyU3DE6hKYaoCaZV-74" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#e1d5e7;strokeColor=#9673a6;fontColor=#009900;" value="气&#xa;（活力很强的精微物质）" vertex="1">
           <mxGeometry height="50" width="160" x="200" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="4hOxsyU3DE6hKYaoCaZV-77" parent="4hOxsyU3DE6hKYaoCaZV-74" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#e1d5e7;strokeColor=#9673a6;" value="津&#xa;（清稀流动的体液）" vertex="1">
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-77" parent="4hOxsyU3DE6hKYaoCaZV-74" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#e1d5e7;strokeColor=#9673a6;fontColor=#009900;" value="津&#xa;（清稀流动的体液）" vertex="1">
           <mxGeometry height="50" width="160" x="380" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="4hOxsyU3DE6hKYaoCaZV-78" parent="4hOxsyU3DE6hKYaoCaZV-74" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#e1d5e7;strokeColor=#9673a6;" value="液&#xa;（稠厚润滑的体液）" vertex="1">
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-78" parent="4hOxsyU3DE6hKYaoCaZV-74" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#e1d5e7;strokeColor=#9673a6;fontColor=#009900;" value="液&#xa;（稠厚润滑的体液）" vertex="1">
           <mxGeometry height="50" width="160" x="560" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="4hOxsyU3DE6hKYaoCaZV-79" parent="4hOxsyU3DE6hKYaoCaZV-74" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#e1d5e7;strokeColor=#9673a6;" value="血&#xa;（脉中运行的红色液态物质）" vertex="1">
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-79" parent="4hOxsyU3DE6hKYaoCaZV-74" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#e1d5e7;strokeColor=#9673a6;fontColor=#009900;" value="血&#xa;（脉中运行的红色液态物质）" vertex="1">
           <mxGeometry height="50" width="180" x="740" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="4hOxsyU3DE6hKYaoCaZV-80" parent="4hOxsyU3DE6hKYaoCaZV-74" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#e1d5e7;strokeColor=#9673a6;" value="脉&#xa;（血液运行的管道）" vertex="1">
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-80" parent="4hOxsyU3DE6hKYaoCaZV-74" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#e1d5e7;strokeColor=#9673a6;fontColor=light-dark(#ff2600, #ededed);" value="脉&#xa;（血液运行的管道）" vertex="1">
           <mxGeometry height="50" width="160" x="940" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="4hOxsyU3DE6hKYaoCaZV-81" parent="1" style="swimlane;startSize=30;fontSize=13;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;" value="第二层：经络系统（经脉、络脉、奇经八脉）" vertex="1">
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-81" parent="1" style="swimlane;startSize=30;fontSize=13;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontColor=light-dark(#ff2600, #ededed);" value="第二层：经络系统（经脉、络脉、奇经八脉）" vertex="1">
           <mxGeometry height="100" width="1120" x="-146" y="1795" as="geometry" />
         </mxCell>
-        <mxCell id="4hOxsyU3DE6hKYaoCaZV-82" parent="4hOxsyU3DE6hKYaoCaZV-81" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#fff2cc;strokeColor=#d6b656;" value="经脉&#xa;（主干，纵行深部）" vertex="1">
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-82" parent="4hOxsyU3DE6hKYaoCaZV-81" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=light-dark(#ff2600, #ededed);" value="经脉&#xa;（主干，纵行深部）" vertex="1">
           <mxGeometry height="50" width="280" x="60" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="4hOxsyU3DE6hKYaoCaZV-83" parent="4hOxsyU3DE6hKYaoCaZV-81" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#fff2cc;strokeColor=#d6b656;" value="络脉&#xa;（分支，纵横交错遍布全身）" vertex="1">
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-83" parent="4hOxsyU3DE6hKYaoCaZV-81" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=light-dark(#ff2600, #ededed);" value="络脉&#xa;（分支，纵横交错遍布全身）" vertex="1">
           <mxGeometry height="50" width="280" x="400" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="4hOxsyU3DE6hKYaoCaZV-84" parent="4hOxsyU3DE6hKYaoCaZV-81" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#fff2cc;strokeColor=#d6b656;" value="奇经八脉&#xa;（统率、联络、调节十二经脉）" vertex="1">
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-84" parent="4hOxsyU3DE6hKYaoCaZV-81" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=light-dark(#ff2600, #ededed);" value="奇经八脉&#xa;（统率、联络、调节十二经脉）" vertex="1">
           <mxGeometry height="50" width="320" x="740" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="4hOxsyU3DE6hKYaoCaZV-85" parent="1" style="swimlane;startSize=30;fontSize=13;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;" value="第三层：脏腑系统（五脏、六腑、奇恒之腑）" vertex="1">
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-85" parent="1" style="swimlane;startSize=30;fontSize=13;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;fontColor=#FF8000;" value="第三层：脏腑系统（五脏、六腑、奇恒之腑）" vertex="1">
           <mxGeometry height="100" width="1120" x="-146" y="1920" as="geometry" />
         </mxCell>
-        <mxCell id="4hOxsyU3DE6hKYaoCaZV-86" parent="4hOxsyU3DE6hKYaoCaZV-85" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#f8cecc;strokeColor=#b85450;" value="五脏&#xa;（肝、心、脾、肺、肾）&#xa;藏精气而不泻" vertex="1">
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-86" parent="4hOxsyU3DE6hKYaoCaZV-85" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#f8cecc;strokeColor=#b85450;fontColor=#FF8000;" value="五脏&#xa;（肝、心、脾、肺、肾）&#xa;藏精气而不泻" vertex="1">
           <mxGeometry height="50" width="280" x="60" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="4hOxsyU3DE6hKYaoCaZV-87" parent="4hOxsyU3DE6hKYaoCaZV-85" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#f8cecc;strokeColor=#b85450;" value="六腑&#xa;（胆、胃、大肠、小肠、膀胱、三焦）&#xa;传化物而不藏" vertex="1">
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-87" parent="4hOxsyU3DE6hKYaoCaZV-85" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#f8cecc;strokeColor=#b85450;fontColor=#FF8000;" value="六腑&#xa;（胆、胃、大肠、小肠、膀胱、三焦）&#xa;传化物而不藏" vertex="1">
           <mxGeometry height="50" width="320" x="400" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="4hOxsyU3DE6hKYaoCaZV-88" parent="4hOxsyU3DE6hKYaoCaZV-85" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#f8cecc;strokeColor=#b85450;" value="奇恒之腑&#xa;（脑、髓、骨、脉、胆、女子胞）&#xa;形态似腑、功能似脏" vertex="1">
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-88" parent="4hOxsyU3DE6hKYaoCaZV-85" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#f8cecc;strokeColor=#b85450;fontColor=#FF8000;" value="奇恒之腑&#xa;（脑、髓、骨、脉、胆、女子胞）&#xa;形态似腑、功能似脏" vertex="1">
           <mxGeometry height="50" width="320" x="780" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="4hOxsyU3DE6hKYaoCaZV-89" parent="1" style="swimlane;startSize=30;fontSize=13;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;" value="第四层：形体结构（筋、骨、肌肉、皮肤、毛发）" vertex="1">
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-89" parent="1" style="swimlane;startSize=30;fontSize=13;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontColor=#FF8000;" value="第四层：形体结构（筋、骨、肌肉、皮肤、毛发）" vertex="1">
           <mxGeometry height="100" width="1120" x="-146" y="2065" as="geometry" />
         </mxCell>
-        <mxCell id="4hOxsyU3DE6hKYaoCaZV-90" parent="4hOxsyU3DE6hKYaoCaZV-89" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="筋&#xa;（连接关节，主持运动）" vertex="1">
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-90" parent="4hOxsyU3DE6hKYaoCaZV-89" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#FF8000;" value="筋&#xa;（连接关节，主持运动）" vertex="1">
           <mxGeometry height="50" width="190" x="20" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="4hOxsyU3DE6hKYaoCaZV-91" parent="4hOxsyU3DE6hKYaoCaZV-89" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="骨&#xa;（身体的支柱）" vertex="1">
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-91" parent="4hOxsyU3DE6hKYaoCaZV-89" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#FF8000;" value="骨&#xa;（身体的支柱）" vertex="1">
           <mxGeometry height="50" width="190" x="230" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="4hOxsyU3DE6hKYaoCaZV-92" parent="4hOxsyU3DE6hKYaoCaZV-89" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="肌肉&#xa;（覆盖保护内脏）" vertex="1">
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-92" parent="4hOxsyU3DE6hKYaoCaZV-89" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#FF8000;" value="肌肉&#xa;（覆盖保护内脏）" vertex="1">
           <mxGeometry height="50" width="190" x="440" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="4hOxsyU3DE6hKYaoCaZV-93" parent="4hOxsyU3DE6hKYaoCaZV-89" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="皮肤&#xa;（覆盖体表，第一道边界）" vertex="1">
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-93" parent="4hOxsyU3DE6hKYaoCaZV-89" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#FF8000;" value="皮肤&#xa;（覆盖体表，第一道边界）" vertex="1">
           <mxGeometry height="50" width="210" x="650" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="4hOxsyU3DE6hKYaoCaZV-94" parent="4hOxsyU3DE6hKYaoCaZV-89" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="毛发&#xa;（气血的外在延伸）" vertex="1">
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-94" parent="4hOxsyU3DE6hKYaoCaZV-89" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#FF8000;" value="毛发&#xa;（气血的外在延伸）" vertex="1">
           <mxGeometry height="50" width="210" x="880" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="4hOxsyU3DE6hKYaoCaZV-95" parent="1" style="swimlane;startSize=30;fontSize=13;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;" value="第五层：官窍系统（五官、九窍）" vertex="1">
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-95" parent="1" style="swimlane;startSize=30;fontSize=13;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontColor=#FF8000;" value="第五层：官窍系统（五官、九窍）" vertex="1">
           <mxGeometry height="100" width="1120" x="-146" y="2200" as="geometry" />
         </mxCell>
-        <mxCell id="4hOxsyU3DE6hKYaoCaZV-96" parent="4hOxsyU3DE6hKYaoCaZV-95" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#d5e8d4;strokeColor=#82b366;" value="五官（目、舌、口、鼻、耳）&#xa;五脏精气上注于官窍&#xa;（肺通鼻、心通舌、肝通目、脾通口、肾通耳）" vertex="1">
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-96" parent="4hOxsyU3DE6hKYaoCaZV-95" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#FF8000;" value="五官（目、舌、口、鼻、耳）&#xa;五脏精气上注于官窍&#xa;（肺通鼻、心通舌、肝通目、脾通口、肾通耳）" vertex="1">
           <mxGeometry height="50" width="480" x="40" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="4hOxsyU3DE6hKYaoCaZV-97" parent="4hOxsyU3DE6hKYaoCaZV-95" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#d5e8d4;strokeColor=#82b366;" value="九窍（五官七窍 + 前后二阴）&#xa;人体与外界进行信息、物质交换的窗口" vertex="1">
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-97" parent="4hOxsyU3DE6hKYaoCaZV-95" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#FF8000;" value="九窍（五官七窍 + 前后二阴）&#xa;人体与外界进行信息、物质交换的窗口" vertex="1">
           <mxGeometry height="50" width="480" x="580" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="4hOxsyU3DE6hKYaoCaZV-98" parent="1" style="swimlane;startSize=30;fontSize=13;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1;" value="第六层：局部与整体（四肢、百骸、爪甲、胸腹、腰背等）" vertex="1">
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-98" parent="1" style="swimlane;startSize=30;fontSize=13;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1;fontColor=#FF8000;" value="第六层：局部与整体（四肢、百骸、爪甲、胸腹、腰背等）" vertex="1">
           <mxGeometry height="100" width="1120" x="-146" y="2350" as="geometry" />
         </mxCell>
-        <mxCell id="4hOxsyU3DE6hKYaoCaZV-99" parent="4hOxsyU3DE6hKYaoCaZV-98" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#ffe6cc;strokeColor=#d79b00;" value="四肢&#xa;（运动的执行器官）" vertex="1">
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-99" parent="4hOxsyU3DE6hKYaoCaZV-98" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#ffe6cc;strokeColor=#d79b00;fontColor=#FF8000;" value="四肢&#xa;（运动的执行器官）" vertex="1">
           <mxGeometry height="50" width="160" x="30" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="4hOxsyU3DE6hKYaoCaZV-100" parent="4hOxsyU3DE6hKYaoCaZV-98" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#ffe6cc;strokeColor=#d79b00;" value="百骸&#xa;（全身骨骼的总称）" vertex="1">
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-100" parent="4hOxsyU3DE6hKYaoCaZV-98" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#ffe6cc;strokeColor=#d79b00;fontColor=#FF8000;" value="百骸&#xa;（全身骨骼的总称）" vertex="1">
           <mxGeometry height="50" width="160" x="210" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="4hOxsyU3DE6hKYaoCaZV-101" parent="4hOxsyU3DE6hKYaoCaZV-98" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#ffe6cc;strokeColor=#d79b00;" value="爪甲&#xa;（筋的延伸，肝血的外荣）" vertex="1">
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-101" parent="4hOxsyU3DE6hKYaoCaZV-98" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#ffe6cc;strokeColor=#d79b00;fontColor=#FF8000;" value="爪甲&#xa;（筋的延伸，肝血的外荣）" vertex="1">
           <mxGeometry height="50" width="180" x="390" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="4hOxsyU3DE6hKYaoCaZV-102" parent="4hOxsyU3DE6hKYaoCaZV-98" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#ffe6cc;strokeColor=#d79b00;" value="胸腹&#xa;（容纳脏腑）" vertex="1">
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-102" parent="4hOxsyU3DE6hKYaoCaZV-98" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#ffe6cc;strokeColor=#d79b00;fontColor=#FF8000;" value="胸腹&#xa;（容纳脏腑）" vertex="1">
           <mxGeometry height="50" width="160" x="590" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="4hOxsyU3DE6hKYaoCaZV-103" parent="4hOxsyU3DE6hKYaoCaZV-98" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#ffe6cc;strokeColor=#d79b00;" value="腰背&#xa;（肾的府邸）" vertex="1">
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-103" parent="4hOxsyU3DE6hKYaoCaZV-98" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#ffe6cc;strokeColor=#d79b00;fontColor=#FF8000;" value="腰背&#xa;（肾的府邸）" vertex="1">
           <mxGeometry height="50" width="160" x="770" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="4hOxsyU3DE6hKYaoCaZV-104" parent="4hOxsyU3DE6hKYaoCaZV-98" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#ffe6cc;strokeColor=#d79b00;" value="其他局部结构&#xa;（头、颈、肩、膝等）" vertex="1">
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-104" parent="4hOxsyU3DE6hKYaoCaZV-98" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#ffe6cc;strokeColor=#d79b00;fontColor=#FF8000;" value="其他局部结构&#xa;（头、颈、肩、膝等）" vertex="1">
           <mxGeometry height="50" width="150" x="950" y="40" as="geometry" />
         </mxCell>
         <mxCell id="4hOxsyU3DE6hKYaoCaZV-105" edge="1" parent="1" source="4hOxsyU3DE6hKYaoCaZV-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=5 3;fontSize=9;fontColor=#808080;" target="4hOxsyU3DE6hKYaoCaZV-81">
@@ -454,26 +454,26 @@
             <mxPoint x="-40" y="-5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4hOxsyU3DE6hKYaoCaZV-109" edge="1" parent="1" source="4hOxsyU3DE6hKYaoCaZV-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=5 3;fontSize=9;fontColor=#808080;" target="4hOxsyU3DE6hKYaoCaZV-89">
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-109" edge="1" parent="1" source="4hOxsyU3DE6hKYaoCaZV-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=5 3;fontSize=9;fontColor=#FF8000;" target="4hOxsyU3DE6hKYaoCaZV-89">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4hOxsyU3DE6hKYaoCaZV-110" connectable="0" parent="4hOxsyU3DE6hKYaoCaZV-109" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;fontColor=#808080;" value="脏腑化生精气，充养形体" vertex="1">
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-110" connectable="0" parent="4hOxsyU3DE6hKYaoCaZV-109" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;fontColor=#FF8000;" value="脏腑化生精气，充养形体" vertex="1">
           <mxGeometry relative="1" x="-0.1" y="1" as="geometry">
             <mxPoint x="-60" y="-5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4hOxsyU3DE6hKYaoCaZV-111" edge="1" parent="1" source="4hOxsyU3DE6hKYaoCaZV-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=5 3;fontSize=9;fontColor=#808080;" target="4hOxsyU3DE6hKYaoCaZV-95">
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-111" edge="1" parent="1" source="4hOxsyU3DE6hKYaoCaZV-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=5 3;fontSize=9;fontColor=#FF8000;" target="4hOxsyU3DE6hKYaoCaZV-95">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4hOxsyU3DE6hKYaoCaZV-112" connectable="0" parent="4hOxsyU3DE6hKYaoCaZV-111" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;fontColor=#808080;" value="形体结构支撑官窍" vertex="1">
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-112" connectable="0" parent="4hOxsyU3DE6hKYaoCaZV-111" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;fontColor=#FF8000;" value="形体结构支撑官窍" vertex="1">
           <mxGeometry relative="1" x="-0.1" y="1" as="geometry">
             <mxPoint x="-50" y="-5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4hOxsyU3DE6hKYaoCaZV-113" edge="1" parent="1" source="4hOxsyU3DE6hKYaoCaZV-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=5 3;fontSize=9;fontColor=#808080;" target="4hOxsyU3DE6hKYaoCaZV-98">
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-113" edge="1" parent="1" source="4hOxsyU3DE6hKYaoCaZV-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=5 3;fontSize=9;fontColor=#FF8000;" target="4hOxsyU3DE6hKYaoCaZV-98">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4hOxsyU3DE6hKYaoCaZV-114" connectable="0" parent="4hOxsyU3DE6hKYaoCaZV-113" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;fontColor=#808080;" value="官窍感知外界，局部映射整体" vertex="1">
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-114" connectable="0" parent="4hOxsyU3DE6hKYaoCaZV-113" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;fontColor=#FF8000;" value="官窍感知外界，局部映射整体" vertex="1">
           <mxGeometry relative="1" x="-0.1" y="1" as="geometry">
             <mxPoint x="-60" y="-5" as="offset" />
           </mxGeometry>
