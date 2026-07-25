@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="日月体系-气论" id="6LFZQo16GFOAQUiR_pcO">
-    <mxGraphModel dx="1787" dy="699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2459" dy="1188" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -345,7 +345,7 @@
         <mxCell id="4hOxsyU3DE6hKYaoCaZV-73" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1;" value="形的细分" vertex="1">
           <mxGeometry height="40" width="600" x="114" y="1590" as="geometry" />
         </mxCell>
-        <mxCell id="4hOxsyU3DE6hKYaoCaZV-74" parent="1" style="swimlane;startSize=30;fontSize=13;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;" value="第一层：生命基本物质（精、气、津、液、血、脉）" vertex="1">
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-74" parent="1" style="swimlane;startSize=30;fontSize=13;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;" value="第一层：生命基本物质（精、气、津、液、血、脉）" vertex="1">
           <mxGeometry height="100" width="1120" x="-146" y="1650" as="geometry" />
         </mxCell>
         <mxCell id="4hOxsyU3DE6hKYaoCaZV-75" parent="4hOxsyU3DE6hKYaoCaZV-74" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#e1d5e7;strokeColor=#9673a6;" value="精&#xa;（生命的本源物质）" vertex="1">
@@ -366,7 +366,7 @@
         <mxCell id="4hOxsyU3DE6hKYaoCaZV-80" parent="4hOxsyU3DE6hKYaoCaZV-74" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#e1d5e7;strokeColor=#9673a6;" value="脉&#xa;（血液运行的管道）" vertex="1">
           <mxGeometry height="50" width="160" x="940" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="4hOxsyU3DE6hKYaoCaZV-81" parent="1" style="swimlane;startSize=30;fontSize=13;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;" value="第二层：经络系统（经脉、络脉、奇经八脉）" vertex="1">
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-81" parent="1" style="swimlane;startSize=30;fontSize=13;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;" value="第二层：经络系统（经脉、络脉、奇经八脉）" vertex="1">
           <mxGeometry height="100" width="1120" x="-146" y="1795" as="geometry" />
         </mxCell>
         <mxCell id="4hOxsyU3DE6hKYaoCaZV-82" parent="4hOxsyU3DE6hKYaoCaZV-81" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#fff2cc;strokeColor=#d6b656;" value="经脉&#xa;（主干，纵行深部）" vertex="1">
@@ -378,7 +378,7 @@
         <mxCell id="4hOxsyU3DE6hKYaoCaZV-84" parent="4hOxsyU3DE6hKYaoCaZV-81" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#fff2cc;strokeColor=#d6b656;" value="奇经八脉&#xa;（统率、联络、调节十二经脉）" vertex="1">
           <mxGeometry height="50" width="320" x="740" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="4hOxsyU3DE6hKYaoCaZV-85" parent="1" style="swimlane;startSize=30;fontSize=13;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1;" value="第三层：脏腑系统（五脏、六腑、奇恒之腑）" vertex="1">
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-85" parent="1" style="swimlane;startSize=30;fontSize=13;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;" value="第三层：脏腑系统（五脏、六腑、奇恒之腑）" vertex="1">
           <mxGeometry height="100" width="1120" x="-146" y="1920" as="geometry" />
         </mxCell>
         <mxCell id="4hOxsyU3DE6hKYaoCaZV-86" parent="4hOxsyU3DE6hKYaoCaZV-85" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#f8cecc;strokeColor=#b85450;" value="五脏&#xa;（肝、心、脾、肺、肾）&#xa;藏精气而不泻" vertex="1">
@@ -390,7 +390,7 @@
         <mxCell id="4hOxsyU3DE6hKYaoCaZV-88" parent="4hOxsyU3DE6hKYaoCaZV-85" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#f8cecc;strokeColor=#b85450;" value="奇恒之腑&#xa;（脑、髓、骨、脉、胆、女子胞）&#xa;形态似腑、功能似脏" vertex="1">
           <mxGeometry height="50" width="320" x="780" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="4hOxsyU3DE6hKYaoCaZV-89" parent="1" style="swimlane;startSize=30;fontSize=13;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;" value="第四层：形体结构（筋、骨、肌肉、皮肤、毛发）" vertex="1">
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-89" parent="1" style="swimlane;startSize=30;fontSize=13;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;" value="第四层：形体结构（筋、骨、肌肉、皮肤、毛发）" vertex="1">
           <mxGeometry height="100" width="1120" x="-146" y="2065" as="geometry" />
         </mxCell>
         <mxCell id="4hOxsyU3DE6hKYaoCaZV-90" parent="4hOxsyU3DE6hKYaoCaZV-89" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="筋&#xa;（连接关节，主持运动）" vertex="1">
@@ -408,7 +408,7 @@
         <mxCell id="4hOxsyU3DE6hKYaoCaZV-94" parent="4hOxsyU3DE6hKYaoCaZV-89" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="毛发&#xa;（气血的外在延伸）" vertex="1">
           <mxGeometry height="50" width="210" x="880" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="4hOxsyU3DE6hKYaoCaZV-95" parent="1" style="swimlane;startSize=30;fontSize=13;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;" value="第五层：官窍系统（五官、九窍）" vertex="1">
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-95" parent="1" style="swimlane;startSize=30;fontSize=13;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;" value="第五层：官窍系统（五官、九窍）" vertex="1">
           <mxGeometry height="100" width="1120" x="-146" y="2200" as="geometry" />
         </mxCell>
         <mxCell id="4hOxsyU3DE6hKYaoCaZV-96" parent="4hOxsyU3DE6hKYaoCaZV-95" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#d5e8d4;strokeColor=#82b366;" value="五官（目、舌、口、鼻、耳）&#xa;五脏精气上注于官窍&#xa;（肺通鼻、心通舌、肝通目、脾通口、肾通耳）" vertex="1">
@@ -417,7 +417,7 @@
         <mxCell id="4hOxsyU3DE6hKYaoCaZV-97" parent="4hOxsyU3DE6hKYaoCaZV-95" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#d5e8d4;strokeColor=#82b366;" value="九窍（五官七窍 + 前后二阴）&#xa;人体与外界进行信息、物质交换的窗口" vertex="1">
           <mxGeometry height="50" width="480" x="580" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="4hOxsyU3DE6hKYaoCaZV-98" parent="1" style="swimlane;startSize=30;fontSize=13;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;" value="第六层：局部与整体（四肢、百骸、爪甲、胸腹、腰背等）" vertex="1">
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-98" parent="1" style="swimlane;startSize=30;fontSize=13;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1;" value="第六层：局部与整体（四肢、百骸、爪甲、胸腹、腰背等）" vertex="1">
           <mxGeometry height="100" width="1120" x="-146" y="2350" as="geometry" />
         </mxCell>
         <mxCell id="4hOxsyU3DE6hKYaoCaZV-99" parent="4hOxsyU3DE6hKYaoCaZV-98" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#ffe6cc;strokeColor=#d79b00;" value="四肢&#xa;（运动的执行器官）" vertex="1">
