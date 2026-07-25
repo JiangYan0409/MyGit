@@ -343,7 +343,7 @@
           <mxGeometry height="60" width="100" x="1720" y="1100" as="geometry" />
         </mxCell>
         <mxCell id="4hOxsyU3DE6hKYaoCaZV-73" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1;" value="形的细分" vertex="1">
-          <mxGeometry height="40" width="600" x="114" y="1590" as="geometry" />
+          <mxGeometry height="40" width="216" x="300" y="1590" as="geometry" />
         </mxCell>
         <mxCell id="4hOxsyU3DE6hKYaoCaZV-74" parent="1" style="swimlane;startSize=30;fontSize=13;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;" value="第一层：生命基本物质（精、气、津、液、血、脉）" vertex="1">
           <mxGeometry height="100" width="1120" x="-146" y="1650" as="geometry" />
@@ -525,6 +525,9 @@
         </mxCell>
         <mxCell id="4hOxsyU3DE6hKYaoCaZV-136" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FF0000;" value="&lt;span style=&quot;color: light-dark(rgb(255, 38, 0), rgb(237, 237, 237));&quot;&gt;气 血 经络 ---子午流注&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="140" x="-350" y="1750" as="geometry" />
+        </mxCell>
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-140" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: light-dark(rgb(255, 38, 0), rgb(237, 237, 237));&quot;&gt;气 血 --- 月事节律&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="110" x="610" y="1590" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
