@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="日月体系-气论" id="6LFZQo16GFOAQUiR_pcO">
-    <mxGraphModel dx="2187" dy="990" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1480" dy="475" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -430,6 +430,15 @@
               <mxPoint x="336" y="90" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-162" parent="4hOxsyU3DE6hKYaoCaZV-85" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;strong style=&quot;text-align: start; caret-color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif;&quot;&gt;&lt;span class=&quot;&quot; style=&quot;color: light-dark(rgb(255, 147, 0), rgb(222, 223, 227));&quot;&gt;&lt;font&gt;消化节律&lt;/font&gt;&lt;/span&gt;&lt;/strong&gt;" vertex="1">
+          <mxGeometry height="30" width="80" x="656" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-164" edge="1" parent="4hOxsyU3DE6hKYaoCaZV-85" source="4hOxsyU3DE6hKYaoCaZV-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;dashed=1;dashPattern=8 8;fillColor=#fff2cc;strokeColor=#d6b656;" target="4hOxsyU3DE6hKYaoCaZV-162">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-163" parent="4hOxsyU3DE6hKYaoCaZV-85" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=light-dark(#ffb43f, #6d5100);" value="" vertex="1">
+          <mxGeometry height="70" width="224" x="446" y="30" as="geometry" />
         </mxCell>
         <mxCell id="4hOxsyU3DE6hKYaoCaZV-89" parent="1" style="swimlane;startSize=30;fontSize=13;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontColor=#FF8000;" value="第四层：形体结构（筋、骨、肌肉、皮肤、毛发）" vertex="1">
           <mxGeometry height="105" width="1120" x="-146" y="2065" as="geometry" />
