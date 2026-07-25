@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="日月体系-气论" id="6LFZQo16GFOAQUiR_pcO">
-    <mxGraphModel dx="1787" dy="699" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2187" dy="990" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -345,6 +345,9 @@
         <mxCell id="4hOxsyU3DE6hKYaoCaZV-73" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1;" value="形的细分" vertex="1">
           <mxGeometry height="40" width="216" x="300" y="1590" as="geometry" />
         </mxCell>
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-151" edge="1" parent="1" source="4hOxsyU3DE6hKYaoCaZV-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;curved=1;dashed=1;dashPattern=8 8;fillColor=#f8cecc;strokeColor=#b85450;" target="4hOxsyU3DE6hKYaoCaZV-127">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4hOxsyU3DE6hKYaoCaZV-74" parent="1" style="swimlane;startSize=30;fontSize=13;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;" value="第一层：生命基本物质（精、气、津、液、血、脉）" vertex="1">
           <mxGeometry height="100" width="1120" x="-146" y="1650" as="geometry" />
         </mxCell>
@@ -374,6 +377,9 @@
         </mxCell>
         <mxCell id="4hOxsyU3DE6hKYaoCaZV-143" parent="4hOxsyU3DE6hKYaoCaZV-74" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=#ffffff;strokeColor=#B20000;" value="" vertex="1">
           <mxGeometry height="70" width="120" x="956" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-145" parent="4hOxsyU3DE6hKYaoCaZV-74" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=#ffffff;strokeColor=#B20000;" value="" vertex="1">
+          <mxGeometry height="70" width="120" x="406" y="30" as="geometry" />
         </mxCell>
         <mxCell id="4hOxsyU3DE6hKYaoCaZV-81" parent="1" style="swimlane;startSize=30;fontSize=13;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontColor=light-dark(#ff2600, #ededed);" value="第二层：经络系统（经脉、络脉、奇经八脉）" vertex="1">
           <mxGeometry height="100" width="1120" x="-146" y="1795" as="geometry" />
@@ -412,7 +418,7 @@
           <mxGeometry height="18" width="34" x="978" y="55" as="geometry" />
         </mxCell>
         <mxCell id="4hOxsyU3DE6hKYaoCaZV-89" parent="1" style="swimlane;startSize=30;fontSize=13;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontColor=#FF8000;" value="第四层：形体结构（筋、骨、肌肉、皮肤、毛发）" vertex="1">
-          <mxGeometry height="100" width="1120" x="-146" y="2065" as="geometry" />
+          <mxGeometry height="105" width="1120" x="-146" y="2065" as="geometry" />
         </mxCell>
         <mxCell id="4hOxsyU3DE6hKYaoCaZV-90" parent="4hOxsyU3DE6hKYaoCaZV-89" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#FF8000;" value="筋&#xa;（连接关节，主持运动）" vertex="1">
           <mxGeometry height="50" width="190" x="20" y="40" as="geometry" />
@@ -428,6 +434,9 @@
         </mxCell>
         <mxCell id="4hOxsyU3DE6hKYaoCaZV-94" parent="4hOxsyU3DE6hKYaoCaZV-89" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#FF8000;" value="毛发&#xa;（气血的外在延伸）" vertex="1">
           <mxGeometry height="50" width="210" x="880" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-146" parent="4hOxsyU3DE6hKYaoCaZV-89" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=#ffffff;strokeColor=#B20000;" value="" vertex="1">
+          <mxGeometry height="70" width="120" x="696" y="35" as="geometry" />
         </mxCell>
         <mxCell id="4hOxsyU3DE6hKYaoCaZV-95" parent="1" style="swimlane;startSize=30;fontSize=13;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontColor=#FF8000;" value="第五层：官窍系统（五官、九窍）" vertex="1">
           <mxGeometry height="100" width="1120" x="-146" y="2200" as="geometry" />
@@ -526,6 +535,9 @@
         <mxCell id="4hOxsyU3DE6hKYaoCaZV-124" parent="4hOxsyU3DE6hKYaoCaZV-125" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=20;" value="先天决定模板、后天决定发展" vertex="1">
           <mxGeometry height="30" width="280" x="80" y="293.5" as="geometry" />
         </mxCell>
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-150" edge="1" parent="1" source="4hOxsyU3DE6hKYaoCaZV-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;dashed=1;dashPattern=8 8;fillColor=#f8cecc;strokeColor=#b85450;" target="4hOxsyU3DE6hKYaoCaZV-136">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4hOxsyU3DE6hKYaoCaZV-127" parent="1" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=#ffffff;strokeColor=#B20000;" value="" vertex="1">
           <mxGeometry height="120" width="1150" x="-161" y="1778" as="geometry" />
         </mxCell>
@@ -533,10 +545,38 @@
           <mxGeometry height="30" width="140" x="-350" y="1750" as="geometry" />
         </mxCell>
         <mxCell id="4hOxsyU3DE6hKYaoCaZV-140" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: light-dark(rgb(255, 38, 0), rgb(237, 237, 237));&quot;&gt;女子胞 血 --- 月事节律&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="120" x="1000" y="1960" as="geometry" />
+          <mxGeometry height="30" width="120" x="1020" y="1960" as="geometry" />
         </mxCell>
         <mxCell id="4hOxsyU3DE6hKYaoCaZV-141" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: light-dark(rgb(255, 38, 0), rgb(237, 237, 237));&quot;&gt;脉象变化&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="990" y="1700" as="geometry" />
+        </mxCell>
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-144" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; caret-color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; background-color: rgb(255, 255, 255); float: none; color: light-dark(rgb(255, 38, 0), rgb(222, 223, 227)); display: inline !important;&quot;&gt;&lt;font&gt;津 皮肤 --- 腠理开阖与汗出&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="180" y="1590" as="geometry" />
+        </mxCell>
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-147" edge="1" parent="1" source="4hOxsyU3DE6hKYaoCaZV-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;dashed=1;dashPattern=8 8;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#f8cecc;strokeColor=#b85450;" target="4hOxsyU3DE6hKYaoCaZV-145">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="609" y="1880" />
+              <mxPoint x="320" y="1880" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-148" edge="1" parent="1" source="4hOxsyU3DE6hKYaoCaZV-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;dashPattern=8 8;curved=1;fillColor=#f8cecc;strokeColor=#b85450;" target="4hOxsyU3DE6hKYaoCaZV-144">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-152" edge="1" parent="1" source="4hOxsyU3DE6hKYaoCaZV-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;dashed=1;dashPattern=8 8;fillColor=#f8cecc;strokeColor=#b85450;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="1790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-153" edge="1" parent="1" source="4hOxsyU3DE6hKYaoCaZV-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;dashed=1;dashPattern=8 8;fillColor=#f8cecc;strokeColor=#b85450;" target="4hOxsyU3DE6hKYaoCaZV-141" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-154" edge="1" parent="1" source="4hOxsyU3DE6hKYaoCaZV-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;dashed=1;dashPattern=8 8;fillColor=#f8cecc;strokeColor=#b85450;" target="4hOxsyU3DE6hKYaoCaZV-142" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-155" edge="1" parent="1" source="4hOxsyU3DE6hKYaoCaZV-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;curved=1;dashed=1;dashPattern=8 8;fillColor=#f8cecc;strokeColor=#b85450;" target="4hOxsyU3DE6hKYaoCaZV-140">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
