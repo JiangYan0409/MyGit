@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="日月体系-气论" id="6LFZQo16GFOAQUiR_pcO">
-    <mxGraphModel dx="4080" dy="2970" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="816" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -109,13 +109,13 @@
         <mxCell id="1xnrSVUVyxCPAyk9uC0B-29" edge="1" parent="1" source="1xnrSVUVyxCPAyk9uC0B-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="1xnrSVUVyxCPAyk9uC0B-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1xnrSVUVyxCPAyk9uC0B-30" edge="1" parent="1" source="1xnrSVUVyxCPAyk9uC0B-4" style="edgeStyle=orthogonalEdgeStyle;html=1;dashed=1;dashPattern=5 3;exitX=0.999;exitY=0.159;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" target="1xnrSVUVyxCPAyk9uC0B-9">
+        <mxCell id="1xnrSVUVyxCPAyk9uC0B-30" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;html=1;dashed=1;dashPattern=5 3;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="1xnrSVUVyxCPAyk9uC0B-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="539.69" y="1010" />
-              <mxPoint x="1080.03" y="1010" />
-              <mxPoint x="1080.03" y="1115.03" />
+              <mxPoint x="1080.03" y="1009.9" />
+              <mxPoint x="1080.03" y="1115" />
             </Array>
+            <mxPoint x="540" y="1010.6" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1xnrSVUVyxCPAyk9uC0B-31" connectable="0" parent="1xnrSVUVyxCPAyk9uC0B-30" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;" value="五脏藏五神" vertex="1">
@@ -280,7 +280,7 @@
           <mxGeometry height="50" width="120" x="2359" y="1040" as="geometry" />
         </mxCell>
         <mxCell id="4hOxsyU3DE6hKYaoCaZV-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#e1d5e7;strokeColor=#9673a6;" value="魄&#xa;（并精出入）" vertex="1">
-          <mxGeometry height="50" width="120" x="2359" y="1145" as="geometry" />
+          <mxGeometry height="50" width="120" x="2359" y="1150" as="geometry" />
         </mxCell>
         <mxCell id="4hOxsyU3DE6hKYaoCaZV-32" edge="1" parent="1" source="4hOxsyU3DE6hKYaoCaZV-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="4hOxsyU3DE6hKYaoCaZV-30">
           <mxGeometry relative="1" as="geometry" />
