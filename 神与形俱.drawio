@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="日月体系-气论" id="6LFZQo16GFOAQUiR_pcO">
-    <mxGraphModel dx="2187" dy="990" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4907" dy="2970" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -42,19 +42,19 @@
         <mxCell id="1xnrSVUVyxCPAyk9uC0B-3" parent="1" style="swimlane;startSize=40;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="形&#xa;气在生命尺度上的凝聚" vertex="1">
           <mxGeometry height="460" width="300" x="261" y="940" as="geometry" />
         </mxCell>
-        <mxCell id="1xnrSVUVyxCPAyk9uC0B-4" parent="1xnrSVUVyxCPAyk9uC0B-3" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;" value="五脏&lt;br&gt;（肝/心/脾/肺/肾）" vertex="1">
+        <mxCell id="1xnrSVUVyxCPAyk9uC0B-4" parent="1xnrSVUVyxCPAyk9uC0B-3" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;fontColor=light-dark(#ffaa00, #ededed);" value="五脏&lt;br&gt;（肝/心/脾/肺/肾）" vertex="1">
           <mxGeometry height="50" width="260" x="20" y="60" as="geometry" />
         </mxCell>
-        <mxCell id="1xnrSVUVyxCPAyk9uC0B-5" parent="1xnrSVUVyxCPAyk9uC0B-3" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;" value="经络系统&#xa;（十二正经/奇经八脉）" vertex="1">
+        <mxCell id="1xnrSVUVyxCPAyk9uC0B-5" parent="1xnrSVUVyxCPAyk9uC0B-3" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;fontColor=light-dark(#e32400, #ededed);" value="经络系统&#xa;（十二正经/奇经八脉）" vertex="1">
           <mxGeometry height="50" width="260" x="20" y="210" as="geometry" />
         </mxCell>
-        <mxCell id="1xnrSVUVyxCPAyk9uC0B-6" parent="1xnrSVUVyxCPAyk9uC0B-3" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;" value="气血津液&#xa;（营卫宗气/精血津液）" vertex="1">
+        <mxCell id="1xnrSVUVyxCPAyk9uC0B-6" parent="1xnrSVUVyxCPAyk9uC0B-3" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;fontColor=light-dark(#4f7a28, #ededed);" value="气血津液&#xa;（营卫宗气/精血津液）" vertex="1">
           <mxGeometry height="50" width="260" x="20" y="285" as="geometry" />
         </mxCell>
-        <mxCell id="1xnrSVUVyxCPAyk9uC0B-7" parent="1xnrSVUVyxCPAyk9uC0B-3" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;" value="外在结构&#xa;（筋骨/肌肉/皮毛/五官九窍）" vertex="1">
+        <mxCell id="1xnrSVUVyxCPAyk9uC0B-7" parent="1xnrSVUVyxCPAyk9uC0B-3" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;fontColor=light-dark(#ffaa00, #ededed);" value="外在结构&#xa;（筋骨/肌肉/皮毛/五官九窍）" vertex="1">
           <mxGeometry height="50" width="260" x="20" y="360" as="geometry" />
         </mxCell>
-        <mxCell id="4hOxsyU3DE6hKYaoCaZV-1" parent="1xnrSVUVyxCPAyk9uC0B-3" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;" value="六腑&lt;br&gt;（胆/胃/小肠/大肠/膀胱/三焦）" vertex="1">
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-1" parent="1xnrSVUVyxCPAyk9uC0B-3" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;fontColor=light-dark(#ffaa00, #ededed);" value="六腑&lt;br&gt;（胆/胃/小肠/大肠/膀胱/三焦）" vertex="1">
           <mxGeometry height="50" width="260" x="20" y="135" as="geometry" />
         </mxCell>
         <mxCell id="1xnrSVUVyxCPAyk9uC0B-8" parent="1" style="swimlane;startSize=40;fontSize=14;fillColor=#ffe6cc;strokeColor=#d79b00;" value="神" vertex="1">
@@ -480,6 +480,30 @@
         </mxCell>
         <mxCell id="4hOxsyU3DE6hKYaoCaZV-115" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.stylisedArrow;dy=0.6;dx=40;notch=15;feather=0.4;direction=south;fillColor=#ffe6cc;strokeColor=#d79b00;" value="" vertex="1">
           <mxGeometry height="100" width="60" x="381" y="1449" as="geometry" />
+        </mxCell>
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-125" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="328" width="890" x="1400" y="1674" as="geometry" />
+        </mxCell>
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-117" parent="4hOxsyU3DE6hKYaoCaZV-125" style="whiteSpace=wrap;html=1;align=left;" value="&lt;span style=&quot;caret-color: rgb(15, 17, 21); color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;《灵枢·天年》“以母为基，以父为楯”说明，父母给予的先天之精和先天之神是人一生的根基和模板。但出生之后，后天的水谷之气、呼吸之气、环境经验、学习积累，持续充养和塑造着这个根基，使得人的形与神不断发展变化。先天决定了一个人的基本禀赋和体质倾向，后天决定了一个人的实际健康状况和精神境界。&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;caret-color: rgb(15, 17, 21); color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;《素问·上古天真论》中所说的“法于阴阳，和于术数，食饮有节，起居有常”，是后天的调养之法，调养得当可以最大限度地发挥先天禀赋、延缓先天精气的耗竭，达到“能形与神俱，而尽终其天年，度百岁乃去”。&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="160" width="890" as="geometry" />
+        </mxCell>
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-118" parent="4hOxsyU3DE6hKYaoCaZV-125" style="ellipse;whiteSpace=wrap;html=1;fontColor=light-dark(#ff2600, #ededed);labelBackgroundColor=light-dark(#ff2600, #ededed);labelBorderColor=light-dark(#ff2600, #ededed);fillColor=light-dark(#ff2600, #ededed);" value="" vertex="1">
+          <mxGeometry height="40" width="40" y="183" as="geometry" />
+        </mxCell>
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-120" parent="4hOxsyU3DE6hKYaoCaZV-125" style="ellipse;whiteSpace=wrap;html=1;fontColor=light-dark(#ff2600, #ededed);labelBackgroundColor=light-dark(#ff2600, #ededed);labelBorderColor=light-dark(#ff2600, #ededed);fillColor=light-dark(#669c35, #ededed);" value="" vertex="1">
+          <mxGeometry height="40" width="40" y="238" as="geometry" />
+        </mxCell>
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-121" parent="4hOxsyU3DE6hKYaoCaZV-125" style="ellipse;whiteSpace=wrap;html=1;fontColor=light-dark(#ff2600, #ededed);labelBackgroundColor=light-dark(#ff2600, #ededed);labelBorderColor=light-dark(#ff2600, #ededed);fillColor=light-dark(#FF8000,#EDEDED);" value="" vertex="1">
+          <mxGeometry height="40" width="40" y="288" as="geometry" />
+        </mxCell>
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-122" parent="4hOxsyU3DE6hKYaoCaZV-125" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=20;" value="先天决定" vertex="1">
+          <mxGeometry height="30" width="190" x="80" y="188.5" as="geometry" />
+        </mxCell>
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-123" parent="4hOxsyU3DE6hKYaoCaZV-125" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=20;" value="后天决定" vertex="1">
+          <mxGeometry height="30" width="170" x="80" y="241" as="geometry" />
+        </mxCell>
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-124" parent="4hOxsyU3DE6hKYaoCaZV-125" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=20;" value="先天决定模板、后天决定发展" vertex="1">
+          <mxGeometry height="30" width="280" x="80" y="293.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
