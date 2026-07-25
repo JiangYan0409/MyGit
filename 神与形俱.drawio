@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="日月体系-气论" id="6LFZQo16GFOAQUiR_pcO">
-    <mxGraphModel dx="1604" dy="566" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3547" dy="1980" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -154,7 +154,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1xnrSVUVyxCPAyk9uC0B-17" parent="1" style="swimlane;startSize=30;fontSize=11;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#009900;" value="情绪表达（五志/情绪反应）&#xa;《素问·阴阳应象大论》" vertex="1">
-          <mxGeometry height="90" width="280" x="1410" y="1250" as="geometry" />
+          <mxGeometry height="90" width="290" x="1410" y="1250" as="geometry" />
         </mxCell>
         <mxCell id="1xnrSVUVyxCPAyk9uC0B-18" parent="1xnrSVUVyxCPAyk9uC0B-17" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#f8cecc;strokeColor=#b85450;fontColor=#009900;" value="怒（肝）" vertex="1">
           <mxGeometry height="40" width="50" x="5" y="40" as="geometry" />
@@ -170,6 +170,9 @@
         </mxCell>
         <mxCell id="1xnrSVUVyxCPAyk9uC0B-22" parent="1xnrSVUVyxCPAyk9uC0B-17" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#f8cecc;strokeColor=#b85450;fontColor=#009900;" value="恐（肾）" vertex="1">
           <mxGeometry height="40" width="50" x="225" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-179" parent="1xnrSVUVyxCPAyk9uC0B-17" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=#ffffff;strokeColor=light-dark(#ff9300, #ffacac);" value="" vertex="1">
+          <mxGeometry height="56" width="300" x="-10" y="30" as="geometry" />
         </mxCell>
         <mxCell id="1xnrSVUVyxCPAyk9uC0B-23" parent="1" style="swimlane;startSize=30;fontSize=11;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#FF8000;" value="生命状态表达（生命力表现）&#xa;临床诊断（望诊）" vertex="1">
           <mxGeometry height="140" width="280" x="1410" y="1360" as="geometry" />
@@ -220,7 +223,7 @@
         <mxCell id="4hOxsyU3DE6hKYaoCaZV-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontColor=#FF8000;" value="脾（脏）" vertex="1">
           <mxGeometry height="40" width="100" x="1880" y="1090" as="geometry" />
         </mxCell>
-        <mxCell id="4hOxsyU3DE6hKYaoCaZV-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#e1d5e7;strokeColor=#9673a6;fontColor=#FF8000;" value="意&#xa;（初级认知/接应外物）" vertex="1">
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#e1d5e7;strokeColor=#9673a6;fontColor=light-dark(#669c35, #ce6100);" value="意&#xa;（初级认知/接应外物）" vertex="1">
           <mxGeometry height="50" width="120" x="2020" y="1085" as="geometry" />
         </mxCell>
         <mxCell id="4hOxsyU3DE6hKYaoCaZV-14" edge="1" parent="1" source="4hOxsyU3DE6hKYaoCaZV-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;" target="4hOxsyU3DE6hKYaoCaZV-13">
@@ -248,7 +251,7 @@
         <mxCell id="4hOxsyU3DE6hKYaoCaZV-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontColor=#FF8000;" value="肾（脏）" vertex="1">
           <mxGeometry height="40" width="100" x="1880" y="1210" as="geometry" />
         </mxCell>
-        <mxCell id="4hOxsyU3DE6hKYaoCaZV-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#e1d5e7;strokeColor=#9673a6;fontColor=#FF8000;" value="志&#xa;（定力/记忆/目标）" vertex="1">
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#e1d5e7;strokeColor=#9673a6;fontColor=light-dark(#669c35, #ce6100);" value="志&#xa;（定力/记忆/目标）" vertex="1">
           <mxGeometry height="50" width="120" x="2020" y="1205" as="geometry" />
         </mxCell>
         <mxCell id="4hOxsyU3DE6hKYaoCaZV-22" edge="1" parent="1" source="4hOxsyU3DE6hKYaoCaZV-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;" target="4hOxsyU3DE6hKYaoCaZV-21">
@@ -275,6 +278,9 @@
           <mxGeometry relative="1" x="-0.1" y="1" as="geometry">
             <mxPoint x="12" y="-34" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-187" edge="1" parent="1" source="4hOxsyU3DE6hKYaoCaZV-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;dashed=1;dashPattern=8 8;fillColor=#fff2cc;strokeColor=#d6b656;" target="4hOxsyU3DE6hKYaoCaZV-186">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4hOxsyU3DE6hKYaoCaZV-30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#e1d5e7;strokeColor=#9673a6;fontColor=#FF8000;" value="魂&#xa;（随神往来）" vertex="1">
           <mxGeometry height="50" width="120" x="2359" y="1040" as="geometry" />
@@ -555,7 +561,7 @@
         <mxCell id="4hOxsyU3DE6hKYaoCaZV-123" parent="4hOxsyU3DE6hKYaoCaZV-125" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=20;" value="后天决定" vertex="1">
           <mxGeometry height="30" width="170" x="80" y="241" as="geometry" />
         </mxCell>
-        <mxCell id="4hOxsyU3DE6hKYaoCaZV-124" parent="4hOxsyU3DE6hKYaoCaZV-125" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=20;" value="先天决定模板、后天决定发展" vertex="1">
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-124" parent="4hOxsyU3DE6hKYaoCaZV-125" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=20;" value="&lt;font&gt;先天决定模板、后天决定发展&lt;/font&gt;&lt;span style=&quot;caret-color: rgb(15, 17, 21); color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif;&quot;&gt;需要主动顺应才能最佳运转&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="280" x="80" y="293.5" as="geometry" />
         </mxCell>
         <mxCell id="4hOxsyU3DE6hKYaoCaZV-150" edge="1" parent="1" source="4hOxsyU3DE6hKYaoCaZV-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;dashed=1;dashPattern=8 8;fillColor=#f8cecc;strokeColor=#b85450;" target="4hOxsyU3DE6hKYaoCaZV-136">
@@ -635,8 +641,39 @@
         <mxCell id="4hOxsyU3DE6hKYaoCaZV-171" parent="1" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=#ffffff;strokeColor=#B20000;" value="" vertex="1">
           <mxGeometry height="120" width="140" x="2010" y="960" as="geometry" />
         </mxCell>
-        <mxCell id="4hOxsyU3DE6hKYaoCaZV-175" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: light-dark(rgb(255, 38, 0), rgb(237, 237, 237));&quot;&gt;昼夜寤寐&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="2010" y="890" as="geometry" />
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-175" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: light-dark(rgb(255, 38, 0), rgb(237, 237, 237));&quot;&gt;神 魂 魄---昼夜寤寐&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="110" x="2010" y="890" as="geometry" />
+        </mxCell>
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-178" edge="1" parent="1" source="4hOxsyU3DE6hKYaoCaZV-177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;dashed=1;dashPattern=8 8;fillColor=#f8cecc;strokeColor=#b85450;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="4hOxsyU3DE6hKYaoCaZV-171">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-177" parent="1" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=#ffffff;strokeColor=#B20000;" value="" vertex="1">
+          <mxGeometry height="60" width="140" x="2010" y="1140" as="geometry" />
+        </mxCell>
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-181" edge="1" parent="1" source="4hOxsyU3DE6hKYaoCaZV-179" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;dashed=1;dashPattern=8 8;fillColor=#fff2cc;strokeColor=#d6b656;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1730" y="1308" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-183" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: light-dark(rgb(255, 147, 0), rgb(237, 237, 237));&quot;&gt;五志的应季倾向&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="100" x="1730" y="1293" as="geometry" />
+        </mxCell>
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-186" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: light-dark(rgb(255, 147, 0), rgb(237, 237, 237));&quot;&gt;知觉敏感度&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="70" x="2270" y="970" as="geometry" />
+        </mxCell>
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-188" parent="1" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=#ffffff;strokeColor=light-dark(#ff9300, #ffacac);" value="" vertex="1">
+          <mxGeometry height="53" width="160" x="2340" y="1040" as="geometry" />
+        </mxCell>
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-191" edge="1" parent="1" source="4hOxsyU3DE6hKYaoCaZV-189" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;dashed=1;dashPattern=8 8;fillColor=#d5e8d4;strokeColor=#82b366;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2688" y="1370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-189" parent="1" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=#ffffff;strokeColor=light-dark(#669c35, #ffacac);" value="" vertex="1">
+          <mxGeometry height="230" width="370" x="2503" y="1060" as="geometry" />
+        </mxCell>
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-192" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: light-dark(rgb(102, 156, 53), rgb(222, 223, 227));&quot;&gt;&lt;strong style=&quot;font-size: 16px; text-align: start; caret-color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif;&quot;&gt;&lt;span class=&quot;&quot;&gt;意的专注、&lt;/span&gt;&lt;/strong&gt;&lt;strong style=&quot;font-size: 16px; text-align: start; caret-color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif;&quot;&gt;&lt;span class=&quot;&quot;&gt;志的定力、&lt;/span&gt;&lt;/strong&gt;&lt;strong style=&quot;font-size: 16px; text-align: start; caret-color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif;&quot;&gt;&lt;span class=&quot;&quot;&gt;思与虑的深度、智慧的高度&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="370" x="2508" y="1365" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
