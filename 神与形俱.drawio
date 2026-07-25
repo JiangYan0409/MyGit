@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="日月体系-气论" id="6LFZQo16GFOAQUiR_pcO">
-    <mxGraphModel dx="1166" dy="849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="563" dy="410" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,17 +10,20 @@
         <mxCell id="1xnrSVUVyxCPAyk9uC0B-3" parent="1" style="swimlane;startSize=40;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="形&#xa;气在生命尺度上的凝聚" vertex="1">
           <mxGeometry height="460" width="300" x="260" y="940" as="geometry" />
         </mxCell>
-        <mxCell id="1xnrSVUVyxCPAyk9uC0B-4" parent="1xnrSVUVyxCPAyk9uC0B-3" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;" value="五脏六腑&#xa;（肝/心/脾/肺/肾）" vertex="1">
+        <mxCell id="1xnrSVUVyxCPAyk9uC0B-4" parent="1xnrSVUVyxCPAyk9uC0B-3" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;" value="五脏&lt;br&gt;（肝/心/脾/肺/肾）" vertex="1">
           <mxGeometry height="50" width="260" x="20" y="60" as="geometry" />
         </mxCell>
         <mxCell id="1xnrSVUVyxCPAyk9uC0B-5" parent="1xnrSVUVyxCPAyk9uC0B-3" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;" value="经络系统&#xa;（十二正经/奇经八脉）" vertex="1">
-          <mxGeometry height="50" width="260" x="20" y="130" as="geometry" />
+          <mxGeometry height="50" width="260" x="20" y="210" as="geometry" />
         </mxCell>
         <mxCell id="1xnrSVUVyxCPAyk9uC0B-6" parent="1xnrSVUVyxCPAyk9uC0B-3" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;" value="气血津液&#xa;（营卫宗气/精血津液）" vertex="1">
-          <mxGeometry height="50" width="260" x="20" y="200" as="geometry" />
+          <mxGeometry height="50" width="260" x="20" y="285" as="geometry" />
         </mxCell>
         <mxCell id="1xnrSVUVyxCPAyk9uC0B-7" parent="1xnrSVUVyxCPAyk9uC0B-3" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;" value="外在结构&#xa;（筋骨/肌肉/皮毛/五官九窍）" vertex="1">
-          <mxGeometry height="50" width="260" x="20" y="270" as="geometry" />
+          <mxGeometry height="50" width="260" x="20" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-1" parent="1xnrSVUVyxCPAyk9uC0B-3" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;" value="六腑&lt;br&gt;（胆/胃/小肠/大肠/膀胱/三焦）" vertex="1">
+          <mxGeometry height="50" width="260" x="20" y="135" as="geometry" />
         </mxCell>
         <mxCell id="1xnrSVUVyxCPAyk9uC0B-8" parent="1" style="swimlane;startSize=40;fontSize=14;fillColor=#ffe6cc;strokeColor=#d79b00;" value="神" vertex="1">
           <mxGeometry height="580" width="300" x="1400" y="940" as="geometry" />
@@ -74,12 +77,12 @@
         <mxCell id="1xnrSVUVyxCPAyk9uC0B-29" edge="1" parent="1" source="1xnrSVUVyxCPAyk9uC0B-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="1xnrSVUVyxCPAyk9uC0B-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1xnrSVUVyxCPAyk9uC0B-30" edge="1" parent="1" source="1xnrSVUVyxCPAyk9uC0B-4" style="edgeStyle=orthogonalEdgeStyle;html=1;dashed=1;dashPattern=5 3;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="1xnrSVUVyxCPAyk9uC0B-9">
+        <mxCell id="1xnrSVUVyxCPAyk9uC0B-30" edge="1" parent="1" source="1xnrSVUVyxCPAyk9uC0B-4" style="edgeStyle=orthogonalEdgeStyle;html=1;dashed=1;dashPattern=5 3;exitX=0.999;exitY=0.159;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" target="1xnrSVUVyxCPAyk9uC0B-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="540" y="1010.03" />
-              <mxPoint x="1080" y="1010.03" />
-              <mxPoint x="1080" y="1115" />
+              <mxPoint x="539.69" y="1010" />
+              <mxPoint x="1080.03" y="1010" />
+              <mxPoint x="1080.03" y="1115.03" />
             </Array>
           </mxGeometry>
         </mxCell>
