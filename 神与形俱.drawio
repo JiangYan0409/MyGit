@@ -408,14 +408,28 @@
         <mxCell id="4hOxsyU3DE6hKYaoCaZV-137" parent="4hOxsyU3DE6hKYaoCaZV-85" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=#ffffff;strokeColor=#B20000;" value="" vertex="1">
           <mxGeometry height="18" width="22" x="212" y="56" as="geometry" />
         </mxCell>
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-159" edge="1" parent="4hOxsyU3DE6hKYaoCaZV-85" source="4hOxsyU3DE6hKYaoCaZV-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;dashed=1;dashPattern=8 8;fillColor=#f8cecc;strokeColor=#b85450;" target="4hOxsyU3DE6hKYaoCaZV-139" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4hOxsyU3DE6hKYaoCaZV-138" parent="4hOxsyU3DE6hKYaoCaZV-85" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=#ffffff;strokeColor=#B20000;" value="" vertex="1">
           <mxGeometry height="18" width="22" x="236" y="56" as="geometry" />
         </mxCell>
         <mxCell id="4hOxsyU3DE6hKYaoCaZV-139" parent="4hOxsyU3DE6hKYaoCaZV-85" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;strong style=&quot;font-size: 16px; text-align: start; caret-color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif;&quot;&gt;&lt;span class=&quot;&quot; style=&quot;color: light-dark(rgb(255, 38, 0), rgb(222, 223, 227));&quot;&gt;呼吸与心跳&lt;/span&gt;&lt;/strong&gt;" vertex="1">
-          <mxGeometry height="30" width="80" x="216" y="90" as="geometry" />
+          <mxGeometry height="30" width="80" x="296" y="100" as="geometry" />
         </mxCell>
         <mxCell id="4hOxsyU3DE6hKYaoCaZV-142" parent="4hOxsyU3DE6hKYaoCaZV-85" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=#ffffff;strokeColor=#B20000;" value="" vertex="1">
           <mxGeometry height="18" width="34" x="978" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-156" parent="4hOxsyU3DE6hKYaoCaZV-85" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=light-dark(#ffb43f, #6d5100);" value="" vertex="1">
+          <mxGeometry height="70" width="224" x="76" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-157" edge="1" parent="4hOxsyU3DE6hKYaoCaZV-85" source="4hOxsyU3DE6hKYaoCaZV-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;dashed=1;dashPattern=8 8;fillColor=#f8cecc;strokeColor=#b85450;" target="4hOxsyU3DE6hKYaoCaZV-139" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="223" y="90" />
+              <mxPoint x="336" y="90" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="4hOxsyU3DE6hKYaoCaZV-89" parent="1" style="swimlane;startSize=30;fontSize=13;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontColor=#FF8000;" value="第四层：形体结构（筋、骨、肌肉、皮肤、毛发）" vertex="1">
           <mxGeometry height="105" width="1120" x="-146" y="2065" as="geometry" />
@@ -577,6 +591,14 @@
         </mxCell>
         <mxCell id="4hOxsyU3DE6hKYaoCaZV-155" edge="1" parent="1" source="4hOxsyU3DE6hKYaoCaZV-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;curved=1;dashed=1;dashPattern=8 8;fillColor=#f8cecc;strokeColor=#b85450;" target="4hOxsyU3DE6hKYaoCaZV-140">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-161" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;strong style=&quot;text-align: start; caret-color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif;&quot;&gt;&lt;span class=&quot;&quot; style=&quot;color: light-dark(rgb(255, 147, 0), rgb(222, 223, 227));&quot;&gt;&lt;font&gt;五脏的脏气法时&lt;/font&gt;&lt;/span&gt;&lt;/strong&gt;" vertex="1">
+          <mxGeometry height="30" width="90" x="-340" y="1970" as="geometry" />
+        </mxCell>
+        <mxCell id="4hOxsyU3DE6hKYaoCaZV-160" edge="1" parent="1" source="4hOxsyU3DE6hKYaoCaZV-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;dashed=1;dashPattern=8 8;fillColor=#fff2cc;strokeColor=#d6b656;" target="4hOxsyU3DE6hKYaoCaZV-161">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-220" y="1985.1724137931037" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
