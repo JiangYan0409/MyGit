@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="日月体系-气论" id="6LFZQo16GFOAQUiR_pcO">
-    <mxGraphModel dx="2459" dy="1188" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1643" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -207,7 +207,7 @@
           <mxGeometry height="40" width="100" x="1880" y="1030" as="geometry" />
         </mxCell>
         <mxCell id="4hOxsyU3DE6hKYaoCaZV-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;" value="神&#xa;（生命主宰/统领诸神）" vertex="1">
-          <mxGeometry height="50" width="140" x="2020" y="1025" as="geometry" />
+          <mxGeometry height="50" width="120" x="2020" y="1025" as="geometry" />
         </mxCell>
         <mxCell id="4hOxsyU3DE6hKYaoCaZV-10" edge="1" parent="1" source="4hOxsyU3DE6hKYaoCaZV-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;" target="4hOxsyU3DE6hKYaoCaZV-9">
           <mxGeometry relative="1" as="geometry" />
