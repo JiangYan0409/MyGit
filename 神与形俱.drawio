@@ -1,9 +1,18 @@
 <mxfile host="app.diagrams.net">
   <diagram name="日月体系-气论" id="6LFZQo16GFOAQUiR_pcO">
-    <mxGraphModel dx="2187" dy="990" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4867" dy="3440" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="PChv11ZD8xBbfatXv7tM-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;fontSize=16;fontFamily=Microsoft YaHei;verticalAlign=middle;align=center;arcSize=1;opacity=50;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" value="" vertex="1">
+          <mxGeometry height="3520" width="3754.48" x="-654.48" y="-890" as="geometry" />
+        </mxCell>
+        <mxCell id="PChv11ZD8xBbfatXv7tM-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#999999;strokeWidth=2;dashed=1;fontSize=13;fontFamily=Microsoft YaHei;verticalAlign=top;align=center;spacingTop=10;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" value="&lt;b&gt;背景：日月为地球创造的生命舞台&lt;/b&gt;&lt;br&gt;（现代科学视角）" vertex="1">
+          <mxGeometry height="3102" width="3692.95" x="-622.95" y="-502" as="geometry" />
+        </mxCell>
+        <mxCell id="PChv11ZD8xBbfatXv7tM-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#333333;strokeWidth=2;dashed=1;fontSize=13;fontFamily=Microsoft YaHei;verticalAlign=top;align=center;spacingTop=10;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" value="&lt;b&gt;主体：日月影响体系&lt;/b&gt;&lt;br&gt;（古代视角 ）" vertex="1">
+          <mxGeometry height="715" width="1353.89" x="-563.89" y="-145" as="geometry" />
+        </mxCell>
         <mxCell id="4hOxsyU3DE6hKYaoCaZV-72" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=9;fillColor=#ffe6cc;strokeColor=#d79b00;opacity=60;" value="" vertex="1">
           <mxGeometry height="460" width="1120" x="1860" y="870" as="geometry" />
         </mxCell>
@@ -674,6 +683,234 @@
         </mxCell>
         <mxCell id="4hOxsyU3DE6hKYaoCaZV-192" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: light-dark(rgb(102, 156, 53), rgb(222, 223, 227));&quot;&gt;&lt;strong style=&quot;font-size: 16px; text-align: start; caret-color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif;&quot;&gt;&lt;span class=&quot;&quot;&gt;意的专注、&lt;/span&gt;&lt;/strong&gt;&lt;strong style=&quot;font-size: 16px; text-align: start; caret-color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif;&quot;&gt;&lt;span class=&quot;&quot;&gt;志的定力、&lt;/span&gt;&lt;/strong&gt;&lt;strong style=&quot;font-size: 16px; text-align: start; caret-color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif;&quot;&gt;&lt;span class=&quot;&quot;&gt;思与虑的深度、智慧的高度&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="370" x="2508" y="1365" as="geometry" />
+        </mxCell>
+        <mxCell id="PChv11ZD8xBbfatXv7tM-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;container=0;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;常&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="32" width="64.06449445750756" x="-670" y="60.850000000000136" as="geometry" />
+        </mxCell>
+        <mxCell id="PChv11ZD8xBbfatXv7tM-4" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#9673a6;fontFamily=Microsoft YaHei;fontStyle=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" value="气分阴阳 · 阴阳相推 · 日月为精 · 万物同体" vertex="1">
+          <mxGeometry height="20" width="340.3426268055089" x="1056.4385119247563" y="-844" as="geometry" />
+        </mxCell>
+        <mxCell id="PChv11ZD8xBbfatXv7tM-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" value="&lt;b style=&quot;font-family: &amp;quot;Microsoft YaHei&amp;quot;; font-size: 16px;&quot;&gt;天地同气&lt;/b&gt;&lt;span style=&quot;font-family: &amp;quot;Microsoft YaHei&amp;quot;; font-size: 16px;&quot;&gt;（万物本体）&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="180.18139066174" x="1136.519129996641" y="-880" as="geometry" />
+        </mxCell>
+        <mxCell id="PChv11ZD8xBbfatXv7tM-6" edge="1" parent="1" source="PChv11ZD8xBbfatXv7tM-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" target="PChv11ZD8xBbfatXv7tM-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PChv11ZD8xBbfatXv7tM-7" edge="1" parent="1" source="PChv11ZD8xBbfatXv7tM-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" target="PChv11ZD8xBbfatXv7tM-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PChv11ZD8xBbfatXv7tM-8" edge="1" parent="1" source="PChv11ZD8xBbfatXv7tM-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" target="PChv11ZD8xBbfatXv7tM-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PChv11ZD8xBbfatXv7tM-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;阴阳互推&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;动力来源&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="300.3023177695667" x="1076.4586664427275" y="-814" as="geometry" />
+        </mxCell>
+        <mxCell id="PChv11ZD8xBbfatXv7tM-10" edge="1" parent="1" source="PChv11ZD8xBbfatXv7tM-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" target="PChv11ZD8xBbfatXv7tM-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PChv11ZD8xBbfatXv7tM-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;消长盈虚&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;运动节律&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="300.3023177695667" x="615.9951125293919" y="-714" as="geometry" />
+        </mxCell>
+        <mxCell id="PChv11ZD8xBbfatXv7tM-12" edge="1" parent="1" source="PChv11ZD8xBbfatXv7tM-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" target="PChv11ZD8xBbfatXv7tM-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PChv11ZD8xBbfatXv7tM-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;同气相感&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;运动机制&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="300.3023177695667" x="1076.4586664427275" y="-714" as="geometry" />
+        </mxCell>
+        <mxCell id="PChv11ZD8xBbfatXv7tM-14" edge="1" parent="1" source="PChv11ZD8xBbfatXv7tM-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" target="PChv11ZD8xBbfatXv7tM-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PChv11ZD8xBbfatXv7tM-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;变与常&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;运行状态&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="300.3023177695667" x="1506.8919885791065" y="-714" as="geometry" />
+        </mxCell>
+        <mxCell id="PChv11ZD8xBbfatXv7tM-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;共同作用&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="120.12092710782669" x="1166.5493617735974" y="-589" as="geometry" />
+        </mxCell>
+        <mxCell id="PChv11ZD8xBbfatXv7tM-19" connectable="0" parent="1" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;container=0;" value="" vertex="1">
+          <mxGeometry height="231" width="1291.299966409137" x="598.0027107826672" y="-440" as="geometry" />
+        </mxCell>
+        <mxCell id="PChv11ZD8xBbfatXv7tM-74" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-625.935505542493" y="292.00000000000045" as="sourcePoint" />
+            <mxPoint x="-548.8579106483039" y="292.00000000000045" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PChv11ZD8xBbfatXv7tM-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;container=0;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;变&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="32" width="64.06449445750756" x="-670" y="276" as="geometry" />
+        </mxCell>
+        <mxCell id="PChv11ZD8xBbfatXv7tM-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=1;dashed=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontColor=#333333;container=0;" value="" vertex="1">
+          <mxGeometry height="120" width="580.5844810211623" x="613.0178266711455" y="-440" as="geometry" />
+        </mxCell>
+        <mxCell id="PChv11ZD8xBbfatXv7tM-22" parent="1" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontColor=#333333;fontFamily=Microsoft YaHei;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" value="&lt;b&gt;太阳&lt;/b&gt;" vertex="1">
+          <mxGeometry height="18" width="180.18139066174" x="813.2193718508568" y="-430" as="geometry" />
+        </mxCell>
+        <mxCell id="PChv11ZD8xBbfatXv7tM-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=11;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontColor=#333333;container=0;" value="引力场与轨道稳定 → 宜居带 + 液态水长期存在" vertex="1">
+          <mxGeometry height="27" width="260.2620087336245" x="633.0379811891166" y="-399" as="geometry" />
+        </mxCell>
+        <mxCell id="PChv11ZD8xBbfatXv7tM-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=11;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontColor=#333333;container=0;" value="辐射能量与气候系统 → 大气环流 + 水循环 + 碳循环" vertex="1">
+          <mxGeometry height="27" width="260.2620087336245" x="633.0379811891166" y="-367" as="geometry" />
+        </mxCell>
+        <mxCell id="PChv11ZD8xBbfatXv7tM-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=11;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontColor=#333333;container=0;" value="紫外线与臭氧层 → 陆地生命屏障 + 演化选择压" vertex="1">
+          <mxGeometry height="27" width="260.2620087336245" x="913.3201444407123" y="-367" as="geometry" />
+        </mxCell>
+        <mxCell id="PChv11ZD8xBbfatXv7tM-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=11;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontColor=#333333;container=0;" value="光合作用 → 食物链基础 +大氧化事件 + 化石燃料" vertex="1">
+          <mxGeometry height="27" width="260.2620087336245" x="913.3201444407123" y="-399" as="geometry" />
+        </mxCell>
+        <mxCell id="PChv11ZD8xBbfatXv7tM-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=1;dashed=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontColor=#333333;container=0;" value="" vertex="1">
+          <mxGeometry height="120" width="580.5844810211623" x="1291.7010648303662" y="-440" as="geometry" />
+        </mxCell>
+        <mxCell id="PChv11ZD8xBbfatXv7tM-28" parent="1" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontColor=#333333;fontFamily=Microsoft YaHei;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" value="&lt;b&gt;月球&lt;/b&gt;" vertex="1">
+          <mxGeometry height="18" width="180.18139066174" x="1503.91470272086" y="-431" as="geometry" />
+        </mxCell>
+        <mxCell id="PChv11ZD8xBbfatXv7tM-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=11;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontColor=#333333;container=0;" value="地轴倾角稳定 → 四季温和 + 气候长期稳定" vertex="1">
+          <mxGeometry height="22" width="260.2620087336245" x="1471.8824554921064" y="-408" as="geometry" />
+        </mxCell>
+        <mxCell id="PChv11ZD8xBbfatXv7tM-30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=11;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontColor=#333333;container=0;" value="潮汐与生命起源 → 潮汐池 + 干湿循环 + 分子聚合" vertex="1">
+          <mxGeometry height="22" width="260.2620087336245" x="1471.8824554921064" y="-381" as="geometry" />
+        </mxCell>
+        <mxCell id="PChv11ZD8xBbfatXv7tM-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=11;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontColor=#333333;container=0;" value="自转减速 → 昼夜温差减小 + 环流温和" vertex="1">
+          <mxGeometry height="22" width="260.2620087336245" x="1471.8824554921064" y="-354" as="geometry" />
+        </mxCell>
+        <mxCell id="PChv11ZD8xBbfatXv7tM-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=1;dashed=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontColor=#333333;container=0;" value="" vertex="1">
+          <mxGeometry height="70" width="640.6449445750757" x="913.3201444407123" y="-310" as="geometry" />
+        </mxCell>
+        <mxCell id="PChv11ZD8xBbfatXv7tM-33" parent="1" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#333333;fontFamily=Microsoft YaHei;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" value="&lt;b&gt;日月协同贡献（二者合力）&lt;/b&gt;" vertex="1">
+          <mxGeometry height="18" width="200.20154517971113" x="1113.5216896204233" y="-303" as="geometry" />
+        </mxCell>
+        <mxCell id="PChv11ZD8xBbfatXv7tM-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontColor=#333333;container=0;" value="米兰科维奇循环：太阳引力主导 + 巨行星摄动 + 月球调制岁差 → 冰期-间冰期交替 + 演化节拍" vertex="1">
+          <mxGeometry height="28" width="280.2821632515956" x="933.3402989586834" y="-276" as="geometry" />
+        </mxCell>
+        <mxCell id="PChv11ZD8xBbfatXv7tM-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=11;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontColor=#333333;container=0;" value="大小潮：日月引潮力叠加/抵消 → 海洋栖息多样性 + 繁殖同步信号" vertex="1">
+          <mxGeometry height="28" width="300.3023177695667" x="1233.6426167282502" y="-276" as="geometry" />
+        </mxCell>
+        <mxCell id="PChv11ZD8xBbfatXv7tM-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=light-dark(#a0f3f1, #ededed);labelBorderColor=none;arcSize=50;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontColor=#333333;container=0;" value="&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;日月通过引力与辐射，为地球创造了一个宜居环境。太阳引力固定轨道，阳光辐射驱动气候、&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 8px; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif;&quot;&gt;生命，并催生臭氧层保护陆地；&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8px; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif;&quot;&gt;月球稳定地轴使气候长期温和，引发潮汐塑造海岸环境并可能参与生命起源，同时减缓自转至适宜节律。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8px; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif;&quot;&gt;日月协同在万年尺度调控冰期轮回，在半月尺度调制潮汐节律&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="1291.299966409137" x="598.0027107826672" y="-211" as="geometry" />
+        </mxCell>
+        <mxCell id="PChv11ZD8xBbfatXv7tM-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fffdf0;strokeColor=#d6b656;strokeWidth=1;dashed=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" value="" vertex="1">
+          <mxGeometry height="604.1153846153848" width="380.3829358414512" x="-543.8730265367819" y="-83.5769230769231" as="geometry" />
+        </mxCell>
+        <mxCell id="PChv11ZD8xBbfatXv7tM-39" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#d6b656;fontFamily=Microsoft YaHei;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" value="&lt;b&gt;太阳的影响（阳气之精）&lt;/b&gt;" vertex="1">
+          <mxGeometry height="21.384615384615387" width="260.2620087336245" x="-483.81256298286866" y="-78.23076923076928" as="geometry" />
+        </mxCell>
+        <mxCell id="PChv11ZD8xBbfatXv7tM-40" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=1;fontSize=11;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;verticalAlign=top;spacingTop=5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" value="&lt;font face=&quot;Microsoft YaHei&quot;&gt;一：&lt;span style=&quot;caret-color: rgb(15, 17, 21); color: rgb(15, 17, 21);&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;b style=&quot;&quot;&gt;太阳周年运行所体现的阳气年度消息盈虚规律（气年度循环）&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;现象：日影年变化、寒暑交替&lt;br&gt;规律：回归年、二十四节气&lt;br&gt;应用：农业🟠 养生🟠 导航🩵&lt;/div&gt;" vertex="1">
+          <mxGeometry height="74.84615384615385" width="350.3527040644945" x="-528.8579106483037" y="-46.15384615384619" as="geometry" />
+        </mxCell>
+        <mxCell id="PChv11ZD8xBbfatXv7tM-41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=1;fontSize=11;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;verticalAlign=top;spacingTop=5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" value="&lt;b&gt;二：&lt;/b&gt;&lt;b style=&quot;caret-color: rgb(15, 17, 21); color: rgb(15, 17, 21);&quot;&gt;太阳周日运行所体现的阳气年度消息盈虚规律（气每日循环）&lt;/b&gt;&lt;br&gt;现象：昼夜更替&lt;br&gt;规律：日周期、平太阳时&lt;br&gt;应用：子午觉🟠 子午流注🟠" vertex="1">
+          <mxGeometry height="74.84615384615385" width="350.3527040644945" x="-528.8579106483037" y="44.73076923076928" as="geometry" />
+        </mxCell>
+        <mxCell id="PChv11ZD8xBbfatXv7tM-42" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=1;fontSize=11;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;verticalAlign=top;spacingTop=5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" value="&lt;b&gt;三：地气升降规律（地气运行与太阳运转同步）&lt;/b&gt;&lt;br&gt;现象：大地解冻封冻&lt;br&gt;规律：地温年变化&lt;br&gt;应用：坐北朝南🩵&amp;nbsp;风水🩵 神圣对位🩵" vertex="1">
+          <mxGeometry height="74.84615384615385" width="350.3527040644945" x="-528.8579106483037" y="135.61538461538476" as="geometry" />
+        </mxCell>
+        <mxCell id="PChv11ZD8xBbfatXv7tM-43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;fontSize=11;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;verticalAlign=top;spacingTop=5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" value="&lt;b&gt;四：气的变（气的不常见表达）&lt;/b&gt;&lt;br&gt;现象：日食、黑子&lt;br&gt;规律：交点月、沙罗周期&lt;br&gt;应用：灾异谏政🔴" vertex="1">
+          <mxGeometry height="74.84615384615385" width="350.3527040644945" x="-528.8579106483037" y="254.5" as="geometry" />
+        </mxCell>
+        <mxCell id="PChv11ZD8xBbfatXv7tM-44" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#d6b656;strokeWidth=1;fontSize=11;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;verticalAlign=top;spacingTop=5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" value="&lt;b&gt;十一（日）：意象投射&lt;/b&gt;&lt;br&gt;现象：日光炽烈、圆满恒定&lt;br&gt;应用：太阳文学🟣 太阳神话🟣" vertex="1">
+          <mxGeometry height="69.50000000000001" width="350.3527040644945" x="-528.8579106483037" y="345.3846153846155" as="geometry" />
+        </mxCell>
+        <mxCell id="PChv11ZD8xBbfatXv7tM-45" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;fontSize=11;fontFamily=Microsoft YaHei;verticalAlign=middle;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" value="&lt;b&gt;日月的意象融合&lt;/b&gt;" vertex="1">
+          <mxGeometry height="64.15384615384616" width="200.20154517971113" x="-23.349009069533054" y="347.52307692307704" as="geometry" />
+        </mxCell>
+        <mxCell id="PChv11ZD8xBbfatXv7tM-46" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff5f5;strokeColor=#b85450;strokeWidth=1;dashed=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" value="" vertex="1">
+          <mxGeometry height="604.1153846153848" width="380.3829358414512" x="316.99361773597593" y="-83.5769230769231" as="geometry" />
+        </mxCell>
+        <mxCell id="PChv11ZD8xBbfatXv7tM-47" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#b85450;fontFamily=Microsoft YaHei;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" value="&lt;b&gt;月亮的影响（阴气之精）&lt;/b&gt;" vertex="1">
+          <mxGeometry height="21.384615384615387" width="260.2620087336245" x="377.05408128988915" y="-78.23076923076928" as="geometry" />
+        </mxCell>
+        <mxCell id="PChv11ZD8xBbfatXv7tM-48" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=1;fontSize=11;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;verticalAlign=top;spacingTop=5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" value="&lt;b&gt;五：太阴之气与潮汐、人体内气血同步变化（同类相感）&lt;/b&gt;&lt;br&gt;现象：月相与潮汐&lt;br&gt;规律：朔望月、潮汐滞后&lt;br&gt;应用：月相针灸🟠" vertex="1">
+          <mxGeometry height="74.84615384615385" width="350.3527040644945" x="332.0087336244543" y="-46.15384615384619" as="geometry" />
+        </mxCell>
+        <mxCell id="PChv11ZD8xBbfatXv7tM-49" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=1;fontSize=11;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;verticalAlign=top;spacingTop=5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" value="&lt;b&gt;六：周期相关&lt;/b&gt;&lt;br&gt;现象：月经周期≈朔望月&lt;br&gt;规律：无独立精密规律&lt;br&gt;应用：应月调经🟠" vertex="1">
+          <mxGeometry height="74.84615384615385" width="350.3527040644945" x="332.0087336244543" y="44.73076923076928" as="geometry" />
+        </mxCell>
+        <mxCell id="PChv11ZD8xBbfatXv7tM-50" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;fontSize=11;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;verticalAlign=top;spacingTop=5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" value="&lt;b&gt;七：&lt;/b&gt;&lt;b&gt;气的变（气的不常见表达）&lt;/b&gt;&lt;br&gt;现象：月食&lt;br&gt;规律：交点月、沙罗周期&lt;br&gt;应用：灾异谏政🔴" vertex="1">
+          <mxGeometry height="74.84615384615385" width="350.3527040644945" x="332.0087336244543" y="245.94615384615395" as="geometry" />
+        </mxCell>
+        <mxCell id="PChv11ZD8xBbfatXv7tM-51" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#b85450;strokeWidth=1;fontSize=11;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;verticalAlign=top;spacingTop=5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" value="&lt;b&gt;十一（月）：意象投射&lt;/b&gt;&lt;br&gt;现象：月光清冷、阴晴圆缺&lt;br&gt;用：月亮文学🟣 月亮神话🟣" vertex="1">
+          <mxGeometry height="69.50000000000001" width="350.3527040644945" x="332.0087336244543" y="345.3846153846155" as="geometry" />
+        </mxCell>
+        <mxCell id="PChv11ZD8xBbfatXv7tM-52" edge="1" parent="1" source="PChv11ZD8xBbfatXv7tM-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;strokeColor=#DC143C;dashed=1;startArrow=classic;startFill=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" target="PChv11ZD8xBbfatXv7tM-50">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-123.44978165938858" y="291.92307692307713" />
+              <mxPoint x="276.95330870003363" y="291.92307692307713" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PChv11ZD8xBbfatXv7tM-53" connectable="0" parent="PChv11ZD8xBbfatXv7tM-52" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=1;points=[];fontSize=10;fontColor=#DC143C;fontFamily=Microsoft YaHei;fontStyle=2;labelBackgroundColor=#ffffff;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" value="共享" vertex="1">
+          <mxGeometry relative="1" x="-0.1" y="1" as="geometry">
+            <mxPoint x="10" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PChv11ZD8xBbfatXv7tM-54" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5fff5;strokeColor=#82b366;strokeWidth=1;dashed=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" value="" vertex="1">
+          <mxGeometry height="326.1153846153847" width="400.40309035942227" x="-123.44978165938858" y="-83.5769230769231" as="geometry" />
+        </mxCell>
+        <mxCell id="PChv11ZD8xBbfatXv7tM-55" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#82b366;fontFamily=Microsoft YaHei;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" value="&lt;b&gt;日月协同的影响（阴阳互推）&lt;/b&gt;" vertex="1">
+          <mxGeometry height="21.384615384615387" width="340.3426268055089" x="-93.41954988243197" y="-78.23076923076928" as="geometry" />
+        </mxCell>
+        <mxCell id="PChv11ZD8xBbfatXv7tM-56" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=1;fontSize=11;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;verticalAlign=top;spacingTop=5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" value="&lt;span&gt;&lt;b&gt;八：&lt;/b&gt;&lt;span style=&quot;caret-color: rgb(15, 17, 21); color: rgb(15, 17, 21);&quot;&gt;&lt;font face=&quot;Microsoft YaHei&quot; style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;span&gt;日月阴阳精粹相互推荡引发的周期性波动（同类相感&lt;/span&gt;&lt;span&gt;）&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;br&gt;现象：大小潮半月周期&lt;br&gt;规律：朔望叠加，上下弦抵消&lt;br&gt;应用：渔业🟢&lt;/span&gt;" vertex="1">
+          <mxGeometry height="74.84615384615385" width="360.36278132348" x="-103.42962714141743" y="-46.15384615384619" as="geometry" />
+        </mxCell>
+        <mxCell id="PChv11ZD8xBbfatXv7tM-57" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=1;fontSize=11;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;verticalAlign=top;spacingTop=5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" value="&lt;b&gt;九：律历同源（气的消长在时间和空间领域同步显示）&lt;/b&gt;&lt;br&gt;现象：冬至地气变化&lt;br&gt;规律：律管候气、三分损益法&lt;br&gt;应用：度量衡🟢 祭祀乐舞🟢" vertex="1">
+          <mxGeometry height="74.84615384615385" width="360.36278132348" x="-103.42962714141743" y="44.73076923076928" as="geometry" />
+        </mxCell>
+        <mxCell id="PChv11ZD8xBbfatXv7tM-58" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=1;fontSize=11;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;verticalAlign=top;spacingTop=5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" value="&lt;b&gt;十：政治月令（政令与气的消长同步）&lt;/b&gt;&lt;br&gt;现象：日月周期不同步&lt;br&gt;规律：十九年七闰&lt;br&gt;应用：阴阳合历🔴 月令行政🔴 日月祭祀🔴" vertex="1">
+          <mxGeometry height="74.84615384615385" width="360.36278132348" x="-103.42962714141743" y="135.61538461538476" as="geometry" />
+        </mxCell>
+        <mxCell id="PChv11ZD8xBbfatXv7tM-59" edge="1" parent="1" source="PChv11ZD8xBbfatXv7tM-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#82b366;dashed=1;startArrow=block;endArrow=block;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="87.2623446422574" y="-52.56923076923067" />
+              <mxPoint x="87.2623446422574" y="222.75769230769242" />
+            </Array>
+            <mxPoint x="-143.46993617735973" y="-41.87692307692305" as="sourcePoint" />
+            <mxPoint x="316.99361773597593" y="222.75769230769242" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PChv11ZD8xBbfatXv7tM-60" connectable="0" parent="PChv11ZD8xBbfatXv7tM-59" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=1;points=[];fontSize=10;fontColor=#82b366;fontFamily=Microsoft YaHei;fontStyle=2;labelBackgroundColor=#f5fff5;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" value="日月相感：光影交互 · 大小潮叠加 · 朔望交替" vertex="1">
+          <mxGeometry relative="1" x="-0.1" y="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PChv11ZD8xBbfatXv7tM-61" edge="1" parent="1" source="PChv11ZD8xBbfatXv7tM-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;strokeColor=#9673a6;dashed=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" target="PChv11ZD8xBbfatXv7tM-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PChv11ZD8xBbfatXv7tM-62" edge="1" parent="1" source="PChv11ZD8xBbfatXv7tM-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;strokeColor=#9673a6;dashed=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" target="PChv11ZD8xBbfatXv7tM-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PChv11ZD8xBbfatXv7tM-63" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#999999;strokeWidth=2;fontSize=13;fontFamily=Microsoft YaHei;verticalAlign=middle;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" value="宇宙完整与时间流动的象征&lt;br&gt;日月对偶神话 · 宏大叙事 · 阴阳合一" vertex="1">
+          <mxGeometry height="64.15384615384616" width="260.2620087336245" x="-53.379240846489665" y="459.79230769230776" as="geometry" />
+        </mxCell>
+        <mxCell id="PChv11ZD8xBbfatXv7tM-64" edge="1" parent="1" source="PChv11ZD8xBbfatXv7tM-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#9673a6;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" target="PChv11ZD8xBbfatXv7tM-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PChv11ZD8xBbfatXv7tM-65" connectable="0" parent="PChv11ZD8xBbfatXv7tM-64" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=1;points=[];fontSize=11;fontColor=#9673a6;fontFamily=Microsoft YaHei;fontStyle=2;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" value="最终文化产出" vertex="1">
+          <mxGeometry relative="1" x="-0.1" y="1" as="geometry">
+            <mxPoint x="-1" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PChv11ZD8xBbfatXv7tM-66" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fillColor=none;container=0;" value="" vertex="1">
+          <mxGeometry height="218" width="42.042324487739336" x="-622.9526368827679" y="-32.149999999999864" as="geometry" />
+        </mxCell>
+        <mxCell id="PChv11ZD8xBbfatXv7tM-67" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fillColor=none;strokeColor=default;direction=west;container=0;" value="" vertex="1">
+          <mxGeometry height="218" width="42.042324487739336" x="738.4178703392679" y="-32.149999999999864" as="geometry" />
+        </mxCell>
+        <mxCell id="PChv11ZD8xBbfatXv7tM-68" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#333333;strokeWidth=1;fontSize=11;fontFamily=Microsoft YaHei;verticalAlign=top;align=left;spacingLeft=10;spacingTop=8;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontColor=default;labelBorderColor=none;container=0;" value="" vertex="1">
+          <mxGeometry height="90" width="160.16123614376892" x="2089.997175008398" y="-1040" as="geometry" />
+        </mxCell>
+        <mxCell id="PChv11ZD8xBbfatXv7tM-69" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=default;fontFamily=Microsoft YaHei;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;labelBorderColor=none;container=0;" value="🟠 农业 · 养生 · 作息 · 医学" vertex="1">
+          <mxGeometry height="18" width="140.1410816257978" x="2100.0072522673836" y="-1040" as="geometry" />
+        </mxCell>
+        <mxCell id="PChv11ZD8xBbfatXv7tM-70" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=default;fontFamily=Microsoft YaHei;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;labelBorderColor=none;container=0;" value="🩵 建筑 · 空间 · 导航" vertex="1">
+          <mxGeometry height="18" width="140.1410816257978" x="2100.0072522673836" y="-1022" as="geometry" />
+        </mxCell>
+        <mxCell id="PChv11ZD8xBbfatXv7tM-71" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=default;fontFamily=Microsoft YaHei;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;labelBorderColor=none;container=0;" value="🔴 政治 · 礼制 · 祭祀" vertex="1">
+          <mxGeometry height="18" width="140.1410816257978" x="2100.0072522673836" y="-1004" as="geometry" />
+        </mxCell>
+        <mxCell id="PChv11ZD8xBbfatXv7tM-72" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=default;fontFamily=Microsoft YaHei;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;labelBorderColor=none;container=0;" value="🟢 经济 · 科技 · 制度" vertex="1">
+          <mxGeometry height="18" width="140.1410816257978" x="2100.0072522673836" y="-986" as="geometry" />
+        </mxCell>
+        <mxCell id="PChv11ZD8xBbfatXv7tM-73" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=default;fontFamily=Microsoft YaHei;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;labelBorderColor=none;container=0;" value="🟣 文学 · 艺术 · 神话" vertex="1">
+          <mxGeometry height="18" width="140.1410816257978" x="2100.0072522673836" y="-968" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
