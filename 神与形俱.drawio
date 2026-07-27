@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="日月体系-气论" id="6LFZQo16GFOAQUiR_pcO">
-    <mxGraphModel dx="3184" dy="2494" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="10254" dy="6469" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -796,7 +796,7 @@
           <mxGeometry height="785" width="3680" x="-669" y="-145" as="geometry" />
         </mxCell>
         <mxCell id="PChv11ZD8xBbfatXv7tM-37" parent="PChv11ZD8xBbfatXv7tM-76" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#333333;strokeWidth=2;dashed=1;fontSize=13;fontFamily=Microsoft YaHei;verticalAlign=top;align=center;spacingTop=10;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" value="&lt;b&gt;主体：日月影响体系&lt;/b&gt;&lt;br&gt;（古代视角 ）" vertex="1">
-          <mxGeometry height="785.0000000000001" width="3412.5446575342467" x="267.45534246575346" as="geometry" />
+          <mxGeometry height="785" width="3570" x="110" as="geometry" />
         </mxCell>
         <mxCell id="PChv11ZD8xBbfatXv7tM-3" parent="PChv11ZD8xBbfatXv7tM-76" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;container=0;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;常&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="35.13286713286713" width="161.4776298654985" y="226.00314685314703" as="geometry" />
