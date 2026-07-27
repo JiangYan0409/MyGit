@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="日月体系-气论" id="6LFZQo16GFOAQUiR_pcO">
-    <mxGraphModel dx="10254" dy="6469" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2491" dy="2104" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -822,7 +822,7 @@
         <mxCell id="PChv11ZD8xBbfatXv7tM-41" parent="PChv11ZD8xBbfatXv7tM-76" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=1;fontSize=11;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;verticalAlign=top;spacingTop=5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" value="&lt;b&gt;二：&lt;/b&gt;&lt;b style=&quot;caret-color: rgb(15, 17, 21); color: rgb(15, 17, 21);&quot;&gt;太阳周日运行所体现的阳气年度消息盈虚规律（气每日循环）&lt;/b&gt;&lt;br&gt;现象：昼夜更替&lt;br&gt;规律：日周期、平太阳时&lt;br&gt;应用：子午觉🟠 子午流注🟠" vertex="1">
           <mxGeometry height="82.1737493275955" width="883.080788326945" x="355.7554032974263" y="208.30580957504043" as="geometry" />
         </mxCell>
-        <mxCell id="PChv11ZD8xBbfatXv7tM-42" parent="PChv11ZD8xBbfatXv7tM-76" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=1;fontSize=11;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;verticalAlign=top;spacingTop=5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" value="&lt;b&gt;三：地气升降规律（地气运行与太阳运转同步）&lt;/b&gt;&lt;br&gt;现象：大地解冻封冻&lt;br&gt;规律：地温年变化&lt;br&gt;应用：坐北朝南🩵&amp;nbsp;风水🩵 神圣对位🩵" vertex="1">
+        <mxCell id="PChv11ZD8xBbfatXv7tM-42" parent="PChv11ZD8xBbfatXv7tM-76" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=1;fontSize=11;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;verticalAlign=top;spacingTop=5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" value="&lt;b&gt;三：地气升降规律（地气运行与太阳运转同步）&lt;/b&gt;&lt;br&gt;现象：大地的解冻与封冻，对应地温年变化。太阳阳气不仅在天上运行，也带动了大地之气的同步升降。&lt;br&gt;规律：地温年变化&lt;br&gt;应用：坐北朝南🩵&amp;nbsp;风水🩵 神圣对位🩵" vertex="1">
           <mxGeometry height="82.1737493275955" width="883.080788326945" x="355.7554032974263" y="308.0882194728351" as="geometry" />
         </mxCell>
         <mxCell id="PChv11ZD8xBbfatXv7tM-43" parent="PChv11ZD8xBbfatXv7tM-76" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;fontSize=11;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;verticalAlign=top;spacingTop=5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" value="&lt;b&gt;四：气的变（气的不常见表达）&lt;/b&gt;&lt;br&gt;现象：日食、黑子&lt;br&gt;规律：交点月、沙罗周期&lt;br&gt;应用：灾异谏政🔴" vertex="1">
