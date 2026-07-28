@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="日月体系-气论" id="6LFZQo16GFOAQUiR_pcO">
-    <mxGraphModel dx="5540" dy="3819" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4362" dy="3157" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -808,7 +808,7 @@
         <mxCell id="PChv11ZD8xBbfatXv7tM-88" edge="1" parent="1" source="PChv11ZD8xBbfatXv7tM-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=8 4 1 4;curved=1;strokeColor=light-dark(#fb0909, #ededed);exitX=0.25;exitY=1;exitDx=0;exitDy=0;" target="4hOxsyU3DE6hKYaoCaZV-136">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PChv11ZD8xBbfatXv7tM-89" edge="1" parent="1" source="PChv11ZD8xBbfatXv7tM-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;dashed=1;dashPattern=8 4 1 4;strokeColor=light-dark(#fb0909, #ededed);align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;curved=1;" target="4hOxsyU3DE6hKYaoCaZV-144">
+        <mxCell id="PChv11ZD8xBbfatXv7tM-89" edge="1" parent="1" source="PChv11ZD8xBbfatXv7tM-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.644;exitY=0.998;exitDx=0;exitDy=0;dashed=1;dashPattern=8 4 1 4;strokeColor=light-dark(#fb0909, #ededed);align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;curved=1;exitPerimeter=0;" target="4hOxsyU3DE6hKYaoCaZV-144">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PChv11ZD8xBbfatXv7tM-58" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=1;fontSize=11;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;verticalAlign=top;spacingTop=5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" value="&lt;b&gt;十：政治月令（政令与气的消长同步）&lt;/b&gt;&lt;br&gt;现象：日月周期不同步，&lt;span style=&quot;background-color: transparent;&quot;&gt;通过置闰（十九年七闰），将阴阳合历统一起来，使得月份和季节能够对应。&lt;br&gt;&lt;/span&gt;规律：十九年七闰&lt;br&gt;应用：历法不仅是时间工具，更是政治（🔴）权力的象征。天子依据“月令”来安排一年四季的政事（《礼记·月令》），并进行日月祭祀（🔴），以沟通天地，维护宇宙秩序。" vertex="1">
@@ -951,6 +951,20 @@
         </mxCell>
         <mxCell id="1xnrSVUVyxCPAyk9uC0B-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#f8cecc;strokeColor=#b85450;fontColor=#009900;" value="智&#xa;决策/行动" vertex="1">
           <mxGeometry height="50" width="60" x="1570" y="1168" as="geometry" />
+        </mxCell>
+        <mxCell id="PChv11ZD8xBbfatXv7tM-98" edge="1" parent="1" source="PChv11ZD8xBbfatXv7tM-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=8 4 1 4;strokeColor=light-dark(#fb0909, #ededed);align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;curved=1;" target="4hOxsyU3DE6hKYaoCaZV-175">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PChv11ZD8xBbfatXv7tM-100" edge="1" parent="1" source="PChv11ZD8xBbfatXv7tM-46" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;curved=0;strokeColor=light-dark(#f31b1b, #ededed);strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="4hOxsyU3DE6hKYaoCaZV-166">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1818.75" y="710" />
+              <mxPoint x="-290" y="710" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PChv11ZD8xBbfatXv7tM-99" edge="1" parent="1" source="PChv11ZD8xBbfatXv7tM-38" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;strokeWidth=5;strokeColor=light-dark(#f31b1b, #ededed);" target="4hOxsyU3DE6hKYaoCaZV-166">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
