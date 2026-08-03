@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="GuQRlMAANUZwoe0chdwx">
-    <mxGraphModel dx="2847" dy="1136" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3184" dy="1325" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -90,18 +90,6 @@
         <mxCell id="7L3AGora1TePQE9lAWJE-19" edge="1" parent="1" source="7L3AGora1TePQE9lAWJE-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="7L3AGora1TePQE9lAWJE-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7L3AGora1TePQE9lAWJE-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="自转速率（恒星日）" vertex="1">
-          <mxGeometry height="30" width="150" x="650" y="390" as="geometry" />
-        </mxCell>
-        <mxCell id="7L3AGora1TePQE9lAWJE-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="地理纬度" vertex="1">
-          <mxGeometry height="30" width="150" x="650" y="430" as="geometry" />
-        </mxCell>
-        <mxCell id="7L3AGora1TePQE9lAWJE-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="地理经度" vertex="1">
-          <mxGeometry height="30" width="150" x="650" y="470" as="geometry" />
-        </mxCell>
-        <mxCell id="7L3AGora1TePQE9lAWJE-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="海拔高度" vertex="1">
-          <mxGeometry height="30" width="150" x="650" y="510" as="geometry" />
-        </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="局部地形遮挡" vertex="1">
           <mxGeometry height="30" width="150" x="650" y="550" as="geometry" />
         </mxCell>
@@ -127,7 +115,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-32" edge="1" parent="1" source="7L3AGora1TePQE9lAWJE-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="7L3AGora1TePQE9lAWJE-24">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="725" y="400" />
+              <mxPoint x="725" y="400" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-33" edge="1" parent="1" source="7L3AGora1TePQE9lAWJE-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="7L3AGora1TePQE9lAWJE-25">
           <mxGeometry relative="1" as="geometry" />
@@ -137,12 +130,6 @@
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-35" edge="1" parent="1" source="7L3AGora1TePQE9lAWJE-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="7L3AGora1TePQE9lAWJE-27">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7L3AGora1TePQE9lAWJE-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;opacity=50;" value="稳定黄赤交角（23.5°）" vertex="1">
-          <mxGeometry height="30" width="150" x="840" y="390" as="geometry" />
-        </mxCell>
-        <mxCell id="7L3AGora1TePQE9lAWJE-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;opacity=50;" value="潮汐摩擦（自转变慢）" vertex="1">
-          <mxGeometry height="30" width="150" x="840" y="430" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;opacity=50;" value="章动（地轴点头，18.6年）" vertex="1">
           <mxGeometry height="30" width="150" x="840" y="470" as="geometry" />
@@ -168,9 +155,6 @@
         <mxCell id="7L3AGora1TePQE9lAWJE-45" edge="1" parent="1" source="7L3AGora1TePQE9lAWJE-5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="7L3AGora1TePQE9lAWJE-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7L3AGora1TePQE9lAWJE-46" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="蒙气差（折射抬升约0.57°）" vertex="1">
-          <mxGeometry height="30" width="150" x="1220" y="390" as="geometry" />
-        </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-47" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="温压影响折射率（精密修正）" vertex="1">
           <mxGeometry height="30" width="150" x="1220" y="430" as="geometry" />
         </mxCell>
@@ -180,9 +164,6 @@
         <mxCell id="7L3AGora1TePQE9lAWJE-49" edge="1" parent="1" source="7L3AGora1TePQE9lAWJE-6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="7L3AGora1TePQE9lAWJE-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7L3AGora1TePQE9lAWJE-50" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="光行差（视位置偏移~20″）" vertex="1">
-          <mxGeometry height="30" width="150" x="1410" y="390" as="geometry" />
-        </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-51" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="引力光线弯曲（~1.75″）" vertex="1">
           <mxGeometry height="30" width="150" x="1410" y="430" as="geometry" />
         </mxCell>
@@ -191,12 +172,6 @@
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-53" edge="1" parent="1" source="7L3AGora1TePQE9lAWJE-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="7L3AGora1TePQE9lAWJE-51">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7L3AGora1TePQE9lAWJE-54" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="时区划分（政令时间基准）" vertex="1">
-          <mxGeometry height="30" width="150" x="1600" y="390" as="geometry" />
-        </mxCell>
-        <mxCell id="7L3AGora1TePQE9lAWJE-55" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="夏令时（人为拨快1小时）" vertex="1">
-          <mxGeometry height="30" width="150" x="1600" y="430" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-56" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="ΔT修正（原子时 vs 世界时）" vertex="1">
           <mxGeometry height="30" width="150" x="1600" y="470" as="geometry" />
@@ -276,18 +251,6 @@
         <mxCell id="7L3AGora1TePQE9lAWJE-87" edge="1" parent="1" source="7L3AGora1TePQE9lAWJE-66" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="7L3AGora1TePQE9lAWJE-84">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7L3AGora1TePQE9lAWJE-88" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="自转速率（窗口时间）" vertex="1">
-          <mxGeometry height="30" width="150" x="250" y="1120" as="geometry" />
-        </mxCell>
-        <mxCell id="7L3AGora1TePQE9lAWJE-89" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="地理纬度（地平高度）" vertex="1">
-          <mxGeometry height="30" width="150" x="250" y="1160" as="geometry" />
-        </mxCell>
-        <mxCell id="7L3AGora1TePQE9lAWJE-90" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="地理经度（本地钟表时刻）" vertex="1">
-          <mxGeometry height="30" width="150" x="250" y="1200" as="geometry" />
-        </mxCell>
-        <mxCell id="7L3AGora1TePQE9lAWJE-91" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="海拔高度（降低地平线遮挡）" vertex="1">
-          <mxGeometry height="30" width="150" x="250" y="1240" as="geometry" />
-        </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-92" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="局部地形遮挡（山/楼）" vertex="1">
           <mxGeometry height="30" width="150" x="250" y="1310" as="geometry" />
         </mxCell>
@@ -309,17 +272,8 @@
         <mxCell id="7L3AGora1TePQE9lAWJE-138" edge="1" parent="1" source="7L3AGora1TePQE9lAWJE-98" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;" target="7L3AGora1TePQE9lAWJE-114">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7L3AGora1TePQE9lAWJE-98" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="绕地公转黄经（赤经位置）" vertex="1">
-          <mxGeometry height="30" width="150" x="510" y="1130" as="geometry" />
-        </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-140" edge="1" parent="1" source="7L3AGora1TePQE9lAWJE-99" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;" target="7L3AGora1TePQE9lAWJE-115">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7L3AGora1TePQE9lAWJE-99" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="绕地公转黄纬（白道倾角5.14°）" vertex="1">
-          <mxGeometry height="30" width="150" x="510" y="1170" as="geometry" />
-        </mxCell>
-        <mxCell id="7L3AGora1TePQE9lAWJE-100" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="月相（照明比例/美观度）" vertex="1">
-          <mxGeometry height="30" width="150" x="510" y="1210" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-101" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="地月距离（视直径大小）" vertex="1">
           <mxGeometry height="30" width="150" x="510" y="1250" as="geometry" />
@@ -335,15 +289,6 @@
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-105" edge="1" parent="1" source="7L3AGora1TePQE9lAWJE-68" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="7L3AGora1TePQE9lAWJE-101">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7L3AGora1TePQE9lAWJE-106" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="绕日公转黄经（背景坐标）" vertex="1">
-          <mxGeometry height="30" width="150" x="980" y="1130" as="geometry" />
-        </mxCell>
-        <mxCell id="7L3AGora1TePQE9lAWJE-107" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="绕日公转黄纬（3.4°倾角）" vertex="1">
-          <mxGeometry height="30" width="150" x="980" y="1170" as="geometry" />
-        </mxCell>
-        <mxCell id="7L3AGora1TePQE9lAWJE-108" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="日-金-地相位角（距角/亮度）" vertex="1">
-          <mxGeometry height="30" width="150" x="980" y="1210" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-109" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="地金距离（视星等 -3.8~-4.8）" vertex="1">
           <mxGeometry height="30" width="150" x="980" y="1250" as="geometry" />
@@ -378,12 +323,6 @@
         <mxCell id="7L3AGora1TePQE9lAWJE-119" edge="1" parent="1" source="7L3AGora1TePQE9lAWJE-89" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="7L3AGora1TePQE9lAWJE-116">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7L3AGora1TePQE9lAWJE-120" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="大气透明度（雾霾/云层）" vertex="1">
-          <mxGeometry height="30" width="150" x="1340" y="1130" as="geometry" />
-        </mxCell>
-        <mxCell id="7L3AGora1TePQE9lAWJE-121" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="消光效应（地平线附近衰减）" vertex="1">
-          <mxGeometry height="30" width="150" x="1340" y="1170" as="geometry" />
-        </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-122" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="暮光亮度衰减（天文昏影终了）" vertex="1">
           <mxGeometry height="30" width="150" x="1340" y="1210" as="geometry" />
         </mxCell>
@@ -395,12 +334,6 @@
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-125" edge="1" parent="1" source="7L3AGora1TePQE9lAWJE-71" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="7L3AGora1TePQE9lAWJE-122">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7L3AGora1TePQE9lAWJE-126" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="月球升交点西退（18.6年周期）" vertex="1">
-          <mxGeometry height="30" width="150" x="1520" y="1130" as="geometry" />
-        </mxCell>
-        <mxCell id="7L3AGora1TePQE9lAWJE-127" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="金星8年视运动重复周期" vertex="1">
-          <mxGeometry height="30" width="150" x="1520" y="1170" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-128" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="岁差（春分点西移）" vertex="1">
           <mxGeometry height="30" width="150" x="1520" y="1210" as="geometry" />
@@ -414,12 +347,6 @@
         <mxCell id="7L3AGora1TePQE9lAWJE-131" edge="1" parent="1" source="7L3AGora1TePQE9lAWJE-72" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="7L3AGora1TePQE9lAWJE-128">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7L3AGora1TePQE9lAWJE-132" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="UTC与世界时（全球统一基准）" vertex="1">
-          <mxGeometry height="30" width="150" x="1700" y="1130" as="geometry" />
-        </mxCell>
-        <mxCell id="7L3AGora1TePQE9lAWJE-133" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="本地时区/夏令时（提示时刻）" vertex="1">
-          <mxGeometry height="30" width="150" x="1700" y="1170" as="geometry" />
-        </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-134" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="天文历表（星历表预报）" vertex="1">
           <mxGeometry height="30" width="150" x="1700" y="1210" as="geometry" />
         </mxCell>
@@ -431,6 +358,84 @@
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-137" edge="1" parent="1" source="7L3AGora1TePQE9lAWJE-73" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="7L3AGora1TePQE9lAWJE-134">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7L3AGora1TePQE9lAWJE-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="自转速率（恒星日）" vertex="1">
+          <mxGeometry height="30" width="150" x="650" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="7L3AGora1TePQE9lAWJE-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="地理纬度" vertex="1">
+          <mxGeometry height="30" width="150" x="650" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="7L3AGora1TePQE9lAWJE-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="地理经度" vertex="1">
+          <mxGeometry height="30" width="150" x="650" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="7L3AGora1TePQE9lAWJE-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="海拔高度" vertex="1">
+          <mxGeometry height="30" width="150" x="650" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="7L3AGora1TePQE9lAWJE-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;opacity=50;" value="稳定黄赤交角（23.5°）" vertex="1">
+          <mxGeometry height="30" width="150" x="840" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="7L3AGora1TePQE9lAWJE-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;opacity=50;" value="潮汐摩擦（自转变慢）" vertex="1">
+          <mxGeometry height="30" width="150" x="840" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="7L3AGora1TePQE9lAWJE-46" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="蒙气差（折射抬升约0.57°）" vertex="1">
+          <mxGeometry height="30" width="150" x="1220" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="7L3AGora1TePQE9lAWJE-50" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="光行差（视位置偏移~20″）" vertex="1">
+          <mxGeometry height="30" width="150" x="1410" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="7L3AGora1TePQE9lAWJE-54" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="时区划分（政令时间基准）" vertex="1">
+          <mxGeometry height="30" width="150" x="1600" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="7L3AGora1TePQE9lAWJE-55" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="夏令时（人为拨快1小时）" vertex="1">
+          <mxGeometry height="30" width="150" x="1600" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="7L3AGora1TePQE9lAWJE-88" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="自转速率（窗口时间）" vertex="1">
+          <mxGeometry height="30" width="150" x="250" y="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="7L3AGora1TePQE9lAWJE-89" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="地理纬度（地平高度）" vertex="1">
+          <mxGeometry height="30" width="150" x="250" y="1160" as="geometry" />
+        </mxCell>
+        <mxCell id="7L3AGora1TePQE9lAWJE-90" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="地理经度（本地钟表时刻）" vertex="1">
+          <mxGeometry height="30" width="150" x="250" y="1200" as="geometry" />
+        </mxCell>
+        <mxCell id="7L3AGora1TePQE9lAWJE-91" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="海拔高度（降低地平线遮挡）" vertex="1">
+          <mxGeometry height="30" width="150" x="250" y="1240" as="geometry" />
+        </mxCell>
+        <mxCell id="7L3AGora1TePQE9lAWJE-98" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="绕地公转黄经（赤经位置）" vertex="1">
+          <mxGeometry height="30" width="150" x="510" y="1130" as="geometry" />
+        </mxCell>
+        <mxCell id="7L3AGora1TePQE9lAWJE-99" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="绕地公转黄纬（白道倾角5.14°）" vertex="1">
+          <mxGeometry height="30" width="150" x="510" y="1170" as="geometry" />
+        </mxCell>
+        <mxCell id="7L3AGora1TePQE9lAWJE-100" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="月相（照明比例/美观度）" vertex="1">
+          <mxGeometry height="30" width="150" x="510" y="1210" as="geometry" />
+        </mxCell>
+        <mxCell id="7L3AGora1TePQE9lAWJE-106" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="绕日公转黄经（背景坐标）" vertex="1">
+          <mxGeometry height="30" width="150" x="980" y="1130" as="geometry" />
+        </mxCell>
+        <mxCell id="7L3AGora1TePQE9lAWJE-107" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="绕日公转黄纬（3.4°倾角）" vertex="1">
+          <mxGeometry height="30" width="150" x="980" y="1170" as="geometry" />
+        </mxCell>
+        <mxCell id="7L3AGora1TePQE9lAWJE-108" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="日-金-地相位角（距角/亮度）" vertex="1">
+          <mxGeometry height="30" width="150" x="980" y="1210" as="geometry" />
+        </mxCell>
+        <mxCell id="7L3AGora1TePQE9lAWJE-120" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="大气透明度（雾霾/云层）" vertex="1">
+          <mxGeometry height="30" width="150" x="1340" y="1130" as="geometry" />
+        </mxCell>
+        <mxCell id="7L3AGora1TePQE9lAWJE-121" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="消光效应（地平线附近衰减）" vertex="1">
+          <mxGeometry height="30" width="150" x="1340" y="1170" as="geometry" />
+        </mxCell>
+        <mxCell id="7L3AGora1TePQE9lAWJE-126" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="月球升交点西退（18.6年周期）" vertex="1">
+          <mxGeometry height="30" width="150" x="1520" y="1130" as="geometry" />
+        </mxCell>
+        <mxCell id="7L3AGora1TePQE9lAWJE-127" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="金星8年视运动重复周期" vertex="1">
+          <mxGeometry height="30" width="150" x="1520" y="1170" as="geometry" />
+        </mxCell>
+        <mxCell id="7L3AGora1TePQE9lAWJE-132" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="UTC与世界时（全球统一基准）" vertex="1">
+          <mxGeometry height="30" width="150" x="1700" y="1130" as="geometry" />
+        </mxCell>
+        <mxCell id="7L3AGora1TePQE9lAWJE-133" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="本地时区/夏令时（提示时刻）" vertex="1">
+          <mxGeometry height="30" width="150" x="1700" y="1170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
