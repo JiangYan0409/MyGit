@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="GuQRlMAANUZwoe0chdwx">
-    <mxGraphModel dx="2712" dy="1060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3969" dy="1767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -186,13 +186,13 @@
           <mxGeometry height="50" width="280" x="915" y="950" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-66" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;fontStyle=1" value="太阳" vertex="1">
-          <mxGeometry height="40" width="150" x="35" y="1060" as="geometry" />
+          <mxGeometry height="40" width="150" x="67" y="1060" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-67" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;fontStyle=1" value="地球" vertex="1">
-          <mxGeometry height="40" width="150" x="250" y="1050" as="geometry" />
+          <mxGeometry height="40" width="150" x="282" y="1050" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-68" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;fontStyle=1" value="月球" vertex="1">
-          <mxGeometry height="40" width="150" x="510" y="1060" as="geometry" />
+          <mxGeometry height="40" width="150" x="542" y="1060" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-69" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;fontStyle=1" value="&amp;nbsp;金星" vertex="1">
           <mxGeometry height="40" width="150" x="980" y="1060" as="geometry" />
@@ -228,16 +228,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-82" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="提供照明（月球/金星反光）" vertex="1">
-          <mxGeometry height="30" width="150" x="-220" y="1130" as="geometry" />
+          <mxGeometry height="30" width="150" x="-188" y="1130" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-83" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="决定月相（地-月-日角度）" vertex="1">
-          <mxGeometry height="30" width="150" x="-85" y="1170" as="geometry" />
+          <mxGeometry height="30" width="150" x="-53" y="1170" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-142" edge="1" parent="1" source="7L3AGora1TePQE9lAWJE-84" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;" target="7L3AGora1TePQE9lAWJE-116">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-84" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="设定天空亮度（夜/晨/昏）" vertex="1">
-          <mxGeometry height="30" width="150" x="35" y="1210" as="geometry" />
+          <mxGeometry height="30" width="150" x="67" y="1210" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-85" edge="1" parent="1" source="7L3AGora1TePQE9lAWJE-66" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="7L3AGora1TePQE9lAWJE-82">
           <mxGeometry relative="1" as="geometry" />
@@ -249,7 +249,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-92" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="局部地形遮挡（山/楼）" vertex="1">
-          <mxGeometry height="30" width="150" x="250" y="1310" as="geometry" />
+          <mxGeometry height="30" width="150" x="282" y="1310" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-93" edge="1" parent="1" source="7L3AGora1TePQE9lAWJE-67" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="7L3AGora1TePQE9lAWJE-88">
           <mxGeometry relative="1" as="geometry" />
@@ -273,7 +273,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-101" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="地月距离（视直径大小）" vertex="1">
-          <mxGeometry height="30" width="150" x="510" y="1250" as="geometry" />
+          <mxGeometry height="30" width="150" x="542" y="1250" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-102" edge="1" parent="1" source="7L3AGora1TePQE9lAWJE-68" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="7L3AGora1TePQE9lAWJE-98">
           <mxGeometry relative="1" as="geometry" />
@@ -303,13 +303,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-114" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" value="联动A：月球黄经 ≈ 金星黄经（视向对齐）" vertex="1">
-          <mxGeometry height="30" width="160" x="630" y="1410" as="geometry" />
+          <mxGeometry height="30" width="160" x="662" y="1410" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-115" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" value="联动B：月球黄纬 → 金星黄纬（纬度差过滤，＜1°最佳）" vertex="1">
-          <mxGeometry height="30" width="170" x="830" y="1410" as="geometry" />
+          <mxGeometry height="30" width="170" x="843" y="1410" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-116" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" value="联动C：地平高度＞0° + 太阳低于地平线足够深" vertex="1">
-          <mxGeometry height="30" width="150" x="130" y="1450" as="geometry" />
+          <mxGeometry height="30" width="150" x="162" y="1450" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-117" edge="1" parent="1" source="7L3AGora1TePQE9lAWJE-106" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="7L3AGora1TePQE9lAWJE-114">
           <mxGeometry relative="1" as="geometry" />
@@ -381,25 +381,25 @@
           <mxGeometry height="30" width="150" x="1600" y="430" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-88" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="自转速率（窗口时间）" vertex="1">
-          <mxGeometry height="30" width="150" x="250" y="1120" as="geometry" />
+          <mxGeometry height="30" width="150" x="282" y="1120" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-89" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="地理纬度（地平高度）" vertex="1">
-          <mxGeometry height="30" width="150" x="250" y="1160" as="geometry" />
+          <mxGeometry height="30" width="150" x="282" y="1160" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-90" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="地理经度（本地钟表时刻）" vertex="1">
-          <mxGeometry height="30" width="150" x="250" y="1200" as="geometry" />
+          <mxGeometry height="30" width="150" x="282" y="1200" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-91" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="海拔高度（降低地平线遮挡）" vertex="1">
-          <mxGeometry height="30" width="150" x="250" y="1240" as="geometry" />
+          <mxGeometry height="30" width="150" x="282" y="1240" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-98" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="绕地公转黄经（赤经位置）" vertex="1">
-          <mxGeometry height="30" width="150" x="510" y="1130" as="geometry" />
+          <mxGeometry height="30" width="150" x="542" y="1130" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-99" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="绕地公转黄纬（白道倾角5.14°）" vertex="1">
-          <mxGeometry height="30" width="150" x="510" y="1170" as="geometry" />
+          <mxGeometry height="30" width="150" x="542" y="1170" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-100" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="月相（照明比例/美观度）" vertex="1">
-          <mxGeometry height="30" width="150" x="510" y="1210" as="geometry" />
+          <mxGeometry height="30" width="150" x="542" y="1210" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-106" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="绕日公转黄经（背景坐标）" vertex="1">
           <mxGeometry height="30" width="150" x="980" y="1130" as="geometry" />
