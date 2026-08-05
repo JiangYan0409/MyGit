@@ -481,6 +481,9 @@
         <mxCell id="7L3AGora1TePQE9lAWJE-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;opacity=50;" value="稳定黄赤交角（23.5°）" vertex="1">
           <mxGeometry height="30" width="150" x="840" y="390" as="geometry" />
         </mxCell>
+        <mxCell id="7L3AGora1TePQE9lAWJE-162" parent="1" style="text;whiteSpace=wrap;" value="原始输入 &#xa; ↓&#xa;① 日期 → 儒略日（JD）&#xa; ↓&#xa;② 儒略日 → 太阳黄经（λ）&#xa; ↓&#xa;③ 黄经 + 黄赤交角 → 太阳赤纬（δ） &#xa; ↓&#xa;④ 赤纬 + 纬度 + 海拔修正 → 时角（ω） &#xa; ↓&#xa;⑤ 时角 → 地方真太阳时（LAT）&#xa; ↓&#xa;⑥ 地方真太阳时 → 地方平太阳时（LMT）+ 恒星时核对 &#xa; ↓&#xa;⑦ 地方平太阳时 → 区时（北京时间）+ ΔT修正 &#xa; ↓&#xa;最终输出：日出/日落时刻（你手表上的时间）" vertex="1">
+          <mxGeometry height="260" width="320" x="1950" y="275" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
