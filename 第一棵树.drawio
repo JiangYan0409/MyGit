@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="GuQRlMAANUZwoe0chdwx">
-    <mxGraphModel dx="5540" dy="2650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2491" dy="935" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1000,7 +1000,7 @@
         <mxCell id="7L3AGora1TePQE9lAWJE-348" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#666666;align=left;spacingLeft=6;" value="角色：决定观测窗口" vertex="1">
           <mxGeometry height="18" width="160" x="327.5" y="3290" as="geometry" />
         </mxCell>
-        <mxCell id="7L3AGora1TePQE9lAWJE-349" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#666666;align=left;spacingLeft=6;" value="作用：把你所在的经度圈带入夜半球" vertex="1">
+        <mxCell id="7L3AGora1TePQE9lAWJE-349" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#666666;align=left;spacingLeft=6;" value="作用：把人所在的经度圈带入夜半球" vertex="1">
           <mxGeometry height="18" width="160" x="327.5" y="3311" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-350" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;fontFamily=Microsoft YaHei;fontStyle=1;" value="② 观测点纬度" vertex="1">
