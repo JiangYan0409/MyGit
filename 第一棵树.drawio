@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="GuQRlMAANUZwoe0chdwx">
-    <mxGraphModel dx="2315" dy="837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3969" dy="1767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -809,37 +809,37 @@
           <mxGeometry height="26" width="180" x="1230" y="1712" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-306" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=18;fontStyle=1;fontFamily=Microsoft YaHei;" value="“金星伴月”影响因素（详细版）" vertex="1">
-          <mxGeometry height="50" width="380" x="300" y="3250" as="geometry" />
+          <mxGeometry height="50" width="380" x="311.5" y="3070" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-307" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=14;fontStyle=1;fontFamily=Microsoft YaHei;" value="太阳" vertex="1">
-          <mxGeometry height="40" width="160" x="-413" y="3340" as="geometry" />
+          <mxGeometry height="40" width="160" x="-401.5" y="3160" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-308" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;fontStyle=1;fontFamily=Microsoft YaHei;" value="地球自身" vertex="1">
-          <mxGeometry height="40" width="160" x="-144" y="3340" as="geometry" />
+          <mxGeometry height="40" width="160" x="-132.5" y="3160" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-515" edge="1" parent="1" source="7L3AGora1TePQE9lAWJE-309" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="7L3AGora1TePQE9lAWJE-311">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-309" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;fontStyle=1;fontFamily=Microsoft YaHei;" value="月球" vertex="1">
-          <mxGeometry height="40" width="160" x="110" y="3340" as="geometry" />
+          <mxGeometry height="40" width="160" x="121.5" y="3160" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-516" edge="1" parent="1" source="7L3AGora1TePQE9lAWJE-310" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="7L3AGora1TePQE9lAWJE-311">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-310" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;fontStyle=1;fontFamily=Microsoft YaHei;" value="&amp;nbsp;金星" vertex="1">
-          <mxGeometry height="40" width="160" x="410" y="3340" as="geometry" />
+          <mxGeometry height="40" width="160" x="421.5" y="3160" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-311" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=14;fontStyle=1;fontFamily=Microsoft YaHei;" value="🔗 核心耦合机制" vertex="1">
-          <mxGeometry height="40" width="160" x="259" y="3840" as="geometry" />
+          <mxGeometry height="40" width="160" x="270.5" y="3660" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-312" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=14;fontStyle=1;fontFamily=Microsoft YaHei;" value="大气层" vertex="1">
-          <mxGeometry height="40" width="160" x="680" y="3340" as="geometry" />
+          <mxGeometry height="40" width="160" x="691.5" y="3160" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-313" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff5f5;strokeColor=#b85450;fontSize=14;fontStyle=1;fontFamily=Microsoft YaHei;" value="长周期摄动" vertex="1">
-          <mxGeometry height="40" width="160" x="933.5" y="3340" as="geometry" />
+          <mxGeometry height="40" width="160" x="945" y="3160" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-314" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;fontStyle=1;fontFamily=Microsoft YaHei;" value="人类计时" vertex="1">
-          <mxGeometry height="40" width="160" x="1190" y="3350" as="geometry" />
+          <mxGeometry height="40" width="160" x="1201.5" y="3170" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-315" edge="1" parent="1" source="7L3AGora1TePQE9lAWJE-306" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" target="7L3AGora1TePQE9lAWJE-307">
           <mxGeometry relative="1" as="geometry" />
@@ -959,292 +959,292 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-323" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff4e6;strokeColor=#d79b00;fontSize=11;fontFamily=Microsoft YaHei;fontStyle=1;" value="① 提供照明" vertex="1">
-          <mxGeometry height="26" width="160" x="-413" y="3410" as="geometry" />
+          <mxGeometry height="26" width="160" x="-401.5" y="3230" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-324" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#666666;align=left;spacingLeft=6;" value="角色：使金星和月球可见" vertex="1">
-          <mxGeometry height="20" width="160" x="-413" y="3440" as="geometry" />
+          <mxGeometry height="20" width="160" x="-401.5" y="3260" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-325" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#666666;align=left;spacingLeft=6;" value="作用：两者完全依赖反射太阳光" vertex="1">
-          <mxGeometry height="18" width="160" x="-413" y="3461" as="geometry" />
+          <mxGeometry height="18" width="160" x="-401.5" y="3281" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-326" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff4e6;strokeColor=#d79b00;fontSize=11;fontFamily=Microsoft YaHei;fontStyle=1;" value="② 决定月球相位" vertex="1">
-          <mxGeometry height="26" width="160" x="-413" y="3489" as="geometry" />
+          <mxGeometry height="26" width="160" x="-401.5" y="3309" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-327" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#666666;align=left;spacingLeft=6;" value="角色：决定月球亮度和形态" vertex="1">
-          <mxGeometry height="18" width="160" x="-413" y="3519" as="geometry" />
+          <mxGeometry height="18" width="160" x="-401.5" y="3339" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-328" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#666666;align=left;spacingLeft=6;" value="作用：蛾眉月最上镜，满月抢镜" vertex="1">
-          <mxGeometry height="18" width="160" x="-413" y="3540" as="geometry" />
+          <mxGeometry height="18" width="160" x="-401.5" y="3360" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-329" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff4e6;strokeColor=#d79b00;fontSize=11;fontFamily=Microsoft YaHei;fontStyle=1;" value="③ 决定金星相位" vertex="1">
-          <mxGeometry height="26" width="160" x="-413" y="3568" as="geometry" />
+          <mxGeometry height="26" width="160" x="-401.5" y="3388" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-330" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#666666;align=left;spacingLeft=6;" value="角色：决定金星亮度和视形态" vertex="1">
-          <mxGeometry height="18" width="160" x="-413" y="3598" as="geometry" />
+          <mxGeometry height="18" width="160" x="-401.5" y="3418" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-331" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#666666;align=left;spacingLeft=6;" value="作用：金星也有盈亏，影响视星等" vertex="1">
-          <mxGeometry height="18" width="160" x="-413" y="3619" as="geometry" />
+          <mxGeometry height="18" width="160" x="-401.5" y="3439" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-332" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff4e6;strokeColor=#d79b00;fontSize=11;fontFamily=Microsoft YaHei;fontStyle=1;" value="④ 决定天空背景亮度" vertex="1">
-          <mxGeometry height="26" width="160" x="-413" y="3647" as="geometry" />
+          <mxGeometry height="26" width="160" x="-401.5" y="3467" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-333" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#666666;align=left;spacingLeft=6;" value="角色：决定是否肉眼可见" vertex="1">
-          <mxGeometry height="18" width="160" x="-413" y="3677" as="geometry" />
+          <mxGeometry height="18" width="160" x="-401.5" y="3497" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-334" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#666666;align=left;spacingLeft=6;" value="作用：需太阳在地平线以下足够深" vertex="1">
-          <mxGeometry height="18" width="160" x="-413" y="3698" as="geometry" />
+          <mxGeometry height="18" width="160" x="-401.5" y="3518" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-347" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;fontFamily=Microsoft YaHei;fontStyle=1;" value="① 地球自转" vertex="1">
-          <mxGeometry height="26" width="160" x="-144" y="3410" as="geometry" />
+          <mxGeometry height="26" width="160" x="-132.5" y="3230" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-348" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#666666;align=left;spacingLeft=6;" value="角色：决定观测窗口" vertex="1">
-          <mxGeometry height="18" width="160" x="-144" y="3440" as="geometry" />
+          <mxGeometry height="18" width="160" x="-132.5" y="3260" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-349" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#666666;align=left;spacingLeft=6;" value="作用：把你所在的经度圈带入夜半球" vertex="1">
-          <mxGeometry height="18" width="160" x="-144" y="3461" as="geometry" />
+          <mxGeometry height="18" width="160" x="-132.5" y="3281" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-350" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;fontFamily=Microsoft YaHei;fontStyle=1;" value="② 观测点纬度" vertex="1">
-          <mxGeometry height="26" width="160" x="-144" y="3489" as="geometry" />
+          <mxGeometry height="26" width="160" x="-132.5" y="3309" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-351" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#666666;align=left;spacingLeft=6;" value="角色：决定天体地平高度" vertex="1">
-          <mxGeometry height="18" width="160" x="-144" y="3519" as="geometry" />
+          <mxGeometry height="18" width="160" x="-132.5" y="3339" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-352" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#666666;align=left;spacingLeft=6;" value="作用：赤道附近看得最高，高纬度擦地平" vertex="1">
-          <mxGeometry height="18" width="160" x="-144" y="3540" as="geometry" />
+          <mxGeometry height="18" width="160" x="-132.5" y="3360" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-353" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;fontFamily=Microsoft YaHei;fontStyle=1;" value="③ 观测点经度" vertex="1">
-          <mxGeometry height="26" width="160" x="-144" y="3568" as="geometry" />
+          <mxGeometry height="26" width="160" x="-132.5" y="3388" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-354" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#666666;align=left;spacingLeft=6;" value="角色：决定本地钟表时刻" vertex="1">
-          <mxGeometry height="18" width="160" x="-144" y="3598" as="geometry" />
+          <mxGeometry height="18" width="160" x="-132.5" y="3418" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-355" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#666666;align=left;spacingLeft=6;" value="作用：决定看到的是傍晚还是凌晨伴月" vertex="1">
-          <mxGeometry height="18" width="160" x="-144" y="3619" as="geometry" />
+          <mxGeometry height="18" width="160" x="-132.5" y="3439" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-356" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;fontFamily=Microsoft YaHei;fontStyle=1;" value="④ 观测点海拔" vertex="1">
-          <mxGeometry height="26" width="160" x="-144" y="3647" as="geometry" />
+          <mxGeometry height="26" width="160" x="-132.5" y="3467" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-357" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#666666;align=left;spacingLeft=6;" value="角色：降低地平线遮挡" vertex="1">
-          <mxGeometry height="18" width="160" x="-144" y="3677" as="geometry" />
+          <mxGeometry height="18" width="160" x="-132.5" y="3497" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-358" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#666666;align=left;spacingLeft=6;" value="作用：可捕捉刚升起或即将落下的伴月" vertex="1">
-          <mxGeometry height="18" width="160" x="-144" y="3698" as="geometry" />
+          <mxGeometry height="18" width="160" x="-132.5" y="3518" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-359" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;fontFamily=Microsoft YaHei;fontStyle=1;" value="⑤ 局部地形遮挡" vertex="1">
-          <mxGeometry height="26" width="160" x="-144" y="3726" as="geometry" />
+          <mxGeometry height="26" width="160" x="-132.5" y="3546" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-360" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#666666;align=left;spacingLeft=6;" value="角色：实际可见度" vertex="1">
-          <mxGeometry height="18" width="160" x="-144" y="3756" as="geometry" />
+          <mxGeometry height="18" width="160" x="-132.5" y="3576" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-361" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#666666;align=left;spacingLeft=6;" value="作用：山/高楼会直接挡住低角度伴月" vertex="1">
-          <mxGeometry height="18" width="160" x="-144" y="3777" as="geometry" />
+          <mxGeometry height="18" width="160" x="-132.5" y="3597" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-377" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;fontFamily=Microsoft YaHei;fontStyle=1;" value="① 月球公转位置（黄经）" vertex="1">
-          <mxGeometry height="26" width="160" x="110" y="3410" as="geometry" />
+          <mxGeometry height="26" width="160" x="121.5" y="3230" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-378" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#666666;align=left;spacingLeft=6;" value="角色：决定月球在背景星空中的经度坐标" vertex="1">
-          <mxGeometry height="18" width="160" x="110" y="3440" as="geometry" />
+          <mxGeometry height="18" width="160" x="121.5" y="3260" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-379" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#666666;align=left;spacingLeft=6;" value="作用：与金星黄经对齐的核心条件之一" vertex="1">
-          <mxGeometry height="18" width="160" x="110" y="3461" as="geometry" />
+          <mxGeometry height="18" width="160" x="121.5" y="3281" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-380" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;fontFamily=Microsoft YaHei;fontStyle=1;" value="② 月球公转位置（黄纬）" vertex="1">
-          <mxGeometry height="26" width="160" x="110" y="3489" as="geometry" />
+          <mxGeometry height="26" width="160" x="121.5" y="3309" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-381" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#666666;align=left;spacingLeft=6;" value="角色：决定月球在背景星空中的纬度坐标" vertex="1">
-          <mxGeometry height="18" width="160" x="110" y="3519" as="geometry" />
+          <mxGeometry height="18" width="160" x="121.5" y="3339" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-382" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#666666;align=left;spacingLeft=6;" value="作用：黄纬差大于5度则不会形成紧密伴月" vertex="1">
-          <mxGeometry height="18" width="160" x="110" y="3540" as="geometry" />
+          <mxGeometry height="18" width="160" x="121.5" y="3360" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-383" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;fontFamily=Microsoft YaHei;fontStyle=1;" value="③ 月相（日月地夹角）" vertex="1">
-          <mxGeometry height="26" width="160" x="110" y="3568" as="geometry" />
+          <mxGeometry height="26" width="160" x="121.5" y="3388" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-384" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#666666;align=left;spacingLeft=6;" value="角色：决定月球自身亮度与形态" vertex="1">
-          <mxGeometry height="18" width="160" x="110" y="3598" as="geometry" />
+          <mxGeometry height="18" width="160" x="121.5" y="3418" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-385" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#666666;align=left;spacingLeft=6;" value="作用：蛾眉月最上镜，满月抢镜，新月不可见" vertex="1">
-          <mxGeometry height="18" width="160" x="110" y="3619" as="geometry" />
+          <mxGeometry height="18" width="160" x="121.5" y="3439" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-386" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;fontFamily=Microsoft YaHei;fontStyle=1;" value="④ 地月距离（近/远地点）" vertex="1">
-          <mxGeometry height="26" width="160" x="110" y="3647" as="geometry" />
+          <mxGeometry height="26" width="160" x="121.5" y="3467" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-387" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#666666;align=left;spacingLeft=6;" value="角色：影响月球的视直径" vertex="1">
-          <mxGeometry height="18" width="160" x="110" y="3677" as="geometry" />
+          <mxGeometry height="18" width="160" x="121.5" y="3497" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-388" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#666666;align=left;spacingLeft=6;" value="作用：近地点约34角分，远地点约29角分" vertex="1">
-          <mxGeometry height="18" width="160" x="110" y="3698" as="geometry" />
+          <mxGeometry height="18" width="160" x="121.5" y="3518" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-389" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;fontFamily=Microsoft YaHei;fontStyle=1;" value="⑤ 月球自转（潮汐锁定）" vertex="1">
-          <mxGeometry height="26" width="160" x="110" y="3726" as="geometry" />
+          <mxGeometry height="26" width="160" x="121.5" y="3546" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-390" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#666666;align=left;spacingLeft=6;" value="角色：不直接产生影响（无观测意义）" vertex="1">
-          <mxGeometry height="18" width="160" x="110" y="3756" as="geometry" />
+          <mxGeometry height="18" width="160" x="121.5" y="3576" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-391" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#666666;align=left;spacingLeft=6;" value="作用：月球始终同一面朝向地球" vertex="1">
-          <mxGeometry height="18" width="160" x="110" y="3777" as="geometry" />
+          <mxGeometry height="18" width="160" x="121.5" y="3597" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-407" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=11;fontFamily=Microsoft YaHei;fontStyle=1;" value="① 金星公转位置（黄经）" vertex="1">
-          <mxGeometry height="26" width="160" x="410" y="3410" as="geometry" />
+          <mxGeometry height="26" width="160" x="421.5" y="3230" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-408" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#666666;align=left;spacingLeft=6;" value="角色：决定金星在背景星空中的经度坐标" vertex="1">
-          <mxGeometry height="18" width="160" x="410" y="3440" as="geometry" />
+          <mxGeometry height="18" width="160" x="421.5" y="3260" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-409" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#666666;align=left;spacingLeft=6;" value="作用：与月球黄经对齐的核心条件之一" vertex="1">
-          <mxGeometry height="18" width="160" x="410" y="3461" as="geometry" />
+          <mxGeometry height="18" width="160" x="421.5" y="3281" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-410" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=11;fontFamily=Microsoft YaHei;fontStyle=1;" value="② 金星公转位置（黄纬）" vertex="1">
-          <mxGeometry height="26" width="160" x="410" y="3489" as="geometry" />
+          <mxGeometry height="26" width="160" x="421.5" y="3309" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-411" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#666666;align=left;spacingLeft=6;" value="角色：决定金星在背景星空中的纬度坐标" vertex="1">
-          <mxGeometry height="18" width="160" x="410" y="3519" as="geometry" />
+          <mxGeometry height="18" width="160" x="421.5" y="3339" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-412" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#666666;align=left;spacingLeft=6;" value="作用：金星轨道面与黄道面有约3.4度倾角" vertex="1">
-          <mxGeometry height="18" width="160" x="410" y="3540" as="geometry" />
+          <mxGeometry height="18" width="160" x="421.5" y="3360" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-413" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=11;fontFamily=Microsoft YaHei;fontStyle=1;" value="③ 日-金-地相位角" vertex="1">
-          <mxGeometry height="26" width="160" x="410" y="3568" as="geometry" />
+          <mxGeometry height="26" width="160" x="421.5" y="3388" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-414" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#666666;align=left;spacingLeft=6;" value="角色：决定金星的视星等（亮度）" vertex="1">
-          <mxGeometry height="18" width="160" x="410" y="3598" as="geometry" />
+          <mxGeometry height="18" width="160" x="421.5" y="3418" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-415" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#666666;align=left;spacingLeft=6;" value="作用：东大距/西大距时最亮（-4.8等）" vertex="1">
-          <mxGeometry height="18" width="160" x="410" y="3619" as="geometry" />
+          <mxGeometry height="18" width="160" x="421.5" y="3439" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-416" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=11;fontFamily=Microsoft YaHei;fontStyle=1;" value="④ 地金距离" vertex="1">
-          <mxGeometry height="26" width="160" x="410" y="3647" as="geometry" />
+          <mxGeometry height="26" width="160" x="421.5" y="3467" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-417" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#666666;align=left;spacingLeft=6;" value="角色：影响金星的视星等" vertex="1">
-          <mxGeometry height="18" width="160" x="410" y="3677" as="geometry" />
+          <mxGeometry height="18" width="160" x="421.5" y="3497" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-418" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#666666;align=left;spacingLeft=6;" value="作用：亮度变化范围约-3.8至-4.8等" vertex="1">
-          <mxGeometry height="18" width="160" x="410" y="3698" as="geometry" />
+          <mxGeometry height="18" width="160" x="421.5" y="3518" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-419" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=11;fontFamily=Microsoft YaHei;fontStyle=1;" value="⑤ 金星自转" vertex="1">
-          <mxGeometry height="26" width="160" x="410" y="3726" as="geometry" />
+          <mxGeometry height="26" width="160" x="421.5" y="3546" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-420" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#666666;align=left;spacingLeft=6;" value="角色：对伴月现象无直接作用" vertex="1">
-          <mxGeometry height="18" width="160" x="410" y="3756" as="geometry" />
+          <mxGeometry height="18" width="160" x="421.5" y="3576" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-421" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#666666;align=left;spacingLeft=6;" value="作用：不影响其作为观测目标的位置" vertex="1">
-          <mxGeometry height="18" width="160" x="410" y="3777" as="geometry" />
+          <mxGeometry height="18" width="160" x="421.5" y="3597" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-437" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;fontFamily=Microsoft YaHei;fontStyle=1;strokeWidth=2;" value="① 月球黄经 ≈ 金星黄经" vertex="1">
-          <mxGeometry height="26" width="160" x="259" y="3910" as="geometry" />
+          <mxGeometry height="26" width="160" x="270.5" y="3730" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-438" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#666666;align=left;spacingLeft=6;" value="角色：核心必要条件" vertex="1">
-          <mxGeometry height="18" width="160" x="259" y="3940" as="geometry" />
+          <mxGeometry height="18" width="160" x="270.5" y="3760" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-439" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#666666;align=left;spacingLeft=6;" value="作用：两者黄经相等即天文上的合" vertex="1">
-          <mxGeometry height="18" width="160" x="259" y="3961" as="geometry" />
+          <mxGeometry height="18" width="160" x="270.5" y="3781" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-440" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;fontFamily=Microsoft YaHei;fontStyle=1;strokeWidth=2;" value="② 月球黄纬 ≈ 金星黄纬" vertex="1">
-          <mxGeometry height="26" width="160" x="259" y="3989" as="geometry" />
+          <mxGeometry height="26" width="160" x="270.5" y="3809" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-441" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#666666;align=left;spacingLeft=6;" value="角色：决定伴月紧密程度" vertex="1">
-          <mxGeometry height="18" width="160" x="259" y="4019" as="geometry" />
+          <mxGeometry height="18" width="160" x="270.5" y="3839" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-442" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#666666;align=left;spacingLeft=6;" value="作用：纬度差大于5度则不视为紧密伴月" vertex="1">
-          <mxGeometry height="18" width="160" x="259" y="4040" as="geometry" />
+          <mxGeometry height="18" width="160" x="270.5" y="3860" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-443" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;fontFamily=Microsoft YaHei;fontStyle=1;strokeWidth=2;" value="③ 二者高度角大于0度" vertex="1">
-          <mxGeometry height="26" width="160" x="259" y="4068" as="geometry" />
+          <mxGeometry height="26" width="160" x="270.5" y="3888" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-444" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#666666;align=left;spacingLeft=6;" value="角色：决定能否看到" vertex="1">
-          <mxGeometry height="18" width="160" x="259" y="4098" as="geometry" />
+          <mxGeometry height="18" width="160" x="270.5" y="3918" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-445" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#666666;align=left;spacingLeft=6;" value="作用：两者必须都在地平线以上" vertex="1">
-          <mxGeometry height="18" width="160" x="259" y="4119" as="geometry" />
+          <mxGeometry height="18" width="160" x="270.5" y="3939" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-446" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;fontFamily=Microsoft YaHei;fontStyle=1;strokeWidth=2;" value="④ 太阳高度角小于阈值" vertex="1">
-          <mxGeometry height="26" width="160" x="259" y="4147" as="geometry" />
+          <mxGeometry height="26" width="160" x="270.5" y="3967" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-447" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#666666;align=left;spacingLeft=6;" value="角色：决定肉眼能否辨认" vertex="1">
-          <mxGeometry height="18" width="160" x="259" y="4177" as="geometry" />
+          <mxGeometry height="18" width="160" x="270.5" y="3997" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-448" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#666666;align=left;spacingLeft=6;" value="作用：需太阳在地平线以下6至12度" vertex="1">
-          <mxGeometry height="18" width="160" x="259" y="4198" as="geometry" />
+          <mxGeometry height="18" width="160" x="270.5" y="4018" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-461" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=11;fontFamily=Microsoft YaHei;fontStyle=1;" value="① 大气透明度" vertex="1">
-          <mxGeometry height="26" width="160" x="680" y="3410" as="geometry" />
+          <mxGeometry height="26" width="160" x="691.5" y="3230" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-462" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#666666;align=left;spacingLeft=6;" value="角色：直接阻断视线" vertex="1">
-          <mxGeometry height="18" width="160" x="680" y="3440" as="geometry" />
+          <mxGeometry height="18" width="160" x="691.5" y="3260" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-463" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#666666;align=left;spacingLeft=6;" value="作用：有云或雾霾就看不见" vertex="1">
-          <mxGeometry height="18" width="160" x="680" y="3461" as="geometry" />
+          <mxGeometry height="18" width="160" x="691.5" y="3281" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-464" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=11;fontFamily=Microsoft YaHei;fontStyle=1;" value="② 大气消光效应" vertex="1">
-          <mxGeometry height="26" width="160" x="680" y="3489" as="geometry" />
+          <mxGeometry height="26" width="160" x="691.5" y="3309" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-465" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#666666;align=left;spacingLeft=6;" value="角色：低角度时亮度衰减" vertex="1">
-          <mxGeometry height="18" width="160" x="680" y="3519" as="geometry" />
+          <mxGeometry height="18" width="160" x="691.5" y="3339" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-466" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#666666;align=left;spacingLeft=6;" value="作用：高度角低时可能低于肉眼阈值" vertex="1">
-          <mxGeometry height="18" width="160" x="680" y="3540" as="geometry" />
+          <mxGeometry height="18" width="160" x="691.5" y="3360" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-467" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=11;fontFamily=Microsoft YaHei;fontStyle=1;" value="③ 大气折射（蒙气差）" vertex="1">
-          <mxGeometry height="26" width="160" x="680" y="3568" as="geometry" />
+          <mxGeometry height="26" width="160" x="691.5" y="3388" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-468" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#666666;align=left;spacingLeft=6;" value="角色：影响地平附近的视位置" vertex="1">
-          <mxGeometry height="18" width="160" x="680" y="3598" as="geometry" />
+          <mxGeometry height="18" width="160" x="691.5" y="3418" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-469" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#666666;align=left;spacingLeft=6;" value="作用：低角度时抬升视位置约0.57度" vertex="1">
-          <mxGeometry height="18" width="160" x="680" y="3619" as="geometry" />
+          <mxGeometry height="18" width="160" x="691.5" y="3439" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-479" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff5f5;strokeColor=#b85450;fontSize=11;fontFamily=Microsoft YaHei;fontStyle=1;" value="① 月球升交点西退" vertex="1">
-          <mxGeometry height="26" width="160" x="933.5" y="3410" as="geometry" />
+          <mxGeometry height="26" width="160" x="945" y="3230" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-480" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#666666;align=left;spacingLeft=6;" value="角色：影响月球黄纬的极值" vertex="1">
-          <mxGeometry height="18" width="160" x="933.5" y="3440" as="geometry" />
+          <mxGeometry height="18" width="160" x="945" y="3260" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-481" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#666666;align=left;spacingLeft=6;" value="作用：18.6年周期，影响月掩金星频率" vertex="1">
-          <mxGeometry height="18" width="160" x="933.5" y="3461" as="geometry" />
+          <mxGeometry height="18" width="160" x="945" y="3281" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-482" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff5f5;strokeColor=#b85450;fontSize=11;fontFamily=Microsoft YaHei;fontStyle=1;" value="② 金星8年周期" vertex="1">
-          <mxGeometry height="26" width="160" x="933.5" y="3489" as="geometry" />
+          <mxGeometry height="26" width="160" x="945" y="3309" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-483" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#666666;align=left;spacingLeft=6;" value="角色：影响金星位置重复模式" vertex="1">
-          <mxGeometry height="18" width="160" x="933.5" y="3519" as="geometry" />
+          <mxGeometry height="18" width="160" x="945" y="3339" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-484" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#666666;align=left;spacingLeft=6;" value="作用：8地球年约等于13金星年，视运动轨迹重复" vertex="1">
-          <mxGeometry height="18" width="160" x="933.5" y="3540" as="geometry" />
+          <mxGeometry height="18" width="160" x="945" y="3360" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-485" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff5f5;strokeColor=#b85450;fontSize=11;fontFamily=Microsoft YaHei;fontStyle=1;" value="③ 岁差（地轴进动）" vertex="1">
-          <mxGeometry height="26" width="160" x="933.5" y="3568" as="geometry" />
+          <mxGeometry height="26" width="160" x="945" y="3388" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-486" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#666666;align=left;spacingLeft=6;" value="角色：改变背景坐标基准" vertex="1">
-          <mxGeometry height="18" width="160" x="933.5" y="3598" as="geometry" />
+          <mxGeometry height="18" width="160" x="945" y="3418" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-487" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#666666;align=left;spacingLeft=6;" value="作用：25772年周期，影响伴月季节分布" vertex="1">
-          <mxGeometry height="18" width="160" x="933.5" y="3619" as="geometry" />
+          <mxGeometry height="18" width="160" x="945" y="3439" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-497" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;fontFamily=Microsoft YaHei;fontStyle=1;" value="① UTC / 世界时" vertex="1">
-          <mxGeometry height="26" width="160" x="1190" y="3420" as="geometry" />
+          <mxGeometry height="26" width="160" x="1201.5" y="3240" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-498" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#666666;align=left;spacingLeft=6;" value="角色：记录事件发生的全球统一瞬间" vertex="1">
-          <mxGeometry height="18" width="160" x="1190" y="3450" as="geometry" />
+          <mxGeometry height="18" width="160" x="1201.5" y="3270" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-499" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#666666;align=left;spacingLeft=6;" value="作用：精确记录和预报的基础" vertex="1">
-          <mxGeometry height="18" width="160" x="1190" y="3471" as="geometry" />
+          <mxGeometry height="18" width="160" x="1201.5" y="3291" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-500" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;fontFamily=Microsoft YaHei;fontStyle=1;" value="② 本地时区 / 夏令时" vertex="1">
-          <mxGeometry height="26" width="160" x="1190" y="3499" as="geometry" />
+          <mxGeometry height="26" width="160" x="1201.5" y="3319" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-501" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#666666;align=left;spacingLeft=6;" value="角色：几点会出现" vertex="1">
-          <mxGeometry height="18" width="160" x="1190" y="3529" as="geometry" />
+          <mxGeometry height="18" width="160" x="1201.5" y="3349" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-502" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#666666;align=left;spacingLeft=6;" value="作用：把物理时刻转换成手表显示时间" vertex="1">
-          <mxGeometry height="18" width="160" x="1190" y="3550" as="geometry" />
+          <mxGeometry height="18" width="160" x="1201.5" y="3370" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-503" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;fontFamily=Microsoft YaHei;fontStyle=1;" value="③ 天文星历表（预报）" vertex="1">
-          <mxGeometry height="26" width="160" x="1190" y="3578" as="geometry" />
+          <mxGeometry height="26" width="160" x="1201.5" y="3398" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-504" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#666666;align=left;spacingLeft=6;" value="角色：人类预先计算和发布" vertex="1">
-          <mxGeometry height="18" width="160" x="1190" y="3608" as="geometry" />
+          <mxGeometry height="18" width="160" x="1201.5" y="3428" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-505" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#666666;align=left;spacingLeft=6;" value="作用：由天文台/软件提前告知可见时刻" vertex="1">
-          <mxGeometry height="18" width="160" x="1190" y="3629" as="geometry" />
+          <mxGeometry height="18" width="160" x="1201.5" y="3449" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
