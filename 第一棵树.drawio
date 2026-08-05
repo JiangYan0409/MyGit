@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="GuQRlMAANUZwoe0chdwx">
-    <mxGraphModel dx="12689" dy="1794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="12495" dy="1659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1783,46 +1783,46 @@
         <mxCell id="a6BHbfn1qw_weTyk3Nwu-577" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf2f8;strokeColor=#6c8ebf;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;" value="(1) 日节律（12时辰）" vertex="1">
           <mxGeometry height="30" width="1200" x="-10689.5" y="5512" as="geometry" />
         </mxCell>
-        <mxCell id="a6BHbfn1qw_weTyk3Nwu-578" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=11;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=8;" value="滚动内容：子丑寅卯辰巳午未申酉戌亥 -&gt; 十二经脉气血流注（子时胆经、丑时肝经、寅时肺经、卯时大肠经、辰时胃经、巳时脾经、午时心经、未时小肠经、申时膀胱经、酉时肾经、戌时心包经、亥时三焦经）" vertex="1">
+        <mxCell id="a6BHbfn1qw_weTyk3Nwu-578" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=11;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=8;" value="循环内容：子丑寅卯辰巳午未申酉戌亥 -&amp;gt; 十二经脉气血流注（子时胆经、丑时肝经、寅时肺经、卯时大肠经、辰时胃经、巳时脾经、午时心经、未时小肠经、申时膀胱经、酉时肾经、戌时心包经、亥时三焦经）" vertex="1">
           <mxGeometry height="22" width="1160" x="-10669.5" y="5547" as="geometry" />
         </mxCell>
-        <mxCell id="a6BHbfn1qw_weTyk3Nwu-579" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#6c8ebf;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#003366;align=left;spacingLeft=8;" value="系统作用：决定一日之内气化的小波动 —— 对应子午流注，指导针灸择时取穴" vertex="1">
+        <mxCell id="a6BHbfn1qw_weTyk3Nwu-579" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#6c8ebf;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#003366;align=left;spacingLeft=8;" value="作用：决定一日之内气化的小波动 —— 对应子午流注，指导针灸择时取穴" vertex="1">
           <mxGeometry height="20" width="1160" x="-10669.5" y="5572" as="geometry" />
         </mxCell>
         <mxCell id="a6BHbfn1qw_weTyk3Nwu-580" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf2f8;strokeColor=#6c8ebf;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;" value="(2) 步节律（约2个月/一气）" vertex="1">
           <mxGeometry height="30" width="1200" x="-10689.5" y="5612" as="geometry" />
         </mxCell>
-        <mxCell id="a6BHbfn1qw_weTyk3Nwu-581" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=11;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=8;" value="滚动内容：初之气（大寒-&gt;春分） -&gt; 二之气（春分-&gt;小满） -&gt; 三之气（小满-&gt;大暑） -&gt; 四之气（大暑-&gt;秋分） -&gt; 五之气（秋分-&gt;小雪） -&gt; 终之气（小雪-&gt;大寒）" vertex="1">
+        <mxCell id="a6BHbfn1qw_weTyk3Nwu-581" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=11;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=8;" value="循环内容：初之气（大寒-&amp;gt;春分） -&amp;gt; 二之气（春分-&amp;gt;小满） -&amp;gt; 三之气（小满-&amp;gt;大暑） -&amp;gt; 四之气（大暑-&amp;gt;秋分） -&amp;gt; 五之气（秋分-&amp;gt;小雪） -&amp;gt; 终之气（小雪-&amp;gt;大寒）" vertex="1">
           <mxGeometry height="22" width="1160" x="-10669.5" y="5647" as="geometry" />
         </mxCell>
-        <mxCell id="a6BHbfn1qw_weTyk3Nwu-582" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#6c8ebf;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#003366;align=left;spacingLeft=8;" value="系统作用：六气逐时交替——每一步的主气固定，客气逐步前移，产生该时段的具体气化偏性" vertex="1">
+        <mxCell id="a6BHbfn1qw_weTyk3Nwu-582" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#6c8ebf;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#003366;align=left;spacingLeft=8;" value="作用：六气逐时交替——每一步的主气固定，客气逐步前移，产生该时段的具体气化偏性" vertex="1">
           <mxGeometry height="20" width="1160" x="-10669.5" y="5672" as="geometry" />
         </mxCell>
         <mxCell id="a6BHbfn1qw_weTyk3Nwu-583" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf2f8;strokeColor=#6c8ebf;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;" value="(3) 年节律（司天/在泉 + 中运）" vertex="1">
           <mxGeometry height="30" width="1200" x="-10689.5" y="5712" as="geometry" />
         </mxCell>
-        <mxCell id="a6BHbfn1qw_weTyk3Nwu-584" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=11;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=8;" value="滚动内容：中运（木/火/土/金/水 + 太过/不及）每年一换；司天/在泉（三之气/终之气）每年一换" vertex="1">
+        <mxCell id="a6BHbfn1qw_weTyk3Nwu-584" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=11;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=8;" value="循环内容：中运（木/火/土/金/水 + 太过/不及）每年一换；司天/在泉（三之气/终之气）每年一换" vertex="1">
           <mxGeometry height="22" width="1160" x="-10669.5" y="5747" as="geometry" />
         </mxCell>
-        <mxCell id="a6BHbfn1qw_weTyk3Nwu-585" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#6c8ebf;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#003366;align=left;spacingLeft=8;" value="系统作用：决定全年气候基调——司天管上半年，在泉管下半年，中运管全年气化偏性" vertex="1">
+        <mxCell id="a6BHbfn1qw_weTyk3Nwu-585" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#6c8ebf;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#003366;align=left;spacingLeft=8;" value="作用：决定全年气候基调——司天管上半年，在泉管下半年，中运管全年气化偏性" vertex="1">
           <mxGeometry height="20" width="1160" x="-10669.5" y="5772" as="geometry" />
         </mxCell>
         <mxCell id="a6BHbfn1qw_weTyk3Nwu-586" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf2f8;strokeColor=#6c8ebf;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;" value="(4) 十年节律（天干循环）" vertex="1">
           <mxGeometry height="30" width="1200" x="-10689.5" y="5812" as="geometry" />
         </mxCell>
-        <mxCell id="a6BHbfn1qw_weTyk3Nwu-587" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=11;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=8;" value="滚动内容：甲-&gt;乙-&gt;丙-&gt;丁-&gt;戊-&gt;己-&gt;庚-&gt;辛-&gt;壬-&gt;癸（阳干太过，阴干不及）" vertex="1">
+        <mxCell id="a6BHbfn1qw_weTyk3Nwu-587" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=11;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=8;" value="循环内容：甲-&amp;gt;乙-&amp;gt;丙-&amp;gt;丁-&amp;gt;戊-&amp;gt;己-&amp;gt;庚-&amp;gt;辛-&amp;gt;壬-&amp;gt;癸（阳干太过，阴干不及）" vertex="1">
           <mxGeometry height="22" width="1160" x="-10669.5" y="5847" as="geometry" />
         </mxCell>
-        <mxCell id="a6BHbfn1qw_weTyk3Nwu-588" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#6c8ebf;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#003366;align=left;spacingLeft=8;" value="系统作用：五运的相位重现——同一中运每十年重现一次，形成气候的十年期规律" vertex="1">
+        <mxCell id="a6BHbfn1qw_weTyk3Nwu-588" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#6c8ebf;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#003366;align=left;spacingLeft=8;" value="作用：五运的相位重现——同一中运每十年重现一次，形成气候的十年期规律" vertex="1">
           <mxGeometry height="20" width="1160" x="-10669.5" y="5872" as="geometry" />
         </mxCell>
         <mxCell id="a6BHbfn1qw_weTyk3Nwu-589" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf2f8;strokeColor=#6c8ebf;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;" value="(5) 六十年节律（甲子循环）" vertex="1">
           <mxGeometry height="30" width="1200" x="-10689.5" y="5912" as="geometry" />
         </mxCell>
-        <mxCell id="a6BHbfn1qw_weTyk3Nwu-590" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=11;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=8;" value="滚动内容：六十甲子完整循环（甲子-&gt;乙丑-&gt;丙寅-&gt;丁卯-&gt;...-&gt;癸亥）—— 60年一周期" vertex="1">
+        <mxCell id="a6BHbfn1qw_weTyk3Nwu-590" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=11;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=8;" value="循环内容：六十甲子完整循环（甲子-&amp;gt;乙丑-&amp;gt;丙寅-&amp;gt;丁卯-&amp;gt;...-&amp;gt;癸亥）—— 60年一周期" vertex="1">
           <mxGeometry height="22" width="1160" x="-10669.5" y="5947" as="geometry" />
         </mxCell>
-        <mxCell id="a6BHbfn1qw_weTyk3Nwu-591" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#6c8ebf;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#003366;align=left;spacingLeft=8;" value="系统作用：运气同化的完整周期——天符、岁会、同天符等特殊年份在这个尺度上重现" vertex="1">
+        <mxCell id="a6BHbfn1qw_weTyk3Nwu-591" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#6c8ebf;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#003366;align=left;spacingLeft=8;" value="作用：运气同化的完整周期——天符、岁会、同天符等特殊年份在这个尺度上重现" vertex="1">
           <mxGeometry height="20" width="1160" x="-10669.5" y="5972" as="geometry" />
         </mxCell>
         <mxCell id="a6BHbfn1qw_weTyk3Nwu-592" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=14;fontStyle=1;fontFamily=Microsoft YaHei;verticalAlign=top;" value="逻辑链" vertex="1">
@@ -1852,7 +1852,7 @@
         <mxCell id="a6BHbfn1qw_weTyk3Nwu-600" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=18;fontStyle=1;fontFamily=Microsoft YaHei;" value="空间节律" vertex="1">
           <mxGeometry height="50" width="540" x="-8988" y="5380" as="geometry" />
         </mxCell>
-        <mxCell id="a6BHbfn1qw_weTyk3Nwu-601" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff9e6;strokeColor=#d6b656;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#996600;dashed=1;align=center;" value="功能：把同一气化格局投影到不同空间，产生差异化的响应 —— 系统从平均走向具体" vertex="1">
+        <mxCell id="a6BHbfn1qw_weTyk3Nwu-601" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff9e6;strokeColor=#d6b656;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#996600;dashed=1;align=center;" value="功能：把同一气化格局投影到不同空间，产生差异化的响应 —— 从平均走向具体" vertex="1">
           <mxGeometry height="30" width="540" x="-8988" y="5445" as="geometry" />
         </mxCell>
         <mxCell id="a6BHbfn1qw_weTyk3Nwu-602" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;fontStyle=1;fontFamily=Microsoft YaHei;" value="空间投影三层次（从宏观到微观）" vertex="1">
@@ -1864,7 +1864,7 @@
         <mxCell id="a6BHbfn1qw_weTyk3Nwu-604" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=11;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=8;" value="东方 -&gt; 木气偏胜 -&gt; 风温偏多 | 南方 -&gt; 火气偏胜 -&gt; 暑热偏多 | 中央 -&gt; 土气偏胜 -&gt; 湿气偏多 | 西方 -&gt; 金气偏胜 -&gt; 燥气偏多 | 北方 -&gt; 水气偏胜 -&gt; 寒气偏多" vertex="1">
           <mxGeometry height="22" width="1160" x="-9258" y="5590" as="geometry" />
         </mxCell>
-        <mxCell id="a6BHbfn1qw_weTyk3Nwu-605" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#82b366;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336600;align=left;spacingLeft=8;" value="系统作用：同一运气的格局，在不同方位有不同侧重——决定该区域气化的底色偏性" vertex="1">
+        <mxCell id="a6BHbfn1qw_weTyk3Nwu-605" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#82b366;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336600;align=left;spacingLeft=8;" value="作用：同一运气的格局，在不同方位有不同侧重——决定该区域气化的底色偏性" vertex="1">
           <mxGeometry height="20" width="1160" x="-9258" y="5615" as="geometry" />
         </mxCell>
         <mxCell id="a6BHbfn1qw_weTyk3Nwu-606" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8f5e9;strokeColor=#82b366;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;" value="(2) 九州分野（国家疆域）" vertex="1">
@@ -1873,7 +1873,7 @@
         <mxCell id="a6BHbfn1qw_weTyk3Nwu-607" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=11;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=8;" value="冀州-&gt;北方水气 | 兖州-&gt;东北风气 | 青州-&gt;东方木气 | 徐州-&gt;东南火气 | 扬州-&gt;南方火气 | 荆州-&gt;西南土气 | 豫州-&gt;中央土气 | 梁州-&gt;西北金气 | 雍州-&gt;西方金气" vertex="1">
           <mxGeometry height="22" width="1160" x="-9258" y="5690" as="geometry" />
         </mxCell>
-        <mxCell id="a6BHbfn1qw_weTyk3Nwu-608" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#82b366;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336600;align=left;spacingLeft=8;" value="系统作用：将五运六气与国家疆域对应，用于政令发布、灾异预警和分封区域的气化预报" vertex="1">
+        <mxCell id="a6BHbfn1qw_weTyk3Nwu-608" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#82b366;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336600;align=left;spacingLeft=8;" value="作用：将五运六气与国家疆域对应，用于政令发布、灾异预警和分封区域的气化预报" vertex="1">
           <mxGeometry height="20" width="1160" x="-9258" y="5715" as="geometry" />
         </mxCell>
         <mxCell id="a6BHbfn1qw_weTyk3Nwu-609" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8f5e9;strokeColor=#82b366;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;" value="(3) 人体经脉分野（十二经脉投影）" vertex="1">
@@ -1882,7 +1882,7 @@
         <mxCell id="a6BHbfn1qw_weTyk3Nwu-610" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=11;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=8;" value="子-&gt;胆经 | 丑-&gt;肝经 | 寅-&gt;肺经 | 卯-&gt;大肠经 | 辰-&gt;胃经 | 巳-&gt;脾经 | 午-&gt;心经 | 未-&gt;小肠经 | 申-&gt;膀胱经 | 酉-&gt;肾经 | 戌-&gt;心包经 | 亥-&gt;三焦经" vertex="1">
           <mxGeometry height="22" width="1160" x="-9258" y="5790" as="geometry" />
         </mxCell>
-        <mxCell id="a6BHbfn1qw_weTyk3Nwu-611" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#82b366;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336600;align=left;spacingLeft=8;" value="系统作用：将年/步/日的气化状态投影到具体经络上——指导针灸择经取穴和气血虚实判断" vertex="1">
+        <mxCell id="a6BHbfn1qw_weTyk3Nwu-611" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#82b366;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336600;align=left;spacingLeft=8;" value="作用：将年/步/日的气化状态投影到具体经络上——指导针灸择经取穴和气血虚实判断" vertex="1">
           <mxGeometry height="20" width="1160" x="-9258" y="5815" as="geometry" />
         </mxCell>
         <mxCell id="a6BHbfn1qw_weTyk3Nwu-612" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=14;fontStyle=1;fontFamily=Microsoft YaHei;verticalAlign=top;" value="逻辑链" vertex="1">
@@ -1915,8 +1915,8 @@
         <mxCell id="a6BHbfn1qw_weTyk3Nwu-621" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12;fontFamily=Microsoft YaHei;fontStyle=1;" value="输出：差异化响应" vertex="1">
           <mxGeometry height="30" width="140" x="-8318" y="5948" as="geometry" />
         </mxCell>
-        <mxCell id="a6BHbfn1qw_weTyk3Nwu-622" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;fontStyle=1;fontFamily=Microsoft YaHei;strokeWidth=2;" value="五运六气完整系统 = 四层纵向因果链 + 两轴横向运转（时间滚动 + 空间投影）" vertex="1">
-          <mxGeometry height="40" width="840" x="-9717" y="7440" as="geometry" />
+        <mxCell id="a6BHbfn1qw_weTyk3Nwu-622" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;fontStyle=1;fontFamily=Microsoft YaHei;strokeWidth=2;" value="五运六气 = 纵向因果 + 两轴横向运转（时间滚动 + 空间投影）" vertex="1">
+          <mxGeometry height="40" width="840" x="-9720" y="7350" as="geometry" />
         </mxCell>
         <mxCell id="a6BHbfn1qw_weTyk3Nwu-623" edge="1" parent="1" source="a6BHbfn1qw_weTyk3Nwu-625" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;curved=0;" target="a6BHbfn1qw_weTyk3Nwu-8">
           <mxGeometry relative="1" as="geometry" />
