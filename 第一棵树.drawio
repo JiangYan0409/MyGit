@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="GuQRlMAANUZwoe0chdwx">
-    <mxGraphModel dx="4040" dy="2271" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="975" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1480,10 +1480,10 @@
           <mxGeometry height="20" width="380" x="1195.5" y="5882" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1883" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=8;" value="映射规则：运生（气）→ 顺化（平稳）；气克运 → 天刑（剧烈）；运克气 → 小逆（波动）；气生运 → 不和（异常）" vertex="1">
-          <mxGeometry height="20" width="380" x="1195.5" y="5905" as="geometry" />
+          <mxGeometry height="25" width="380" x="1195.5" y="5902" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1884" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#b85450;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#990000;align=left;spacingLeft=8;" value="在五运六气中的角色：决定气候的“平稳/剧烈”属性——是五运六气最核心的输出判断" vertex="1">
-          <mxGeometry height="20" width="380" x="1195.5" y="5928" as="geometry" />
+          <mxGeometry height="22" width="380" x="1195.5" y="5928" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1885" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fce4e4;strokeColor=#b85450;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;" value="⑦ 运气同化（天符 / 岁会 / 同天符 / 同岁会）" vertex="1">
           <mxGeometry height="28" width="380" x="1195.5" y="5968" as="geometry" />
@@ -1492,10 +1492,10 @@
           <mxGeometry height="20" width="380" x="1195.5" y="6000" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1887" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=8;" value="映射规则：天符（司天+中运同化）、岁会（中运+年支同化）、同天符/同岁会（太过/不及的同化变体）" vertex="1">
-          <mxGeometry height="20" width="380" x="1195.5" y="6023" as="geometry" />
+          <mxGeometry height="27" width="380" x="1195.5" y="6018" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1888" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#b85450;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#990000;align=left;spacingLeft=8;" value="在五运六气中的角色：同化效应——该年某气特征被显著放大（太乙天符年气化极端，易发大疫）" vertex="1">
-          <mxGeometry height="20" width="380" x="1195.5" y="6046" as="geometry" />
+          <mxGeometry height="24" width="380" x="1195.5" y="6046" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1889" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fce4e4;strokeColor=#b85450;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;" value="⑧ 客主加临（时相耦合）" vertex="1">
           <mxGeometry height="28" width="380" x="1619" y="5850" as="geometry" />
@@ -1507,7 +1507,7 @@
           <mxGeometry height="20" width="380" x="1619" y="5905" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1892" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#b85450;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#990000;align=left;spacingLeft=8;" value="在五运六气中的角色：决定具体每个时段（约2个月）的气候偏离方向——是五运六气的“高精度输出”" vertex="1">
-          <mxGeometry height="20" width="380" x="1619" y="5928" as="geometry" />
+          <mxGeometry height="32" width="380" x="1619" y="5927" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1893" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fce4e4;strokeColor=#b85450;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;" value="⑨ 三年一“大疫”周期（气化异常积累）" vertex="1">
           <mxGeometry height="28" width="380" x="1619" y="5968" as="geometry" />
@@ -1519,7 +1519,7 @@
           <mxGeometry height="20" width="380" x="1619" y="6023" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1896" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#b85450;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#990000;align=left;spacingLeft=8;" value="在五运六气中的角色：某些年份（如太乙天符、天刑年）运气极端叠加，人体正气无法适应，引发大疫" vertex="1">
-          <mxGeometry height="20" width="380" x="1619" y="6046" as="geometry" />
+          <mxGeometry height="24" width="380" x="1619" y="6046" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1938" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;fontStyle=1;fontFamily=Microsoft YaHei;arcSize=3;verticalAlign=top;" value="大气环流（五运六气的物理载体）" vertex="1">
           <mxGeometry height="520" width="540" x="365" y="6311" as="geometry" />
