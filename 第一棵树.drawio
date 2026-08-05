@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="GuQRlMAANUZwoe0chdwx">
-    <mxGraphModel dx="2315" dy="837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3969" dy="1767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -485,7 +485,7 @@
           <mxGeometry height="30" width="150" x="840" y="390" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-162" parent="1" style="text;whiteSpace=wrap;fontSize=14;" value="① 日期 → 儒略日（JD）：公历有闰年、月份长度不一，不能直接用于天文计算。儒略日是一个连续递增的实数天数，从公元前4713年1月1日正午起算。&#xa; ↓&#xa;② 儒略日 → 太阳黄经（λ）：黄经是太阳在公转轨道上的角度位置。从黄经出发，才能算出直射纬度。&#xa; ↓&#xa;③ 黄经 + 黄赤交角 → 太阳赤纬（δ） ：赤纬是太阳直射点的纬度。&#xa; ↓&#xa;④ 赤纬 + 纬度 + 大气折射 + 视半径 + 海拔修正 → 时角（ω） ：时角是太阳从正午位置向西转过的角度。日出时，时角为负（东）；日落时为正（西）。&#xa; ↓&#xa;⑤ 时角 → 地方真太阳时（LAT）：转化为时间&#xa;↓&#xa;⑥ 地方真太阳时 → 地方平太阳时（LMT）+ 恒星时核对 :地球公转轨道是椭圆，导致真太阳时每天不是均匀的24小时。钟表用的是“平太阳时”（均匀的）。需要加上均时差（EoT），这个值在一年中在 -14.3分钟 ~ +16.4分钟 之间变化。 &#xa; ↓&#xa;⑦ 地方平太阳时 → 区时（北京时间）+ ΔT修正 :北京时间的基准经度是 东经120°。&#xa; ↓&#xa;最终输出：日出/日落时刻" vertex="1">
-          <mxGeometry height="325" width="640" x="1540" y="1263" as="geometry" />
+          <mxGeometry height="325" width="640" x="1540" y="1241" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-164" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;" value="&lt;span style=&quot;font-weight: 600; color: rgb(15, 17, 21); text-align: start;&quot;&gt;&lt;span class=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;地球自转的不均匀性&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="150" x="650" y="600" as="geometry" />
