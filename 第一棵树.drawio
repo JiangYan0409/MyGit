@@ -1,9 +1,18 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="GuQRlMAANUZwoe0chdwx">
-    <mxGraphModel dx="3142" dy="1767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4713" dy="2650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="7L3AGora1TePQE9lAWJE-1937" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=18;fontStyle=1;fontFamily=Microsoft YaHei;arcSize=3;verticalAlign=top;opacity=60;" value="对环境影响" vertex="1">
+          <mxGeometry height="610" width="1131" x="345" y="6241" as="geometry" />
+        </mxCell>
+        <mxCell id="7L3AGora1TePQE9lAWJE-2007" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f0f0;strokeColor=#999999;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#333333;dashed=1;align=right;arcSize=2;verticalAlign=top;" value="大运 → 小气候&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;" vertex="1">
+          <mxGeometry height="560" width="530" x="935" y="6281" as="geometry" />
+        </mxCell>
+        <mxCell id="7L3AGora1TePQE9lAWJE-2006" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f0f0;strokeColor=#999999;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#333333;dashed=1;align=left;arcSize=2;verticalAlign=top;" value="&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;运气偏性 → 温度/湿度/风场" vertex="1">
+          <mxGeometry height="560" width="560" x="355" y="6281" as="geometry" />
+        </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1414" edge="1" parent="1" source="7L3AGora1TePQE9lAWJE-1415" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;" target="7L3AGora1TePQE9lAWJE-1553">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -1246,482 +1255,464 @@
         <mxCell id="7L3AGora1TePQE9lAWJE-1817" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#666666;align=left;spacingLeft=6;" value="作用：由天文台/软件提前告知可见时刻" vertex="1">
           <mxGeometry height="18" width="160" x="2311.5" y="3379" as="geometry" />
         </mxCell>
+        <mxCell id="7L3AGora1TePQE9lAWJE-2066" edge="1" parent="1" source="7L3AGora1TePQE9lAWJE-1818" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=0;" target="7L3AGora1TePQE9lAWJE-1857">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1818" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=18;fontStyle=1;fontFamily=Microsoft YaHei;arcSize=7;verticalAlign=top;gradientColor=none;opacity=30;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;源头驱动（天体几何）" vertex="1">
-          <mxGeometry height="870" width="1210" x="790" y="4190" as="geometry" />
+          <mxGeometry height="870" width="1280" x="922" y="4240" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1819" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;fontStyle=1;fontFamily=Microsoft YaHei;arcSize=5;verticalAlign=top;" value="🌙 月球（提供阴气的月度/半年度调幅）" vertex="1">
-          <mxGeometry height="520" width="380" x="1210" y="4280" as="geometry" />
+          <mxGeometry height="520" width="380" x="1372" y="4330" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1820" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8f5e9;strokeColor=#82b366;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;" value="⑤ 月球黄经（朔望月位置）" vertex="1">
-          <mxGeometry height="28" width="320" x="1235" y="4335" as="geometry" />
+          <mxGeometry height="28" width="320" x="1397" y="4377" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1821" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=8;" value="具体参数：每 29.530589 天完成 360°（朔望月）" vertex="1">
-          <mxGeometry height="30" width="320" x="1235" y="4367" as="geometry" />
+          <mxGeometry height="30" width="320" x="1397" y="4409" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1822" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=8;" value="映射规则：由月球轨道根数计算，与太阳黄经求差得月相" vertex="1">
-          <mxGeometry height="30" width="320" x="1235" y="4397" as="geometry" />
+          <mxGeometry height="30" width="320" x="1397" y="4439" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1823" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#82b366;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336600;align=left;spacingLeft=8;" value="在五运六气中的角色：与六气叠加，产生“朔望潮汐效应”——影响湿气与津液代谢" vertex="1">
-          <mxGeometry height="30" width="320" x="1235" y="4427" as="geometry" />
+          <mxGeometry height="30" width="320" x="1397" y="4469" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1824" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8f5e9;strokeColor=#82b366;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;" value="⑥ 月球黄纬（白道倾角）" vertex="1">
-          <mxGeometry height="28" width="320" x="1235" y="4494" as="geometry" />
+          <mxGeometry height="28" width="320" x="1397" y="4536" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1825" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=8;" value="具体参数：相对黄道面 ±5.14°，18.6 年周期变化" vertex="1">
-          <mxGeometry height="30" width="320" x="1235" y="4526" as="geometry" />
+          <mxGeometry height="30" width="320" x="1397" y="4568" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1826" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=8;" value="映射规则：月球轨道根数中的 i（轨道倾角），随升交点西退变化" vertex="1">
-          <mxGeometry height="30" width="320" x="1235" y="4558" as="geometry" />
+          <mxGeometry height="30" width="320" x="1397" y="4600" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1827" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#82b366;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336600;align=left;spacingLeft=8;" value="在五运六气中的角色：影响“客气”中的“间气”——使六气的异常项在18.6年周期内改变" vertex="1">
-          <mxGeometry height="30" width="320" x="1235" y="4589" as="geometry" />
+          <mxGeometry height="30" width="320" x="1397" y="4631" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1828" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8f5e9;strokeColor=#82b366;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;" value="⑦ 地月距离（近/远地点）" vertex="1">
-          <mxGeometry height="28" width="320" x="1235" y="4651" as="geometry" />
+          <mxGeometry height="28" width="320" x="1397" y="4693" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1829" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=8;" value="具体参数：约 36.3 万 km ~ 40.5 万 km，周期约 27.55 天" vertex="1">
-          <mxGeometry height="30" width="320" x="1235" y="4683" as="geometry" />
+          <mxGeometry height="30" width="320" x="1397" y="4725" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1830" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=8;" value="映射规则：月球轨道离心率（e_moon ≈ 0.0549）决定近/远地点距离" vertex="1">
-          <mxGeometry height="30" width="320" x="1235" y="4717" as="geometry" />
+          <mxGeometry height="30" width="320" x="1397" y="4759" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1831" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#82b366;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336600;align=left;spacingLeft=8;" value="在五运六气中的角色：调制“太阴湿土”的强度——近地点时湿气偏重" vertex="1">
-          <mxGeometry height="30" width="320" x="1235" y="4751" as="geometry" />
+          <mxGeometry height="30" width="320" x="1397" y="4793" as="geometry" />
         </mxCell>
-        <mxCell id="7L3AGora1TePQE9lAWJE-1832" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;fontStyle=1;fontFamily=Microsoft YaHei;" value="🪐 五星（提供五运的年际基调）" vertex="1">
-          <mxGeometry height="35" width="320" x="1635" y="4280" as="geometry" />
+        <mxCell id="7L3AGora1TePQE9lAWJE-1832" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;fontStyle=1;fontFamily=Microsoft YaHei;arcSize=7;verticalAlign=top;" value="🪐 五星（提供五运的年际基调）" vertex="1">
+          <mxGeometry height="760" width="370" x="1807" y="4327" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1833" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f3e5f5;strokeColor=#9673a6;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;" value="⑧ 木星（岁星）黄经" vertex="1">
-          <mxGeometry height="28" width="320" x="1635" y="4335" as="geometry" />
+          <mxGeometry height="28" width="320" x="1832" y="4370" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1834" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=8;" value="具体参数：约 12 年一周天（每年约 30°），会合周期约 398.88 天" vertex="1">
-          <mxGeometry height="20" width="320" x="1635" y="4367" as="geometry" />
+          <mxGeometry height="30" width="320" x="1832" y="4399" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1835" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=8;" value="映射规则：通过天干化运决定“中运”——木星位置 → 该年五行基调" vertex="1">
-          <mxGeometry height="20" width="320" x="1635" y="4390" as="geometry" />
+          <mxGeometry height="25" width="320" x="1832" y="4424" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1836" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#9673a6;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#663399;align=left;spacingLeft=8;" value="在五运六气中的角色：木运的主宰——甲己化土、乙庚化金等，由岁星位置推导年干" vertex="1">
-          <mxGeometry height="20" width="320" x="1635" y="4413" as="geometry" />
+          <mxGeometry height="30" width="320" x="1832" y="4448" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1837" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f3e5f5;strokeColor=#9673a6;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;" value="⑨ 火星（荧惑）黄经与亮度" vertex="1">
-          <mxGeometry height="28" width="320" x="1635" y="4453" as="geometry" />
+          <mxGeometry height="28" width="320" x="1832" y="4488" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1838" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=8;" value="具体参数：约 687 天一周天，约 2 年一冲，亮度变化大" vertex="1">
-          <mxGeometry height="20" width="320" x="1635" y="4485" as="geometry" />
+          <mxGeometry height="30" width="320" x="1832" y="4517" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1839" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=8;" value="映射规则：荧惑守心/逆行等异常状态 → 火运太过/不及的判断依据" vertex="1">
-          <mxGeometry height="20" width="320" x="1635" y="4508" as="geometry" />
+          <mxGeometry height="25" width="320" x="1832" y="4541" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1840" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#9673a6;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#663399;align=left;spacingLeft=8;" value="在五运六气中的角色：火运的主宰——荧惑异常对应火运亢烈（戊癸化火）" vertex="1">
-          <mxGeometry height="20" width="320" x="1635" y="4531" as="geometry" />
+          <mxGeometry height="30" width="320" x="1832" y="4566" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1841" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f3e5f5;strokeColor=#9673a6;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;" value="⑩ 土星（镇星）黄经" vertex="1">
-          <mxGeometry height="28" width="320" x="1635" y="4571" as="geometry" />
+          <mxGeometry height="28" width="320" x="1832" y="4606" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1842" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=8;" value="具体参数：约 29.5 年一周天，每年约 12.2°" vertex="1">
-          <mxGeometry height="20" width="320" x="1635" y="4603" as="geometry" />
+          <mxGeometry height="30" width="320" x="1832" y="4635" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1843" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=8;" value="映射规则：与木星会合形成约 20 年的土木会合周期" vertex="1">
-          <mxGeometry height="20" width="320" x="1635" y="4626" as="geometry" />
+          <mxGeometry height="25" width="320" x="1832" y="4659" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1844" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#9673a6;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#663399;align=left;spacingLeft=8;" value="在五运六气中的角色：土运的主宰——与木星共同形成“五运”的包络线，甲己化土" vertex="1">
-          <mxGeometry height="20" width="320" x="1635" y="4649" as="geometry" />
+          <mxGeometry height="30" width="320" x="1832" y="4684" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1845" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f3e5f5;strokeColor=#9673a6;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;" value="⑪ 金星（太白）黄经与亮度" vertex="1">
-          <mxGeometry height="28" width="320" x="1635" y="4689" as="geometry" />
+          <mxGeometry height="28" width="320" x="1832" y="4724" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1846" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=8;" value="具体参数：约 225 天一周天，距角变化（东/西大距）" vertex="1">
-          <mxGeometry height="20" width="320" x="1635" y="4721" as="geometry" />
+          <mxGeometry height="30" width="320" x="1832" y="4753" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1847" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=8;" value="映射规则：太白亮度与金运强度呈正相关，距角决定可见状态" vertex="1">
-          <mxGeometry height="20" width="320" x="1635" y="4744" as="geometry" />
+          <mxGeometry height="25" width="320" x="1832" y="4777" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1848" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#9673a6;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#663399;align=left;spacingLeft=8;" value="在五运六气中的角色：金运的主宰——太白亮度决定金运太过/不及（乙庚化金）" vertex="1">
-          <mxGeometry height="20" width="320" x="1635" y="4767" as="geometry" />
+          <mxGeometry height="30" width="320" x="1832" y="4802" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1849" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f3e5f5;strokeColor=#9673a6;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;" value="⑫ 水星（辰星）黄经" vertex="1">
-          <mxGeometry height="28" width="320" x="1635" y="4807" as="geometry" />
+          <mxGeometry height="28" width="320" x="1832" y="4842" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1850" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=8;" value="具体参数：约 88 天一周天，常伏于日旁（距角小）" vertex="1">
-          <mxGeometry height="20" width="320" x="1635" y="4839" as="geometry" />
+          <mxGeometry height="30" width="320" x="1832" y="4871" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1851" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=8;" value="映射规则：辰星现于晨/昏的时段决定水运强度" vertex="1">
-          <mxGeometry height="20" width="320" x="1635" y="4862" as="geometry" />
+          <mxGeometry height="25" width="320" x="1832" y="4895" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1852" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#9673a6;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#663399;align=left;spacingLeft=8;" value="在五运六气中的角色：水运的主宰——辰星可见状态决定水运太过/不及（丙辛化水）" vertex="1">
-          <mxGeometry height="20" width="320" x="1635" y="4885" as="geometry" />
+          <mxGeometry height="30" width="320" x="1832" y="4920" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1853" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f3e5f5;strokeColor=#9673a6;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;" value="⑬ 五星会合（连珠/聚合）" vertex="1">
-          <mxGeometry height="28" width="320" x="1635" y="4925" as="geometry" />
+          <mxGeometry height="28" width="320" x="1832" y="4960" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1854" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=8;" value="具体参数：多星黄经汇聚于相近区间（通常＜30°）" vertex="1">
-          <mxGeometry height="20" width="320" x="1635" y="4957" as="geometry" />
+          <mxGeometry height="30" width="320" x="1832" y="4989" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1855" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=8;" value="映射规则：各星黄经之差的绝对值判断是否形成“连珠”" vertex="1">
-          <mxGeometry height="20" width="320" x="1635" y="4980" as="geometry" />
+          <mxGeometry height="25" width="320" x="1832" y="5013" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1856" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#9673a6;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#663399;align=left;spacingLeft=8;" value="在五运六气中的角色：“运气同化”的判断依据——五星汇聚时，运气的耦合效应被放大" vertex="1">
-          <mxGeometry height="20" width="320" x="1635" y="5003" as="geometry" />
+          <mxGeometry height="30" width="320" x="1832" y="5038" as="geometry" />
         </mxCell>
-        <mxCell id="7L3AGora1TePQE9lAWJE-1857" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=18;fontStyle=1;fontFamily=Microsoft YaHei;" value="天文→气化" vertex="1">
-          <mxGeometry height="50" width="420" x="1205" y="5290" as="geometry" />
+        <mxCell id="7L3AGora1TePQE9lAWJE-1857" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=18;fontStyle=1;fontFamily=Microsoft YaHei;verticalAlign=top;opacity=30;arcSize=6;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;天文→气化" vertex="1">
+          <mxGeometry height="900" width="1270" x="925" y="5216" as="geometry" />
         </mxCell>
-        <mxCell id="7L3AGora1TePQE9lAWJE-1858" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=14;fontStyle=1;fontFamily=Microsoft YaHei;" value="天干化运（五星位置 → 五运）" vertex="1">
-          <mxGeometry height="35" width="380" x="2210" y="5607" as="geometry" />
+        <mxCell id="7L3AGora1TePQE9lAWJE-2062" edge="1" parent="1" source="7L3AGora1TePQE9lAWJE-1858" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;" target="7L3AGora1TePQE9lAWJE-1880">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7L3AGora1TePQE9lAWJE-1859" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff9e6;strokeColor=#d6b656;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;" value="① 年干 → 中运（大运）" vertex="1">
-          <mxGeometry height="28" width="380" x="2210" y="5662" as="geometry" />
+        <mxCell id="7L3AGora1TePQE9lAWJE-1858" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;fontStyle=1;fontFamily=Microsoft YaHei;arcSize=7;verticalAlign=top;align=center;fontColor=default;" value="天干化运（五星位置 → 五运）" vertex="1">
+          <mxGeometry height="313" width="440" x="1705.5" y="5288.5" as="geometry" />
+        </mxCell>
+        <mxCell id="7L3AGora1TePQE9lAWJE-1859" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f3e5f5;strokeColor=#9673a6;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;fontColor=default;" value="① 年干 → 中运（大运）" vertex="1">
+          <mxGeometry height="28" width="380" x="1735.5" y="5343.5" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1860" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=8;" value="具体参数：年干为甲、乙、丙、丁、戊、己、庚、辛、壬、癸（由岁星位置推导）" vertex="1">
-          <mxGeometry height="20" width="380" x="2210" y="5694" as="geometry" />
+          <mxGeometry height="30" width="380" x="1735.5" y="5371.5" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1861" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=8;" value="映射规则：甲己→土运，乙庚→金运，丙辛→水运，丁壬→木运，戊癸→火运" vertex="1">
-          <mxGeometry height="20" width="380" x="2210" y="5717" as="geometry" />
+          <mxGeometry height="30" width="380" x="1735.5" y="5398.5" as="geometry" />
         </mxCell>
-        <mxCell id="7L3AGora1TePQE9lAWJE-1862" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#d6b656;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#996600;align=left;spacingLeft=8;" value="在五运六气中的角色：确定全年的气候基调——中运是五运六气的“总纲”，决定全年气化偏性" vertex="1">
-          <mxGeometry height="20" width="380" x="2210" y="5740" as="geometry" />
+        <mxCell id="7L3AGora1TePQE9lAWJE-1862" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#9673a6;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#663399;align=left;spacingLeft=8;verticalAlign=middle;" value="在五运六气中的角色：确定全年的气候基调——中运是五运六气的“总纲”，决定全年气化偏性" vertex="1">
+          <mxGeometry height="30" width="380" x="1735.5" y="5427.5" as="geometry" />
         </mxCell>
-        <mxCell id="7L3AGora1TePQE9lAWJE-1863" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff9e6;strokeColor=#d6b656;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;" value="② 岁运的太过与不及" vertex="1">
-          <mxGeometry height="28" width="380" x="2210" y="5780" as="geometry" />
+        <mxCell id="7L3AGora1TePQE9lAWJE-1863" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f3e5f5;strokeColor=#9673a6;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;fontColor=default;" value="② 岁运的太过与不及" vertex="1">
+          <mxGeometry height="28" width="380" x="1735.5" y="5477.5" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1864" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=8;" value="具体参数：阳干（甲丙戊庚壬）→ 太过，阴干（乙丁己辛癸）→ 不及" vertex="1">
-          <mxGeometry height="20" width="380" x="2210" y="5812" as="geometry" />
+          <mxGeometry height="30" width="380" x="1735.5" y="5506.5" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1865" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=8;" value="映射规则：年干奇偶性决定——奇数（阳）为太过，偶数（阴）为不及" vertex="1">
-          <mxGeometry height="20" width="380" x="2210" y="5835" as="geometry" />
+          <mxGeometry height="30" width="380" x="1735.5" y="5532.5" as="geometry" />
         </mxCell>
-        <mxCell id="7L3AGora1TePQE9lAWJE-1866" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#d6b656;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#996600;align=left;spacingLeft=8;" value="在五运六气中的角色：太过之年气化偏“亢烈”，不及之年气化偏“虚弱”——决定气候极端程度" vertex="1">
-          <mxGeometry height="20" width="380" x="2210" y="5858" as="geometry" />
+        <mxCell id="7L3AGora1TePQE9lAWJE-1866" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#9673a6;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#663399;align=left;spacingLeft=8;verticalAlign=middle;" value="在五运六气中的角色：太过之年气化偏“亢烈”，不及之年气化偏“虚弱”——决定气候极端程度" vertex="1">
+          <mxGeometry height="30" width="380" x="1735.5" y="5561.5" as="geometry" />
         </mxCell>
-        <mxCell id="7L3AGora1TePQE9lAWJE-1867" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=14;fontStyle=1;fontFamily=Microsoft YaHei;" value="地支化气（太阳黄经 → 六气）" vertex="1">
-          <mxGeometry height="35" width="380" x="555.5" y="5400" as="geometry" />
+        <mxCell id="7L3AGora1TePQE9lAWJE-2061" edge="1" parent="1" source="7L3AGora1TePQE9lAWJE-1867" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;" target="7L3AGora1TePQE9lAWJE-1880">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7L3AGora1TePQE9lAWJE-1867" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=14;fontStyle=1;fontFamily=Microsoft YaHei;arcSize=7;verticalAlign=top;" value="地支化气（太阳黄经 → 六气）" vertex="1">
+          <mxGeometry height="440" width="420" x="991" y="5249" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1868" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff4e6;strokeColor=#d79b00;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;" value="③ 年支 → 司天 / 在泉" vertex="1">
-          <mxGeometry height="28" width="380" x="555.5" y="5455" as="geometry" />
+          <mxGeometry height="28" width="380" x="1011" y="5304" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1869" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=8;" value="具体参数：年支为子、丑、寅、卯、辰、巳、午、未、申、酉、戌、亥" vertex="1">
-          <mxGeometry height="20" width="380" x="555.5" y="5487" as="geometry" />
+          <mxGeometry height="30" width="380" x="1011" y="5332" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1870" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=8;" value="映射规则：子午→少阴君火，丑未→太阴湿土，寅申→少阳相火，卯酉→阳明燥金，辰戌→太阳寒水，巳亥→厥阴风木" vertex="1">
-          <mxGeometry height="20" width="380" x="555.5" y="5510" as="geometry" />
+          <mxGeometry height="30" width="380" x="1011" y="5359" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1871" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#d79b00;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#cc6600;align=left;spacingLeft=8;" value="在五运六气中的角色：司天（上半年）和在泉（下半年）的总气化倾向——统领全年的“客气”格局" vertex="1">
-          <mxGeometry height="20" width="380" x="555.5" y="5533" as="geometry" />
+          <mxGeometry height="30" width="380" x="1011" y="5389" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1872" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff4e6;strokeColor=#d79b00;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;" value="④ 六气步位（主气）" vertex="1">
-          <mxGeometry height="28" width="380" x="555.5" y="5573" as="geometry" />
+          <mxGeometry height="28" width="380" x="1011" y="5431" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1873" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=8;" value="具体参数：以太阳黄经0°、30°、60°...为边界，每气约60.875天（四个节气）" vertex="1">
-          <mxGeometry height="20" width="380" x="555.5" y="5605" as="geometry" />
+          <mxGeometry height="30" width="380" x="1011" y="5459" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1874" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=8;" value="映射规则：初之气→厥阴风木，二之气→少阴君火，三之气→少阳相火，四之气→太阴湿土，五之气→阳明燥金，终之气→太阳寒水" vertex="1">
-          <mxGeometry height="20" width="380" x="555.5" y="5628" as="geometry" />
+          <mxGeometry height="30" width="380" x="1011" y="5486" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1875" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#d79b00;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#cc6600;align=left;spacingLeft=8;" value="在五运六气中的角色：每年不变的固定节律框架——是“常”，代表四季的正常气化顺序" vertex="1">
-          <mxGeometry height="20" width="380" x="555.5" y="5651" as="geometry" />
+          <mxGeometry height="30" width="380" x="1011" y="5516" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1876" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff4e6;strokeColor=#d79b00;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;" value="⑤ 客气（由年支推衍）" vertex="1">
-          <mxGeometry height="28" width="380" x="555.5" y="5691" as="geometry" />
+          <mxGeometry height="28" width="380" x="1011" y="5557" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1877" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=8;" value="具体参数：三之气 = 司天，终之气 = 在泉，其余按三阴三阳顺序排列" vertex="1">
-          <mxGeometry height="20" width="380" x="555.5" y="5723" as="geometry" />
+          <mxGeometry height="30" width="380" x="1011" y="5585" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1878" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=8;" value="映射规则：司天确定后 → 按厥阴→少阴→太阴→少阳→阳明→太阳顺序，每步前移一位" vertex="1">
-          <mxGeometry height="20" width="380" x="555.5" y="5746" as="geometry" />
+          <mxGeometry height="30" width="380" x="1011" y="5612" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1879" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#d79b00;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#cc6600;align=left;spacingLeft=8;" value="在五运六气中的角色：当年的“异常气化”叠加——是“变”，代表天体摄动导致的节律偏离" vertex="1">
-          <mxGeometry height="20" width="380" x="555.5" y="5769" as="geometry" />
+          <mxGeometry height="30" width="380" x="1011" y="5642" as="geometry" />
         </mxCell>
-        <mxCell id="7L3AGora1TePQE9lAWJE-1880" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;fontStyle=1;fontFamily=Microsoft YaHei;" value="运气相合（五运 × 六气的耦合）" vertex="1">
-          <mxGeometry height="35" width="380" x="1226.5" y="5940" as="geometry" />
+        <mxCell id="7L3AGora1TePQE9lAWJE-2063" edge="1" parent="1" source="7L3AGora1TePQE9lAWJE-1880" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;" target="7L3AGora1TePQE9lAWJE-1937">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7L3AGora1TePQE9lAWJE-2064" edge="1" parent="1" source="7L3AGora1TePQE9lAWJE-1880" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=0;" target="7L3AGora1TePQE9lAWJE-2009">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7L3AGora1TePQE9lAWJE-1880" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;fontStyle=1;fontFamily=Microsoft YaHei;verticalAlign=top;opacity=60;" value="运气相合（五运 × 六气的耦合）" vertex="1">
+          <mxGeometry height="300" width="860" x="1165" y="5796" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1881" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fce4e4;strokeColor=#b85450;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;" value="⑥ 运与气的五行关系" vertex="1">
-          <mxGeometry height="28" width="380" x="1226.5" y="5995" as="geometry" />
+          <mxGeometry height="28" width="380" x="1195.5" y="5850" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1882" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=8;" value="具体参数：运（年干五行）与气（司天/客气五行）之间的生克关系" vertex="1">
-          <mxGeometry height="20" width="380" x="1226.5" y="6027" as="geometry" />
+          <mxGeometry height="20" width="380" x="1195.5" y="5882" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1883" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=8;" value="映射规则：运生（气）→ 顺化（平稳）；气克运 → 天刑（剧烈）；运克气 → 小逆（波动）；气生运 → 不和（异常）" vertex="1">
-          <mxGeometry height="20" width="380" x="1226.5" y="6050" as="geometry" />
+          <mxGeometry height="20" width="380" x="1195.5" y="5905" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1884" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#b85450;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#990000;align=left;spacingLeft=8;" value="在五运六气中的角色：决定气候的“平稳/剧烈”属性——是五运六气最核心的输出判断" vertex="1">
-          <mxGeometry height="20" width="380" x="1226.5" y="6073" as="geometry" />
+          <mxGeometry height="20" width="380" x="1195.5" y="5928" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1885" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fce4e4;strokeColor=#b85450;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;" value="⑦ 运气同化（天符 / 岁会 / 同天符 / 同岁会）" vertex="1">
-          <mxGeometry height="28" width="380" x="1226.5" y="6113" as="geometry" />
+          <mxGeometry height="28" width="380" x="1195.5" y="5968" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1886" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=8;" value="具体参数：运与气的五行相同（如木运遇风木之气）时触发" vertex="1">
-          <mxGeometry height="20" width="380" x="1226.5" y="6145" as="geometry" />
+          <mxGeometry height="20" width="380" x="1195.5" y="6000" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1887" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=8;" value="映射规则：天符（司天+中运同化）、岁会（中运+年支同化）、同天符/同岁会（太过/不及的同化变体）" vertex="1">
-          <mxGeometry height="20" width="380" x="1226.5" y="6168" as="geometry" />
+          <mxGeometry height="20" width="380" x="1195.5" y="6023" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1888" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#b85450;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#990000;align=left;spacingLeft=8;" value="在五运六气中的角色：同化效应——该年某气特征被显著放大（太乙天符年气化极端，易发大疫）" vertex="1">
-          <mxGeometry height="20" width="380" x="1226.5" y="6191" as="geometry" />
+          <mxGeometry height="20" width="380" x="1195.5" y="6046" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1889" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fce4e4;strokeColor=#b85450;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;" value="⑧ 客主加临（时相耦合）" vertex="1">
-          <mxGeometry height="28" width="380" x="1226.5" y="6231" as="geometry" />
+          <mxGeometry height="28" width="380" x="1619" y="5850" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1890" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=8;" value="具体参数：每步（约2个月）的客气叠加于主气之上，产生相位差" vertex="1">
-          <mxGeometry height="20" width="380" x="1226.5" y="6263" as="geometry" />
+          <mxGeometry height="20" width="380" x="1619" y="5882" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1891" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=8;" value="映射规则：客气每步前移一位（如司天为三之气，在泉为终之气），其余按顺序填入" vertex="1">
-          <mxGeometry height="20" width="380" x="1226.5" y="6286" as="geometry" />
+          <mxGeometry height="20" width="380" x="1619" y="5905" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1892" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#b85450;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#990000;align=left;spacingLeft=8;" value="在五运六气中的角色：决定具体每个时段（约2个月）的气候偏离方向——是五运六气的“高精度输出”" vertex="1">
-          <mxGeometry height="20" width="380" x="1226.5" y="6309" as="geometry" />
+          <mxGeometry height="20" width="380" x="1619" y="5928" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1893" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fce4e4;strokeColor=#b85450;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;" value="⑨ 三年一“大疫”周期（气化异常积累）" vertex="1">
-          <mxGeometry height="28" width="380" x="1226.5" y="6349" as="geometry" />
+          <mxGeometry height="28" width="380" x="1619" y="5968" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1894" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=8;" value="具体参数：运气在“非其位”的状态（即气化偏差持续积累）达到阈值" vertex="1">
-          <mxGeometry height="20" width="380" x="1226.5" y="6381" as="geometry" />
+          <mxGeometry height="20" width="380" x="1619" y="6000" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1895" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=8;" value="映射规则：由运气相合 + 客主加临 + 运气同化的“极值状态”联合判定" vertex="1">
-          <mxGeometry height="20" width="380" x="1226.5" y="6404" as="geometry" />
+          <mxGeometry height="20" width="380" x="1619" y="6023" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1896" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#b85450;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#990000;align=left;spacingLeft=8;" value="在五运六气中的角色：某些年份（如太乙天符、天刑年）运气极端叠加，人体正气无法适应，引发大疫" vertex="1">
-          <mxGeometry height="20" width="380" x="1226.5" y="6427" as="geometry" />
+          <mxGeometry height="20" width="380" x="1619" y="6046" as="geometry" />
         </mxCell>
-        <mxCell id="7L3AGora1TePQE9lAWJE-1897" edge="1" parent="1" source="7L3AGora1TePQE9lAWJE-1857" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="7L3AGora1TePQE9lAWJE-1858">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7L3AGora1TePQE9lAWJE-1898" edge="1" parent="1" source="7L3AGora1TePQE9lAWJE-1857" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="7L3AGora1TePQE9lAWJE-1867">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7L3AGora1TePQE9lAWJE-1899" edge="1" parent="1" source="7L3AGora1TePQE9lAWJE-1857" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="7L3AGora1TePQE9lAWJE-1880">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7L3AGora1TePQE9lAWJE-1936" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f0f0;strokeColor=#999999;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#333333;dashed=1;align=center;" value="输出：运+气 → 耦合判断" vertex="1">
-          <mxGeometry height="20" width="180" x="1226.5" y="6460" as="geometry" />
-        </mxCell>
-        <mxCell id="7L3AGora1TePQE9lAWJE-1937" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=18;fontStyle=1;fontFamily=Microsoft YaHei;" value="第三层：气化的空间实现" vertex="1">
-          <mxGeometry height="50" width="420" x="1285" y="6880" as="geometry" />
-        </mxCell>
-        <mxCell id="7L3AGora1TePQE9lAWJE-1938" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;fontStyle=1;fontFamily=Microsoft YaHei;" value="大气环流（五运六气的物理载体）" vertex="1">
-          <mxGeometry height="35" width="500" x="975" y="6970" as="geometry" />
+        <mxCell id="7L3AGora1TePQE9lAWJE-1938" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;fontStyle=1;fontFamily=Microsoft YaHei;arcSize=3;verticalAlign=top;" value="大气环流（五运六气的物理载体）" vertex="1">
+          <mxGeometry height="520" width="540" x="365" y="6311" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1939" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf2f8;strokeColor=#6c8ebf;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;" value="① 大气温度（辐射强迫）" vertex="1">
-          <mxGeometry height="28" width="500" x="975" y="7025" as="geometry" />
+          <mxGeometry height="28" width="500" x="383.5" y="6366" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1940" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=8;" value="具体参数：由太阳黄经和日地距离决定的理论辐射量，叠加大气温室效应" vertex="1">
-          <mxGeometry height="20" width="500" x="975" y="7057" as="geometry" />
+          <mxGeometry height="20" width="500" x="383.5" y="6398" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1941" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=8;" value="映射规则：辐射传输模型（日射量 = 太阳常数 × 日地距离修正 × cos(天顶角)）" vertex="1">
-          <mxGeometry height="20" width="500" x="975" y="7080" as="geometry" />
+          <mxGeometry height="20" width="500" x="383.5" y="6421" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1942" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#6c8ebf;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#003366;align=left;spacingLeft=8;" value="在五运六气中的角色：热在气化中为君火/相火——温度偏高对应火气偏胜，偏低对应寒水偏胜" vertex="1">
-          <mxGeometry height="20" width="500" x="975" y="7103" as="geometry" />
+          <mxGeometry height="20" width="500" x="383.5" y="6444" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1943" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf2f8;strokeColor=#6c8ebf;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;" value="② 大气湿度（水汽循环）" vertex="1">
-          <mxGeometry height="28" width="500" x="975" y="7143" as="geometry" />
+          <mxGeometry height="28" width="500" x="383.5" y="6484" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1944" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=8;" value="具体参数：由海洋蒸发、风带输送、降水决定，单位g/kg或相对湿度%" vertex="1">
-          <mxGeometry height="20" width="500" x="975" y="7175" as="geometry" />
+          <mxGeometry height="20" width="500" x="383.5" y="6516" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1945" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=8;" value="映射规则：水汽通量计算（风速 × 比湿的垂直积分）；蒸发-降水平衡" vertex="1">
-          <mxGeometry height="20" width="500" x="975" y="7198" as="geometry" />
+          <mxGeometry height="20" width="500" x="383.5" y="6539" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1946" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#6c8ebf;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#003366;align=left;spacingLeft=8;" value="在五运六气中的角色：湿为太阴湿土——湿气偏重对应土运/湿土之气偏胜，是长夏和梅雨的主导因素" vertex="1">
-          <mxGeometry height="20" width="500" x="975" y="7221" as="geometry" />
+          <mxGeometry height="20" width="500" x="383.5" y="6562" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1947" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf2f8;strokeColor=#6c8ebf;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;" value="③ 大气压强（风带/气旋系统）" vertex="1">
-          <mxGeometry height="28" width="500" x="975" y="7261" as="geometry" />
+          <mxGeometry height="28" width="500" x="383.5" y="6602" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1948" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=8;" value="具体参数：海平面气压（hPa），高空位势高度（gpm），副高/气旋/反气旋强度" vertex="1">
-          <mxGeometry height="20" width="500" x="975" y="7293" as="geometry" />
+          <mxGeometry height="20" width="500" x="383.5" y="6634" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1949" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=8;" value="映射规则：气压梯度力 + 科里奥利力 → 地转风；温度梯度驱动经向环流" vertex="1">
-          <mxGeometry height="20" width="500" x="975" y="7316" as="geometry" />
+          <mxGeometry height="20" width="500" x="383.5" y="6657" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1950" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#6c8ebf;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#003366;align=left;spacingLeft=8;" value="在五运六气中的角色：风为厥阴风木——风带和气压系统的移动，是六气中气变化的直接动力来源" vertex="1">
-          <mxGeometry height="20" width="500" x="975" y="7339" as="geometry" />
+          <mxGeometry height="20" width="500" x="383.5" y="6680" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1951" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf2f8;strokeColor=#6c8ebf;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;" value="④ 海洋温度 / 洋流（热容与输送）" vertex="1">
-          <mxGeometry height="28" width="500" x="975" y="7379" as="geometry" />
+          <mxGeometry height="28" width="500" x="383.5" y="6720" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1952" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=8;" value="具体参数：海表温度（SST），厄尔尼诺/拉尼娜指数（ONI），洋流输送量" vertex="1">
-          <mxGeometry height="20" width="500" x="975" y="7411" as="geometry" />
+          <mxGeometry height="20" width="500" x="383.5" y="6752" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1953" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=8;" value="映射规则：海气耦合模型——海洋热含量变化滞后于大气强迫约1~3个月" vertex="1">
-          <mxGeometry height="20" width="500" x="975" y="7434" as="geometry" />
+          <mxGeometry height="20" width="500" x="383.5" y="6775" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1954" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#6c8ebf;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#003366;align=left;spacingLeft=8;" value="在五运六气中的角色：调制客气中的寒热偏差——海洋异常（如厄尔尼诺）是客气年度异常的大尺度物理实现，对应六气的“太过/不及”" vertex="1">
-          <mxGeometry height="20" width="500" x="975" y="7457" as="geometry" />
+          <mxGeometry height="26" width="500" x="383.5" y="6798" as="geometry" />
         </mxCell>
-        <mxCell id="7L3AGora1TePQE9lAWJE-1955" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;fontStyle=1;fontFamily=Microsoft YaHei;" value="局部修正因子（大运 → 小气候）" vertex="1">
-          <mxGeometry height="35" width="480" x="1535" y="6970" as="geometry" />
+        <mxCell id="7L3AGora1TePQE9lAWJE-1955" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;fontStyle=1;fontFamily=Microsoft YaHei;arcSize=3;verticalAlign=top;" value="局部修正（大运 → 小气候）" vertex="1">
+          <mxGeometry height="520" width="511.5" x="943.5" y="6311" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1956" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8f5e9;strokeColor=#82b366;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;" value="⑤ 观测点纬度" vertex="1">
-          <mxGeometry height="28" width="480" x="1535" y="7025" as="geometry" />
+          <mxGeometry height="28" width="480" x="959.5" y="6360" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1957" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=8;" value="具体参数：北纬/南纬 0°~90°，决定太阳高度角、昼夜时长、季节相位" vertex="1">
-          <mxGeometry height="20" width="480" x="1535" y="7057" as="geometry" />
+          <mxGeometry height="20" width="480" x="959.5" y="6392" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1958" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=8;" value="映射规则：纬度越高 → 太阳高度角越低 → 辐射通量越分散 → 气温年较差越大" vertex="1">
-          <mxGeometry height="20" width="480" x="1535" y="7080" as="geometry" />
+          <mxGeometry height="20" width="480" x="959.5" y="6415" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1959" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#82b366;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336600;align=left;spacingLeft=8;" value="在五运六气中的角色：同一运气格局，赤道/温带/寒带表现完全不同——纬度决定气化的“基础温度+季节相位”" vertex="1">
-          <mxGeometry height="20" width="480" x="1535" y="7103" as="geometry" />
+          <mxGeometry height="20" width="480" x="959.5" y="6438" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1960" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8f5e9;strokeColor=#82b366;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;" value="⑥ 观测点经度 / 时区" vertex="1">
-          <mxGeometry height="28" width="480" x="1535" y="7143" as="geometry" />
+          <mxGeometry height="28" width="480" x="959.5" y="6478" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1961" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=8;" value="具体参数：东经/西经 0°~180°，决定与UTC的固定偏移" vertex="1">
-          <mxGeometry height="20" width="480" x="1535" y="7175" as="geometry" />
+          <mxGeometry height="20" width="480" x="959.5" y="6510" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1962" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=8;" value="映射规则：每15°经度对应1小时时差，影响“当地正午”与“理论节气时刻”的相位差" vertex="1">
-          <mxGeometry height="20" width="480" x="1535" y="7198" as="geometry" />
+          <mxGeometry height="20" width="480" x="959.5" y="6533" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1963" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#82b366;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336600;align=left;spacingLeft=8;" value="在五运六气中的角色：同一时令，各地气化不同——经度决定“朔气时刻”与“本地时辰”的对齐或错位" vertex="1">
-          <mxGeometry height="20" width="480" x="1535" y="7221" as="geometry" />
+          <mxGeometry height="20" width="480" x="959.5" y="6556" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1964" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8f5e9;strokeColor=#82b366;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;" value="⑦ 海拔高度" vertex="1">
-          <mxGeometry height="28" width="480" x="1535" y="7261" as="geometry" />
+          <mxGeometry height="28" width="480" x="959.5" y="6596" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1965" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=8;" value="具体参数：海平面以上高度（m），每升高1000m温度平均下降约6.5°C（干绝热/湿绝热递减率）" vertex="1">
-          <mxGeometry height="20" width="480" x="1535" y="7293" as="geometry" />
+          <mxGeometry height="20" width="480" x="959.5" y="6628" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1966" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=8;" value="映射规则：气压、温度、湿度随高度呈指数/线性变化；大气垂直分层（对流层/平流层）" vertex="1">
-          <mxGeometry height="20" width="480" x="1535" y="7316" as="geometry" />
+          <mxGeometry height="20" width="480" x="959.5" y="6651" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1967" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#82b366;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336600;align=left;spacingLeft=8;" value="在五运六气中的角色：海拔越高 → 气温越低、气压越低 → 寒象偏重，“高寒”或“低暖”的修正叠加在五运六气之上" vertex="1">
-          <mxGeometry height="20" width="480" x="1535" y="7339" as="geometry" />
+          <mxGeometry height="20" width="480" x="959.5" y="6674" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1968" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8f5e9;strokeColor=#82b366;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;" value="⑧ 局部地形（山脉 / 盆地 / 水域）" vertex="1">
-          <mxGeometry height="28" width="480" x="1535" y="7379" as="geometry" />
+          <mxGeometry height="28" width="480" x="959.5" y="6714" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1969" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=8;" value="具体参数：地形分类（山地/平原/盆地/沿海/内陆），风带走廊或阻挡效应" vertex="1">
-          <mxGeometry height="20" width="480" x="1535" y="7411" as="geometry" />
+          <mxGeometry height="20" width="480" x="959.5" y="6746" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1970" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=8;" value="映射规则：地形抬升 → 降水增加；盆地 → 热岛/逆温；沿海 → 海洋性气候（温差小、湿度大）" vertex="1">
-          <mxGeometry height="20" width="480" x="1535" y="7434" as="geometry" />
+          <mxGeometry height="20" width="480" x="959.5" y="6769" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-1971" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#82b366;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336600;align=left;spacingLeft=8;" value="在五运六气中的角色：形成“同气异化”——同一六气在不同地形下表现不同（如盆地暑湿更重，山地风多寒盛）" vertex="1">
-          <mxGeometry height="20" width="480" x="1535" y="7457" as="geometry" />
+          <mxGeometry height="20" width="480" x="959.5" y="6792" as="geometry" />
         </mxCell>
-        <mxCell id="7L3AGora1TePQE9lAWJE-1972" edge="1" parent="1" source="7L3AGora1TePQE9lAWJE-1937" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="7L3AGora1TePQE9lAWJE-1938">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="7L3AGora1TePQE9lAWJE-2009" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=18;fontStyle=1;fontFamily=Microsoft YaHei;opacity=60;arcSize=4;verticalAlign=top;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;对生命的影响&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="570" width="900" x="1885" y="6239" as="geometry" />
         </mxCell>
-        <mxCell id="7L3AGora1TePQE9lAWJE-1973" edge="1" parent="1" source="7L3AGora1TePQE9lAWJE-1937" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="7L3AGora1TePQE9lAWJE-1955">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7L3AGora1TePQE9lAWJE-2006" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f0f0;strokeColor=#999999;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#333333;dashed=1;align=center;" value="输入：运气偏性 → 温度/湿度/风场" vertex="1">
-          <mxGeometry height="20" width="220" x="975" y="7500" as="geometry" />
-        </mxCell>
-        <mxCell id="7L3AGora1TePQE9lAWJE-2007" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f0f0;strokeColor=#999999;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#333333;dashed=1;align=center;" value="输出：大运 → 小气候" vertex="1">
-          <mxGeometry height="20" width="220" x="1535" y="7500" as="geometry" />
-        </mxCell>
-        <mxCell id="7L3AGora1TePQE9lAWJE-2008" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f9f9;strokeColor=#999999;fontSize=11;fontFamily=Microsoft YaHei;fontColor=#333333;align=center;dashed=1;" value="图例：蓝框=大气环流因素 | 绿框=局部修正因子" vertex="1">
-          <mxGeometry height="30" width="1040" x="975" y="7550" as="geometry" />
-        </mxCell>
-        <mxCell id="7L3AGora1TePQE9lAWJE-2009" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=18;fontStyle=1;fontFamily=Microsoft YaHei;" value="第四层：终端响应层（气化 → 生命）" vertex="1">
-          <mxGeometry height="50" width="420" x="1319.5" y="7727" as="geometry" />
-        </mxCell>
-        <mxCell id="7L3AGora1TePQE9lAWJE-2010" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;fontStyle=1;fontFamily=Microsoft YaHei;" value="人体响应（五运六气的终端输出）" vertex="1">
-          <mxGeometry height="35" width="800" x="1129.5" y="7817" as="geometry" />
+        <mxCell id="7L3AGora1TePQE9lAWJE-2010" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;fontStyle=1;fontFamily=Microsoft YaHei;arcSize=3;" value="人体响应（五运六气作用下，人体反应）" vertex="1">
+          <mxGeometry height="523" width="860" x="1905" y="6276" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-2011" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8f5e9;strokeColor=#82b366;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;" value="① 五脏应时（脏气法时）" vertex="1">
-          <mxGeometry height="28" width="800" x="1129.5" y="7872" as="geometry" />
+          <mxGeometry height="28" width="800" x="1934.5" y="6331" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-2012" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=8;" value="具体参数：肝 → 春/木，心 → 夏/火，脾 → 长夏/土，肺 → 秋/金，肾 → 冬/水" vertex="1">
-          <mxGeometry height="20" width="800" x="1129.5" y="7904" as="geometry" />
+          <mxGeometry height="20" width="800" x="1934.5" y="6363" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-2013" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=8;" value="映射规则：五运（木火土金水）→ 五脏（肝心脾肺肾）——运气的五行属性直接对应到相应的脏" vertex="1">
-          <mxGeometry height="20" width="800" x="1129.5" y="7927" as="geometry" />
+          <mxGeometry height="20" width="800" x="1934.5" y="6386" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-2014" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#82b366;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336600;align=left;spacingLeft=8;" value="在五运六气中的角色：五运的直接响应终端——木运偏胜 → 肝气亢，火运不及 → 心气虚，土运太过 → 脾湿困，金运偏胜 → 肺燥，水运不及 → 肾虚" vertex="1">
-          <mxGeometry height="20" width="800" x="1129.5" y="7950" as="geometry" />
+          <mxGeometry height="20" width="800" x="1934.5" y="6409" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-2015" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8f5e9;strokeColor=#82b366;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;" value="② 经络流注（子午流注）" vertex="1">
-          <mxGeometry height="28" width="800" x="1129.5" y="7990" as="geometry" />
+          <mxGeometry height="28" width="800" x="1934.5" y="6449" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-2016" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=8;" value="具体参数：十二时辰（子丑寅卯辰巳午未申酉戌亥）对应十二经脉" vertex="1">
-          <mxGeometry height="20" width="800" x="1129.5" y="8022" as="geometry" />
+          <mxGeometry height="20" width="800" x="1934.5" y="6481" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-2017" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=8;" value="映射规则：子时→胆经，丑时→肝经，寅时→肺经，卯时→大肠经，辰时→胃经，巳时→脾经，午时→心经，未时→小肠经，申时→膀胱经，酉时→肾经，戌时→心包经，亥时→三焦经" vertex="1">
-          <mxGeometry height="20" width="800" x="1129.5" y="8045" as="geometry" />
+          <mxGeometry height="20" width="800" x="1934.5" y="6504" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-2018" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#82b366;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336600;align=left;spacingLeft=8;" value="在五运六气中的角色：六气的日周期在人体的投射——六气升降对应气血在经络中的盛衰流注，是针灸“择时取穴”的气化依据" vertex="1">
-          <mxGeometry height="20" width="800" x="1129.5" y="8068" as="geometry" />
+          <mxGeometry height="20" width="800" x="1934.5" y="6527" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-2019" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8f5e9;strokeColor=#82b366;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;" value="③ 五志 / 情志响应" vertex="1">
-          <mxGeometry height="28" width="800" x="1129.5" y="8108" as="geometry" />
+          <mxGeometry height="28" width="800" x="1934.5" y="6567" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-2020" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=8;" value="具体参数：怒 → 木/肝，喜 → 火/心，思 → 土/脾，悲 → 金/肺，恐 → 水/肾" vertex="1">
-          <mxGeometry height="20" width="800" x="1129.5" y="8140" as="geometry" />
+          <mxGeometry height="20" width="800" x="1934.5" y="6599" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-2021" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=8;" value="映射规则：五运偏性 → 相应情志偏胜——木运太过则怒，火运太过则喜/躁，土运太过则思虑过度，金运太过则悲，水运太过则恐" vertex="1">
-          <mxGeometry height="20" width="800" x="1129.5" y="8163" as="geometry" />
+          <mxGeometry height="20" width="800" x="1934.5" y="6622" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-2022" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#82b366;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336600;align=left;spacingLeft=8;" value="在五运六气中的角色：运气的心理/情绪终端——五运六气作用于人体，首先表现为情志倾向的改变，继而影响行为和社会群体心理" vertex="1">
-          <mxGeometry height="20" width="800" x="1129.5" y="8186" as="geometry" />
+          <mxGeometry height="20" width="800" x="1934.5" y="6645" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-2023" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8f5e9;strokeColor=#82b366;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;" value="④ 疫病易感性（瘟疫 / 寒疫 / 湿温）" vertex="1">
-          <mxGeometry height="28" width="800" x="1129.5" y="8226" as="geometry" />
+          <mxGeometry height="28" width="800" x="1934.5" y="6685" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-2024" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=8;" value="具体参数：特定年份（如太乙天符、天刑年）的特定病种高发概率——历史流行病学经验归纳" vertex="1">
-          <mxGeometry height="20" width="800" x="1129.5" y="8258" as="geometry" />
+          <mxGeometry height="20" width="800" x="1934.5" y="6717" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-2025" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=8;" value="映射规则：火运太过 + 少阴君火司天 → 温厉；寒水太过 + 太阳寒水司天 → 寒疫；湿土太过 + 太阴湿土司天 → 湿温/脾胃疫" vertex="1">
-          <mxGeometry height="20" width="800" x="1129.5" y="8281" as="geometry" />
+          <mxGeometry height="20" width="800" x="1934.5" y="6740" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-2026" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#82b366;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336600;align=left;spacingLeft=8;" value="在五运六气中的角色：五运六气的“最显眼输出”——当运气异常叠加时，人体正气无法适应环境变化，特定疫病（流行病）爆发的概率显著升高，是疫病预测的核心依据" vertex="1">
-          <mxGeometry height="20" width="800" x="1129.5" y="8304" as="geometry" />
-        </mxCell>
-        <mxCell id="7L3AGora1TePQE9lAWJE-2027" edge="1" parent="1" source="7L3AGora1TePQE9lAWJE-2009" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="7L3AGora1TePQE9lAWJE-2010">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry height="20" width="800" x="1934.5" y="6763" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-2044" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=14;fontStyle=1;fontFamily=Microsoft YaHei;container=0;arcSize=7;verticalAlign=top;" value="☀️ 太阳系（提供六气的年度节律）" vertex="1">
-          <mxGeometry height="580" width="370" x="810" y="4280" as="geometry" />
+          <mxGeometry height="580" width="370" x="952" y="4330" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-2045" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff4e6;strokeColor=#d79b00;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;container=0;" value="① 太阳黄经（视位置）" vertex="1">
-          <mxGeometry height="28" width="320" x="835" y="4320" as="geometry" />
+          <mxGeometry height="28" width="320" x="977" y="4370" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-2046" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=8;container=0;" value="具体参数：0°~360°，每日约推进 0.9856°" vertex="1">
-          <mxGeometry height="30" width="319" x="835" y="4352" as="geometry" />
+          <mxGeometry height="30" width="319" x="977" y="4402" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-2047" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=8;container=0;" value="映射规则：由儒略日（JD）计算太阳平黄经 + 椭圆修正" vertex="1">
-          <mxGeometry height="30" width="319" x="835" y="4380" as="geometry" />
+          <mxGeometry height="30" width="319" x="977" y="4430" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-2048" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#d79b00;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#cc6600;align=left;spacingLeft=8;container=0;" value="在五运六气中的角色：六气步位划分的直接依据——每30°黄经为一气" vertex="1">
-          <mxGeometry height="30" width="319" x="835" y="4407" as="geometry" />
+          <mxGeometry height="30" width="319" x="977" y="4457" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-2049" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff4e6;strokeColor=#d79b00;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;container=0;" value="② 黄赤交角（地轴倾角）" vertex="1">
-          <mxGeometry height="28" width="320" x="835" y="4462" as="geometry" />
+          <mxGeometry height="28" width="320" x="977" y="4512" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-2050" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=8;container=0;" value="具体参数：约23.44°，长期缓慢变化（约47″/百年）" vertex="1">
-          <mxGeometry height="25" width="320" x="835" y="4494" as="geometry" />
+          <mxGeometry height="25" width="320" x="977" y="4544" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-2051" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=8;container=0;" value="映射规则：赤纬计算公式中的 ε，ε = 23.4392911 - 0.0130042×T" vertex="1">
-          <mxGeometry height="25" width="320" x="835" y="4521" as="geometry" />
+          <mxGeometry height="25" width="320" x="977" y="4571" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-2052" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#d79b00;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#cc6600;align=left;spacingLeft=8;container=0;" value="在五运六气中的角色：设定六气的升降幅度——决定太阳直射点的南北摆幅" vertex="1">
-          <mxGeometry height="30" width="320" x="835" y="4548" as="geometry" />
+          <mxGeometry height="30" width="320" x="977" y="4598" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-2053" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff4e6;strokeColor=#d79b00;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;container=0;" value="③ 日地距离（轨道离心率）" vertex="1">
-          <mxGeometry height="28" width="320" x="835" y="4602" as="geometry" />
+          <mxGeometry height="28" width="320" x="977" y="4652" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-2054" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=8;container=0;" value="具体参数：离心率 e ≈ 0.0167，变化周期约 10 万年" vertex="1">
-          <mxGeometry height="25" width="320" x="835" y="4634" as="geometry" />
+          <mxGeometry height="25" width="320" x="977" y="4684" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-2055" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=8;container=0;" value="映射规则：太阳黄经修正项中的椭圆项（1.9146×sin(g) 等）" vertex="1">
-          <mxGeometry height="25" width="320" x="835" y="4657" as="geometry" />
+          <mxGeometry height="25" width="320" x="977" y="4707" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-2056" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#d79b00;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#cc6600;align=left;spacingLeft=8;container=0;" value="在五运六气中的角色：近日点附近气化偏“急”，远日点偏“缓”——速度调幅" vertex="1">
-          <mxGeometry height="30" width="320" x="835" y="4680" as="geometry" />
+          <mxGeometry height="30" width="320" x="977" y="4730" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-2057" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff4e6;strokeColor=#d79b00;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;container=0;" value="④ 太阳活动周期（黑子/磁周期）" vertex="1">
-          <mxGeometry height="28" width="320" x="835" y="4727" as="geometry" />
+          <mxGeometry height="28" width="320" x="977" y="4777" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-2058" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=8;container=0;" value="具体参数：平均 11.2 年，幅度和周期长度有波动" vertex="1">
-          <mxGeometry height="25" width="320" x="835" y="4759" as="geometry" />
+          <mxGeometry height="25" width="320" x="977" y="4809" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-2059" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=8;container=0;" value="映射规则：不参与几何位置计算，作为气候调制的“异常项”叠加" vertex="1">
-          <mxGeometry height="25" width="320" x="835" y="4788" as="geometry" />
+          <mxGeometry height="25" width="320" x="977" y="4838" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-2060" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#d79b00;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#cc6600;align=left;spacingLeft=8;container=0;" value="在五运六气中的角色：太阳活动高年，六气偏“亢烈”（相当于“太过”的强化项）" vertex="1">
-          <mxGeometry height="30" width="320" x="835" y="4816" as="geometry" />
+          <mxGeometry height="30" width="320" x="977" y="4866" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
