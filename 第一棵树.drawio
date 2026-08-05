@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="GuQRlMAANUZwoe0chdwx">
-    <mxGraphModel dx="3969" dy="1767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2315" dy="837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -743,46 +743,31 @@
           <mxGeometry height="30" width="180" x="810" y="1320" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-258" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#666666;" value="大气层使光线弯曲，将太阳的视位置“抬高”，让日出提前约2~4分钟。" vertex="1">
-          <mxGeometry height="25" width="180" x="810" y="1355" as="geometry" />
+          <mxGeometry height="25" width="180" x="810" y="1351" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-259" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;fontFamily=Microsoft YaHei;" value="大气温度与气压" vertex="1">
           <mxGeometry height="30" width="180" x="810" y="1387" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-260" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#666666;" value="折射率随气温和气压变化，影响蒙气差的精密值（亚秒级）。" vertex="1">
-          <mxGeometry height="25" width="180" x="810" y="1422" as="geometry" />
+          <mxGeometry height="25" width="180" x="810" y="1418" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-261" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;fontFamily=Microsoft YaHei;" value="大气透明度（云/雾霾）" vertex="1">
           <mxGeometry height="30" width="180" x="810" y="1454" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-262" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#666666;" value="不影响太阳几何位置，只决定是否能肉眼看到。" vertex="1">
-          <mxGeometry height="25" width="180" x="810" y="1489" as="geometry" />
-        </mxCell>
-        <mxCell id="7L3AGora1TePQE9lAWJE-264" edge="1" parent="1" source="7L3AGora1TePQE9lAWJE-257" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="7L3AGora1TePQE9lAWJE-258">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7L3AGora1TePQE9lAWJE-266" edge="1" parent="1" source="7L3AGora1TePQE9lAWJE-259" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="7L3AGora1TePQE9lAWJE-260">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7L3AGora1TePQE9lAWJE-268" edge="1" parent="1" source="7L3AGora1TePQE9lAWJE-261" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="7L3AGora1TePQE9lAWJE-262">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry height="25" width="180" x="810" y="1485" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-269" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=11;fontFamily=Microsoft YaHei;" value="光行差（周年视差偏移）" vertex="1">
           <mxGeometry height="30" width="180" x="1020" y="1320" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-270" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#666666;" value="地球以30km/s绕日运动，使太阳视位置偏移约20角秒，影响高精度方位角测量。" vertex="1">
-          <mxGeometry height="25" width="180" x="1020" y="1355" as="geometry" />
+          <mxGeometry height="25" width="180" x="1020" y="1351" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-271" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=11;fontFamily=Microsoft YaHei;" value="引力光线弯曲（夏皮罗延迟）" vertex="1">
           <mxGeometry height="30" width="180" x="1020" y="1387" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-272" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#666666;" value="太阳引力场使光线弯曲约1.75角秒，影响太阳边缘的精密定位。" vertex="1">
-          <mxGeometry height="25" width="180" x="1020" y="1422" as="geometry" />
-        </mxCell>
-        <mxCell id="7L3AGora1TePQE9lAWJE-274" edge="1" parent="1" source="7L3AGora1TePQE9lAWJE-269" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="7L3AGora1TePQE9lAWJE-270">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7L3AGora1TePQE9lAWJE-276" edge="1" parent="1" source="7L3AGora1TePQE9lAWJE-271" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="7L3AGora1TePQE9lAWJE-272">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry height="25" width="180" x="1020" y="1418" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-277" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=11;fontFamily=Microsoft YaHei;" value="公历历法规则（闰年）" vertex="1">
           <mxGeometry height="30" width="180" x="1230" y="1320" as="geometry" />
@@ -790,59 +775,38 @@
         <mxCell id="7L3AGora1TePQE9lAWJE-301" edge="1" parent="1" source="7L3AGora1TePQE9lAWJE-278" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7L3AGora1TePQE9lAWJE-282" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7L3AGora1TePQE9lAWJE-302" edge="1" parent="1" source="7L3AGora1TePQE9lAWJE-278" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7L3AGora1TePQE9lAWJE-173" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-278" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#666666;fontStyle=0;align=center;verticalAlign=middle;" value="&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font&gt;格里高利历的闰年规则（4年一闰，百年不闰，四百年再闰）决定日期转天数的精度。&lt;/font&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="26" width="180" x="1230" y="1355" as="geometry" />
+          <mxGeometry height="26" width="180" x="1230" y="1351" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-279" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=11;fontFamily=Microsoft YaHei;" value="J2000.0 历元" vertex="1">
           <mxGeometry height="30" width="180" x="1230" y="1387" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-280" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#666666;" value="人为定义的参考历元（2000年1月1日12:00 UTC），所有天文常数以此为基准。" vertex="1">
-          <mxGeometry height="26" width="180" x="1230" y="1422" as="geometry" />
+          <mxGeometry height="26" width="180" x="1230" y="1418" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-281" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=11;fontFamily=Microsoft YaHei;" value="时区划分（UTC+8）" vertex="1">
           <mxGeometry height="30" width="180" x="1230" y="1454" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-282" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#666666;" value="以每15°一个时区的人为政令划分，将地方时统一为手表时间。" vertex="1">
-          <mxGeometry height="26" width="180" x="1230" y="1489" as="geometry" />
+          <mxGeometry height="26" width="180" x="1230" y="1485" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-283" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=11;fontFamily=Microsoft YaHei;" value="夏令时（政令时间）" vertex="1">
           <mxGeometry height="30" width="180" x="1230" y="1521" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-284" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#666666;" value="纯粹的人为时间调整，不改变物理现实，只改变显示数字。" vertex="1">
-          <mxGeometry height="26" width="180" x="1230" y="1556" as="geometry" />
+          <mxGeometry height="26" width="180" x="1230" y="1552" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-285" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=11;fontFamily=Microsoft YaHei;" value="ΔT修正表（原子时 vs 世界时）" vertex="1">
           <mxGeometry height="30" width="180" x="1230" y="1588" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-286" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#666666;" value="原子钟时间（均匀）与地球自转时间（不均匀）之间的差值，由IERS每月发布，现代约+70秒，古代需查历史拟合表。" vertex="1">
-          <mxGeometry height="47" width="180" x="1230" y="1625" as="geometry" />
+          <mxGeometry height="47" width="180" x="1230" y="1620" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-287" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=11;fontFamily=Microsoft YaHei;" value="闰秒（UTC vs TAI）" vertex="1">
-          <mxGeometry height="30" width="180" x="1230" y="1690" as="geometry" />
+          <mxGeometry height="30" width="180" x="1230" y="1680" as="geometry" />
         </mxCell>
         <mxCell id="7L3AGora1TePQE9lAWJE-288" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#666666;" value="原子时与天文时差的累积" vertex="1">
-          <mxGeometry height="26" width="180" x="1230" y="1725" as="geometry" />
-        </mxCell>
-        <mxCell id="7L3AGora1TePQE9lAWJE-290" edge="1" parent="1" source="7L3AGora1TePQE9lAWJE-277" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="7L3AGora1TePQE9lAWJE-278">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7L3AGora1TePQE9lAWJE-292" edge="1" parent="1" source="7L3AGora1TePQE9lAWJE-279" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="7L3AGora1TePQE9lAWJE-280">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7L3AGora1TePQE9lAWJE-294" edge="1" parent="1" source="7L3AGora1TePQE9lAWJE-281" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="7L3AGora1TePQE9lAWJE-282">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7L3AGora1TePQE9lAWJE-296" edge="1" parent="1" source="7L3AGora1TePQE9lAWJE-283" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="7L3AGora1TePQE9lAWJE-284">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7L3AGora1TePQE9lAWJE-298" edge="1" parent="1" source="7L3AGora1TePQE9lAWJE-285" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="7L3AGora1TePQE9lAWJE-286">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7L3AGora1TePQE9lAWJE-300" edge="1" parent="1" source="7L3AGora1TePQE9lAWJE-287" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="7L3AGora1TePQE9lAWJE-288">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry height="26" width="180" x="1230" y="1712" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
