@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net">
   <diagram name="天-地-人完整因果链布局" id="SjSHOlrHnjoS6EgHSpwo">
-    <mxGraphModel dx="5679" dy="3602" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3264" dy="1207" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ykfoiyoN5eaVs1loun9g-401" connectable="0" parent="1" style="group;aspect=fixed;" value="" vertex="1">
-          <mxGeometry height="3830" width="4048.84" x="3047" y="3410" as="geometry" />
+          <mxGeometry height="3830" width="4048.84" x="913" y="1760" as="geometry" />
         </mxCell>
         <mxCell id="ykfoiyoN5eaVs1loun9g-368" parent="ykfoiyoN5eaVs1loun9g-401" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#888899;strokeWidth=1.5;dashed=1;opacity=40;" value="" vertex="1">
           <mxGeometry height="383" width="382.9983783783783" x="1887.634864864865" y="1641.4285714285713" as="geometry" />
@@ -50,7 +50,7 @@
           <mxGeometry height="35.29" width="273.57" x="1887.63" y="54.71" as="geometry" />
         </mxCell>
         <mxCell id="ykfoiyoN5eaVs1loun9g-361" parent="ykfoiyoN5eaVs1loun9g-401" style="ellipse;whiteSpace=wrap;html=1;fillColor=#66aadd;strokeColor=#3388bb;strokeWidth=2.5;shadow=1;" value="" vertex="1">
-          <mxGeometry height="218.85714285714292" width="218.8562162162162" x="1969.7059459459463" y="1723.5" as="geometry" />
+          <mxGeometry height="180" width="180" x="1989.1359459459463" y="1751.41" as="geometry" />
         </mxCell>
         <mxCell id="ykfoiyoN5eaVs1loun9g-362" parent="ykfoiyoN5eaVs1loun9g-401" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Microsoft YaHei;fontColor=#3388bb;fontStyle=1;" value="地球" vertex="1">
           <mxGeometry height="30.08" width="164.14" x="1997.06" y="1940" as="geometry" />
@@ -62,16 +62,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ykfoiyoN5eaVs1loun9g-374" parent="ykfoiyoN5eaVs1loun9g-401" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffcc00;strokeColor=#dd9900;strokeWidth=2.5;shadow=1;" value="" vertex="1">
-          <mxGeometry height="164.14285714285717" width="164.14216216216212" x="2899.8448648648646" y="1564.8285714285716" as="geometry" />
+          <mxGeometry height="200" width="200" x="2899.8448648648646" y="1564.8285714285716" as="geometry" />
         </mxCell>
         <mxCell id="ykfoiyoN5eaVs1loun9g-375" parent="ykfoiyoN5eaVs1loun9g-401" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#dd9900;fontStyle=1;" value="日（太阳）" vertex="1">
-          <mxGeometry height="42.5" width="383" x="2903" y="1641.43" as="geometry" />
+          <mxGeometry height="42.5" width="383" x="2947" y="1637.5" as="geometry" />
         </mxCell>
         <mxCell id="ykfoiyoN5eaVs1loun9g-376" parent="ykfoiyoN5eaVs1loun9g-401" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ccccdd;strokeColor=#888899;strokeWidth=2;shadow=1;" value="" vertex="1">
-          <mxGeometry height="98.48571428571431" width="98.48529729729731" x="2144.7909189189186" y="1625.0142857142862" as="geometry" />
+          <mxGeometry height="70" width="70" x="2137.79" y="1633.01" as="geometry" />
         </mxCell>
         <mxCell id="ykfoiyoN5eaVs1loun9g-377" parent="ykfoiyoN5eaVs1loun9g-401" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Microsoft YaHei;fontColor=#888899;fontStyle=1;" value="月（太阴）" vertex="1">
-          <mxGeometry height="87.54285714285714" width="328.28432432432425" x="2112.996216216216" y="1630.4885714285713" as="geometry" />
+          <mxGeometry height="30.08" width="328.28" x="2087" y="1647.64" as="geometry" />
         </mxCell>
         <mxCell id="ykfoiyoN5eaVs1loun9g-378" parent="ykfoiyoN5eaVs1loun9g-401" style="ellipse;whiteSpace=wrap;html=1;fillColor=#7788cc;strokeColor=#4455aa;strokeWidth=2;shadow=1;" value="" vertex="1">
           <mxGeometry height="87.54285714285714" width="87.54248648648648" x="1969.7059459459463" y="1362.3857142857146" as="geometry" />
