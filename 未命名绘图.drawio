@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="天-地-人完整因果链布局" id="SjSHOlrHnjoS6EgHSpwo">
-    <mxGraphModel dx="3264" dy="1207" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="53744" dy="56706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -105,6 +105,287 @@
         </mxCell>
         <mxCell id="ykfoiyoN5eaVs1loun9g-402" parent="ykfoiyoN5eaVs1loun9g-401" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star;aspect=fixed;" value="" vertex="1">
           <mxGeometry height="80" width="80" x="1980" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ykfoiyoN5eaVs1loun9g-403" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=20;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#333333;" value="七政属性与地球对应表现 · 按主体分类" vertex="1">
+          <mxGeometry height="50" width="520" x="2300" y="6290" as="geometry" />
+        </mxCell>
+        <mxCell id="ykfoiyoN5eaVs1loun9g-404" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc00;strokeColor=#dd9900;fontSize=16;fontStyle=1;fontFamily=Microsoft YaHei;strokeWidth=2;" value="☀️ 日（太阳）" vertex="1">
+          <mxGeometry height="40" width="200" x="1740" y="6370" as="geometry" />
+        </mxCell>
+        <mxCell id="ykfoiyoN5eaVs1loun9g-405" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ccccdd;strokeColor=#888899;fontSize=16;fontStyle=1;fontFamily=Microsoft YaHei;strokeWidth=2;" value="🌙 月（太阴）" vertex="1">
+          <mxGeometry height="40" width="200" x="1980" y="6370" as="geometry" />
+        </mxCell>
+        <mxCell id="ykfoiyoN5eaVs1loun9g-406" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7788cc;strokeColor=#4455aa;fontSize=16;fontStyle=1;fontFamily=Microsoft YaHei;strokeWidth=2;" value="☿ 水星（辰星）" vertex="1">
+          <mxGeometry height="40" width="200" x="2220" y="6370" as="geometry" />
+        </mxCell>
+        <mxCell id="ykfoiyoN5eaVs1loun9g-407" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeddbb;strokeColor=#ccaa77;fontSize=16;fontStyle=1;fontFamily=Microsoft YaHei;strokeWidth=2;" value="♀ 金星（太白）" vertex="1">
+          <mxGeometry height="40" width="200" x="2460" y="6370" as="geometry" />
+        </mxCell>
+        <mxCell id="ykfoiyoN5eaVs1loun9g-408" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dd6644;strokeColor=#aa4433;fontSize=16;fontStyle=1;fontFamily=Microsoft YaHei;strokeWidth=2;" value="♂ 火星（荧惑）" vertex="1">
+          <mxGeometry height="40" width="200" x="2700" y="6370" as="geometry" />
+        </mxCell>
+        <mxCell id="ykfoiyoN5eaVs1loun9g-409" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#88bb88;strokeColor=#558855;fontSize=16;fontStyle=1;fontFamily=Microsoft YaHei;strokeWidth=2;" value="♃ 木星（岁星）" vertex="1">
+          <mxGeometry height="40" width="200" x="2940" y="6370" as="geometry" />
+        </mxCell>
+        <mxCell id="ykfoiyoN5eaVs1loun9g-410" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ccbb66;strokeColor=#998844;fontSize=16;fontStyle=1;fontFamily=Microsoft YaHei;strokeWidth=2;" value="♄ 土星（镇星）" vertex="1">
+          <mxGeometry height="40" width="200" x="3180" y="6370" as="geometry" />
+        </mxCell>
+        <mxCell id="ykfoiyoN5eaVs1loun9g-411" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff4e0;strokeColor=#dd9900;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;" value="自身属性" vertex="1">
+          <mxGeometry height="28" width="200" x="1740" y="6435" as="geometry" />
+        </mxCell>
+        <mxCell id="ykfoiyoN5eaVs1loun9g-412" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f8f0;strokeColor=#66aa55;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;" value="地球对应表现" vertex="1">
+          <mxGeometry height="28" width="700" x="1740" y="6840" as="geometry" />
+        </mxCell>
+        <mxCell id="ykfoiyoN5eaVs1loun9g-413" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fffaf0;strokeColor=#dd9900;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=6;" value="巨大引力（1.9885×10³⁰ kg）" vertex="1">
+          <mxGeometry height="24" width="200" x="1740" y="6473" as="geometry" />
+        </mxCell>
+        <mxCell id="ykfoiyoN5eaVs1loun9g-414" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fffaf0;strokeColor=#dd9900;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=6;" value="视半径约 0.2667°" vertex="1">
+          <mxGeometry height="24" width="200" x="1740" y="6503" as="geometry" />
+        </mxCell>
+        <mxCell id="ykfoiyoN5eaVs1loun9g-415" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fffaf0;strokeColor=#dd9900;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=6;" value="可见光辐射（光照）" vertex="1">
+          <mxGeometry height="24" width="200" x="1740" y="6533" as="geometry" />
+        </mxCell>
+        <mxCell id="ykfoiyoN5eaVs1loun9g-416" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fffaf0;strokeColor=#dd9900;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=6;" value="红外辐射（热量）" vertex="1">
+          <mxGeometry height="24" width="200" x="1740" y="6563" as="geometry" />
+        </mxCell>
+        <mxCell id="ykfoiyoN5eaVs1loun9g-417" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fffaf0;strokeColor=#dd9900;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=6;" value="紫外辐射（紫外线）" vertex="1">
+          <mxGeometry height="24" width="200" x="1740" y="6593" as="geometry" />
+        </mxCell>
+        <mxCell id="ykfoiyoN5eaVs1loun9g-418" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fffaf0;strokeColor=#dd9900;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=6;" value="太阳活动周期（约11年）" vertex="1">
+          <mxGeometry height="24" width="200" x="1740" y="6623" as="geometry" />
+        </mxCell>
+        <mxCell id="ykfoiyoN5eaVs1loun9g-419" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fffaf0;strokeColor=#dd9900;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=6;" value="黄赤交角（23.44°）" vertex="1">
+          <mxGeometry height="24" width="200" x="1740" y="6653" as="geometry" />
+        </mxCell>
+        <mxCell id="ykfoiyoN5eaVs1loun9g-420" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fffaf0;strokeColor=#dd9900;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=6;" value="日地距离（椭圆轨道 e≈0.0167）" vertex="1">
+          <mxGeometry height="24" width="200" x="1740" y="6683" as="geometry" />
+        </mxCell>
+        <mxCell id="ykfoiyoN5eaVs1loun9g-421" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fffaf0;strokeColor=#dd9900;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=6;" value="日食（月球遮挡）" vertex="1">
+          <mxGeometry height="24" width="200" x="1740" y="6713" as="geometry" />
+        </mxCell>
+        <mxCell id="ykfoiyoN5eaVs1loun9g-422" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f0ff;strokeColor=#4477aa;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=6;strokeWidth=2;" value="🔵 引力驱动岁差（与月球协同）" vertex="1">
+          <mxGeometry height="24" width="200" x="1740" y="6743" as="geometry" />
+        </mxCell>
+        <mxCell id="ykfoiyoN5eaVs1loun9g-423" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f0ff;strokeColor=#4477aa;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=6;strokeWidth=2;" value="🔵 黄赤交角长期变化（协同）" vertex="1">
+          <mxGeometry height="24" width="200" x="1740" y="6773" as="geometry" />
+        </mxCell>
+        <mxCell id="ykfoiyoN5eaVs1loun9g-435" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-404" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="ykfoiyoN5eaVs1loun9g-411" />
+        <mxCell id="ykfoiyoN5eaVs1loun9g-436" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-404" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="ykfoiyoN5eaVs1loun9g-412" />
+        <mxCell id="ykfoiyoN5eaVs1loun9g-437" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-411" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="ykfoiyoN5eaVs1loun9g-413" />
+        <mxCell id="ykfoiyoN5eaVs1loun9g-438" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-411" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="ykfoiyoN5eaVs1loun9g-414" />
+        <mxCell id="ykfoiyoN5eaVs1loun9g-439" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-411" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="ykfoiyoN5eaVs1loun9g-415" />
+        <mxCell id="ykfoiyoN5eaVs1loun9g-440" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-411" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="ykfoiyoN5eaVs1loun9g-416" />
+        <mxCell id="ykfoiyoN5eaVs1loun9g-441" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-411" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="ykfoiyoN5eaVs1loun9g-417" />
+        <mxCell id="ykfoiyoN5eaVs1loun9g-442" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-411" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="ykfoiyoN5eaVs1loun9g-418" />
+        <mxCell id="ykfoiyoN5eaVs1loun9g-443" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-411" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="ykfoiyoN5eaVs1loun9g-419" />
+        <mxCell id="ykfoiyoN5eaVs1loun9g-444" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-411" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="ykfoiyoN5eaVs1loun9g-420" />
+        <mxCell id="ykfoiyoN5eaVs1loun9g-445" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-411" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="ykfoiyoN5eaVs1loun9g-421" />
+        <mxCell id="ykfoiyoN5eaVs1loun9g-446" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-411" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="ykfoiyoN5eaVs1loun9g-422" />
+        <mxCell id="ykfoiyoN5eaVs1loun9g-447" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-411" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="ykfoiyoN5eaVs1loun9g-423" />
+        <mxCell id="ykfoiyoN5eaVs1loun9g-448" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-413" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;dashed=1;strokeColor=#66aa55;opacity=60;" target="ykfoiyoN5eaVs1loun9g-424" />
+        <mxCell id="ykfoiyoN5eaVs1loun9g-449" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-414" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;dashed=1;strokeColor=#66aa55;opacity=60;" target="ykfoiyoN5eaVs1loun9g-425" />
+        <mxCell id="ykfoiyoN5eaVs1loun9g-450" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-415" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;dashed=1;strokeColor=#66aa55;opacity=60;" target="ykfoiyoN5eaVs1loun9g-426" />
+        <mxCell id="ykfoiyoN5eaVs1loun9g-451" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-416" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;dashed=1;strokeColor=#66aa55;opacity=60;" target="ykfoiyoN5eaVs1loun9g-427" />
+        <mxCell id="ykfoiyoN5eaVs1loun9g-452" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-417" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;dashed=1;strokeColor=#66aa55;opacity=60;" target="ykfoiyoN5eaVs1loun9g-428" />
+        <mxCell id="ykfoiyoN5eaVs1loun9g-453" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-418" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;dashed=1;strokeColor=#66aa55;opacity=60;" target="ykfoiyoN5eaVs1loun9g-429" />
+        <mxCell id="ykfoiyoN5eaVs1loun9g-454" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-419" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;dashed=1;strokeColor=#66aa55;opacity=60;" target="ykfoiyoN5eaVs1loun9g-430" />
+        <mxCell id="ykfoiyoN5eaVs1loun9g-455" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-420" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;dashed=1;strokeColor=#66aa55;opacity=60;" target="ykfoiyoN5eaVs1loun9g-431" />
+        <mxCell id="ykfoiyoN5eaVs1loun9g-456" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-421" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;dashed=1;strokeColor=#66aa55;opacity=60;" target="ykfoiyoN5eaVs1loun9g-432" />
+        <mxCell id="ykfoiyoN5eaVs1loun9g-457" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-422" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;dashed=1;strokeColor=#4477aa;opacity=70;" target="ykfoiyoN5eaVs1loun9g-433" />
+        <mxCell id="ykfoiyoN5eaVs1loun9g-458" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-423" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;dashed=1;strokeColor=#4477aa;opacity=70;" target="ykfoiyoN5eaVs1loun9g-434" />
+        <mxCell id="ykfoiyoN5eaVs1loun9g-459" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8e8f0;strokeColor=#888899;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;" value="自身属性" vertex="1">
+          <mxGeometry height="28" width="200" x="1980" y="6435" as="geometry" />
+        </mxCell>
+        <mxCell id="ykfoiyoN5eaVs1loun9g-461" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f0f5;strokeColor=#888899;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=6;" value="地月引力（7.342×10²² kg）" vertex="1">
+          <mxGeometry height="22" width="200" x="1980" y="6473" as="geometry" />
+        </mxCell>
+        <mxCell id="ykfoiyoN5eaVs1loun9g-463" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f0f5;strokeColor=#888899;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=6;" value="潮汐摩擦" vertex="1">
+          <mxGeometry height="22" width="200" x="1980" y="6500" as="geometry" />
+        </mxCell>
+        <mxCell id="ykfoiyoN5eaVs1loun9g-465" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f0f5;strokeColor=#888899;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=6;" value="引力稳定地轴" vertex="1">
+          <mxGeometry height="22" width="200" x="1980" y="6527" as="geometry" />
+        </mxCell>
+        <mxCell id="ykfoiyoN5eaVs1loun9g-467" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f0f5;strokeColor=#888899;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=6;" value="朔望月（29.53天）" vertex="1">
+          <mxGeometry height="22" width="200" x="1980" y="6554" as="geometry" />
+        </mxCell>
+        <mxCell id="ykfoiyoN5eaVs1loun9g-469" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f0f5;strokeColor=#888899;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=6;" value="恒星月（27.32天）" vertex="1">
+          <mxGeometry height="22" width="200" x="1980" y="6581" as="geometry" />
+        </mxCell>
+        <mxCell id="ykfoiyoN5eaVs1loun9g-471" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f0f5;strokeColor=#888899;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=6;" value="18.6年交点周期" vertex="1">
+          <mxGeometry height="22" width="200" x="1980" y="6608" as="geometry" />
+        </mxCell>
+        <mxCell id="ykfoiyoN5eaVs1loun9g-473" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f0f5;strokeColor=#888899;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=6;" value="白道倾角（5.14°）" vertex="1">
+          <mxGeometry height="22" width="200" x="1980" y="6635" as="geometry" />
+        </mxCell>
+        <mxCell id="ykfoiyoN5eaVs1loun9g-475" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f0f5;strokeColor=#888899;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=6;" value="月球自转（潮汐锁定）" vertex="1">
+          <mxGeometry height="22" width="200" x="1980" y="6662" as="geometry" />
+        </mxCell>
+        <mxCell id="ykfoiyoN5eaVs1loun9g-477" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f0f5;strokeColor=#888899;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=6;" value="月相与人体同步" vertex="1">
+          <mxGeometry height="22" width="200" x="1980" y="6689" as="geometry" />
+        </mxCell>
+        <mxCell id="ykfoiyoN5eaVs1loun9g-479" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f0f5;strokeColor=#888899;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=6;" value="月食" vertex="1">
+          <mxGeometry height="22" width="200" x="1980" y="6716" as="geometry" />
+        </mxCell>
+        <mxCell id="ykfoiyoN5eaVs1loun9g-481" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f0ff;strokeColor=#4477aa;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=6;strokeWidth=2;" value="🔵 引力驱动岁差（主贡献者）" vertex="1">
+          <mxGeometry height="22" width="200" x="1980" y="6743" as="geometry" />
+        </mxCell>
+        <mxCell id="ykfoiyoN5eaVs1loun9g-483" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f0ff;strokeColor=#4477aa;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=6;strokeWidth=2;" value="🔵 黄赤交角长期变化（稳定器反馈）" vertex="1">
+          <mxGeometry height="22" width="200" x="1980" y="6770" as="geometry" />
+        </mxCell>
+        <mxCell id="ykfoiyoN5eaVs1loun9g-485" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-405" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="ykfoiyoN5eaVs1loun9g-459" />
+        <mxCell id="ykfoiyoN5eaVs1loun9g-486" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-405" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="ykfoiyoN5eaVs1loun9g-460" />
+        <mxCell id="ykfoiyoN5eaVs1loun9g-487" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-459" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="ykfoiyoN5eaVs1loun9g-461" />
+        <mxCell id="ykfoiyoN5eaVs1loun9g-488" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-459" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="ykfoiyoN5eaVs1loun9g-463" />
+        <mxCell id="ykfoiyoN5eaVs1loun9g-489" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-459" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="ykfoiyoN5eaVs1loun9g-465" />
+        <mxCell id="ykfoiyoN5eaVs1loun9g-490" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-459" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="ykfoiyoN5eaVs1loun9g-467" />
+        <mxCell id="ykfoiyoN5eaVs1loun9g-491" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-459" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="ykfoiyoN5eaVs1loun9g-469" />
+        <mxCell id="ykfoiyoN5eaVs1loun9g-492" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-459" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="ykfoiyoN5eaVs1loun9g-471" />
+        <mxCell id="ykfoiyoN5eaVs1loun9g-493" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-459" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="ykfoiyoN5eaVs1loun9g-473" />
+        <mxCell id="ykfoiyoN5eaVs1loun9g-494" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-459" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="ykfoiyoN5eaVs1loun9g-475" />
+        <mxCell id="ykfoiyoN5eaVs1loun9g-495" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-459" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="ykfoiyoN5eaVs1loun9g-477" />
+        <mxCell id="ykfoiyoN5eaVs1loun9g-496" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-459" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="ykfoiyoN5eaVs1loun9g-479" />
+        <mxCell id="ykfoiyoN5eaVs1loun9g-497" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-459" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="ykfoiyoN5eaVs1loun9g-481" />
+        <mxCell id="ykfoiyoN5eaVs1loun9g-498" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-459" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="ykfoiyoN5eaVs1loun9g-483" />
+        <mxCell id="ykfoiyoN5eaVs1loun9g-499" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-461" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;dashed=1;strokeColor=#66aa55;opacity=60;" target="ykfoiyoN5eaVs1loun9g-462" />
+        <mxCell id="ykfoiyoN5eaVs1loun9g-500" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-463" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;dashed=1;strokeColor=#66aa55;opacity=60;" target="ykfoiyoN5eaVs1loun9g-464" />
+        <mxCell id="ykfoiyoN5eaVs1loun9g-501" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-465" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;dashed=1;strokeColor=#66aa55;opacity=60;" target="ykfoiyoN5eaVs1loun9g-466" />
+        <mxCell id="ykfoiyoN5eaVs1loun9g-502" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-467" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;dashed=1;strokeColor=#66aa55;opacity=60;" target="ykfoiyoN5eaVs1loun9g-468" />
+        <mxCell id="ykfoiyoN5eaVs1loun9g-503" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-469" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;dashed=1;strokeColor=#66aa55;opacity=60;" target="ykfoiyoN5eaVs1loun9g-470" />
+        <mxCell id="ykfoiyoN5eaVs1loun9g-504" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-471" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;dashed=1;strokeColor=#66aa55;opacity=60;" target="ykfoiyoN5eaVs1loun9g-472" />
+        <mxCell id="ykfoiyoN5eaVs1loun9g-505" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-473" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;dashed=1;strokeColor=#66aa55;opacity=60;" target="ykfoiyoN5eaVs1loun9g-474" />
+        <mxCell id="ykfoiyoN5eaVs1loun9g-506" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-475" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;dashed=1;strokeColor=#66aa55;opacity=60;" target="ykfoiyoN5eaVs1loun9g-476" />
+        <mxCell id="ykfoiyoN5eaVs1loun9g-507" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-477" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;dashed=1;strokeColor=#66aa55;opacity=60;" target="ykfoiyoN5eaVs1loun9g-478" />
+        <mxCell id="ykfoiyoN5eaVs1loun9g-508" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-479" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;dashed=1;strokeColor=#66aa55;opacity=60;" target="ykfoiyoN5eaVs1loun9g-480" />
+        <mxCell id="ykfoiyoN5eaVs1loun9g-509" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-481" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;dashed=1;strokeColor=#4477aa;opacity=70;" target="ykfoiyoN5eaVs1loun9g-482" />
+        <mxCell id="ykfoiyoN5eaVs1loun9g-510" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-483" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;dashed=1;strokeColor=#4477aa;opacity=70;" target="ykfoiyoN5eaVs1loun9g-484" />
+        <mxCell id="ykfoiyoN5eaVs1loun9g-511" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8ecf8;strokeColor=#4455aa;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;" value="自身属性" vertex="1">
+          <mxGeometry height="28" width="200" x="2220" y="6435" as="geometry" />
+        </mxCell>
+        <mxCell id="ykfoiyoN5eaVs1loun9g-513" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f4fc;strokeColor=#4455aa;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=6;" value="88天公转周期" vertex="1">
+          <mxGeometry height="22" width="200" x="2220" y="6473" as="geometry" />
+        </mxCell>
+        <mxCell id="ykfoiyoN5eaVs1loun9g-515" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f4fc;strokeColor=#4455aa;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=6;" value="距角小（最大28°）" vertex="1">
+          <mxGeometry height="22" width="200" x="2220" y="6500" as="geometry" />
+        </mxCell>
+        <mxCell id="ykfoiyoN5eaVs1loun9g-517" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f4fc;strokeColor=#4455aa;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=6;" value="水星凌日（7/13/46年周期）" vertex="1">
+          <mxGeometry height="22" width="200" x="2220" y="6527" as="geometry" />
+        </mxCell>
+        <mxCell id="ykfoiyoN5eaVs1loun9g-519" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f4fc;strokeColor=#4455aa;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=6;strokeWidth=2;" value="五运六气：水运（丙辛化水）" vertex="1">
+          <mxGeometry height="22" width="200" x="2220" y="6554" as="geometry" />
+        </mxCell>
+        <mxCell id="ykfoiyoN5eaVs1loun9g-521" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f4fc;strokeColor=#4455aa;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=6;" value="反照率极低（0.088）" vertex="1">
+          <mxGeometry height="22" width="200" x="2220" y="6581" as="geometry" />
+        </mxCell>
+        <mxCell id="ykfoiyoN5eaVs1loun9g-523" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-406" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="ykfoiyoN5eaVs1loun9g-511" />
+        <mxCell id="ykfoiyoN5eaVs1loun9g-524" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-406" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="ykfoiyoN5eaVs1loun9g-512" />
+        <mxCell id="ykfoiyoN5eaVs1loun9g-525" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-511" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="ykfoiyoN5eaVs1loun9g-513" />
+        <mxCell id="ykfoiyoN5eaVs1loun9g-526" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-511" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="ykfoiyoN5eaVs1loun9g-515" />
+        <mxCell id="ykfoiyoN5eaVs1loun9g-527" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-511" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="ykfoiyoN5eaVs1loun9g-517" />
+        <mxCell id="ykfoiyoN5eaVs1loun9g-528" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-511" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="ykfoiyoN5eaVs1loun9g-519" />
+        <mxCell id="ykfoiyoN5eaVs1loun9g-529" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-511" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="ykfoiyoN5eaVs1loun9g-521" />
+        <mxCell id="ykfoiyoN5eaVs1loun9g-530" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-513" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;dashed=1;strokeColor=#66aa55;opacity=60;" target="ykfoiyoN5eaVs1loun9g-514" />
+        <mxCell id="ykfoiyoN5eaVs1loun9g-531" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-515" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;dashed=1;strokeColor=#66aa55;opacity=60;" target="ykfoiyoN5eaVs1loun9g-516" />
+        <mxCell id="ykfoiyoN5eaVs1loun9g-532" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-517" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;dashed=1;strokeColor=#66aa55;opacity=60;" target="ykfoiyoN5eaVs1loun9g-518" />
+        <mxCell id="ykfoiyoN5eaVs1loun9g-533" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-519" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;dashed=1;strokeColor=#66aa55;opacity=60;" target="ykfoiyoN5eaVs1loun9g-520" />
+        <mxCell id="ykfoiyoN5eaVs1loun9g-534" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-521" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;dashed=1;strokeColor=#66aa55;opacity=60;" target="ykfoiyoN5eaVs1loun9g-522" />
+        <mxCell id="ykfoiyoN5eaVs1loun9g-535" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8f0e0;strokeColor=#ccaa77;fontSize=10;fontFamily=Microsoft YaHei;align=center;strokeWidth=1;dashed=1;opacity=60;" value="金星（太白）详细属性待展开，结构与水星同" vertex="1">
+          <mxGeometry height="340" width="200" x="2460" y="6435" as="geometry" />
+        </mxCell>
+        <mxCell id="ykfoiyoN5eaVs1loun9g-536" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fce8e0;strokeColor=#aa4433;fontSize=10;fontFamily=Microsoft YaHei;align=center;strokeWidth=1;dashed=1;opacity=60;" value="火星（荧惑）详细属性待展开，结构与水星同" vertex="1">
+          <mxGeometry height="340" width="200" x="2700" y="6435" as="geometry" />
+        </mxCell>
+        <mxCell id="ykfoiyoN5eaVs1loun9g-537" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8f5e8;strokeColor=#558855;fontSize=10;fontFamily=Microsoft YaHei;align=center;strokeWidth=1;dashed=1;opacity=60;" value="木星（岁星）详细属性待展开，结构与水星同" vertex="1">
+          <mxGeometry height="340" width="200" x="2940" y="6435" as="geometry" />
+        </mxCell>
+        <mxCell id="ykfoiyoN5eaVs1loun9g-538" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8f0d0;strokeColor=#998844;fontSize=10;fontFamily=Microsoft YaHei;align=center;strokeWidth=1;dashed=1;opacity=60;" value="土星（镇星）详细属性待展开，结构与水星同" vertex="1">
+          <mxGeometry height="340" width="200" x="3180" y="6435" as="geometry" />
+        </mxCell>
+        <mxCell id="ykfoiyoN5eaVs1loun9g-539" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f9f9;strokeColor=#999999;fontSize=11;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=10;dashed=1;" value="图例：🟡 黄色 = 日（太阳） | 🔵 蓝色系 = 月球/水星 | 🟢 绿色 = 木星 | 🔴 红色 = 火星 | 🟤 土色 = 土星 | 🟠 金色 = 金星 | 🔵 蓝框 = 长期漂移属性（岁差/黄赤交角）" vertex="1">
+          <mxGeometry height="32" width="1400" x="1740" y="6890" as="geometry" />
+        </mxCell>
+        <mxCell id="ykfoiyoN5eaVs1loun9g-541" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ecf9ec;strokeColor=#66aa55;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=6;" value="约束地球公转轨道 → 维持宜居带" vertex="1">
+          <mxGeometry height="24" width="260" x="1690" y="6950" as="geometry" />
+        </mxCell>
+        <mxCell id="ykfoiyoN5eaVs1loun9g-542" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ecf9ec;strokeColor=#66aa55;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=6;" value="日出提前约 1~2 分钟（h₀ = -0.8333°）" vertex="1">
+          <mxGeometry height="24" width="260" x="1690" y="6980" as="geometry" />
+        </mxCell>
+        <mxCell id="ykfoiyoN5eaVs1loun9g-543" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ecf9ec;strokeColor=#66aa55;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=6;" value="昼夜交替、光合作用、视觉感知" vertex="1">
+          <mxGeometry height="24" width="260" x="1690" y="7010" as="geometry" />
+        </mxCell>
+        <mxCell id="ykfoiyoN5eaVs1loun9g-544" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ecf9ec;strokeColor=#66aa55;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=6;" value="驱动大气环流、洋流 → 四季与气候带" vertex="1">
+          <mxGeometry height="24" width="260" x="1690" y="7040" as="geometry" />
+        </mxCell>
+        <mxCell id="ykfoiyoN5eaVs1loun9g-545" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ecf9ec;strokeColor=#66aa55;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=6;" value="形成臭氧层 → 保护陆地生命" vertex="1">
+          <mxGeometry height="24" width="260" x="1690" y="7070" as="geometry" />
+        </mxCell>
+        <mxCell id="ykfoiyoN5eaVs1loun9g-546" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ecf9ec;strokeColor=#66aa55;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=6;" value="黑子/耀斑 → 地磁扰动、极光、气候微变（0.1%~0.3%）" vertex="1">
+          <mxGeometry height="24" width="260" x="1690" y="7100" as="geometry" />
+        </mxCell>
+        <mxCell id="ykfoiyoN5eaVs1loun9g-547" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ecf9ec;strokeColor=#66aa55;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=6;" value="直射点南北移动（±23.44°）→ 四季更替" vertex="1">
+          <mxGeometry height="24" width="260" x="1690" y="7130" as="geometry" />
+        </mxCell>
+        <mxCell id="ykfoiyoN5eaVs1loun9g-548" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ecf9ec;strokeColor=#66aa55;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=6;" value="近日点辐射略强 → 季节强度微调" vertex="1">
+          <mxGeometry height="24" width="260" x="1690" y="7160" as="geometry" />
+        </mxCell>
+        <mxCell id="ykfoiyoN5eaVs1loun9g-549" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ecf9ec;strokeColor=#66aa55;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=6;" value="日食 → 古代占星：政治警示" vertex="1">
+          <mxGeometry height="24" width="260" x="1690" y="7190" as="geometry" />
+        </mxCell>
+        <mxCell id="ykfoiyoN5eaVs1loun9g-550" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0e8f8;strokeColor=#4477aa;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=6;strokeWidth=2;" value="岁差（25772年周期）→ 春分点西移、历法长期修正" vertex="1">
+          <mxGeometry height="24" width="260" x="1690" y="7220" as="geometry" />
+        </mxCell>
+        <mxCell id="ykfoiyoN5eaVs1loun9g-551" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0e8f8;strokeColor=#4477aa;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=6;strokeWidth=2;" value="冰期-间冰期背景（41,000年摆动）" vertex="1">
+          <mxGeometry height="24" width="260" x="1690" y="7250" as="geometry" />
+        </mxCell>
+        <mxCell id="ykfoiyoN5eaVs1loun9g-553" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ecf9ec;strokeColor=#66aa55;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=6;" value="海洋潮汐（引潮力为太阳2.18倍）" vertex="1">
+          <mxGeometry height="22" width="240" x="1980" y="6952.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ykfoiyoN5eaVs1loun9g-554" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ecf9ec;strokeColor=#66aa55;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=6;" value="地球自转每百年减慢约1.8毫秒" vertex="1">
+          <mxGeometry height="22" width="240" x="1980" y="6979.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ykfoiyoN5eaVs1loun9g-555" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ecf9ec;strokeColor=#66aa55;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=6;" value="地轴倾角稳定在23.44°（±1°）→ 气候温和" vertex="1">
+          <mxGeometry height="22" width="240" x="1980" y="7006.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ykfoiyoN5eaVs1loun9g-556" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ecf9ec;strokeColor=#66aa55;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=6;" value="月相循环 → 农历月、潮汐节律" vertex="1">
+          <mxGeometry height="22" width="240" x="1980" y="7033.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ykfoiyoN5eaVs1loun9g-557" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ecf9ec;strokeColor=#66aa55;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=6;" value="相对恒星背景的周期 → 精确推算月球位置" vertex="1">
+          <mxGeometry height="22" width="240" x="1980" y="7060.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ykfoiyoN5eaVs1loun9g-558" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ecf9ec;strokeColor=#66aa55;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=6;" value="日食/月食沙罗周期；掩星周期" vertex="1">
+          <mxGeometry height="22" width="240" x="1980" y="7087.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ykfoiyoN5eaVs1loun9g-559" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ecf9ec;strokeColor=#66aa55;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=6;" value="决定是否发生日食/月食/合月紧密程度" vertex="1">
+          <mxGeometry height="22" width="240" x="1980" y="7114.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ykfoiyoN5eaVs1loun9g-560" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ecf9ec;strokeColor=#66aa55;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=6;" value="同一面朝向地球 → 月面形象固定" vertex="1">
+          <mxGeometry height="22" width="240" x="1980" y="7141.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ykfoiyoN5eaVs1loun9g-561" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ecf9ec;strokeColor=#66aa55;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=6;" value="月经周期（约28天）→ 应月调经" vertex="1">
+          <mxGeometry height="22" width="240" x="1980" y="7168.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ykfoiyoN5eaVs1loun9g-562" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ecf9ec;strokeColor=#66aa55;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=6;" value="月食 → 古代占星：阴盛阳衰" vertex="1">
+          <mxGeometry height="22" width="240" x="1980" y="7195.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ykfoiyoN5eaVs1loun9g-563" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0e8f8;strokeColor=#4477aa;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=6;strokeWidth=2;" value="岁差（25772年周期）→ 春分点西移（贡献约2/3）" vertex="1">
+          <mxGeometry height="22" width="240" x="1980" y="7222.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ykfoiyoN5eaVs1loun9g-564" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0e8f8;strokeColor=#4477aa;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=6;strokeWidth=2;" value="地轴倾角 22°~24.5° 摆动（41,000年周期）" vertex="1">
+          <mxGeometry height="22" width="240" x="1980" y="7249.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ykfoiyoN5eaVs1loun9g-572" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ecf9ec;strokeColor=#66aa55;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=6;" value="常伏于日旁 → 命名“辰星”" vertex="1">
+          <mxGeometry height="22" width="160" x="2240" y="6952.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ykfoiyoN5eaVs1loun9g-573" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ecf9ec;strokeColor=#66aa55;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=6;" value="日出前/日落后短时可见" vertex="1">
+          <mxGeometry height="22" width="160" x="2240" y="6979.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ykfoiyoN5eaVs1loun9g-574" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ecf9ec;strokeColor=#66aa55;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=6;" value="日面小黑点 → 占星视为“变”" vertex="1">
+          <mxGeometry height="22" width="160" x="2240" y="7006.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ykfoiyoN5eaVs1loun9g-575" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ecf9ec;strokeColor=#66aa55;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=6;" value="寒气偏胜 → 肾/膀胱虚实" vertex="1">
+          <mxGeometry height="22" width="160" x="2240" y="7033.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ykfoiyoN5eaVs1loun9g-576" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ecf9ec;strokeColor=#66aa55;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=6;" value="肉眼较暗 → 占星权重偏低" vertex="1">
+          <mxGeometry height="22" width="160" x="2240" y="7060.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
