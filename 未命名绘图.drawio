@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="天-地-人完整因果链布局" id="SjSHOlrHnjoS6EgHSpwo">
-    <mxGraphModel dx="12493" dy="9485" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="13190" dy="9980" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -638,7 +638,7 @@
         <mxCell id="2XLtZuSOmdolHwbAJiA--446" parent="2XLtZuSOmdolHwbAJiA--282" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;size=0.5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=15;" value="" vertex="1">
           <mxGeometry height="376.75935862329516" width="46.8944609484326" x="5252.873074815187" y="3819.160166802374" as="geometry" />
         </mxCell>
-        <mxCell id="2XLtZuSOmdolHwbAJiA--492" connectable="0" parent="2XLtZuSOmdolHwbAJiA--282" style="group" value="" vertex="1">
+        <mxCell id="2XLtZuSOmdolHwbAJiA--492" connectable="0" parent="2XLtZuSOmdolHwbAJiA--282" style="group;fontSize=15;" value="" vertex="1">
           <mxGeometry height="436.1102544743826" width="385.72211048878125" x="5309.051829120831" y="3779.296412283611" as="geometry" />
         </mxCell>
         <mxCell id="2XLtZuSOmdolHwbAJiA--447" parent="2XLtZuSOmdolHwbAJiA--492" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f0f5;strokeColor=#888899;fontSize=15;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="1. 地月引力（7.342×10²² kg）" vertex="1">
