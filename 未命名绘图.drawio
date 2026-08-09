@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="天-地-人完整因果链布局" id="SjSHOlrHnjoS6EgHSpwo">
-    <mxGraphModel dx="13190" dy="9980" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="11596" dy="8849" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -270,22 +270,22 @@
           <mxGeometry height="60.96127943428487" width="260" y="825.3219369564722" as="geometry" />
         </mxCell>
         <mxCell id="2XLtZuSOmdolHwbAJiA--356" connectable="0" parent="2XLtZuSOmdolHwbAJiA--282" style="group;fontSize=15;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
-          <mxGeometry height="361.0783474184566" width="173.36214768366952" x="4893.3140825520395" y="2982.4133630927076" as="geometry" />
+          <mxGeometry height="361.0783474184566" width="200" x="4893.3140825520395" y="2982.4133630927076" as="geometry" />
         </mxCell>
         <mxCell id="2XLtZuSOmdolHwbAJiA--357" parent="2XLtZuSOmdolHwbAJiA--356" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f4fc;strokeColor=#4455aa;fontSize=15;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="1. 88天公转周期" vertex="1">
-          <mxGeometry height="60.96127943428488" width="173.36214768366952" as="geometry" />
+          <mxGeometry height="60.96127943428488" width="200" as="geometry" />
         </mxCell>
         <mxCell id="2XLtZuSOmdolHwbAJiA--358" parent="2XLtZuSOmdolHwbAJiA--356" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f4fc;strokeColor=#4455aa;fontSize=15;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="2. 距角小（最大28°）" vertex="1">
-          <mxGeometry height="60.96127943428488" width="173.36214768366952" y="75.02926699604295" as="geometry" />
+          <mxGeometry height="60.96127943428488" width="200" y="75.02926699604295" as="geometry" />
         </mxCell>
         <mxCell id="2XLtZuSOmdolHwbAJiA--359" parent="2XLtZuSOmdolHwbAJiA--356" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f4fc;strokeColor=#4455aa;fontSize=15;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="3. 水星凌日（7/13/46年周期）" vertex="1">
-          <mxGeometry height="60.96127943428488" width="173.36214768366952" y="150.0585339920859" as="geometry" />
+          <mxGeometry height="60.96" width="200" y="150.06" as="geometry" />
         </mxCell>
         <mxCell id="2XLtZuSOmdolHwbAJiA--360" parent="2XLtZuSOmdolHwbAJiA--356" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f4fc;strokeColor=#4455aa;fontSize=15;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="4. 五运六气：水运（丙辛化水）" vertex="1">
-          <mxGeometry height="60.96127943428488" width="173.36214768366952" y="225.0878009881288" as="geometry" />
+          <mxGeometry height="60.96127943428488" width="200" y="225.0878009881288" as="geometry" />
         </mxCell>
         <mxCell id="2XLtZuSOmdolHwbAJiA--361" parent="2XLtZuSOmdolHwbAJiA--356" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f4fc;strokeColor=#4455aa;fontSize=15;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="5. 反照率极低（0.088）" vertex="1">
-          <mxGeometry height="60.96127943428488" width="173.36214768366952" y="300.1170679841718" as="geometry" />
+          <mxGeometry height="60.96127943428488" width="200" y="300.1170679841718" as="geometry" />
         </mxCell>
         <mxCell id="2XLtZuSOmdolHwbAJiA--362" parent="2XLtZuSOmdolHwbAJiA--282" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
           <mxGeometry height="281.35975123516107" width="46.89328301439426" x="4822.97415803045" y="3029.3066549652335" as="geometry" />
@@ -369,25 +369,25 @@
           <mxGeometry height="60.96127943428488" width="260" y="450.1756019762576" as="geometry" />
         </mxCell>
         <mxCell id="2XLtZuSOmdolHwbAJiA--387" connectable="0" parent="2XLtZuSOmdolHwbAJiA--282" style="group;fontSize=15;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
-          <mxGeometry height="436.10761441449966" width="173.36214768366952" x="3603.748799656198" y="2790.1508664153475" as="geometry" />
+          <mxGeometry height="436.11" width="243.25" x="3578.75" y="2790.15" as="geometry" />
         </mxCell>
         <mxCell id="2XLtZuSOmdolHwbAJiA--388" parent="2XLtZuSOmdolHwbAJiA--387" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fce8e0;strokeColor=#aa4433;fontSize=15;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="1. 687天公转周期" vertex="1">
-          <mxGeometry height="60.96127943428488" width="173.36214768366952" as="geometry" />
+          <mxGeometry height="60.96161290322579" width="243.24999999999997" as="geometry" />
         </mxCell>
         <mxCell id="2XLtZuSOmdolHwbAJiA--389" parent="2XLtZuSOmdolHwbAJiA--387" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fce8e0;strokeColor=#aa4433;fontSize=15;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="2. 红色外观（氧化铁反射）" vertex="1">
-          <mxGeometry height="60.96127943428488" width="173.36214768366952" y="75.02926699604295" as="geometry" />
+          <mxGeometry height="60.96161290322579" width="243.24999999999997" y="75.02967741935484" as="geometry" />
         </mxCell>
         <mxCell id="2XLtZuSOmdolHwbAJiA--390" parent="2XLtZuSOmdolHwbAJiA--387" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fce8e0;strokeColor=#aa4433;fontSize=15;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="3. 火星逆行（每年约2个月）" vertex="1">
-          <mxGeometry height="60.96127943428488" width="173.36214768366952" y="150.0585339920859" as="geometry" />
+          <mxGeometry height="60.96161290322579" width="243.24999999999997" y="150.05935483870968" as="geometry" />
         </mxCell>
         <mxCell id="2XLtZuSOmdolHwbAJiA--391" parent="2XLtZuSOmdolHwbAJiA--387" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fce8e0;strokeColor=#aa4433;fontSize=15;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="4. 火星冲日与亮度变化" vertex="1">
-          <mxGeometry height="60.96127943428488" width="173.36214768366952" y="225.0878009881288" as="geometry" />
+          <mxGeometry height="60.96161290322579" width="243.24999999999997" y="225.0890322580645" as="geometry" />
         </mxCell>
         <mxCell id="2XLtZuSOmdolHwbAJiA--392" parent="2XLtZuSOmdolHwbAJiA--387" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fce8e0;strokeColor=#aa4433;fontSize=15;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="5. 五运六气：火运（戊癸化火）" vertex="1">
-          <mxGeometry height="60.96127943428488" width="173.36214768366952" y="300.1170679841718" as="geometry" />
+          <mxGeometry height="60.96161290322579" width="243.24999999999997" y="300.11870967741936" as="geometry" />
         </mxCell>
         <mxCell id="2XLtZuSOmdolHwbAJiA--393" parent="2XLtZuSOmdolHwbAJiA--387" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fce8e0;strokeColor=#aa4433;fontSize=15;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="6. 荧惑守心（心宿停留）" vertex="1">
-          <mxGeometry height="60.96127943428488" width="173.36214768366952" y="375.14633498021465" as="geometry" />
+          <mxGeometry height="60.96161290322579" width="243.24999999999997" y="375.1483870967741" as="geometry" />
         </mxCell>
         <mxCell id="2XLtZuSOmdolHwbAJiA--394" parent="2XLtZuSOmdolHwbAJiA--282" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
           <mxGeometry height="361.0783474184566" width="46.89328301439426" x="3509.9622336274115" y="2837.0441582878734" as="geometry" />
