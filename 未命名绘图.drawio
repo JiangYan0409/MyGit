@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="天-地-人完整因果链布局" id="SjSHOlrHnjoS6EgHSpwo">
-    <mxGraphModel dx="31940" dy="29080" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="20780" dy="21160" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -858,40 +858,40 @@
           <mxGeometry height="1758" width="2665.62" x="-3630" y="-13890" as="geometry" />
         </mxCell>
         <mxCell id="2XLtZuSOmdolHwbAJiA--657" parent="2XLtZuSOmdolHwbAJiA--720" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=20;fontStyle=1;fontFamily=Microsoft YaHei;" value="七政相互作用" vertex="1">
-          <mxGeometry height="81.76744186046511" width="1308.2797546012268" x="719.5538650306748" as="geometry" />
+          <mxGeometry height="81.76744186046511" width="1308.2797546012268" x="716.5538650306748" y="51" as="geometry" />
         </mxCell>
         <mxCell id="2XLtZuSOmdolHwbAJiA--658" parent="2XLtZuSOmdolHwbAJiA--720" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#888888;fontSize=15;fontStyle=1;fontFamily=Microsoft YaHei;dashed=1;verticalAlign=top;" value="第一层：作用者（七政）" vertex="1">
-          <mxGeometry height="179.88837209302326" width="2665.62" y="114.47441860465116" as="geometry" />
+          <mxGeometry height="179.89" width="2649.27" x="-10" y="165.47" as="geometry" />
         </mxCell>
         <mxCell id="2XLtZuSOmdolHwbAJiA--659" parent="2XLtZuSOmdolHwbAJiA--720" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc00;strokeColor=#dd9900;fontSize=16;fontStyle=1;fontFamily=Microsoft YaHei;" value="日" vertex="1">
-          <mxGeometry height="49.06046511627907" width="163.53496932515336" x="719.5538650306748" y="196.24186046511628" as="geometry" />
+          <mxGeometry height="49.06046511627907" width="163.53496932515336" x="716.5538650306748" y="247.24186046511628" as="geometry" />
         </mxCell>
         <mxCell id="2XLtZuSOmdolHwbAJiA--660" parent="2XLtZuSOmdolHwbAJiA--720" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ccccdd;strokeColor=#888899;fontSize=16;fontStyle=1;fontFamily=Microsoft YaHei;" value="月" vertex="1">
-          <mxGeometry height="49.06046511627907" width="163.53496932515336" x="915.7958282208589" y="196.24186046511628" as="geometry" />
+          <mxGeometry height="49.06046511627907" width="163.53496932515336" x="912.7958282208589" y="247.24186046511628" as="geometry" />
         </mxCell>
         <mxCell id="2XLtZuSOmdolHwbAJiA--661" parent="2XLtZuSOmdolHwbAJiA--720" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7788cc;strokeColor=#4455aa;fontSize=16;fontStyle=1;fontFamily=Microsoft YaHei;" value="水" vertex="1">
-          <mxGeometry height="49.06046511627907" width="163.53496932515336" x="1112.037791411043" y="196.24186046511628" as="geometry" />
+          <mxGeometry height="49.06046511627907" width="163.53496932515336" x="1109.037791411043" y="247.24186046511628" as="geometry" />
         </mxCell>
         <mxCell id="2XLtZuSOmdolHwbAJiA--662" parent="2XLtZuSOmdolHwbAJiA--720" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeddbb;strokeColor=#ccaa77;fontSize=16;fontStyle=1;fontFamily=Microsoft YaHei;" value="金" vertex="1">
-          <mxGeometry height="49.06046511627907" width="163.53496932515336" x="1308.2797546012268" y="196.24186046511628" as="geometry" />
+          <mxGeometry height="49.06046511627907" width="163.53496932515336" x="1305.2797546012268" y="247.24186046511628" as="geometry" />
         </mxCell>
         <mxCell id="2XLtZuSOmdolHwbAJiA--663" parent="2XLtZuSOmdolHwbAJiA--720" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dd6644;strokeColor=#aa4433;fontSize=16;fontStyle=1;fontFamily=Microsoft YaHei;" value="火" vertex="1">
-          <mxGeometry height="49.06046511627907" width="163.53496932515336" x="1504.521717791411" y="196.24186046511628" as="geometry" />
+          <mxGeometry height="49.06046511627907" width="163.53496932515336" x="1501.521717791411" y="247.24186046511628" as="geometry" />
         </mxCell>
         <mxCell id="2XLtZuSOmdolHwbAJiA--664" parent="2XLtZuSOmdolHwbAJiA--720" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#88bb88;strokeColor=#558855;fontSize=16;fontStyle=1;fontFamily=Microsoft YaHei;" value="木" vertex="1">
-          <mxGeometry height="49.06046511627907" width="163.53496932515336" x="1700.763680981595" y="196.24186046511628" as="geometry" />
+          <mxGeometry height="49.06046511627907" width="163.53496932515336" x="1697.763680981595" y="247.24186046511628" as="geometry" />
         </mxCell>
         <mxCell id="2XLtZuSOmdolHwbAJiA--665" parent="2XLtZuSOmdolHwbAJiA--720" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ccbb66;strokeColor=#998844;fontSize=16;fontStyle=1;fontFamily=Microsoft YaHei;" value="土" vertex="1">
-          <mxGeometry height="49.06046511627907" width="163.53496932515336" x="1897.005644171779" y="196.24186046511628" as="geometry" />
+          <mxGeometry height="49.06046511627907" width="163.53496932515336" x="1894.005644171779" y="247.24186046511628" as="geometry" />
         </mxCell>
-        <mxCell id="2XLtZuSOmdolHwbAJiA--666" edge="1" parent="2XLtZuSOmdolHwbAJiA--720" source="2XLtZuSOmdolHwbAJiA--658" style="shape=flexArrow;endArrow=classic;html=1;width=16;fillColor=#888888;strokeColor=#888888;opacity=60;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="2XLtZuSOmdolHwbAJiA--668" value="">
+        <mxCell id="2XLtZuSOmdolHwbAJiA--666" edge="1" parent="2XLtZuSOmdolHwbAJiA--720" source="2XLtZuSOmdolHwbAJiA--658" style="shape=flexArrow;endArrow=classic;html=1;width=16;fillColor=#888888;strokeColor=#888888;opacity=60;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="2XLtZuSOmdolHwbAJiA--668" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2XLtZuSOmdolHwbAJiA--667" parent="2XLtZuSOmdolHwbAJiA--720" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Microsoft YaHei;fontColor=#888888;" value="驱动" vertex="1">
-          <mxGeometry height="32.70697674418605" width="65.41398773006135" x="1291.9262576687115" y="417.0139534883721" as="geometry" />
+          <mxGeometry height="32.70697674418605" width="65.41398773006135" x="1249.9962576687115" y="370.00395348837213" as="geometry" />
         </mxCell>
         <mxCell id="2XLtZuSOmdolHwbAJiA--668" parent="2XLtZuSOmdolHwbAJiA--720" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#888888;fontSize=15;fontStyle=1;fontFamily=Microsoft YaHei;dashed=1;verticalAlign=top;" value="第二层：相互作用机制" vertex="1">
-          <mxGeometry height="809.4976744186047" width="2649.2665030674843" y="417.0139534883721" as="geometry" />
+          <mxGeometry height="839.5" width="2649.27" x="-10" y="430" as="geometry" />
         </mxCell>
         <mxCell id="2XLtZuSOmdolHwbAJiA--669" parent="2XLtZuSOmdolHwbAJiA--720" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;fontStyle=1;fontFamily=Microsoft YaHei;strokeWidth=2;verticalAlign=top;" value="引力与轨道约束" vertex="1">
           <mxGeometry height="327.06976744186045" width="1242.8657668711655" x="32.706993865030675" y="506.95813953488374" as="geometry" />
@@ -1005,7 +1005,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2XLtZuSOmdolHwbAJiA--706" parent="2XLtZuSOmdolHwbAJiA--720" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Microsoft YaHei;fontColor=#888888;" value="输出" vertex="1">
-          <mxGeometry height="32.70697674418605" width="65.41398773006135" x="1291.9262576687115" y="1259.2186046511629" as="geometry" />
+          <mxGeometry height="32.70697674418605" width="65.41398773006135" x="1249.9962576687115" y="1259.2186046511629" as="geometry" />
         </mxCell>
         <mxCell id="2XLtZuSOmdolHwbAJiA--719" edge="1" parent="2XLtZuSOmdolHwbAJiA--720" source="2XLtZuSOmdolHwbAJiA--707" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="2XLtZuSOmdolHwbAJiA--716" value="">
           <mxGeometry relative="1" as="geometry" />
