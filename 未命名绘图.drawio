@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net">
   <diagram name="天-地-人完整因果链布局" id="SjSHOlrHnjoS6EgHSpwo">
-    <mxGraphModel dx="503940" dy="360280" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="605170" dy="432740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="imN4XA_HrcJKBXKusfpZ-1" connectable="0" parent="1" style="group;aspect=fixed;fontSize=15;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
-          <mxGeometry height="8980" width="11020" x="-8740" y="-7600" as="geometry" />
+          <mxGeometry height="8980" width="11020" x="-13800" y="-14760" as="geometry" />
         </mxCell>
         <mxCell id="imN4XA_HrcJKBXKusfpZ-2" parent="imN4XA_HrcJKBXKusfpZ-1" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#888899;strokeWidth=1.5;dashed=1;opacity=40;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
           <mxGeometry height="898.0065393588889" width="898.0025675675676" x="4425.8697972973" y="3848.599454395238" as="geometry" />
