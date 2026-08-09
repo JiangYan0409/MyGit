@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="天-地-人完整因果链布局" id="SjSHOlrHnjoS6EgHSpwo">
-    <mxGraphModel dx="18340" dy="10280" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="18394" dy="10711" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#ffffff, #121212)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -151,7 +151,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="zSthK1BmzT3WLeGDyZPw-33" edge="1" parent="1" source="zSthK1BmzT3WLeGDyZPw-34" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;curved=1;dashed=1;dashPattern=1 1;strokeWidth=3;strokeColor=light-dark(#0061ff, #ededed);">
+        <mxCell id="zSthK1BmzT3WLeGDyZPw-33" edge="1" parent="1" source="zSthK1BmzT3WLeGDyZPw-34" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;curved=1;dashed=1;dashPattern=1 1;strokeWidth=3;strokeColor=light-dark(#0061ff, #ededed);entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="zSthK1BmzT3WLeGDyZPw-181">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="4782.477136091593" y="4160" as="targetPoint" />
           </mxGeometry>
@@ -201,7 +201,7 @@
         <mxCell id="zSthK1BmzT3WLeGDyZPw-48" edge="1" parent="1" source="zSthK1BmzT3WLeGDyZPw-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 4 1 4;strokeColor=light-dark(#fdca00, #ededed);strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;resizable=1;endArrow=classic;curved=1;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" target="zSthK1BmzT3WLeGDyZPw-138">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zSthK1BmzT3WLeGDyZPw-49" edge="1" parent="1" source="zSthK1BmzT3WLeGDyZPw-50" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;curved=1;dashed=1;dashPattern=1 1;strokeWidth=3;strokeColor=light-dark(#0061ff, #ededed);">
+        <mxCell id="zSthK1BmzT3WLeGDyZPw-49" edge="1" parent="1" source="zSthK1BmzT3WLeGDyZPw-50" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;curved=1;dashed=1;dashPattern=1 1;strokeWidth=3;strokeColor=light-dark(#0061ff, #ededed);entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="zSthK1BmzT3WLeGDyZPw-169">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="4802.477136091593" y="4170" as="targetPoint" />
           </mxGeometry>
@@ -610,7 +610,7 @@
           <mxGeometry height="60" width="120" x="1192.477136091593" y="6052.919999999998" as="geometry" />
         </mxCell>
         <mxCell id="zSthK1BmzT3WLeGDyZPw-169" connectable="0" parent="1" style="group;aspect=fixed;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
-          <mxGeometry height="719.15" width="2300" x="4812.327136091593" y="3823.16" as="geometry" />
+          <mxGeometry height="719.15" width="2300" x="4846.107136091593" y="3463.96" as="geometry" />
         </mxCell>
         <mxCell id="zSthK1BmzT3WLeGDyZPw-170" parent="zSthK1BmzT3WLeGDyZPw-169" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=20;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#333333;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="天体几何排列" vertex="1">
           <mxGeometry height="80.98536036036036" width="1133.8028169014085" x="664.0845070422536" as="geometry" />
