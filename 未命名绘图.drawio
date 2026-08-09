@@ -145,6 +145,45 @@
         <mxCell id="_DryXbSALZS7XiphY43--140" parent="ykfoiyoN5eaVs1loun9g-401" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" value="" vertex="1">
           <mxGeometry height="316" width="20" x="3187" y="1487" as="geometry" />
         </mxCell>
+        <mxCell id="_DryXbSALZS7XiphY43--167" connectable="0" parent="ykfoiyoN5eaVs1loun9g-401" style="group" value="" vertex="1">
+          <mxGeometry height="378" width="200" x="2294.96" y="1412" as="geometry" />
+        </mxCell>
+        <mxCell id="_DryXbSALZS7XiphY43--155" parent="_DryXbSALZS7XiphY43--167" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f0f5;strokeColor=#888899;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;" value="1. 地月引力（7.342×10²² kg）" vertex="1">
+          <mxGeometry height="26" width="200" as="geometry" />
+        </mxCell>
+        <mxCell id="_DryXbSALZS7XiphY43--156" parent="_DryXbSALZS7XiphY43--167" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f0f5;strokeColor=#888899;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;" value="2. 潮汐摩擦" vertex="1">
+          <mxGeometry height="26" width="200" y="32" as="geometry" />
+        </mxCell>
+        <mxCell id="_DryXbSALZS7XiphY43--157" parent="_DryXbSALZS7XiphY43--167" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f0f5;strokeColor=#888899;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;" value="3. 引力稳定地轴" vertex="1">
+          <mxGeometry height="26" width="200" y="64" as="geometry" />
+        </mxCell>
+        <mxCell id="_DryXbSALZS7XiphY43--158" parent="_DryXbSALZS7XiphY43--167" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f0f5;strokeColor=#888899;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;" value="4. 朔望月（29.53天）" vertex="1">
+          <mxGeometry height="26" width="200" y="96" as="geometry" />
+        </mxCell>
+        <mxCell id="_DryXbSALZS7XiphY43--159" parent="_DryXbSALZS7XiphY43--167" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f0f5;strokeColor=#888899;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;" value="5. 恒星月（27.32天）" vertex="1">
+          <mxGeometry height="26" width="200" y="128" as="geometry" />
+        </mxCell>
+        <mxCell id="_DryXbSALZS7XiphY43--160" parent="_DryXbSALZS7XiphY43--167" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f0f5;strokeColor=#888899;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;" value="6. 18.6年交点周期" vertex="1">
+          <mxGeometry height="26" width="200" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="_DryXbSALZS7XiphY43--161" parent="_DryXbSALZS7XiphY43--167" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f0f5;strokeColor=#888899;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;" value="7. 白道倾角（5.14°）" vertex="1">
+          <mxGeometry height="26" width="200" y="192" as="geometry" />
+        </mxCell>
+        <mxCell id="_DryXbSALZS7XiphY43--162" parent="_DryXbSALZS7XiphY43--167" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f0f5;strokeColor=#888899;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;" value="8. 月球自转（潮汐锁定）" vertex="1">
+          <mxGeometry height="26" width="200" y="224" as="geometry" />
+        </mxCell>
+        <mxCell id="_DryXbSALZS7XiphY43--163" parent="_DryXbSALZS7XiphY43--167" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f0f5;strokeColor=#888899;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;" value="9. 月相与人体同步" vertex="1">
+          <mxGeometry height="26" width="200" y="256" as="geometry" />
+        </mxCell>
+        <mxCell id="_DryXbSALZS7XiphY43--164" parent="_DryXbSALZS7XiphY43--167" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f0f5;strokeColor=#888899;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;" value="10. 月食" vertex="1">
+          <mxGeometry height="26" width="200" y="288" as="geometry" />
+        </mxCell>
+        <mxCell id="_DryXbSALZS7XiphY43--165" parent="_DryXbSALZS7XiphY43--167" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f0ff;strokeColor=#4477aa;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;strokeWidth=2;" value="11. 🔵 引力驱动岁差（主贡献者）" vertex="1">
+          <mxGeometry height="26" width="200" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="_DryXbSALZS7XiphY43--166" parent="_DryXbSALZS7XiphY43--167" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f0ff;strokeColor=#4477aa;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;strokeWidth=2;" value="12. 🔵 黄赤交角长期变化（稳定器反馈）" vertex="1">
+          <mxGeometry height="26" width="200" y="352" as="geometry" />
+        </mxCell>
         <mxCell id="ykfoiyoN5eaVs1loun9g-403" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=20;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#333333;" value="七政属性与地球对应表现 · 按主体分类" vertex="1">
           <mxGeometry height="50" width="520" x="2300" y="6290" as="geometry" />
         </mxCell>
