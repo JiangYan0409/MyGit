@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="天-地-人完整因果链布局" id="SjSHOlrHnjoS6EgHSpwo">
-    <mxGraphModel dx="1360" dy="-179" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2040" dy="316" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -74,7 +74,7 @@
           <mxGeometry height="70" width="70" x="2137.79" y="1633.01" as="geometry" />
         </mxCell>
         <mxCell id="ykfoiyoN5eaVs1loun9g-377" parent="ykfoiyoN5eaVs1loun9g-401" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Microsoft YaHei;fontColor=#888899;fontStyle=1;" value="月（太阴）" vertex="1">
-          <mxGeometry height="30.08" width="328.28" x="2087" y="1647.64" as="geometry" />
+          <mxGeometry height="30.08" width="328.28" x="2077" y="1585.96" as="geometry" />
         </mxCell>
         <mxCell id="ykfoiyoN5eaVs1loun9g-378" parent="ykfoiyoN5eaVs1loun9g-401" style="ellipse;whiteSpace=wrap;html=1;fillColor=#7788cc;strokeColor=#4455aa;strokeWidth=2;shadow=1;" value="" vertex="1">
           <mxGeometry height="87.54285714285714" width="87.54248648648648" x="1969.7059459459463" y="1362.3857142857146" as="geometry" />
@@ -183,6 +183,12 @@
         </mxCell>
         <mxCell id="_DryXbSALZS7XiphY43--166" parent="_DryXbSALZS7XiphY43--167" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f0ff;strokeColor=#4477aa;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;strokeWidth=2;" value="12. 🔵 黄赤交角长期变化（稳定器反馈）" vertex="1">
           <mxGeometry height="26" width="200" y="352" as="geometry" />
+        </mxCell>
+        <mxCell id="_DryXbSALZS7XiphY43--168" parent="ykfoiyoN5eaVs1loun9g-401" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;size=0.5;" value="" vertex="1">
+          <mxGeometry height="346" width="20" x="2271" y="1429" as="geometry" />
+        </mxCell>
+        <mxCell id="_DryXbSALZS7XiphY43--169" edge="1" parent="ykfoiyoN5eaVs1loun9g-401" source="ykfoiyoN5eaVs1loun9g-376" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.159;exitY=0.907;exitDx=0;exitDy=0;entryX=0.548;entryY=-0.009;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=light-dark(#ccccdd, #ededed);align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;curved=1;exitPerimeter=0;" target="ykfoiyoN5eaVs1loun9g-361">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ykfoiyoN5eaVs1loun9g-403" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=20;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#333333;" value="七政属性与地球对应表现 · 按主体分类" vertex="1">
           <mxGeometry height="50" width="520" x="2300" y="6290" as="geometry" />
