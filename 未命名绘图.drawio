@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="天-地-人完整因果链布局" id="SjSHOlrHnjoS6EgHSpwo">
-    <mxGraphModel dx="53744" dy="56706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="16320" dy="10711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -169,30 +169,6 @@
         <mxCell id="ykfoiyoN5eaVs1loun9g-423" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f0ff;strokeColor=#4477aa;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=6;strokeWidth=2;" value="🔵 黄赤交角长期变化（协同）" vertex="1">
           <mxGeometry height="24" width="200" x="1740" y="6773" as="geometry" />
         </mxCell>
-        <mxCell id="ykfoiyoN5eaVs1loun9g-435" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-404" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="ykfoiyoN5eaVs1loun9g-411" />
-        <mxCell id="ykfoiyoN5eaVs1loun9g-436" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-404" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="ykfoiyoN5eaVs1loun9g-412" />
-        <mxCell id="ykfoiyoN5eaVs1loun9g-437" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-411" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="ykfoiyoN5eaVs1loun9g-413" />
-        <mxCell id="ykfoiyoN5eaVs1loun9g-438" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-411" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="ykfoiyoN5eaVs1loun9g-414" />
-        <mxCell id="ykfoiyoN5eaVs1loun9g-439" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-411" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="ykfoiyoN5eaVs1loun9g-415" />
-        <mxCell id="ykfoiyoN5eaVs1loun9g-440" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-411" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="ykfoiyoN5eaVs1loun9g-416" />
-        <mxCell id="ykfoiyoN5eaVs1loun9g-441" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-411" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="ykfoiyoN5eaVs1loun9g-417" />
-        <mxCell id="ykfoiyoN5eaVs1loun9g-442" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-411" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="ykfoiyoN5eaVs1loun9g-418" />
-        <mxCell id="ykfoiyoN5eaVs1loun9g-443" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-411" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="ykfoiyoN5eaVs1loun9g-419" />
-        <mxCell id="ykfoiyoN5eaVs1loun9g-444" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-411" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="ykfoiyoN5eaVs1loun9g-420" />
-        <mxCell id="ykfoiyoN5eaVs1loun9g-445" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-411" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="ykfoiyoN5eaVs1loun9g-421" />
-        <mxCell id="ykfoiyoN5eaVs1loun9g-446" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-411" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="ykfoiyoN5eaVs1loun9g-422" />
-        <mxCell id="ykfoiyoN5eaVs1loun9g-447" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-411" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="ykfoiyoN5eaVs1loun9g-423" />
-        <mxCell id="ykfoiyoN5eaVs1loun9g-448" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-413" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;dashed=1;strokeColor=#66aa55;opacity=60;" target="ykfoiyoN5eaVs1loun9g-424" />
-        <mxCell id="ykfoiyoN5eaVs1loun9g-449" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-414" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;dashed=1;strokeColor=#66aa55;opacity=60;" target="ykfoiyoN5eaVs1loun9g-425" />
-        <mxCell id="ykfoiyoN5eaVs1loun9g-450" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-415" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;dashed=1;strokeColor=#66aa55;opacity=60;" target="ykfoiyoN5eaVs1loun9g-426" />
-        <mxCell id="ykfoiyoN5eaVs1loun9g-451" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-416" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;dashed=1;strokeColor=#66aa55;opacity=60;" target="ykfoiyoN5eaVs1loun9g-427" />
-        <mxCell id="ykfoiyoN5eaVs1loun9g-452" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-417" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;dashed=1;strokeColor=#66aa55;opacity=60;" target="ykfoiyoN5eaVs1loun9g-428" />
-        <mxCell id="ykfoiyoN5eaVs1loun9g-453" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-418" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;dashed=1;strokeColor=#66aa55;opacity=60;" target="ykfoiyoN5eaVs1loun9g-429" />
-        <mxCell id="ykfoiyoN5eaVs1loun9g-454" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-419" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;dashed=1;strokeColor=#66aa55;opacity=60;" target="ykfoiyoN5eaVs1loun9g-430" />
-        <mxCell id="ykfoiyoN5eaVs1loun9g-455" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-420" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;dashed=1;strokeColor=#66aa55;opacity=60;" target="ykfoiyoN5eaVs1loun9g-431" />
-        <mxCell id="ykfoiyoN5eaVs1loun9g-456" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-421" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;dashed=1;strokeColor=#66aa55;opacity=60;" target="ykfoiyoN5eaVs1loun9g-432" />
-        <mxCell id="ykfoiyoN5eaVs1loun9g-457" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-422" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;dashed=1;strokeColor=#4477aa;opacity=70;" target="ykfoiyoN5eaVs1loun9g-433" />
-        <mxCell id="ykfoiyoN5eaVs1loun9g-458" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-423" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;dashed=1;strokeColor=#4477aa;opacity=70;" target="ykfoiyoN5eaVs1loun9g-434" />
         <mxCell id="ykfoiyoN5eaVs1loun9g-459" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8e8f0;strokeColor=#888899;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;" value="自身属性" vertex="1">
           <mxGeometry height="28" width="200" x="1980" y="6435" as="geometry" />
         </mxCell>
@@ -232,32 +208,6 @@
         <mxCell id="ykfoiyoN5eaVs1loun9g-483" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f0ff;strokeColor=#4477aa;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=6;strokeWidth=2;" value="🔵 黄赤交角长期变化（稳定器反馈）" vertex="1">
           <mxGeometry height="22" width="200" x="1980" y="6770" as="geometry" />
         </mxCell>
-        <mxCell id="ykfoiyoN5eaVs1loun9g-485" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-405" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="ykfoiyoN5eaVs1loun9g-459" />
-        <mxCell id="ykfoiyoN5eaVs1loun9g-486" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-405" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="ykfoiyoN5eaVs1loun9g-460" />
-        <mxCell id="ykfoiyoN5eaVs1loun9g-487" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-459" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="ykfoiyoN5eaVs1loun9g-461" />
-        <mxCell id="ykfoiyoN5eaVs1loun9g-488" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-459" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="ykfoiyoN5eaVs1loun9g-463" />
-        <mxCell id="ykfoiyoN5eaVs1loun9g-489" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-459" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="ykfoiyoN5eaVs1loun9g-465" />
-        <mxCell id="ykfoiyoN5eaVs1loun9g-490" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-459" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="ykfoiyoN5eaVs1loun9g-467" />
-        <mxCell id="ykfoiyoN5eaVs1loun9g-491" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-459" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="ykfoiyoN5eaVs1loun9g-469" />
-        <mxCell id="ykfoiyoN5eaVs1loun9g-492" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-459" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="ykfoiyoN5eaVs1loun9g-471" />
-        <mxCell id="ykfoiyoN5eaVs1loun9g-493" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-459" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="ykfoiyoN5eaVs1loun9g-473" />
-        <mxCell id="ykfoiyoN5eaVs1loun9g-494" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-459" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="ykfoiyoN5eaVs1loun9g-475" />
-        <mxCell id="ykfoiyoN5eaVs1loun9g-495" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-459" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="ykfoiyoN5eaVs1loun9g-477" />
-        <mxCell id="ykfoiyoN5eaVs1loun9g-496" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-459" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="ykfoiyoN5eaVs1loun9g-479" />
-        <mxCell id="ykfoiyoN5eaVs1loun9g-497" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-459" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="ykfoiyoN5eaVs1loun9g-481" />
-        <mxCell id="ykfoiyoN5eaVs1loun9g-498" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-459" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="ykfoiyoN5eaVs1loun9g-483" />
-        <mxCell id="ykfoiyoN5eaVs1loun9g-499" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-461" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;dashed=1;strokeColor=#66aa55;opacity=60;" target="ykfoiyoN5eaVs1loun9g-462" />
-        <mxCell id="ykfoiyoN5eaVs1loun9g-500" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-463" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;dashed=1;strokeColor=#66aa55;opacity=60;" target="ykfoiyoN5eaVs1loun9g-464" />
-        <mxCell id="ykfoiyoN5eaVs1loun9g-501" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-465" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;dashed=1;strokeColor=#66aa55;opacity=60;" target="ykfoiyoN5eaVs1loun9g-466" />
-        <mxCell id="ykfoiyoN5eaVs1loun9g-502" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-467" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;dashed=1;strokeColor=#66aa55;opacity=60;" target="ykfoiyoN5eaVs1loun9g-468" />
-        <mxCell id="ykfoiyoN5eaVs1loun9g-503" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-469" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;dashed=1;strokeColor=#66aa55;opacity=60;" target="ykfoiyoN5eaVs1loun9g-470" />
-        <mxCell id="ykfoiyoN5eaVs1loun9g-504" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-471" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;dashed=1;strokeColor=#66aa55;opacity=60;" target="ykfoiyoN5eaVs1loun9g-472" />
-        <mxCell id="ykfoiyoN5eaVs1loun9g-505" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-473" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;dashed=1;strokeColor=#66aa55;opacity=60;" target="ykfoiyoN5eaVs1loun9g-474" />
-        <mxCell id="ykfoiyoN5eaVs1loun9g-506" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-475" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;dashed=1;strokeColor=#66aa55;opacity=60;" target="ykfoiyoN5eaVs1loun9g-476" />
-        <mxCell id="ykfoiyoN5eaVs1loun9g-507" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-477" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;dashed=1;strokeColor=#66aa55;opacity=60;" target="ykfoiyoN5eaVs1loun9g-478" />
-        <mxCell id="ykfoiyoN5eaVs1loun9g-508" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-479" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;dashed=1;strokeColor=#66aa55;opacity=60;" target="ykfoiyoN5eaVs1loun9g-480" />
-        <mxCell id="ykfoiyoN5eaVs1loun9g-509" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-481" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;dashed=1;strokeColor=#4477aa;opacity=70;" target="ykfoiyoN5eaVs1loun9g-482" />
-        <mxCell id="ykfoiyoN5eaVs1loun9g-510" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-483" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;dashed=1;strokeColor=#4477aa;opacity=70;" target="ykfoiyoN5eaVs1loun9g-484" />
         <mxCell id="ykfoiyoN5eaVs1loun9g-511" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8ecf8;strokeColor=#4455aa;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;" value="自身属性" vertex="1">
           <mxGeometry height="28" width="200" x="2220" y="6435" as="geometry" />
         </mxCell>
@@ -276,18 +226,6 @@
         <mxCell id="ykfoiyoN5eaVs1loun9g-521" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f4fc;strokeColor=#4455aa;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=6;" value="反照率极低（0.088）" vertex="1">
           <mxGeometry height="22" width="200" x="2220" y="6581" as="geometry" />
         </mxCell>
-        <mxCell id="ykfoiyoN5eaVs1loun9g-523" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-406" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="ykfoiyoN5eaVs1loun9g-511" />
-        <mxCell id="ykfoiyoN5eaVs1loun9g-524" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-406" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="ykfoiyoN5eaVs1loun9g-512" />
-        <mxCell id="ykfoiyoN5eaVs1loun9g-525" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-511" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="ykfoiyoN5eaVs1loun9g-513" />
-        <mxCell id="ykfoiyoN5eaVs1loun9g-526" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-511" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="ykfoiyoN5eaVs1loun9g-515" />
-        <mxCell id="ykfoiyoN5eaVs1loun9g-527" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-511" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="ykfoiyoN5eaVs1loun9g-517" />
-        <mxCell id="ykfoiyoN5eaVs1loun9g-528" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-511" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="ykfoiyoN5eaVs1loun9g-519" />
-        <mxCell id="ykfoiyoN5eaVs1loun9g-529" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-511" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="ykfoiyoN5eaVs1loun9g-521" />
-        <mxCell id="ykfoiyoN5eaVs1loun9g-530" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-513" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;dashed=1;strokeColor=#66aa55;opacity=60;" target="ykfoiyoN5eaVs1loun9g-514" />
-        <mxCell id="ykfoiyoN5eaVs1loun9g-531" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-515" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;dashed=1;strokeColor=#66aa55;opacity=60;" target="ykfoiyoN5eaVs1loun9g-516" />
-        <mxCell id="ykfoiyoN5eaVs1loun9g-532" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-517" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;dashed=1;strokeColor=#66aa55;opacity=60;" target="ykfoiyoN5eaVs1loun9g-518" />
-        <mxCell id="ykfoiyoN5eaVs1loun9g-533" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-519" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;dashed=1;strokeColor=#66aa55;opacity=60;" target="ykfoiyoN5eaVs1loun9g-520" />
-        <mxCell id="ykfoiyoN5eaVs1loun9g-534" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-521" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;dashed=1;strokeColor=#66aa55;opacity=60;" target="ykfoiyoN5eaVs1loun9g-522" />
         <mxCell id="ykfoiyoN5eaVs1loun9g-535" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8f0e0;strokeColor=#ccaa77;fontSize=10;fontFamily=Microsoft YaHei;align=center;strokeWidth=1;dashed=1;opacity=60;" value="金星（太白）详细属性待展开，结构与水星同" vertex="1">
           <mxGeometry height="340" width="200" x="2460" y="6435" as="geometry" />
         </mxCell>
