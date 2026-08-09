@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="天-地-人完整因果链布局" id="SjSHOlrHnjoS6EgHSpwo">
-    <mxGraphModel dx="1632" dy="19" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1360" dy="-179" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -61,6 +61,9 @@
             <mxPoint x="2024.4199999999996" y="3611.1428571428573" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="_DryXbSALZS7XiphY43--141" edge="1" parent="ykfoiyoN5eaVs1loun9g-401" source="ykfoiyoN5eaVs1loun9g-374" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;strokeColor=light-dark(#fdca00, #ededed);" target="ykfoiyoN5eaVs1loun9g-361">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ykfoiyoN5eaVs1loun9g-374" parent="ykfoiyoN5eaVs1loun9g-401" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffcc00;strokeColor=#dd9900;strokeWidth=2.5;shadow=1;" value="" vertex="1">
           <mxGeometry height="200" width="200" x="2899.8448648648646" y="1564.8285714285716" as="geometry" />
         </mxCell>
@@ -105,6 +108,42 @@
         </mxCell>
         <mxCell id="ykfoiyoN5eaVs1loun9g-402" parent="ykfoiyoN5eaVs1loun9g-401" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star;aspect=fixed;" value="" vertex="1">
           <mxGeometry height="80" width="80" x="1980" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_DryXbSALZS7XiphY43--129" parent="ykfoiyoN5eaVs1loun9g-401" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fffaf0;strokeColor=#dd9900;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;" value="1. 巨大引力（1.9885×10³⁰ kg）" vertex="1">
+          <mxGeometry height="26" width="200" x="3222" y="1470" as="geometry" />
+        </mxCell>
+        <mxCell id="_DryXbSALZS7XiphY43--130" parent="ykfoiyoN5eaVs1loun9g-401" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fffaf0;strokeColor=#dd9900;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;" value="2. 视半径约 0.2667°" vertex="1">
+          <mxGeometry height="26" width="200" x="3222" y="1502" as="geometry" />
+        </mxCell>
+        <mxCell id="_DryXbSALZS7XiphY43--131" parent="ykfoiyoN5eaVs1loun9g-401" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fffaf0;strokeColor=#dd9900;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;" value="3. 可见光辐射（光照）" vertex="1">
+          <mxGeometry height="26" width="200" x="3222" y="1534" as="geometry" />
+        </mxCell>
+        <mxCell id="_DryXbSALZS7XiphY43--132" parent="ykfoiyoN5eaVs1loun9g-401" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fffaf0;strokeColor=#dd9900;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;" value="4. 红外辐射（热量）" vertex="1">
+          <mxGeometry height="26" width="200" x="3222" y="1566" as="geometry" />
+        </mxCell>
+        <mxCell id="_DryXbSALZS7XiphY43--133" parent="ykfoiyoN5eaVs1loun9g-401" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fffaf0;strokeColor=#dd9900;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;" value="5. 紫外辐射（紫外线）" vertex="1">
+          <mxGeometry height="26" width="200" x="3222" y="1598" as="geometry" />
+        </mxCell>
+        <mxCell id="_DryXbSALZS7XiphY43--134" parent="ykfoiyoN5eaVs1loun9g-401" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fffaf0;strokeColor=#dd9900;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;" value="6. 太阳活动周期（约 11 年）" vertex="1">
+          <mxGeometry height="26" width="200" x="3222" y="1630" as="geometry" />
+        </mxCell>
+        <mxCell id="_DryXbSALZS7XiphY43--135" parent="ykfoiyoN5eaVs1loun9g-401" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fffaf0;strokeColor=#dd9900;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;" value="7. 黄赤交角（23.44°）" vertex="1">
+          <mxGeometry height="26" width="200" x="3222" y="1662" as="geometry" />
+        </mxCell>
+        <mxCell id="_DryXbSALZS7XiphY43--136" parent="ykfoiyoN5eaVs1loun9g-401" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fffaf0;strokeColor=#dd9900;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;" value="8. 日地距离（椭圆 e≈0.0167）" vertex="1">
+          <mxGeometry height="26" width="200" x="3222" y="1694" as="geometry" />
+        </mxCell>
+        <mxCell id="_DryXbSALZS7XiphY43--137" parent="ykfoiyoN5eaVs1loun9g-401" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fffaf0;strokeColor=#dd9900;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;" value="9. 日食（月球遮挡）" vertex="1">
+          <mxGeometry height="26" width="200" x="3222" y="1726" as="geometry" />
+        </mxCell>
+        <mxCell id="_DryXbSALZS7XiphY43--138" parent="ykfoiyoN5eaVs1loun9g-401" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f0ff;strokeColor=#4477aa;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;strokeWidth=2;" value="10. 🔵 引力驱动岁差（与月球协同）" vertex="1">
+          <mxGeometry height="26" width="200" x="3222" y="1758" as="geometry" />
+        </mxCell>
+        <mxCell id="_DryXbSALZS7XiphY43--139" parent="ykfoiyoN5eaVs1loun9g-401" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f0ff;strokeColor=#4477aa;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;strokeWidth=2;" value="11. 🔵 黄赤交角长期变化（协同）" vertex="1">
+          <mxGeometry height="26" width="200" x="3222" y="1790" as="geometry" />
+        </mxCell>
+        <mxCell id="_DryXbSALZS7XiphY43--140" parent="ykfoiyoN5eaVs1loun9g-401" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" value="" vertex="1">
+          <mxGeometry height="316" width="20" x="3187" y="1487" as="geometry" />
         </mxCell>
         <mxCell id="ykfoiyoN5eaVs1loun9g-403" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=20;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#333333;" value="七政属性与地球对应表现 · 按主体分类" vertex="1">
           <mxGeometry height="50" width="520" x="2300" y="6290" as="geometry" />
@@ -702,6 +741,47 @@
         </mxCell>
         <mxCell id="_DryXbSALZS7XiphY43--126" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8f0d0;strokeColor=#998844;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;verticalAlign=middle;fontColor=default;" value="湿气偏胜 → 脾/胃虚实" vertex="1">
           <mxGeometry height="26" width="500" x="6300" y="4913" as="geometry" />
+        </mxCell>
+        <mxCell id="_DryXbSALZS7XiphY43--153" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="346" width="200" x="2430" y="3780" as="geometry" />
+        </mxCell>
+        <mxCell id="_DryXbSALZS7XiphY43--142" parent="_DryXbSALZS7XiphY43--153" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fffaf0;strokeColor=#dd9900;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;verticalAlign=middle;fontColor=default;" value="约束地球公转轨道 → 维持宜居带" vertex="1">
+          <mxGeometry height="26" width="200" as="geometry" />
+        </mxCell>
+        <mxCell id="_DryXbSALZS7XiphY43--143" parent="_DryXbSALZS7XiphY43--153" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fffaf0;strokeColor=#dd9900;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;verticalAlign=middle;fontColor=default;" value="日出提前约 1~2 分钟（h₀=-0.8333°）" vertex="1">
+          <mxGeometry height="26" width="200" y="32" as="geometry" />
+        </mxCell>
+        <mxCell id="_DryXbSALZS7XiphY43--144" parent="_DryXbSALZS7XiphY43--153" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fffaf0;strokeColor=#dd9900;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;verticalAlign=middle;fontColor=default;" value="昼夜交替、光合作用、视觉感知" vertex="1">
+          <mxGeometry height="26" width="200" y="64" as="geometry" />
+        </mxCell>
+        <mxCell id="_DryXbSALZS7XiphY43--145" parent="_DryXbSALZS7XiphY43--153" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fffaf0;strokeColor=#dd9900;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;verticalAlign=middle;fontColor=default;" value="驱动大气环流、洋流 → 四季与气候带" vertex="1">
+          <mxGeometry height="26" width="200" y="96" as="geometry" />
+        </mxCell>
+        <mxCell id="_DryXbSALZS7XiphY43--146" parent="_DryXbSALZS7XiphY43--153" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fffaf0;strokeColor=#dd9900;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;verticalAlign=middle;fontColor=default;" value="形成臭氧层 → 保护陆地生命" vertex="1">
+          <mxGeometry height="26" width="200" y="128" as="geometry" />
+        </mxCell>
+        <mxCell id="_DryXbSALZS7XiphY43--147" parent="_DryXbSALZS7XiphY43--153" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fffaf0;strokeColor=#dd9900;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;verticalAlign=middle;fontColor=default;" value="黑子/耀斑 → 地磁扰动、极光、气候微变" vertex="1">
+          <mxGeometry height="26" width="200" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="_DryXbSALZS7XiphY43--148" parent="_DryXbSALZS7XiphY43--153" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fffaf0;strokeColor=#dd9900;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;verticalAlign=middle;fontColor=default;" value="直射点南北移动（±23.44°）→ 四季更替" vertex="1">
+          <mxGeometry height="26" width="200" y="192" as="geometry" />
+        </mxCell>
+        <mxCell id="_DryXbSALZS7XiphY43--149" parent="_DryXbSALZS7XiphY43--153" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fffaf0;strokeColor=#dd9900;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;verticalAlign=middle;fontColor=default;" value="近日点辐射略强 → 季节强度微调" vertex="1">
+          <mxGeometry height="26" width="200" y="224" as="geometry" />
+        </mxCell>
+        <mxCell id="_DryXbSALZS7XiphY43--150" parent="_DryXbSALZS7XiphY43--153" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fffaf0;strokeColor=#dd9900;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;verticalAlign=middle;fontColor=default;" value="日食 → 古代占星：政治警示" vertex="1">
+          <mxGeometry height="26" width="200" y="256" as="geometry" />
+        </mxCell>
+        <mxCell id="_DryXbSALZS7XiphY43--151" parent="_DryXbSALZS7XiphY43--153" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0e8f8;strokeColor=#4477aa;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;strokeWidth=2;" value="岁差（25772年）→ 春分点西移、历法修正" vertex="1">
+          <mxGeometry height="26" width="200" y="288" as="geometry" />
+        </mxCell>
+        <mxCell id="_DryXbSALZS7XiphY43--152" parent="_DryXbSALZS7XiphY43--153" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0e8f8;strokeColor=#4477aa;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;strokeWidth=2;" value="冰期-间冰期背景（41000年摆动）" vertex="1">
+          <mxGeometry height="26" width="200" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="_DryXbSALZS7XiphY43--154" edge="1" parent="1" source="ykfoiyoN5eaVs1loun9g-361" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;rounded=0;curved=1;strokeColor=light-dark(#fdca00, #ededed);labelBackgroundColor=default;endArrow=classic;" target="_DryXbSALZS7XiphY43--142">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2530" y="3770" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
