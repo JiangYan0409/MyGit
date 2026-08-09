@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="天-地-人完整因果链布局" id="SjSHOlrHnjoS6EgHSpwo">
-    <mxGraphModel dx="16185" dy="17899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="31940" dy="29080" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -742,6 +742,117 @@
         </mxCell>
         <mxCell id="2XLtZuSOmdolHwbAJiA--505" parent="2XLtZuSOmdolHwbAJiA--282" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;labelBackgroundColor=none;" value="&lt;span style=&quot;caret-color: rgb(15, 17, 21); color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 15px;&quot;&gt;轨道共振（20年一汇合）&lt;/span&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="2230" y="4332.92" as="geometry" />
+        </mxCell>
+        <mxCell id="2XLtZuSOmdolHwbAJiA--619" connectable="0" parent="2XLtZuSOmdolHwbAJiA--282" style="group;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="719.15" width="2300" x="3570.9300000000003" y="6690" as="geometry" />
+        </mxCell>
+        <mxCell id="2XLtZuSOmdolHwbAJiA--620" parent="2XLtZuSOmdolHwbAJiA--619" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=20;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#333333;strokeWidth=2;" value="天体几何排列" vertex="1">
+          <mxGeometry height="80.98536036036036" width="1133.8028169014085" x="664.0845070422536" as="geometry" />
+        </mxCell>
+        <mxCell id="2XLtZuSOmdolHwbAJiA--621" parent="2XLtZuSOmdolHwbAJiA--619" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;" value="现象类别" vertex="1">
+          <mxGeometry height="55.07004504504504" width="356.3380281690141" y="129.57657657657657" as="geometry" />
+        </mxCell>
+        <mxCell id="2XLtZuSOmdolHwbAJiA--622" parent="2XLtZuSOmdolHwbAJiA--619" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;" value="涉及天体" vertex="1">
+          <mxGeometry height="55.07004504504504" width="356.3380281690141" x="372.53521126760563" y="129.57657657657657" as="geometry" />
+        </mxCell>
+        <mxCell id="2XLtZuSOmdolHwbAJiA--623" parent="2XLtZuSOmdolHwbAJiA--619" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;" value="发生条件" vertex="1">
+          <mxGeometry height="55.07004504504504" width="453.5211267605634" x="745.0704225352113" y="129.57657657657657" as="geometry" />
+        </mxCell>
+        <mxCell id="2XLtZuSOmdolHwbAJiA--624" parent="2XLtZuSOmdolHwbAJiA--619" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;" value="发生周期" vertex="1">
+          <mxGeometry height="55.07004504504504" width="421.1267605633803" x="1214.7887323943662" y="129.57657657657657" as="geometry" />
+        </mxCell>
+        <mxCell id="2XLtZuSOmdolHwbAJiA--625" parent="2XLtZuSOmdolHwbAJiA--619" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;" value="古代占星意义" vertex="1">
+          <mxGeometry height="55.07004504504504" width="647.887323943662" x="1652.1126760563382" y="129.57657657657657" as="geometry" />
+        </mxCell>
+        <mxCell id="2XLtZuSOmdolHwbAJiA--626" parent="2XLtZuSOmdolHwbAJiA--619" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=12;fontFamily=Microsoft YaHei;align=center;" value="🌙 月掩行星" vertex="1">
+          <mxGeometry height="71.26711711711711" width="356.3380281690141" y="202.4634009009009" as="geometry" />
+        </mxCell>
+        <mxCell id="2XLtZuSOmdolHwbAJiA--627" parent="2XLtZuSOmdolHwbAJiA--619" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#cccccc;fontSize=11;fontFamily=Microsoft YaHei;align=center;" value="月球 + 五星（任一）" vertex="1">
+          <mxGeometry height="71.26711711711711" width="356.3380281690141" x="372.53521126760563" y="202.4634009009009" as="geometry" />
+        </mxCell>
+        <mxCell id="2XLtZuSOmdolHwbAJiA--628" parent="2XLtZuSOmdolHwbAJiA--619" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#cccccc;fontSize=11;fontFamily=Microsoft YaHei;align=center;" value="月球运行到行星前方，黄经相等且黄纬差极小（小于月球视半径）" vertex="1">
+          <mxGeometry height="71.26711711711711" width="453.5211267605634" x="745.0704225352113" y="202.4634009009009" as="geometry" />
+        </mxCell>
+        <mxCell id="2XLtZuSOmdolHwbAJiA--629" parent="2XLtZuSOmdolHwbAJiA--619" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#cccccc;fontSize=11;fontFamily=Microsoft YaHei;align=center;" value="不固定，取决于行星在黄道带的位置；约每月可能发生，但仅特定地区可见" vertex="1">
+          <mxGeometry height="71.26711711711711" width="421.1267605633803" x="1214.7887323943662" y="202.4634009009009" as="geometry" />
+        </mxCell>
+        <mxCell id="2XLtZuSOmdolHwbAJiA--630" parent="2XLtZuSOmdolHwbAJiA--619" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fce4e4;strokeColor=#b85450;fontSize=11;fontFamily=Microsoft YaHei;align=center;" value="遮蔽 · 隐藏 · 阴气掩盖阳气；对应人事中的掩盖、隐情、秘密被藏" vertex="1">
+          <mxGeometry height="71.26711711711711" width="647.887323943662" x="1652.1126760563382" y="202.4634009009009" as="geometry" />
+        </mxCell>
+        <mxCell id="2XLtZuSOmdolHwbAJiA--631" parent="2XLtZuSOmdolHwbAJiA--619" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=12;fontFamily=Microsoft YaHei;align=center;" value="🪐 行星互掩" vertex="1">
+          <mxGeometry height="71.26711711711711" width="356.3380281690141" y="291.5472972972973" as="geometry" />
+        </mxCell>
+        <mxCell id="2XLtZuSOmdolHwbAJiA--632" parent="2XLtZuSOmdolHwbAJiA--619" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#cccccc;fontSize=11;fontFamily=Microsoft YaHei;align=center;" value="金星掩木星 / 火星掩木星等（一颗行星遮挡另一颗）" vertex="1">
+          <mxGeometry height="71.26711711711711" width="356.3380281690141" x="372.53521126760563" y="291.5472972972973" as="geometry" />
+        </mxCell>
+        <mxCell id="2XLtZuSOmdolHwbAJiA--633" parent="2XLtZuSOmdolHwbAJiA--619" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#cccccc;fontSize=11;fontFamily=Microsoft YaHei;align=center;" value="两颗行星在黄经上重合，且黄纬差小于遮挡行星的视半径" vertex="1">
+          <mxGeometry height="71.26711711711711" width="453.5211267605634" x="745.0704225352113" y="291.5472972972973" as="geometry" />
+        </mxCell>
+        <mxCell id="2XLtZuSOmdolHwbAJiA--634" parent="2XLtZuSOmdolHwbAJiA--619" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#cccccc;fontSize=11;fontFamily=Microsoft YaHei;align=center;" value="极为罕见，数十年至数百年一次" vertex="1">
+          <mxGeometry height="71.26711711711711" width="421.1267605633803" x="1214.7887323943662" y="291.5472972972973" as="geometry" />
+        </mxCell>
+        <mxCell id="2XLtZuSOmdolHwbAJiA--635" parent="2XLtZuSOmdolHwbAJiA--619" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fce4e4;strokeColor=#b85450;fontSize=11;fontFamily=Microsoft YaHei;align=center;" value="大异 · 重象 · 尊卑颠倒；对应政权更替、大灾、或超级吉凶（视遮挡方而定）" vertex="1">
+          <mxGeometry height="71.26711711711711" width="647.887323943662" x="1652.1126760563382" y="291.5472972972973" as="geometry" />
+        </mxCell>
+        <mxCell id="2XLtZuSOmdolHwbAJiA--636" parent="2XLtZuSOmdolHwbAJiA--619" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12;fontFamily=Microsoft YaHei;align=center;" value="🌟 行星合月" vertex="1">
+          <mxGeometry height="71.26711711711711" width="356.3380281690141" y="380.63119369369366" as="geometry" />
+        </mxCell>
+        <mxCell id="2XLtZuSOmdolHwbAJiA--637" parent="2XLtZuSOmdolHwbAJiA--619" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#cccccc;fontSize=11;fontFamily=Microsoft YaHei;align=center;" value="五星 + 月球（如金星伴月、木星合月）" vertex="1">
+          <mxGeometry height="71.26711711711711" width="356.3380281690141" x="372.53521126760563" y="380.63119369369366" as="geometry" />
+        </mxCell>
+        <mxCell id="2XLtZuSOmdolHwbAJiA--638" parent="2XLtZuSOmdolHwbAJiA--619" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#cccccc;fontSize=11;fontFamily=Microsoft YaHei;align=center;" value="行星与月球黄经相等，黄纬差较小（通常小于3°~5°）" vertex="1">
+          <mxGeometry height="71.26711711711711" width="453.5211267605634" x="745.0704225352113" y="380.63119369369366" as="geometry" />
+        </mxCell>
+        <mxCell id="2XLtZuSOmdolHwbAJiA--639" parent="2XLtZuSOmdolHwbAJiA--619" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#cccccc;fontSize=11;fontFamily=Microsoft YaHei;align=center;" value="每月约一次（每颗行星合月的周期≈该行星的会合周期）" vertex="1">
+          <mxGeometry height="71.26711711711711" width="421.1267605633803" x="1214.7887323943662" y="380.63119369369366" as="geometry" />
+        </mxCell>
+        <mxCell id="2XLtZuSOmdolHwbAJiA--640" parent="2XLtZuSOmdolHwbAJiA--619" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fce4e4;strokeColor=#b85450;fontSize=11;fontFamily=Microsoft YaHei;align=center;" value="亲近 · 联合 · 阴阳相感；金星合月→吉（兵息），火星合月→凶（兵起）" vertex="1">
+          <mxGeometry height="71.26711711711711" width="647.887323943662" x="1652.1126760563382" y="380.63119369369366" as="geometry" />
+        </mxCell>
+        <mxCell id="2XLtZuSOmdolHwbAJiA--641" parent="2XLtZuSOmdolHwbAJiA--619" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12;fontFamily=Microsoft YaHei;align=center;" value="🌟 行星合行星" vertex="1">
+          <mxGeometry height="71.26711711711711" width="356.3380281690141" y="469.7150900900901" as="geometry" />
+        </mxCell>
+        <mxCell id="2XLtZuSOmdolHwbAJiA--642" parent="2XLtZuSOmdolHwbAJiA--619" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#cccccc;fontSize=11;fontFamily=Microsoft YaHei;align=center;" value="木星合土星 / 金星合木星 / 火星合木星等" vertex="1">
+          <mxGeometry height="71.26711711711711" width="356.3380281690141" x="372.53521126760563" y="469.7150900900901" as="geometry" />
+        </mxCell>
+        <mxCell id="2XLtZuSOmdolHwbAJiA--643" parent="2XLtZuSOmdolHwbAJiA--619" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#cccccc;fontSize=11;fontFamily=Microsoft YaHei;align=center;" value="两颗行星在黄经上相等或极度接近（通常小于1°）" vertex="1">
+          <mxGeometry height="71.26711711711711" width="453.5211267605634" x="745.0704225352113" y="469.7150900900901" as="geometry" />
+        </mxCell>
+        <mxCell id="2XLtZuSOmdolHwbAJiA--644" parent="2XLtZuSOmdolHwbAJiA--619" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#cccccc;fontSize=11;fontFamily=Microsoft YaHei;align=center;" value="木土合相约20年一次；其他组合周期不定（如金木合相约13个月）" vertex="1">
+          <mxGeometry height="71.26711711711711" width="421.1267605633803" x="1214.7887323943662" y="469.7150900900901" as="geometry" />
+        </mxCell>
+        <mxCell id="2XLtZuSOmdolHwbAJiA--645" parent="2XLtZuSOmdolHwbAJiA--619" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fce4e4;strokeColor=#b85450;fontSize=11;fontFamily=Microsoft YaHei;align=center;" value="合 · 同 · 汇聚；木土合相→朝代更替/政权交接；五星汇聚→天命转移" vertex="1">
+          <mxGeometry height="71.26711711711711" width="647.887323943662" x="1652.1126760563382" y="469.7150900900901" as="geometry" />
+        </mxCell>
+        <mxCell id="2XLtZuSOmdolHwbAJiA--646" parent="2XLtZuSOmdolHwbAJiA--619" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;fontFamily=Microsoft YaHei;align=center;" value="☀️ 行星冲日" vertex="1">
+          <mxGeometry height="71.26711711711711" width="356.3380281690141" y="558.7989864864865" as="geometry" />
+        </mxCell>
+        <mxCell id="2XLtZuSOmdolHwbAJiA--647" parent="2XLtZuSOmdolHwbAJiA--619" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#cccccc;fontSize=11;fontFamily=Microsoft YaHei;align=center;" value="外行星（火星、木星、土星）+ 地球" vertex="1">
+          <mxGeometry height="71.26711711711711" width="356.3380281690141" x="372.53521126760563" y="558.7989864864865" as="geometry" />
+        </mxCell>
+        <mxCell id="2XLtZuSOmdolHwbAJiA--648" parent="2XLtZuSOmdolHwbAJiA--619" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#cccccc;fontSize=11;fontFamily=Microsoft YaHei;align=center;" value="地球运行到太阳与外行星之间（外行星黄经与太阳相差180°）" vertex="1">
+          <mxGeometry height="71.26711711711711" width="453.5211267605634" x="745.0704225352113" y="558.7989864864865" as="geometry" />
+        </mxCell>
+        <mxCell id="2XLtZuSOmdolHwbAJiA--649" parent="2XLtZuSOmdolHwbAJiA--619" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#cccccc;fontSize=11;fontFamily=Microsoft YaHei;align=center;" value="火星约26个月；木星约13个月；土星约12.4个月" vertex="1">
+          <mxGeometry height="71.26711711711711" width="421.1267605633803" x="1214.7887323943662" y="558.7989864864865" as="geometry" />
+        </mxCell>
+        <mxCell id="2XLtZuSOmdolHwbAJiA--650" parent="2XLtZuSOmdolHwbAJiA--619" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fce4e4;strokeColor=#b85450;fontSize=11;fontFamily=Microsoft YaHei;align=center;" value="对立 · 彰显 · 光明极盛；最佳观测期（亮度最大）→ 占星：该行星属性对应的领域被凸显" vertex="1">
+          <mxGeometry height="71.26711711711711" width="647.887323943662" x="1652.1126760563382" y="558.7989864864865" as="geometry" />
+        </mxCell>
+        <mxCell id="2XLtZuSOmdolHwbAJiA--651" parent="2XLtZuSOmdolHwbAJiA--619" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;fontFamily=Microsoft YaHei;align=center;" value="☀️ 行星凌日" vertex="1">
+          <mxGeometry height="71.26711711711711" width="356.3380281690141" y="647.8828828828829" as="geometry" />
+        </mxCell>
+        <mxCell id="2XLtZuSOmdolHwbAJiA--652" parent="2XLtZuSOmdolHwbAJiA--619" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#cccccc;fontSize=11;fontFamily=Microsoft YaHei;align=center;" value="内行星（水星、金星）+ 太阳" vertex="1">
+          <mxGeometry height="71.26711711711711" width="356.3380281690141" x="372.53521126760563" y="647.8828828828829" as="geometry" />
+        </mxCell>
+        <mxCell id="2XLtZuSOmdolHwbAJiA--653" parent="2XLtZuSOmdolHwbAJiA--619" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#cccccc;fontSize=11;fontFamily=Microsoft YaHei;align=center;" value="水星/金星运行到地球与太阳之间（内行星黄经与太阳相同，黄纬差极小）" vertex="1">
+          <mxGeometry height="71.26711711711711" width="453.5211267605634" x="745.0704225352113" y="647.8828828828829" as="geometry" />
+        </mxCell>
+        <mxCell id="2XLtZuSOmdolHwbAJiA--654" parent="2XLtZuSOmdolHwbAJiA--619" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#cccccc;fontSize=11;fontFamily=Microsoft YaHei;align=center;" value="水星凌日约7/13/46年；金星凌日成对出现（间隔8+105或8+121年）" vertex="1">
+          <mxGeometry height="71.26711711711711" width="421.1267605633803" x="1214.7887323943662" y="647.8828828828829" as="geometry" />
+        </mxCell>
+        <mxCell id="2XLtZuSOmdolHwbAJiA--655" parent="2XLtZuSOmdolHwbAJiA--619" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fce4e4;strokeColor=#b85450;fontSize=11;fontFamily=Microsoft YaHei;align=center;" value="天变 · 微瑕 · 阴侵阳；水星凌日→细务被察；金星凌日→大异，极罕见" vertex="1">
+          <mxGeometry height="71.26711711711711" width="647.887323943662" x="1652.1126760563382" y="647.8828828828829" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
