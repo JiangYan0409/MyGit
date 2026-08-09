@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="天-地-人完整因果链布局" id="SjSHOlrHnjoS6EgHSpwo">
-    <mxGraphModel dx="2720" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2331" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -71,6 +71,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1817" y="2440" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="_DryXbSALZS7XiphY43--269" edge="1" parent="ykfoiyoN5eaVs1loun9g-401" source="ykfoiyoN5eaVs1loun9g-361" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#ccbb66, #ededed);align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;curved=1;" target="_DryXbSALZS7XiphY43--262">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ykfoiyoN5eaVs1loun9g-361" parent="ykfoiyoN5eaVs1loun9g-401" style="ellipse;whiteSpace=wrap;html=1;fillColor=#66aadd;strokeColor=#3388bb;strokeWidth=2.5;shadow=1;" value="" vertex="1">
           <mxGeometry height="180" width="180" x="1989.1359459459463" y="1751.41" as="geometry" />
@@ -223,7 +226,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_DryXbSALZS7XiphY43--182" connectable="0" parent="ykfoiyoN5eaVs1loun9g-401" style="group" value="" vertex="1">
-          <mxGeometry height="378" width="200" x="1634" y="2012" as="geometry" />
+          <mxGeometry height="378" width="200" x="1620" y="2012" as="geometry" />
         </mxCell>
         <mxCell id="_DryXbSALZS7XiphY43--170" parent="_DryXbSALZS7XiphY43--182" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f0f5;strokeColor=#888899;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;verticalAlign=middle;fontColor=default;" value="海洋潮汐（引潮力为太阳2.18倍）" vertex="1">
           <mxGeometry height="26" width="200" as="geometry" />
@@ -283,7 +286,7 @@
           <mxGeometry height="120" width="20" x="2057" y="1292" as="geometry" />
         </mxCell>
         <mxCell id="_DryXbSALZS7XiphY43--198" connectable="0" parent="ykfoiyoN5eaVs1loun9g-401" style="group" value="" vertex="1">
-          <mxGeometry height="154" width="180" x="1864.06" y="2140" as="geometry" />
+          <mxGeometry height="154" width="180" x="1886.06" y="2152" as="geometry" />
         </mxCell>
         <mxCell id="_DryXbSALZS7XiphY43--193" parent="_DryXbSALZS7XiphY43--198" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f4fc;strokeColor=#4455aa;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;verticalAlign=middle;fontColor=default;" value="常伏于日旁 → 命名辰星" vertex="1">
           <mxGeometry height="26" width="180" as="geometry" />
@@ -331,7 +334,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_DryXbSALZS7XiphY43--217" connectable="0" parent="ykfoiyoN5eaVs1loun9g-401" style="group" value="" vertex="1">
-          <mxGeometry height="218" width="200" x="2084" y="2108" as="geometry" />
+          <mxGeometry height="218" width="200" x="2194" y="2142" as="geometry" />
         </mxCell>
         <mxCell id="_DryXbSALZS7XiphY43--210" parent="_DryXbSALZS7XiphY43--217" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#faf5e8;strokeColor=#ccaa77;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;verticalAlign=middle;fontColor=default;" value="晨星（启明）/昏星（长庚）交替" vertex="1">
           <mxGeometry height="26" width="200" as="geometry" />
@@ -387,7 +390,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_DryXbSALZS7XiphY43--234" connectable="0" parent="ykfoiyoN5eaVs1loun9g-401" style="group" value="" vertex="1">
-          <mxGeometry height="186" width="200" x="2324" y="2124" as="geometry" />
+          <mxGeometry height="186" width="200" x="2434" y="2158" as="geometry" />
         </mxCell>
         <mxCell id="_DryXbSALZS7XiphY43--228" parent="_DryXbSALZS7XiphY43--234" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fce8e0;strokeColor=#aa4433;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;verticalAlign=middle;fontColor=default;" value="约26个月会合周期 → 冲日最亮" vertex="1">
           <mxGeometry height="26" width="200" as="geometry" />
@@ -453,6 +456,60 @@
         </mxCell>
         <mxCell id="_DryXbSALZS7XiphY43--249" parent="_DryXbSALZS7XiphY43--250" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8f5e8;strokeColor=#558855;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;verticalAlign=middle;fontColor=default;" value="风气偏胜 → 肝/胆虚实" vertex="1">
           <mxGeometry height="26" width="200" y="128" as="geometry" />
+        </mxCell>
+        <mxCell id="_DryXbSALZS7XiphY43--258" connectable="0" parent="ykfoiyoN5eaVs1loun9g-401" style="group" value="" vertex="1">
+          <mxGeometry height="186" width="200" x="728" y="2215.94" as="geometry" />
+        </mxCell>
+        <mxCell id="_DryXbSALZS7XiphY43--252" parent="_DryXbSALZS7XiphY43--258" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8f0d0;strokeColor=#998844;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;" value="1. 29.5年公转周期" vertex="1">
+          <mxGeometry height="26" width="200" as="geometry" />
+        </mxCell>
+        <mxCell id="_DryXbSALZS7XiphY43--253" parent="_DryXbSALZS7XiphY43--258" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8f0d0;strokeColor=#998844;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;" value="2. 密度低于水（0.687 g/cm³）" vertex="1">
+          <mxGeometry height="26" width="200" y="32" as="geometry" />
+        </mxCell>
+        <mxCell id="_DryXbSALZS7XiphY43--254" parent="_DryXbSALZS7XiphY43--258" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8f0d0;strokeColor=#998844;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;" value="3. 自转轴倾角26.7°" vertex="1">
+          <mxGeometry height="26" width="200" y="64" as="geometry" />
+        </mxCell>
+        <mxCell id="_DryXbSALZS7XiphY43--255" parent="_DryXbSALZS7XiphY43--258" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8f0d0;strokeColor=#998844;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;" value="4. 土星环（冰粒+岩石）" vertex="1">
+          <mxGeometry height="26" width="200" y="96" as="geometry" />
+        </mxCell>
+        <mxCell id="_DryXbSALZS7XiphY43--256" parent="_DryXbSALZS7XiphY43--258" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8f0d0;strokeColor=#998844;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;" value="5. 20年土木会合周期" vertex="1">
+          <mxGeometry height="26" width="200" y="128" as="geometry" />
+        </mxCell>
+        <mxCell id="_DryXbSALZS7XiphY43--257" parent="_DryXbSALZS7XiphY43--258" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8f0d0;strokeColor=#998844;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;strokeWidth=2;" value="6. 五运六气：土运（甲己化土）" vertex="1">
+          <mxGeometry height="26" width="200" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="_DryXbSALZS7XiphY43--260" parent="ykfoiyoN5eaVs1loun9g-401" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;legacyAnchorPoints=0;" value="" vertex="1">
+          <mxGeometry height="154" width="20" x="941" y="2233" as="geometry" />
+        </mxCell>
+        <mxCell id="_DryXbSALZS7XiphY43--261" edge="1" parent="ykfoiyoN5eaVs1loun9g-401" source="ykfoiyoN5eaVs1loun9g-386" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.01;entryY=0.393;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=light-dark(#ccbb66, #ededed);align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;curved=1;" target="ykfoiyoN5eaVs1loun9g-361">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1039.62" y="1810" />
+              <mxPoint x="1977" y="1810" />
+              <mxPoint x="1977" y="1822.19" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_DryXbSALZS7XiphY43--268" connectable="0" parent="ykfoiyoN5eaVs1loun9g-401" style="group" value="" vertex="1">
+          <mxGeometry height="186" width="200" x="2024" y="2417.51" as="geometry" />
+        </mxCell>
+        <mxCell id="_DryXbSALZS7XiphY43--262" parent="_DryXbSALZS7XiphY43--268" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8f0d0;strokeColor=#998844;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;verticalAlign=middle;fontColor=default;" value="镇星纪年 → 二十八宿分野" vertex="1">
+          <mxGeometry height="26" width="200" as="geometry" />
+        </mxCell>
+        <mxCell id="_DryXbSALZS7XiphY43--263" parent="_DryXbSALZS7XiphY43--268" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8f0d0;strokeColor=#998844;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;verticalAlign=middle;fontColor=default;" value="无直接地球表现（体现自身特性）" vertex="1">
+          <mxGeometry height="26" width="200" y="32" as="geometry" />
+        </mxCell>
+        <mxCell id="_DryXbSALZS7XiphY43--264" parent="_DryXbSALZS7XiphY43--268" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8f0d0;strokeColor=#998844;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;verticalAlign=middle;fontColor=default;" value="环倾角变化（约15年侧对地球）" vertex="1">
+          <mxGeometry height="26" width="200" y="64" as="geometry" />
+        </mxCell>
+        <mxCell id="_DryXbSALZS7XiphY43--265" parent="_DryXbSALZS7XiphY43--268" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8f0d0;strokeColor=#998844;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;verticalAlign=middle;fontColor=default;" value="望远镜可见的独特标志 → 辨认土星" vertex="1">
+          <mxGeometry height="26" width="200" y="96" as="geometry" />
+        </mxCell>
+        <mxCell id="_DryXbSALZS7XiphY43--266" parent="_DryXbSALZS7XiphY43--268" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8f0d0;strokeColor=#998844;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;verticalAlign=middle;fontColor=default;" value="六十年甲子背景的组成部分" vertex="1">
+          <mxGeometry height="26" width="200" y="128" as="geometry" />
+        </mxCell>
+        <mxCell id="_DryXbSALZS7XiphY43--267" parent="_DryXbSALZS7XiphY43--268" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8f0d0;strokeColor=#998844;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;verticalAlign=middle;fontColor=default;" value="湿气偏胜 → 脾/胃虚实" vertex="1">
+          <mxGeometry height="26" width="200" y="160" as="geometry" />
         </mxCell>
         <mxCell id="ykfoiyoN5eaVs1loun9g-403" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=20;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#333333;" value="七政属性与地球对应表现 · 按主体分类" vertex="1">
           <mxGeometry height="50" width="520" x="2300" y="6290" as="geometry" />
