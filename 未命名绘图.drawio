@@ -703,12 +703,6 @@
         <mxCell id="_DryXbSALZS7XiphY43--126" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8f0d0;strokeColor=#998844;fontSize=10;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;verticalAlign=middle;fontColor=default;" value="湿气偏胜 → 脾/胃虚实" vertex="1">
           <mxGeometry height="26" width="500" x="6300" y="4913" as="geometry" />
         </mxCell>
-        <mxCell id="_DryXbSALZS7XiphY43--127" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f9f9;strokeColor=#999999;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=12;dashed=1;" value="图例：🟡 黄色=太阳（11项） | 🔵 灰色=月球（12项） | 🔵 蓝色=水星（5项） | 🟠 淡金=金星（7项） | 🔴 红色=火星（6项） | 🟢 绿色=木星（5项） | 🟤 土色=土星（6项） | 🔵 蓝框标注 = 长期漂移属性（岁差 / 黄赤交角变化）" vertex="1">
-          <mxGeometry height="36" width="2000" x="5780" y="4980" as="geometry" />
-        </mxCell>
-        <mxCell id="_DryXbSALZS7XiphY43--128" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontFamily=Microsoft YaHei;fontColor=#8899bb;fontStyle=2;" value="属性分类：内禀物理 · 轨道几何 · 光学可见 · 周期耦合 · 气化映射 · 长期漂移（🔵 标注） — 全部52项属性完整展开" vertex="1">
-          <mxGeometry height="24" width="1000" x="6240" y="5040" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
