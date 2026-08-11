@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="天-地-人完整因果链布局" id="SjSHOlrHnjoS6EgHSpwo">
-    <mxGraphModel dx="46474" dy="29928" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#ffffff, #121212)" math="0" shadow="0">
+    <mxGraphModel dx="27621" dy="19328" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#ffffff, #121212)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry height="8979.998303679964" width="8979.998303679964" x="-16264.350701746243" y="-12885" as="geometry" />
         </mxCell>
         <mxCell id="xSqrSkOPzvTuEKo7XnQz-199" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="4169.75" width="11259.999999999998" x="-17465" y="-10672.27" as="geometry" />
+          <mxGeometry height="4169.75" width="11259.999999999998" x="-17497" y="-10672.27" as="geometry" />
         </mxCell>
         <mxCell id="xSqrSkOPzvTuEKo7XnQz-200" parent="xSqrSkOPzvTuEKo7XnQz-199" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#3388bb;fontSize=50;fontStyle=1;fontFamily=Microsoft YaHei;shadow=1;strokeWidth=5;" value="🐢 北方玄武" vertex="1">
           <mxGeometry height="115.82638888888887" width="754.2583732057416" x="5344.45933014354" as="geometry" />
