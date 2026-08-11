@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="天-地-人完整因果链布局" id="SjSHOlrHnjoS6EgHSpwo">
-    <mxGraphModel dx="615450" dy="345558" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#ffffff, #121212)" math="0" shadow="0">
+    <mxGraphModel dx="692361" dy="391149" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#ffffff, #121212)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -175,7 +175,7 @@
           <mxGeometry height="2309.1596726371436" width="3592.01027027027" x="1913.0570009564562" y="4542.3062665565085" as="geometry" />
         </mxCell>
         <mxCell id="zSthK1BmzT3WLeGDyZPw-12" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Microsoft YaHei;fontColor=#5588bb;fontStyle=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;天球赤道&lt;/font&gt;" vertex="1">
-          <mxGeometry height="99.64824522911952" width="898.00636972565" x="3260.035504587262" y="4205.3444692439225" as="geometry" />
+          <mxGeometry height="99.64824522911952" width="898.00636972565" x="3260.0455045872623" y="4157.444469243923" as="geometry" />
         </mxCell>
         <mxCell id="zSthK1BmzT3WLeGDyZPw-13" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Microsoft YaHei;fontColor=#dd9900;fontStyle=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;黄道（日轨）&lt;/font&gt;" vertex="1">
           <mxGeometry height="230.91596726371432" width="1026.2886486486489" x="-725.6723927744661" y="4183.107000333803" as="geometry" />
