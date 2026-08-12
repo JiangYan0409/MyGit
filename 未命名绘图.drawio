@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="天-地-人完整因果链布局" id="SjSHOlrHnjoS6EgHSpwo">
-    <mxGraphModel dx="46474" dy="29928" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#ffffff, #121212)" math="0" shadow="0">
+    <mxGraphModel dx="23850" dy="17208" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#ffffff, #121212)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1861,9 +1861,6 @@
         <mxCell id="xSqrSkOPzvTuEKo7XnQz-1073" connectable="0" parent="1" style="group;aspect=fixed;" value="" vertex="1">
           <mxGeometry height="1193.4" width="1269.48" x="-12388" y="-12371" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-319" parent="xSqrSkOPzvTuEKo7XnQz-1073" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star;aspect=fixed;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
-          <mxGeometry height="252.6521171529486" width="252.6521171529486" x="432.5916007934023" y="157.59320241876927" as="geometry" />
-        </mxCell>
         <mxCell id="xSqrSkOPzvTuEKo7XnQz-1063" parent="xSqrSkOPzvTuEKo7XnQz-1073" style="ellipse;whiteSpace=wrap;html=1;fillColor=#6c8ebf;strokeColor=#4a6a9a;fontSize=16;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#ffffff;strokeWidth=2;shadow=1;aspect=fixed;" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;太微垣&lt;/font&gt;" vertex="1">
           <mxGeometry height="538.7810383747179" width="538.7810383747179" x="730.6972141583904" y="250.5331828442438" as="geometry" />
         </mxCell>
@@ -1900,8 +1897,14 @@
         <mxCell id="xSqrSkOPzvTuEKo7XnQz-1071" parent="xSqrSkOPzvTuEKo7XnQz-1073" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0e8d0;strokeColor=#82b366;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#224422;align=center;" value="经济·民生·商贾·货殖" vertex="1">
           <mxGeometry height="26.939051918735895" width="188.57397504456335" x="388.4354494525074" y="1042.541309255079" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-1094" connectable="0" parent="1" style="group;aspect=fixed;fontSize=30;" value="" vertex="1">
-          <mxGeometry height="302" width="1901.48" x="-10975.93" y="-12020" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-319" parent="xSqrSkOPzvTuEKo7XnQz-1073" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star;aspect=fixed;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
+          <mxGeometry height="150.25" width="150.25" x="535" y="157.59" as="geometry" />
+        </mxCell>
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-1099" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="420" width="1901.4799999999996" x="-10975.93" y="-12020" as="geometry" />
+        </mxCell>
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-1094" connectable="0" parent="xSqrSkOPzvTuEKo7XnQz-1099" style="group;aspect=fixed;fontSize=30;" value="" vertex="1">
+          <mxGeometry height="302" width="1901.48" as="geometry" />
         </mxCell>
         <mxCell id="xSqrSkOPzvTuEKo7XnQz-1074" parent="xSqrSkOPzvTuEKo7XnQz-1094" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=30;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#003366;strokeWidth=2;shadow=1;" value="天文实测" vertex="1">
           <mxGeometry height="74.5679012345679" width="335.55529411764707" x="37.28392156862745" as="geometry" />
@@ -1962,6 +1965,27 @@
         </mxCell>
         <mxCell id="xSqrSkOPzvTuEKo7XnQz-1093" parent="xSqrSkOPzvTuEKo7XnQz-1094" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf5ea;strokeColor=#bbddbb;fontSize=30;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=8;" value="· 星图传统（敦煌/汉代图像）" vertex="1">
           <mxGeometry height="41.01234567901235" width="410.12313725490196" x="1491.356862745098" y="260.98765432098764" as="geometry" />
+        </mxCell>
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-1095" parent="xSqrSkOPzvTuEKo7XnQz-1099" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f0f0;strokeColor=#888899;fontSize=30;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#444455;strokeWidth=2;shadow=1;" value="三垣与二十八宿 · 并列互补" vertex="1">
+          <mxGeometry height="40" width="680" x="635.0100000000002" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-1096" parent="xSqrSkOPzvTuEKo7XnQz-1099" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8f8f8;strokeColor=#cccccc;fontSize=30;fontFamily=Microsoft YaHei;fontColor=#445577;align=center;" value="二十八宿：赤道量天尺（东西入宿度）" vertex="1">
+          <mxGeometry height="30" width="360" x="345.0100000000002" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-1097" parent="xSqrSkOPzvTuEKo7XnQz-1099" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8f8f8;strokeColor=#cccccc;fontSize=30;fontFamily=Microsoft YaHei;fontColor=#445577;align=center;" value="三垣：天球中宫（南北去极度）" vertex="1">
+          <mxGeometry height="30" width="360" x="765.0100000000002" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-1098" parent="xSqrSkOPzvTuEKo7XnQz-1099" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8f8f8;strokeColor=#cccccc;fontSize=30;fontFamily=Microsoft YaHei;fontColor=#445577;align=center;" value="共同构成完整赤道坐标体系" vertex="1">
+          <mxGeometry height="30" width="360" x="1185.0100000000002" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-1100" edge="1" parent="1" source="xSqrSkOPzvTuEKo7XnQz-1059" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;strokeWidth=5;dashed=1;dashPattern=12 12;" target="xSqrSkOPzvTuEKo7XnQz-1079">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-1101" edge="1" parent="1" source="xSqrSkOPzvTuEKo7XnQz-1063" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;strokeWidth=5;dashed=1;dashPattern=12 12;" target="xSqrSkOPzvTuEKo7XnQz-1079">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-1102" edge="1" parent="1" source="xSqrSkOPzvTuEKo7XnQz-1068" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;strokeWidth=5;dashed=1;dashPattern=12 12;" target="xSqrSkOPzvTuEKo7XnQz-1079">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
