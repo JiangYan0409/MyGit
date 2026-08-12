@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="天-地-人完整因果链布局" id="SjSHOlrHnjoS6EgHSpwo">
-    <mxGraphModel dx="27621" dy="19328" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#ffffff, #121212)" math="0" shadow="0">
+    <mxGraphModel dx="23850" dy="17208" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#ffffff, #121212)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,25 +22,25 @@
         <mxCell id="xSqrSkOPzvTuEKo7XnQz-726" parent="xSqrSkOPzvTuEKo7XnQz-722" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.drop;direction=north;rotation=2.6;fillColor=#d5e8d4;strokeColor=#82b366;opacity=50;container=0;" value="" vertex="1">
           <mxGeometry height="2400" width="4440" x="5710.66" y="904.9099999999999" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-841" edge="1" parent="xSqrSkOPzvTuEKo7XnQz-722" source="xSqrSkOPzvTuEKo7XnQz-727" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;curved=1;strokeWidth=6;dashed=1;dashPattern=8 8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="xSqrSkOPzvTuEKo7XnQz-845">
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-841" edge="1" parent="xSqrSkOPzvTuEKo7XnQz-722" source="xSqrSkOPzvTuEKo7XnQz-727" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;curved=1;strokeWidth=6;dashed=1;dashPattern=8 8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1263.25" y="3856.9500000000007" as="targetPoint" />
+            <mxPoint x="1177" y="3829.130000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xSqrSkOPzvTuEKo7XnQz-727" parent="xSqrSkOPzvTuEKo7XnQz-722" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#3388bb;fontSize=50;fontStyle=1;fontFamily=Microsoft YaHei;shadow=1;strokeWidth=5;container=0;" value="🐢 北方玄武" vertex="1">
           <mxGeometry height="115.82638888888887" width="754.2583732057416" x="5344.45933014354" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-839" edge="1" parent="xSqrSkOPzvTuEKo7XnQz-722" source="xSqrSkOPzvTuEKo7XnQz-728" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;strokeWidth=6;dashed=1;dashPattern=8 8;" target="xSqrSkOPzvTuEKo7XnQz-845">
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-839" edge="1" parent="xSqrSkOPzvTuEKo7XnQz-722" source="xSqrSkOPzvTuEKo7XnQz-728" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;strokeWidth=6;dashed=1;dashPattern=8 8;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1263.2467567567564" y="3856.9500000000007" as="targetPoint" />
+            <mxPoint x="1177" y="3829.130000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xSqrSkOPzvTuEKo7XnQz-728" parent="xSqrSkOPzvTuEKo7XnQz-722" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#888899;fontSize=50;fontStyle=1;fontFamily=Microsoft YaHei;shadow=1;strokeWidth=5;container=0;" value="🐅 西方白虎" vertex="1">
           <mxGeometry height="115.82638888888887" width="754.2583732057416" y="2084.875" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-840" edge="1" parent="xSqrSkOPzvTuEKo7XnQz-722" source="xSqrSkOPzvTuEKo7XnQz-729" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;strokeWidth=6;dashed=1;dashPattern=8 8;" target="xSqrSkOPzvTuEKo7XnQz-845">
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-840" edge="1" parent="xSqrSkOPzvTuEKo7XnQz-722" source="xSqrSkOPzvTuEKo7XnQz-729" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;strokeWidth=6;dashed=1;dashPattern=8 8;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1263.2467567567564" y="3856.9500000000007" as="targetPoint" />
+            <mxPoint x="1177" y="3829.130000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xSqrSkOPzvTuEKo7XnQz-729" parent="xSqrSkOPzvTuEKo7XnQz-722" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#cc6633;fontSize=50;fontStyle=1;fontFamily=Microsoft YaHei;shadow=1;strokeWidth=5;container=0;" value="🐦 南方朱雀" vertex="1">
@@ -136,9 +136,9 @@
         <mxCell id="xSqrSkOPzvTuEKo7XnQz-758" parent="xSqrSkOPzvTuEKo7XnQz-722" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=50;fontStyle=1;fontFamily=Microsoft YaHei;strokeWidth=5;container=0;align=center;verticalAlign=middle;fontColor=default;" value="星" vertex="1">
           <mxGeometry height="144.78298611111114" width="269.37799043062194" x="5559.9617224880385" y="3793.3142361111095" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-842" edge="1" parent="xSqrSkOPzvTuEKo7XnQz-722" source="xSqrSkOPzvTuEKo7XnQz-759" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;strokeWidth=6;dashed=1;dashPattern=8 8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="xSqrSkOPzvTuEKo7XnQz-845">
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-842" edge="1" parent="xSqrSkOPzvTuEKo7XnQz-722" source="xSqrSkOPzvTuEKo7XnQz-759" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;strokeWidth=6;dashed=1;dashPattern=8 8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1263.2467567567564" y="3856.9500000000007" as="targetPoint" />
+            <mxPoint x="1177" y="3829.130000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xSqrSkOPzvTuEKo7XnQz-843" connectable="0" parent="xSqrSkOPzvTuEKo7XnQz-842" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Text" vertex="1">
@@ -149,326 +149,347 @@
         <mxCell id="xSqrSkOPzvTuEKo7XnQz-759" parent="xSqrSkOPzvTuEKo7XnQz-722" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#448844;fontSize=50;fontStyle=1;fontFamily=Microsoft YaHei;shadow=1;strokeWidth=5;container=0;" value="🐉 东方青龙" vertex="1">
           <mxGeometry height="115.82638888888887" width="754.2583732057416" x="10505.741626794257" y="2099.3532986111104" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-844" connectable="0" parent="xSqrSkOPzvTuEKo7XnQz-722" style="group" value="" vertex="1">
-          <mxGeometry height="1351" width="1890" x="207" y="3829.130000000001" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-948" connectable="0" parent="xSqrSkOPzvTuEKo7XnQz-722" style="group" value="" vertex="1">
+          <mxGeometry height="1374" width="1890" x="243" y="3831.130000000001" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-845" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=24;fontStyle=1;fontFamily=Microsoft YaHei;strokeWidth=3;shadow=1;" value="二十八星宿 · 完整认知框架" vertex="1">
-          <mxGeometry height="54" width="800" x="570" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-949" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=24;fontStyle=1;fontFamily=Microsoft YaHei;strokeWidth=3;shadow=1;" value="二十八星宿" vertex="1">
+          <mxGeometry height="54" width="900" x="520" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-846" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#003366;strokeWidth=3;shadow=1;" value="&amp;nbsp;天文与科学" vertex="1">
-          <mxGeometry height="50" width="1840" x="50" y="91" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-950" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#003366;strokeWidth=3;shadow=1;" value="天文与科学" vertex="1">
+          <mxGeometry height="50" width="1840" x="50" y="104" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-847" parent="xSqrSkOPzvTuEKo7XnQz-844" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#6c8ebf;fontStyle=2;" value="硬核 · 可验证 · 根基" vertex="1">
-          <mxGeometry height="40" width="200" x="1670" y="96" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-951" parent="xSqrSkOPzvTuEKo7XnQz-948" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#6c8ebf;fontStyle=2;" value="&amp;nbsp;可验证 · 根基" vertex="1">
+          <mxGeometry height="40" width="200" x="1670" y="109" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-848" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf2f8;strokeColor=#6c8ebf;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#003366;" value="① 赤道坐标系：量天尺" vertex="1">
-          <mxGeometry height="30" width="430" x="70" y="156" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-952" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf2f8;strokeColor=#6c8ebf;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#003366;" value="① 赤道坐标系：量天尺" vertex="1">
+          <mxGeometry height="30" width="430" x="70" y="169" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-849" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f6fc;strokeColor=#bbccdd;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#445577;align=left;spacingLeft=10;" value="· 二十八宿沿天赤道分布" vertex="1">
-          <mxGeometry height="22" width="200" x="80" y="191" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-953" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f6fc;strokeColor=#bbccdd;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#445577;align=left;spacingLeft=10;" value="· 二十八宿沿天赤道分布" vertex="1">
+          <mxGeometry height="22" width="200" x="80" y="204" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-850" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f6fc;strokeColor=#bbccdd;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#445577;align=left;spacingLeft=10;" value="· 距星 + 入宿度 + 去极度 = 精确坐标" vertex="1">
-          <mxGeometry height="22" width="200" x="80" y="217" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-954" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f6fc;strokeColor=#bbccdd;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#445577;align=left;spacingLeft=10;" value="· 距星 + 入宿度 + 去极度 = 精确坐标" vertex="1">
+          <mxGeometry height="22" width="200" x="80" y="230" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-851" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f6fc;strokeColor=#bbccdd;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#445577;align=left;spacingLeft=10;" value="· 覆盖黄道 ±23.5°范围" vertex="1">
-          <mxGeometry height="22" width="200" x="80" y="243" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-955" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f6fc;strokeColor=#bbccdd;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#445577;align=left;spacingLeft=10;" value="· 覆盖黄道 ±23.5° 范围" vertex="1">
+          <mxGeometry height="22" width="200" x="80" y="256" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-852" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f6fc;strokeColor=#bbccdd;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#445577;align=left;spacingLeft=10;" value="· 周天365.25度，各宿不均" vertex="1">
-          <mxGeometry height="22" width="200" x="80" y="269" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-956" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f6fc;strokeColor=#bbccdd;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#445577;align=left;spacingLeft=10;" value="· 周天365.25度，各宿不均" vertex="1">
+          <mxGeometry height="22" width="200" x="80" y="282" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-853" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf2f8;strokeColor=#6c8ebf;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#003366;" value="② 历法功能：时间标尺" vertex="1">
-          <mxGeometry height="30" width="380" x="520" y="156" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-957" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf2f8;strokeColor=#6c8ebf;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#003366;" value="② 历法功能：时间标尺" vertex="1">
+          <mxGeometry height="30" width="380" x="520" y="169" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-854" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f6fc;strokeColor=#bbccdd;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#445577;align=left;spacingLeft=10;" value="· 昏旦中星观测定节气" vertex="1">
-          <mxGeometry height="22" width="350" x="530" y="191" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-958" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f6fc;strokeColor=#bbccdd;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#445577;align=left;spacingLeft=10;" value="· 昏旦中星观测定节气" vertex="1">
+          <mxGeometry height="22" width="350" x="530" y="204" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-855" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f6fc;strokeColor=#bbccdd;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#445577;align=left;spacingLeft=10;" value="· 岁差发现（冬至点从虚宿移至斗宿）" vertex="1">
-          <mxGeometry height="22" width="350" x="530" y="217" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-959" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f6fc;strokeColor=#bbccdd;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#445577;align=left;spacingLeft=10;" value="· 岁差发现（冬至点从虚宿移至斗宿）" vertex="1">
+          <mxGeometry height="22" width="350" x="530" y="230" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-856" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f6fc;strokeColor=#bbccdd;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#445577;align=left;spacingLeft=10;" value="· 《尚书》日中星鸟，以殷仲春" vertex="1">
-          <mxGeometry height="22" width="350" x="530" y="243" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-960" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f6fc;strokeColor=#bbccdd;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#445577;align=left;spacingLeft=10;" value="· 《尚书》日中星鸟，以殷仲春" vertex="1">
+          <mxGeometry height="22" width="350" x="530" y="256" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-857" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf2f8;strokeColor=#6c8ebf;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#003366;" value="③ 天象记录：空间坐标" vertex="1">
-          <mxGeometry height="30" width="380" x="940" y="156" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-961" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf2f8;strokeColor=#6c8ebf;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#003366;" value="③ 天象记录：空间坐标" vertex="1">
+          <mxGeometry height="30" width="380" x="940" y="169" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-858" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f6fc;strokeColor=#bbccdd;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#445577;align=left;spacingLeft=10;" value="· 彗星/客星用入宿某度记录" vertex="1">
-          <mxGeometry height="22" width="350" x="950" y="191" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-962" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f6fc;strokeColor=#bbccdd;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#445577;align=left;spacingLeft=10;" value="· 彗星/客星用入宿某度记录" vertex="1">
+          <mxGeometry height="22" width="350" x="950" y="204" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-859" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f6fc;strokeColor=#bbccdd;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#445577;align=left;spacingLeft=10;" value="· 1054年天关客星（毕宿附近）" vertex="1">
-          <mxGeometry height="22" width="350" x="950" y="217" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-963" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f6fc;strokeColor=#bbccdd;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#445577;align=left;spacingLeft=10;" value="· 1054年天关客星（毕宿附近）" vertex="1">
+          <mxGeometry height="22" width="350" x="950" y="230" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-860" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f6fc;strokeColor=#bbccdd;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#445577;align=left;spacingLeft=10;" value="· 日月食预测依赖同宿或对宿" vertex="1">
-          <mxGeometry height="22" width="350" x="950" y="243" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-964" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f6fc;strokeColor=#bbccdd;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#445577;align=left;spacingLeft=10;" value="· 日月食预测依赖同宿或对宿" vertex="1">
+          <mxGeometry height="22" width="350" x="950" y="256" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-861" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf2f8;strokeColor=#6c8ebf;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#003366;" value="④ 距星沿革：动态修正" vertex="1">
-          <mxGeometry height="30" width="480" x="1360" y="156" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-965" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf2f8;strokeColor=#6c8ebf;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#003366;" value="④ 距星沿革：动态修正" vertex="1">
+          <mxGeometry height="30" width="480" x="1360" y="169" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-862" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f6fc;strokeColor=#bbccdd;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#445577;align=left;spacingLeft=10;" value="· 历代实测更换距星以保证精度" vertex="1">
-          <mxGeometry height="22" width="450" x="1370" y="191" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-966" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f6fc;strokeColor=#bbccdd;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#445577;align=left;spacingLeft=10;" value="· 历代实测更换距星以保证精度" vertex="1">
+          <mxGeometry height="22" width="450" x="1370" y="204" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-863" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f6fc;strokeColor=#bbccdd;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#445577;align=left;spacingLeft=10;" value="· 非僵死系统，持续校验修正" vertex="1">
-          <mxGeometry height="22" width="450" x="1370" y="217" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-967" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f6fc;strokeColor=#bbccdd;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#445577;align=left;spacingLeft=10;" value="· 非僵死系统，持续校验修正" vertex="1">
+          <mxGeometry height="22" width="450" x="1370" y="230" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-864" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f6fc;strokeColor=#bbccdd;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#445577;align=left;spacingLeft=10;" value="· 不同朝代宿度数值有差异（实测结果不同）" vertex="1">
-          <mxGeometry height="22" width="450" x="1370" y="243" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-968" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f6fc;strokeColor=#bbccdd;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#445577;align=left;spacingLeft=10;" value="· 不同朝代宿度数值有差异（实测结果不同）" vertex="1">
+          <mxGeometry height="22" width="450" x="1370" y="256" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-865" edge="1" parent="xSqrSkOPzvTuEKo7XnQz-844" style="shape=flexArrow;endArrow=classic;html=1;width=24;fillColor=#6c8ebf;strokeColor=#6c8ebf;opacity=50;" value="">
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-969" edge="1" parent="xSqrSkOPzvTuEKo7XnQz-948" style="shape=flexArrow;endArrow=classic;html=1;width=24;fillColor=#6c8ebf;strokeColor=#6c8ebf;opacity=50;" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="950" y="311" as="sourcePoint" />
-            <mxPoint x="950" y="351" as="targetPoint" />
+            <mxPoint x="950" y="324" as="sourcePoint" />
+            <mxPoint x="950" y="364" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-866" parent="xSqrSkOPzvTuEKo7XnQz-844" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Microsoft YaHei;fontColor=#6c8ebf;fontStyle=2;" value="支撑" vertex="1">
-          <mxGeometry height="18" width="80" x="910" y="326" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-970" parent="xSqrSkOPzvTuEKo7XnQz-948" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Microsoft YaHei;fontColor=#6c8ebf;fontStyle=2;" value="支撑" vertex="1">
+          <mxGeometry height="18" width="80" x="910" y="339" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-867" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=18;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#004400;strokeWidth=3;shadow=1;" value="术数与实践" vertex="1">
-          <mxGeometry height="50" width="1840" x="50" y="366" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-971" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=18;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#004400;strokeWidth=3;shadow=1;" value="术数与实践" vertex="1">
+          <mxGeometry height="50" width="1840" x="50" y="379" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-868" parent="xSqrSkOPzvTuEKo7XnQz-844" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#82b366;fontStyle=2;" value="哲学 · 神秘主义 · 操作系统" vertex="1">
-          <mxGeometry height="40" width="230" x="1640" y="371" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-972" parent="xSqrSkOPzvTuEKo7XnQz-948" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#82b366;fontStyle=2;" value="作用机制" vertex="1">
+          <mxGeometry height="40" width="230" x="1640" y="384" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-869" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf5ea;strokeColor=#82b366;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#004400;" value="① 三层能量嵌套结构" vertex="1">
-          <mxGeometry height="30" width="430" x="70" y="431" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-973" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf5ea;strokeColor=#82b366;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#004400;" value="① 三层能量嵌套结构" vertex="1">
+          <mxGeometry height="30" width="430" x="70" y="444" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-870" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="层级一：四象方位（木/火/金/水）→ 气候带" vertex="1">
-          <mxGeometry height="22" width="410" x="80" y="466" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-974" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="层级一：四象方位（木/火/金/水）→ 气候带" vertex="1">
+          <mxGeometry height="22" width="410" x="80" y="479" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-871" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="层级二：宿五行（木金土火水循环）→ 星宿禀赋" vertex="1">
-          <mxGeometry height="22" width="410" x="80" y="492" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-975" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="层级二：宿五行（木金土火水循环）→ 星宿禀赋" vertex="1">
+          <mxGeometry height="22" width="410" x="80" y="505" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-872" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="层级三：宿内度数（气的强弱浓淡）→ 微观精度" vertex="1">
-          <mxGeometry height="22" width="410" x="80" y="518" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-976" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="层级三：宿内度数（气的强弱浓淡）→ 微观精度" vertex="1">
+          <mxGeometry height="22" width="410" x="80" y="531" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-873" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf5ea;strokeColor=#82b366;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#004400;" value="② 五行生克的动态调制" vertex="1">
-          <mxGeometry height="30" width="380" x="530" y="431" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-977" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf5ea;strokeColor=#82b366;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#004400;" value="② 五行生克的动态调制" vertex="1">
+          <mxGeometry height="30" width="380" x="530" y="444" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-874" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="· 宿生星 → 行星能量放大" vertex="1">
-          <mxGeometry height="22" width="350" x="540" y="466" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-978" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="· 宿生星 → 行星能量放大" vertex="1">
+          <mxGeometry height="22" width="350" x="540" y="479" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-875" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="· 宿克星 → 行星能量压制" vertex="1">
-          <mxGeometry height="22" width="350" x="540" y="492" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-979" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="· 宿克星 → 行星能量压制" vertex="1">
+          <mxGeometry height="22" width="350" x="540" y="505" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-876" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="· 星生宿 / 星克宿 → 双向博弈" vertex="1">
-          <mxGeometry height="22" width="350" x="540" y="518" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-980" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="· 星生宿 / 星克宿 → 双向博弈" vertex="1">
+          <mxGeometry height="22" width="350" x="540" y="531" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-877" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf5ea;strokeColor=#82b366;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#004400;" value="③ 善恶定性：吉凶标签" vertex="1">
-          <mxGeometry height="30" width="380" x="940" y="431" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-981" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf5ea;strokeColor=#82b366;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#004400;" value="③ 善恶定性：吉凶标签" vertex="1">
+          <mxGeometry height="30" width="380" x="940" y="444" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-878" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="· 角吉（利嫁娶） / 亢凶（主口舌）" vertex="1">
-          <mxGeometry height="22" width="350" x="950" y="466" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-982" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="· 角吉（利嫁娶） / 亢凶（主口舌）" vertex="1">
+          <mxGeometry height="22" width="350" x="950" y="479" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-879" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="· 吉凶日逢宿互减" vertex="1">
-          <mxGeometry height="22" width="350" x="950" y="492" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-983" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="· 吉日逢凶宿减吉，凶日逢吉宿减凶" vertex="1">
+          <mxGeometry height="22" width="350" x="950" y="505" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-880" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="· 择日与占验的直接依据" vertex="1">
-          <mxGeometry height="22" width="350" x="950" y="518" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-984" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="· 择日与占验的直接依据" vertex="1">
+          <mxGeometry height="22" width="350" x="950" y="531" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-881" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf5ea;strokeColor=#82b366;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#004400;" value="④ 分野系统：天地对应" vertex="1">
-          <mxGeometry height="30" width="480" x="1360" y="431" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-985" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf5ea;strokeColor=#82b366;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#004400;" value="④ 分野系统：天地对应" vertex="1">
+          <mxGeometry height="30" width="480" x="1360" y="444" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-882" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="· 翼轸→荆州，参宿→益州" vertex="1">
-          <mxGeometry height="22" width="450" x="1370" y="466" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-986" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="· 翼轸→荆州，参宿→益州" vertex="1">
+          <mxGeometry height="22" width="450" x="1370" y="479" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-883" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="· 异常天象预示对应地域治乱吉凶" vertex="1">
-          <mxGeometry height="22" width="450" x="1370" y="492" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-987" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="· 异常天象预示对应地域治乱吉凶" vertex="1">
+          <mxGeometry height="22" width="450" x="1370" y="505" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-884" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="· 天人感应的地理框架" vertex="1">
-          <mxGeometry height="22" width="450" x="1370" y="518" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-988" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="· 天人感应的地理框架" vertex="1">
+          <mxGeometry height="22" width="450" x="1370" y="531" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-885" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf5ea;strokeColor=#82b366;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#004400;" value="⑤ 度主推算：微观视角" vertex="1">
-          <mxGeometry height="30" width="430" x="70" y="561" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-989" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf5ea;strokeColor=#82b366;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#004400;" value="⑤ 度主推算：微观视角" vertex="1">
+          <mxGeometry height="30" width="430" x="70" y="574" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-886" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="· 十二宫为州，二十八宿为县" vertex="1">
-          <mxGeometry height="22" width="410" x="80" y="596" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-990" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="· 十二宫为州，二十八宿为县" vertex="1">
+          <mxGeometry height="22" width="410" x="80" y="609" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-887" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="· 流年须精确到某宿几度" vertex="1">
-          <mxGeometry height="22" width="410" x="80" y="622" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-991" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="· 流年须精确到某宿几度" vertex="1">
+          <mxGeometry height="22" width="410" x="80" y="635" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-888" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="· 同宿不同度数吉凶五行各异" vertex="1">
-          <mxGeometry height="22" width="410" x="80" y="648" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-992" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="· 同宿不同度数吉凶五行各异" vertex="1">
+          <mxGeometry height="22" width="410" x="80" y="661" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-889" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf5ea;strokeColor=#82b366;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#004400;" value="⑥ 宿曜组合：特殊格局" vertex="1">
-          <mxGeometry height="30" width="380" x="530" y="561" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-993" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf5ea;strokeColor=#82b366;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#004400;" value="⑥ 宿曜组合：特殊格局" vertex="1">
+          <mxGeometry height="30" width="380" x="530" y="574" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-890" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="· 荧惑守心（火星入心宿）→ 顶级凶格" vertex="1">
-          <mxGeometry height="22" width="350" x="540" y="596" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-994" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="· 荧惑守心（火星入心宿）→ 顶级凶格" vertex="1">
+          <mxGeometry height="22" width="350" x="540" y="609" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-891" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="· 青龙归位（木星入角宿）→ 大吉" vertex="1">
-          <mxGeometry height="22" width="350" x="540" y="622" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-995" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="· 青龙归位（木星入角宿）→ 大吉" vertex="1">
+          <mxGeometry height="22" width="350" x="540" y="635" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-892" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="· 月离于毕（月亮入毕宿）→ 主大雨" vertex="1">
-          <mxGeometry height="22" width="350" x="540" y="648" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-996" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="· 月离于毕（月亮入毕宿）→ 主大雨" vertex="1">
+          <mxGeometry height="22" width="350" x="540" y="661" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-893" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf5ea;strokeColor=#82b366;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#004400;" value="⑦ 宿度制煞与伏断" vertex="1">
-          <mxGeometry height="30" width="380" x="940" y="561" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-997" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0e8d0;strokeColor=#558855;fontSize=11;fontStyle=2;fontFamily=Microsoft YaHei;fontColor=#004400;strokeWidth=2;dashed=1;align=left;spacingLeft=10;" value="✦ 四余星入宿（罗睺·计都·月孛·紫炁）" vertex="1">
+          <mxGeometry height="28" width="350" x="940" y="609" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-894" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="· 制煞：凶星行至被克度数，凶性被制" vertex="1">
-          <mxGeometry height="22" width="350" x="950" y="596" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-998" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf5ea;strokeColor=#82b366;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=12;" value="· 罗睺计都（南北交点）逆行伏断，隐曜与宿度互动" vertex="1">
+          <mxGeometry height="20" width="350" x="940" y="641" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-895" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="· 伏断度：行星至此能量中断" vertex="1">
-          <mxGeometry height="22" width="350" x="950" y="622" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-999" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf5ea;strokeColor=#82b366;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=12;" value="· 月孛紫炁赋予星宿度额外的隐秘力量" vertex="1">
+          <mxGeometry height="20" width="350" x="940" y="665" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-896" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="· 所主之事易夭折" vertex="1">
-          <mxGeometry height="22" width="350" x="950" y="648" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-1000" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf5ea;strokeColor=#82b366;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#004400;" value="⑦ 宿度制煞与伏断" vertex="1">
+          <mxGeometry height="30" width="480" x="1360" y="574" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-897" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf5ea;strokeColor=#82b366;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#004400;" value="⑧ 运行节律：迟疾留逆" vertex="1">
-          <mxGeometry height="30" width="480" x="1360" y="561" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-1001" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="· 制煞：凶星行至被克度数，凶性被制" vertex="1">
+          <mxGeometry height="22" width="450" x="1370" y="609" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-898" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="· 留：行星在某宿停留，能量集中释放" vertex="1">
-          <mxGeometry height="22" width="450" x="1370" y="596" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-1002" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="· 伏断度：行星至此能量中断" vertex="1">
+          <mxGeometry height="22" width="450" x="1370" y="635" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-899" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="· 逆行：主该领域反复阻滞" vertex="1">
-          <mxGeometry height="22" width="450" x="1370" y="622" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-1003" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="· 所主之事易夭折" vertex="1">
+          <mxGeometry height="22" width="450" x="1370" y="661" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-900" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf5ea;strokeColor=#82b366;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#004400;" value="⑨ 多星博弈 &amp; 宿命互摄" vertex="1">
-          <mxGeometry height="30" width="430" x="70" y="691" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-1004" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf5ea;strokeColor=#82b366;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#004400;" value="⑧ 运行节律：迟疾留逆" vertex="1">
+          <mxGeometry height="30" width="430" x="70" y="714" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-901" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="· 两星同宿：能量混合" vertex="1">
-          <mxGeometry height="22" width="410" x="80" y="726" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-1005" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="· 留：行星在某宿停留，能量集中释放" vertex="1">
+          <mxGeometry height="22" width="410" x="80" y="749" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-902" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="· 多星聚宿：生克博弈加剧" vertex="1">
-          <mxGeometry height="22" width="410" x="80" y="752" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-1006" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="· 逆行：主该领域反复阻滞" vertex="1">
+          <mxGeometry height="22" width="410" x="80" y="775" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-903" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="· 行运星照本命命度宿 → 能量共振加倍" vertex="1">
-          <mxGeometry height="22" width="410" x="80" y="778" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-1007" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0e8d0;strokeColor=#558855;fontSize=11;fontStyle=2;fontFamily=Microsoft YaHei;fontColor=#004400;strokeWidth=2;dashed=1;align=left;spacingLeft=10;" value="✦ 宿度宽窄对行运的影响" vertex="1">
+          <mxGeometry height="28" width="380" x="530" y="714" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-904" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="· 行运星冲出生月宿 → 主情绪动荡" vertex="1">
-          <mxGeometry height="22" width="410" x="80" y="804" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-1008" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf5ea;strokeColor=#82b366;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=12;" value="· 宽宿（如井宿33度）：能量均匀释放，效应缓慢绵长" vertex="1">
+          <mxGeometry height="20" width="380" x="530" y="746" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-905" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf5ea;strokeColor=#82b366;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#004400;" value="⑩ 延伸应用：堪舆与音律" vertex="1">
-          <mxGeometry height="30" width="380" x="530" y="691" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-1009" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf5ea;strokeColor=#82b366;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=12;" value="· 窄宿（如觜宿2度）：能量集中爆发，效应剧烈短暂" vertex="1">
+          <mxGeometry height="20" width="380" x="530" y="770" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-906" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="· 风水罗盘：宿度五行测方位吉凶" vertex="1">
-          <mxGeometry height="22" width="350" x="540" y="726" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-1010" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf5ea;strokeColor=#82b366;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=12;" value="· 行星在窄宿留逆 → 放大效应（井33度VS觜2度差异显著）" vertex="1">
+          <mxGeometry height="20" width="380" x="530" y="794" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-907" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="· 十二律吕与星宿对应" vertex="1">
-          <mxGeometry height="22" width="350" x="540" y="752" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-1011" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf5ea;strokeColor=#82b366;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#004400;" value="⑨ 多星博弈与宿命互摄" vertex="1">
+          <mxGeometry height="30" width="380" x="940" y="714" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-908" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="· 纳音五行含宿度相关组合" vertex="1">
-          <mxGeometry height="22" width="350" x="540" y="778" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-1012" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="· 两星同宿：能量混合，生克叠加" vertex="1">
+          <mxGeometry height="22" width="350" x="950" y="749" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-909" edge="1" parent="xSqrSkOPzvTuEKo7XnQz-844" style="shape=flexArrow;endArrow=classic;html=1;width=24;fillColor=#82b366;strokeColor=#82b366;opacity=50;" value="">
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-1013" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="· 多星聚宿：生克博弈加剧" vertex="1">
+          <mxGeometry height="22" width="350" x="950" y="775" as="geometry" />
+        </mxCell>
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-1014" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="· 行运星照本命命度宿 → 能量共振加倍" vertex="1">
+          <mxGeometry height="22" width="350" x="950" y="801" as="geometry" />
+        </mxCell>
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-1015" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="· 行运星冲出生月宿 → 主情绪动荡" vertex="1">
+          <mxGeometry height="22" width="350" x="950" y="827" as="geometry" />
+        </mxCell>
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-1016" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf5ea;strokeColor=#82b366;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#004400;" value="⑩ 延伸应用：堪舆与音律" vertex="1">
+          <mxGeometry height="30" width="480" x="1360" y="714" as="geometry" />
+        </mxCell>
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-1017" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="· 风水罗盘：宿度五行测方位吉凶" vertex="1">
+          <mxGeometry height="22" width="450" x="1370" y="749" as="geometry" />
+        </mxCell>
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-1018" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="· 十二律吕与星宿对应" vertex="1">
+          <mxGeometry height="22" width="450" x="1370" y="775" as="geometry" />
+        </mxCell>
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-1019" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="· 纳音五行含宿度相关组合" vertex="1">
+          <mxGeometry height="22" width="450" x="1370" y="801" as="geometry" />
+        </mxCell>
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-1020" edge="1" parent="xSqrSkOPzvTuEKo7XnQz-948" style="shape=flexArrow;endArrow=classic;html=1;width=24;fillColor=#82b366;strokeColor=#82b366;opacity=50;" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="950" y="846" as="sourcePoint" />
-            <mxPoint x="950" y="886" as="targetPoint" />
+            <mxPoint x="950" y="874" as="sourcePoint" />
+            <mxPoint x="950" y="914" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-910" parent="xSqrSkOPzvTuEKo7XnQz-844" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Microsoft YaHei;fontColor=#82b366;fontStyle=2;" value="延申" vertex="1">
-          <mxGeometry height="18" width="80" x="910" y="861" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-1021" parent="xSqrSkOPzvTuEKo7XnQz-948" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Microsoft YaHei;fontColor=#82b366;fontStyle=2;" value="延申" vertex="1">
+          <mxGeometry height="18" width="80" x="910" y="889" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-911" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#884400;strokeWidth=3;shadow=1;" value="文化与符号" vertex="1">
-          <mxGeometry height="50" width="1840" x="50" y="901" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-1022" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#884400;strokeWidth=3;shadow=1;" value="文化与符号" vertex="1">
+          <mxGeometry height="50" width="1840" x="50" y="929" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-912" parent="xSqrSkOPzvTuEKo7XnQz-844" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#d79b00;fontStyle=2;" value="传播 · 艺术 · 认同" vertex="1">
-          <mxGeometry height="40" width="190" x="1680" y="906" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-1023" parent="xSqrSkOPzvTuEKo7XnQz-948" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#d79b00;fontStyle=2;" value="传播 · 艺术 · 文学" vertex="1">
+          <mxGeometry height="40" width="190" x="1680" y="934" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-913" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff4e6;strokeColor=#d79b00;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#884400;" value="① 神话与神化" vertex="1">
-          <mxGeometry height="30" width="430" x="70" y="966" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-1024" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff4e6;strokeColor=#d79b00;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#884400;" value="① 神话与神化" vertex="1">
+          <mxGeometry height="30" width="430" x="70" y="994" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-914" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#faf5ec;strokeColor=#eeddcc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#775533;align=left;spacingLeft=10;" value="· 四象神兽：青龙/朱雀/白虎/玄武" vertex="1">
-          <mxGeometry height="22" width="410" x="80" y="1001" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-1025" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#faf5ec;strokeColor=#eeddcc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#775533;align=left;spacingLeft=10;" value="· 四象神兽：青龙/朱雀/白虎/玄武" vertex="1">
+          <mxGeometry height="22" width="410" x="80" y="1029" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-915" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#faf5ec;strokeColor=#eeddcc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#775533;align=left;spacingLeft=10;" value="· 道教星神：具体职掌、形象、法器" vertex="1">
-          <mxGeometry height="22" width="410" x="80" y="1027" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-1026" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#faf5ec;strokeColor=#eeddcc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#775533;align=left;spacingLeft=10;" value="· 道教星神：具体职掌、形象、法器" vertex="1">
+          <mxGeometry height="22" width="410" x="80" y="1055" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-916" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff4e6;strokeColor=#d79b00;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#884400;" value="② 跨文化融合" vertex="1">
-          <mxGeometry height="30" width="380" x="530" y="966" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-1027" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff4e6;strokeColor=#d79b00;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#884400;" value="② 跨文化融合" vertex="1">
+          <mxGeometry height="30" width="380" x="530" y="994" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-917" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#faf5ec;strokeColor=#eeddcc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#775533;align=left;spacingLeft=10;" value="· 印度二十七宿经《宿曜经》传入" vertex="1">
-          <mxGeometry height="22" width="350" x="540" y="1001" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-1028" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#faf5ec;strokeColor=#eeddcc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#775533;align=left;spacingLeft=10;" value="· 印度二十七宿经《宿曜经》传入" vertex="1">
+          <mxGeometry height="22" width="350" x="540" y="1029" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-918" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#faf5ec;strokeColor=#eeddcc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#775533;align=left;spacingLeft=10;" value="· 星宿形象、吉凶规则被重新编码" vertex="1">
-          <mxGeometry height="22" width="350" x="540" y="1027" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-1029" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#faf5ec;strokeColor=#eeddcc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#775533;align=left;spacingLeft=10;" value="· 星宿形象、吉凶规则被重新编码" vertex="1">
+          <mxGeometry height="22" width="350" x="540" y="1055" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-919" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#faf5ec;strokeColor=#eeddcc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#775533;align=left;spacingLeft=10;" value="· 兼收中印星象学精华" vertex="1">
-          <mxGeometry height="22" width="350" x="540" y="1053" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-1030" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#faf5ec;strokeColor=#eeddcc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#775533;align=left;spacingLeft=10;" value="· 兼收中印星象学精华" vertex="1">
+          <mxGeometry height="22" width="350" x="540" y="1081" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-920" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff4e6;strokeColor=#d79b00;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#884400;" value="③ 视觉图像" vertex="1">
-          <mxGeometry height="30" width="380" x="940" y="966" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-1031" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff4e6;strokeColor=#d79b00;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#884400;" value="③ 视觉图像" vertex="1">
+          <mxGeometry height="30" width="380" x="940" y="994" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-921" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#faf5ec;strokeColor=#eeddcc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#775533;align=left;spacingLeft=10;" value="· 汉代墓室壁画星图" vertex="1">
-          <mxGeometry height="22" width="350" x="950" y="1001" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-1032" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#faf5ec;strokeColor=#eeddcc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#775533;align=left;spacingLeft=10;" value="· 汉代墓室壁画星图" vertex="1">
+          <mxGeometry height="22" width="350" x="950" y="1029" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-922" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#faf5ec;strokeColor=#eeddcc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#775533;align=left;spacingLeft=10;" value="· 《敦煌星图》· 宋代苏颂星图" vertex="1">
-          <mxGeometry height="22" width="350" x="950" y="1027" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-1033" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#faf5ec;strokeColor=#eeddcc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#775533;align=left;spacingLeft=10;" value="· 《敦煌星图》· 宋代苏颂星图" vertex="1">
+          <mxGeometry height="22" width="350" x="950" y="1055" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-923" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#faf5ec;strokeColor=#eeddcc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#775533;align=left;spacingLeft=10;" value="· 道教《朝元图》星宿神像" vertex="1">
-          <mxGeometry height="22" width="350" x="950" y="1053" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-1034" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#faf5ec;strokeColor=#eeddcc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#775533;align=left;spacingLeft=10;" value="· 道教《朝元图》星宿神像" vertex="1">
+          <mxGeometry height="22" width="350" x="950" y="1081" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-924" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff4e6;strokeColor=#d79b00;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#884400;" value="④ 文学意象" vertex="1">
-          <mxGeometry height="30" width="480" x="1360" y="966" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-1035" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff4e6;strokeColor=#d79b00;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#884400;" value="④ 文学意象" vertex="1">
+          <mxGeometry height="30" width="480" x="1360" y="994" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-925" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#faf5ec;strokeColor=#eeddcc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#775533;align=left;spacingLeft=10;" value="· 箕风毕雨：箕宿主风，毕宿主雨" vertex="1">
-          <mxGeometry height="22" width="450" x="1370" y="1001" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-1036" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#faf5ec;strokeColor=#eeddcc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#775533;align=left;spacingLeft=10;" value="· 箕风毕雨：箕宿主风，毕宿主雨" vertex="1">
+          <mxGeometry height="22" width="450" x="1370" y="1029" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-926" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#faf5ec;strokeColor=#eeddcc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#775533;align=left;spacingLeft=10;" value="· 参商永隔：参宿与心宿永不相见" vertex="1">
-          <mxGeometry height="22" width="450" x="1370" y="1027" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-1037" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#faf5ec;strokeColor=#eeddcc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#775533;align=left;spacingLeft=10;" value="· 参商永隔：参宿与心宿永不相见" vertex="1">
+          <mxGeometry height="22" width="450" x="1370" y="1055" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-927" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#faf5ec;strokeColor=#eeddcc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#775533;align=left;spacingLeft=10;" value="· 《西游记》奎木狼等星神角色" vertex="1">
-          <mxGeometry height="22" width="450" x="1370" y="1053" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-1038" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#faf5ec;strokeColor=#eeddcc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#775533;align=left;spacingLeft=10;" value="· 《西游记》奎木狼等星神角色" vertex="1">
+          <mxGeometry height="22" width="450" x="1370" y="1081" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-928" edge="1" parent="xSqrSkOPzvTuEKo7XnQz-844" style="shape=flexArrow;endArrow=classic;html=1;width=24;fillColor=#d79b00;strokeColor=#d79b00;opacity=50;" value="">
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-1039" edge="1" parent="xSqrSkOPzvTuEKo7XnQz-948" style="shape=flexArrow;endArrow=classic;html=1;width=24;fillColor=#d79b00;strokeColor=#d79b00;opacity=50;" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="950" y="1101" as="sourcePoint" />
-            <mxPoint x="950" y="1141" as="targetPoint" />
+            <mxPoint x="950" y="1134" as="sourcePoint" />
+            <mxPoint x="950" y="1174" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-929" parent="xSqrSkOPzvTuEKo7XnQz-844" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Microsoft YaHei;fontColor=#d79b00;fontStyle=2;" value="现代视角" vertex="1">
-          <mxGeometry height="18" width="80" x="910" y="1116" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-1040" parent="xSqrSkOPzvTuEKo7XnQz-948" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Microsoft YaHei;fontColor=#d79b00;fontStyle=2;" value="现代认知" vertex="1">
+          <mxGeometry height="18" width="80" x="910" y="1149" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-930" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#888899;fontSize=18;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#444455;strokeWidth=3;shadow=1;" value="当代认知" vertex="1">
-          <mxGeometry height="50" width="1840" x="50" y="1156" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-1041" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#888899;fontSize=18;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#444455;strokeWidth=3;shadow=1;" value="当代与反思" vertex="1">
+          <mxGeometry height="50" width="1840" x="50" y="1189" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-931" parent="xSqrSkOPzvTuEKo7XnQz-844" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#888899;fontStyle=2;" value="再发现 · 认知模型" vertex="1">
-          <mxGeometry height="40" width="160" x="1710" y="1161" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-1042" parent="xSqrSkOPzvTuEKo7XnQz-948" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#888899;fontStyle=2;" value="现代认知模型" vertex="1">
+          <mxGeometry height="40" width="160" x="1710" y="1194" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-932" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f0f0;strokeColor=#999999;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#444455;" value="① 科学史价值" vertex="1">
-          <mxGeometry height="30" width="430" x="70" y="1221" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-1043" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f0f0;strokeColor=#999999;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#444455;" value="① 科学史价值" vertex="1">
+          <mxGeometry height="30" width="430" x="70" y="1254" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-933" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8f8f8;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#555566;align=left;spacingLeft=10;" value="· 非西方科学范式的巅峰案例" vertex="1">
-          <mxGeometry height="22" width="410" x="80" y="1256" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-1044" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8f8f8;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#555566;align=left;spacingLeft=10;" value="· 非西方科学范式的巅峰案例" vertex="1">
+          <mxGeometry height="22" width="410" x="80" y="1289" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-934" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8f8f8;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#555566;align=left;spacingLeft=10;" value="· 研究古代天体测量技术的活化石" vertex="1">
-          <mxGeometry height="22" width="410" x="80" y="1282" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-1045" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8f8f8;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#555566;align=left;spacingLeft=10;" value="· 研究古代天体测量技术的活化石" vertex="1">
+          <mxGeometry height="22" width="410" x="80" y="1315" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-935" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f0f0;strokeColor=#999999;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#444455;" value="② 文化认同价值" vertex="1">
-          <mxGeometry height="30" width="380" x="530" y="1221" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-1046" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f0f0;strokeColor=#999999;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#444455;" value="② 文化认同价值" vertex="1">
+          <mxGeometry height="30" width="380" x="530" y="1254" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-936" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8f8f8;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#555566;align=left;spacingLeft=10;" value="· 中华文明独特的宇宙符号体系" vertex="1">
-          <mxGeometry height="22" width="350" x="540" y="1256" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-1047" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8f8f8;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#555566;align=left;spacingLeft=10;" value="· 中华文明独特的宇宙符号体系" vertex="1">
+          <mxGeometry height="22" width="350" x="540" y="1289" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-937" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8f8f8;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#555566;align=left;spacingLeft=10;" value="· 天人合一理念最精密的技术实现" vertex="1">
-          <mxGeometry height="22" width="350" x="540" y="1282" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-1048" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8f8f8;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#555566;align=left;spacingLeft=10;" value="· 天人合一理念最精密的技术实现" vertex="1">
+          <mxGeometry height="22" width="350" x="540" y="1315" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-938" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f0f0;strokeColor=#999999;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#444455;" value="③ 认知模型价值" vertex="1">
-          <mxGeometry height="30" width="380" x="940" y="1221" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-1049" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f0f0;strokeColor=#999999;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#444455;" value="③ 认知模型价值" vertex="1">
+          <mxGeometry height="30" width="380" x="940" y="1254" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-939" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8f8f8;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#555566;align=left;spacingLeft=10;" value="· 展示古人如何将宇宙秩序化、可理解化" vertex="1">
-          <mxGeometry height="22" width="350" x="950" y="1256" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-1050" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8f8f8;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#555566;align=left;spacingLeft=10;" value="· 展示古人如何将宇宙秩序化、可理解化" vertex="1">
+          <mxGeometry height="22" width="350" x="950" y="1289" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-940" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8f8f8;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#555566;align=left;spacingLeft=10;" value="· 满足寻求确定性和意义的深层心理需求" vertex="1">
-          <mxGeometry height="22" width="350" x="950" y="1282" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-1051" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8f8f8;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#555566;align=left;spacingLeft=10;" value="· 满足寻求确定性和意义的深层心理需求" vertex="1">
+          <mxGeometry height="22" width="350" x="950" y="1315" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-941" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f0f0;strokeColor=#999999;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#444455;strokeWidth=2;" value="④ 系统总定位" vertex="1">
-          <mxGeometry height="30" width="480" x="1360" y="1221" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-1052" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f0f0;strokeColor=#999999;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#444455;strokeWidth=2;" value="④ 系统总定位" vertex="1">
+          <mxGeometry height="30" width="480" x="1360" y="1254" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-942" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8e8e8;strokeColor=#aaaaaa;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#444455;fontStyle=2;align=left;spacingLeft=10;" value="· 最完整的天-地-人认知操作系统" vertex="1">
-          <mxGeometry height="22" width="450" x="1370" y="1256" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-1053" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8e8e8;strokeColor=#aaaaaa;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#444455;fontStyle=2;align=left;spacingLeft=10;" value="· 最完整的天-地-人认知操作系统" vertex="1">
+          <mxGeometry height="22" width="450" x="1370" y="1289" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-943" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8e8e8;strokeColor=#aaaaaa;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#444455;fontStyle=2;align=left;spacingLeft=10;" value="· 从量天尺到星神，从科学到信仰的完整光谱" vertex="1">
-          <mxGeometry height="22" width="450" x="1370" y="1282" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-1054" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8e8e8;strokeColor=#aaaaaa;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#444455;fontStyle=2;align=left;spacingLeft=10;" value="· 从量天尺到星神，从科学到信仰的完整光谱" vertex="1">
+          <mxGeometry height="22" width="450" x="1370" y="1315" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-944" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6c8ebf;strokeColor=#6c8ebf;fontSize=14;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#ffffff;" value="内核" vertex="1">
-          <mxGeometry height="100" width="40" y="171" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-1055" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6c8ebf;strokeColor=#6c8ebf;fontSize=14;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#ffffff;" value="内核" vertex="1">
+          <mxGeometry height="100" width="40" y="184" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-945" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#82b366;strokeColor=#82b366;fontSize=14;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#ffffff;" value="应用" vertex="1">
-          <mxGeometry height="100" width="40" y="471" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-1056" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#82b366;strokeColor=#82b366;fontSize=14;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#ffffff;" value="应用" vertex="1">
+          <mxGeometry height="100" width="40" y="484" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-946" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d79b00;strokeColor=#d79b00;fontSize=14;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#ffffff;" value="表达" vertex="1">
-          <mxGeometry height="100" width="40" y="981" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-1057" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d79b00;strokeColor=#d79b00;fontSize=14;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#ffffff;" value="表达" vertex="1">
+          <mxGeometry height="100" width="40" y="1014" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-947" parent="xSqrSkOPzvTuEKo7XnQz-844" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#888899;strokeColor=#888899;fontSize=14;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#ffffff;" value="认知" vertex="1">
-          <mxGeometry height="100" width="40" y="1251" as="geometry" />
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-1058" parent="xSqrSkOPzvTuEKo7XnQz-948" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#888899;strokeColor=#888899;fontSize=14;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#ffffff;" value="审视" vertex="1">
+          <mxGeometry height="100" width="40" y="1274" as="geometry" />
         </mxCell>
         <mxCell id="xSqrSkOPzvTuEKo7XnQz-263" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#dd9900;strokeWidth=2.5;opacity=70;rotation=23.5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
           <mxGeometry height="3207.17" width="8971.22" x="-16249.539999999999" y="-10018.15" as="geometry" />
