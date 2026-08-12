@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="天-地-人完整因果链布局" id="SjSHOlrHnjoS6EgHSpwo">
-    <mxGraphModel dx="46474" dy="29928" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#ffffff, #121212)" math="0" shadow="0">
+    <mxGraphModel dx="20551" dy="15353" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#ffffff, #121212)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -158,7 +158,7 @@
         <mxCell id="xSqrSkOPzvTuEKo7XnQz-801" parent="xSqrSkOPzvTuEKo7XnQz-797" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f6fc;strokeColor=#bbccdd;fontSize=20;fontFamily=Microsoft YaHei;fontColor=#445577;align=left;spacingLeft=12;" value="观测特定星宿黄昏方位可测定岁时节气，是历法骨架和天体测量基础" vertex="1">
           <mxGeometry height="31.338809034907595" width="747.3094594594595" x="96.42702702702704" y="161.51540041067761" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-802" parent="xSqrSkOPzvTuEKo7XnQz-797" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0e0f0;strokeColor=#6c8ebf;fontSize=20;fontFamily=Microsoft YaHei;fontColor=#003366;fontStyle=2;align=left;spacingLeft=12;strokeWidth=2;" value="定位：所有后续功能的前提，无此则无坐标、无推算" vertex="1">
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-802" parent="xSqrSkOPzvTuEKo7XnQz-797" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0e0f0;strokeColor=#6c8ebf;fontSize=20;fontFamily=Microsoft YaHei;fontColor=#003366;fontStyle=2;align=left;spacingLeft=12;strokeWidth=2;" value="定位：所有后续功能的前提，坐标、推算的前提" vertex="1">
           <mxGeometry height="31.338809034907595" width="747.3094594594595" x="96.42702702702704" y="200.08624229979466" as="geometry" />
         </mxCell>
         <mxCell id="xSqrSkOPzvTuEKo7XnQz-803" parent="xSqrSkOPzvTuEKo7XnQz-797" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf2f8;strokeColor=#6c8ebf;fontSize=20;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#003366;strokeWidth=2;" value="🗺️ 2. 分野系统：天界与地界的空间映射" vertex="1">
@@ -194,7 +194,7 @@
         <mxCell id="xSqrSkOPzvTuEKo7XnQz-812" parent="xSqrSkOPzvTuEKo7XnQz-797" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f5e0;strokeColor=#66aa55;fontSize=20;fontFamily=Microsoft YaHei;fontColor=#336633;fontStyle=2;align=left;spacingLeft=12;" value="例：火星入木宿 → 木生火助凶；火星入金宿 → 火克金义不同" vertex="1">
           <mxGeometry height="28.92813141683778" width="723.2027027027027" x="108.4804054054054" y="489.36755646817244" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-813" parent="xSqrSkOPzvTuEKo7XnQz-797" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0f0d0;strokeColor=#82b366;fontSize=20;fontFamily=Microsoft YaHei;fontColor=#004400;fontStyle=2;align=left;spacingLeft=12;strokeWidth=2;" value="定位：二十八宿作为操作系统的最核心功能，直接调制七政能量" vertex="1">
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-813" parent="xSqrSkOPzvTuEKo7XnQz-797" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0f0d0;strokeColor=#82b366;fontSize=20;fontFamily=Microsoft YaHei;fontColor=#004400;fontStyle=2;align=left;spacingLeft=12;strokeWidth=2;" value="定位：二十八宿核心功能，直接调制七政能量" vertex="1">
           <mxGeometry height="31.338809034907595" width="747.3094594594595" x="96.42702702702704" y="525.5277207392197" as="geometry" />
         </mxCell>
         <mxCell id="xSqrSkOPzvTuEKo7XnQz-814" parent="xSqrSkOPzvTuEKo7XnQz-797" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf5ea;strokeColor=#82b366;fontSize=20;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#004400;strokeWidth=2;" value="🎭 4. 善恶定性：星宿的吉凶标签" vertex="1">
@@ -227,7 +227,7 @@
         <mxCell id="xSqrSkOPzvTuEKo7XnQz-822" parent="xSqrSkOPzvTuEKo7XnQz-797" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f0fa;strokeColor=#ddccee;fontSize=20;fontFamily=Microsoft YaHei;fontColor=#553366;align=left;spacingLeft=12;" value="流年推算须精确到某宿几度，同宿不同度数吉凶五行各异" vertex="1">
           <mxGeometry height="31.338809034907595" width="771.4162162162163" x="96.42702702702704" y="776.2381930184805" as="geometry" />
         </mxCell>
-        <mxCell id="xSqrSkOPzvTuEKo7XnQz-823" parent="xSqrSkOPzvTuEKo7XnQz-797" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0d0ee;strokeColor=#9673a6;fontSize=20;fontFamily=Microsoft YaHei;fontColor=#440066;fontStyle=2;align=left;spacingLeft=12;strokeWidth=2;" value="定位：核心机制在命理推算中的精细应用，时间颗粒度极高" vertex="1">
+        <mxCell id="xSqrSkOPzvTuEKo7XnQz-823" parent="xSqrSkOPzvTuEKo7XnQz-797" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0d0ee;strokeColor=#9673a6;fontSize=20;fontFamily=Microsoft YaHei;fontColor=#440066;fontStyle=2;align=left;spacingLeft=12;strokeWidth=2;" value="定位：核心机制在命理推算中的精细应用，时间颗粒度高" vertex="1">
           <mxGeometry height="31.338809034907595" width="771.4162162162163" x="96.42702702702704" y="814.8090349075975" as="geometry" />
         </mxCell>
         <mxCell id="xSqrSkOPzvTuEKo7XnQz-824" edge="1" parent="xSqrSkOPzvTuEKo7XnQz-797" style="line;strokeColor=#9673a6;strokeWidth=2;opacity=30;dashed=1;fontSize=20;" value="">
