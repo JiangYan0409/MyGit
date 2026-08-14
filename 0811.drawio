@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="PuLjtf2pLbviaWbeD8w5">
-    <mxGraphModel dx="3535" dy="1988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="35100" dy="24516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1842,6 +1842,138 @@
         </mxCell>
         <mxCell id="LGKwGivQQfBh0KK_UAAQ-587" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f0f0;strokeColor=#888899;fontSize=15;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#444455;strokeWidth=2;shadow=1;" value="日-月-地完整体系：日主阳·生·德·明 · 月主阴·水·刑·藏 · 日月联合则阴阳交替、相推、相合" vertex="1">
           <mxGeometry height="44" width="1400" x="8680" y="15430" as="geometry" />
+        </mxCell>
+        <mxCell id="LGKwGivQQfBh0KK_UAAQ-590" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=24;fontStyle=1;fontFamily=Microsoft YaHei;strokeWidth=3;shadow=1;" value="日月 · 六维古代属性框架" vertex="1">
+          <mxGeometry height="54" width="700" x="11260" y="14500" as="geometry" />
+        </mxCell>
+        <mxCell id="LGKwGivQQfBh0KK_UAAQ-591" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Microsoft YaHei;fontColor=#8899bb;fontStyle=2;" value="本原 · 职能 · 表现 · 节律 · 象征 · 交感   |   日（阳）与月（阴）的六维对仗" vertex="1">
+          <mxGeometry height="26" width="900" x="11160" y="14560" as="geometry" />
+        </mxCell>
+        <mxCell id="LGKwGivQQfBh0KK_UAAQ-592" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffcc00;strokeColor=#dd9900;fontSize=20;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#664400;strokeWidth=3;shadow=1;" value="☀️ 日" vertex="1">
+          <mxGeometry height="120" width="120" x="10900" y="14835" as="geometry" />
+        </mxCell>
+        <mxCell id="LGKwGivQQfBh0KK_UAAQ-593" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ccccdd;strokeColor=#888899;fontSize=20;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#444455;strokeWidth=3;shadow=1;" value="🌙 月" vertex="1">
+          <mxGeometry height="120" width="120" x="12180" y="14829" as="geometry" />
+        </mxCell>
+        <mxCell id="LGKwGivQQfBh0KK_UAAQ-594" edge="1" parent="1" style="line;strokeColor=#888899;strokeWidth=1.5;dashed=1;opacity=30;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="11270" y="15064" as="sourcePoint" />
+            <mxPoint x="11950" y="15064" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGKwGivQQfBh0KK_UAAQ-595" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#003366;strokeWidth=2;" value="① 本原属性" vertex="1">
+          <mxGeometry height="34" width="140" x="11550" y="14626" as="geometry" />
+        </mxCell>
+        <mxCell id="LGKwGivQQfBh0KK_UAAQ-596" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#004400;strokeWidth=2;" value="② 职能属性" vertex="1">
+          <mxGeometry height="34" width="140" x="11550" y="14726" as="geometry" />
+        </mxCell>
+        <mxCell id="LGKwGivQQfBh0KK_UAAQ-597" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#884400;strokeWidth=2;" value="③ 表现属性" vertex="1">
+          <mxGeometry height="34" width="140" x="11550" y="14826" as="geometry" />
+        </mxCell>
+        <mxCell id="LGKwGivQQfBh0KK_UAAQ-598" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#888899;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#444455;strokeWidth=2;" value="④ 节律属性" vertex="1">
+          <mxGeometry height="34" width="140" x="11550" y="14926" as="geometry" />
+        </mxCell>
+        <mxCell id="LGKwGivQQfBh0KK_UAAQ-599" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#660000;strokeWidth=2;" value="⑤ 象征属性" vertex="1">
+          <mxGeometry height="34" width="140" x="11550" y="15026" as="geometry" />
+        </mxCell>
+        <mxCell id="LGKwGivQQfBh0KK_UAAQ-600" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#440066;strokeWidth=2;" value="⑥ 交感属性" vertex="1">
+          <mxGeometry height="34" width="140" x="11550" y="15126" as="geometry" />
+        </mxCell>
+        <mxCell id="LGKwGivQQfBh0KK_UAAQ-601" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff8e0;strokeColor=#dd9900;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#664400;align=center;" value="阳之精 · 君之象 · 火之精" vertex="1">
+          <mxGeometry height="26" width="290" x="11150" y="14629" as="geometry" />
+        </mxCell>
+        <mxCell id="LGKwGivQQfBh0KK_UAAQ-602" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff8e0;strokeColor=#dd9900;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#664400;align=center;" value="主生 · 主德 · 主明" vertex="1">
+          <mxGeometry height="26" width="290" x="11150" y="14729" as="geometry" />
+        </mxCell>
+        <mxCell id="LGKwGivQQfBh0KK_UAAQ-603" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff8e0;strokeColor=#dd9900;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#664400;align=center;" value="常满无亏 · 日行一度 · 日中有乌" vertex="1">
+          <mxGeometry height="26" width="290" x="11150" y="14829" as="geometry" />
+        </mxCell>
+        <mxCell id="LGKwGivQQfBh0KK_UAAQ-604" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff8e0;strokeColor=#dd9900;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#664400;align=center;" value="回归年 · 日躔二十八宿 · 出入方位" vertex="1">
+          <mxGeometry height="26" width="290" x="11150" y="14929" as="geometry" />
+        </mxCell>
+        <mxCell id="LGKwGivQQfBh0KK_UAAQ-605" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff8e0;strokeColor=#dd9900;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#664400;align=center;" value="人君 · 君道 · 阳德" vertex="1">
+          <mxGeometry height="26" width="290" x="11150" y="15029" as="geometry" />
+        </mxCell>
+        <mxCell id="LGKwGivQQfBh0KK_UAAQ-606" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff8e0;strokeColor=#dd9900;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#664400;align=center;" value="二十八宿 · 十二次 · 心 · 政事" vertex="1">
+          <mxGeometry height="26" width="290" x="11150" y="15129" as="geometry" />
+        </mxCell>
+        <mxCell id="LGKwGivQQfBh0KK_UAAQ-607" edge="1" parent="1" source="LGKwGivQQfBh0KK_UAAQ-592" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;dashed=1;strokeColor=#dd9900;strokeWidth=2;opacity=40;" target="LGKwGivQQfBh0KK_UAAQ-601">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LGKwGivQQfBh0KK_UAAQ-608" edge="1" parent="1" source="LGKwGivQQfBh0KK_UAAQ-592" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;dashed=1;strokeColor=#dd9900;strokeWidth=2;opacity=40;" target="LGKwGivQQfBh0KK_UAAQ-602">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LGKwGivQQfBh0KK_UAAQ-609" edge="1" parent="1" source="LGKwGivQQfBh0KK_UAAQ-592" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;dashed=1;strokeColor=#dd9900;strokeWidth=2;opacity=40;" target="LGKwGivQQfBh0KK_UAAQ-603">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LGKwGivQQfBh0KK_UAAQ-610" edge="1" parent="1" source="LGKwGivQQfBh0KK_UAAQ-592" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;dashed=1;strokeColor=#dd9900;strokeWidth=2;opacity=40;" target="LGKwGivQQfBh0KK_UAAQ-604">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LGKwGivQQfBh0KK_UAAQ-611" edge="1" parent="1" source="LGKwGivQQfBh0KK_UAAQ-592" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;dashed=1;strokeColor=#dd9900;strokeWidth=2;opacity=40;" target="LGKwGivQQfBh0KK_UAAQ-605">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LGKwGivQQfBh0KK_UAAQ-612" edge="1" parent="1" source="LGKwGivQQfBh0KK_UAAQ-592" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;dashed=1;strokeColor=#dd9900;strokeWidth=2;opacity=40;" target="LGKwGivQQfBh0KK_UAAQ-606">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LGKwGivQQfBh0KK_UAAQ-613" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f0f5;strokeColor=#888899;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#444455;align=center;" value="阴之精 · 后之象 · 水之精" vertex="1">
+          <mxGeometry height="26" width="290" x="11780" y="14629" as="geometry" />
+        </mxCell>
+        <mxCell id="LGKwGivQQfBh0KK_UAAQ-614" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f0f5;strokeColor=#888899;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#444455;align=center;" value="主刑 · 主藏 · 主晦" vertex="1">
+          <mxGeometry height="26" width="290" x="11780" y="14729" as="geometry" />
+        </mxCell>
+        <mxCell id="LGKwGivQQfBh0KK_UAAQ-615" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f0f5;strokeColor=#888899;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#444455;align=center;" value="有缺盈亏 · 月行十三度 · 月中蟾蜍" vertex="1">
+          <mxGeometry height="26" width="290" x="11780" y="14829" as="geometry" />
+        </mxCell>
+        <mxCell id="LGKwGivQQfBh0KK_UAAQ-616" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f0f5;strokeColor=#888899;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#444455;align=center;" value="朔望月 · 月躔二十八宿 · 月行九道" vertex="1">
+          <mxGeometry height="26" width="290" x="11780" y="14929" as="geometry" />
+        </mxCell>
+        <mxCell id="LGKwGivQQfBh0KK_UAAQ-617" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f0f5;strokeColor=#888899;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#444455;align=center;" value="女主 · 臣道 · 阴德" vertex="1">
+          <mxGeometry height="26" width="290" x="11780" y="15029" as="geometry" />
+        </mxCell>
+        <mxCell id="LGKwGivQQfBh0KK_UAAQ-618" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f0f5;strokeColor=#888899;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#444455;align=center;" value="二十八宿 · 十二次 · 脾 · 后妃" vertex="1">
+          <mxGeometry height="26" width="290" x="11780" y="15129" as="geometry" />
+        </mxCell>
+        <mxCell id="LGKwGivQQfBh0KK_UAAQ-619" edge="1" parent="1" source="LGKwGivQQfBh0KK_UAAQ-593" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;dashed=1;strokeColor=#888899;strokeWidth=2;opacity=40;" target="LGKwGivQQfBh0KK_UAAQ-613">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LGKwGivQQfBh0KK_UAAQ-620" edge="1" parent="1" source="LGKwGivQQfBh0KK_UAAQ-593" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;dashed=1;strokeColor=#888899;strokeWidth=2;opacity=40;" target="LGKwGivQQfBh0KK_UAAQ-614">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LGKwGivQQfBh0KK_UAAQ-621" edge="1" parent="1" source="LGKwGivQQfBh0KK_UAAQ-593" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;dashed=1;strokeColor=#888899;strokeWidth=2;opacity=40;" target="LGKwGivQQfBh0KK_UAAQ-615">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LGKwGivQQfBh0KK_UAAQ-622" edge="1" parent="1" source="LGKwGivQQfBh0KK_UAAQ-593" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;dashed=1;strokeColor=#888899;strokeWidth=2;opacity=40;" target="LGKwGivQQfBh0KK_UAAQ-616">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LGKwGivQQfBh0KK_UAAQ-623" edge="1" parent="1" source="LGKwGivQQfBh0KK_UAAQ-593" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;dashed=1;strokeColor=#888899;strokeWidth=2;opacity=40;" target="LGKwGivQQfBh0KK_UAAQ-617">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LGKwGivQQfBh0KK_UAAQ-624" edge="1" parent="1" source="LGKwGivQQfBh0KK_UAAQ-593" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;dashed=1;strokeColor=#888899;strokeWidth=2;opacity=40;" target="LGKwGivQQfBh0KK_UAAQ-618">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LGKwGivQQfBh0KK_UAAQ-625" edge="1" parent="1" source="LGKwGivQQfBh0KK_UAAQ-595" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;dashed=1;strokeColor=#6c8ebf;strokeWidth=1.5;opacity=30;" target="LGKwGivQQfBh0KK_UAAQ-601" />
+        <mxCell id="LGKwGivQQfBh0KK_UAAQ-626" edge="1" parent="1" source="LGKwGivQQfBh0KK_UAAQ-595" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;dashed=1;strokeColor=#6c8ebf;strokeWidth=1.5;opacity=30;" target="LGKwGivQQfBh0KK_UAAQ-613" />
+        <mxCell id="LGKwGivQQfBh0KK_UAAQ-627" edge="1" parent="1" source="LGKwGivQQfBh0KK_UAAQ-596" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;dashed=1;strokeColor=#82b366;strokeWidth=1.5;opacity=30;" target="LGKwGivQQfBh0KK_UAAQ-602" />
+        <mxCell id="LGKwGivQQfBh0KK_UAAQ-628" edge="1" parent="1" source="LGKwGivQQfBh0KK_UAAQ-596" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;dashed=1;strokeColor=#82b366;strokeWidth=1.5;opacity=30;" target="LGKwGivQQfBh0KK_UAAQ-614" />
+        <mxCell id="LGKwGivQQfBh0KK_UAAQ-629" edge="1" parent="1" source="LGKwGivQQfBh0KK_UAAQ-597" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;dashed=1;strokeColor=#d79b00;strokeWidth=1.5;opacity=30;" target="LGKwGivQQfBh0KK_UAAQ-603" />
+        <mxCell id="LGKwGivQQfBh0KK_UAAQ-630" edge="1" parent="1" source="LGKwGivQQfBh0KK_UAAQ-597" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;dashed=1;strokeColor=#d79b00;strokeWidth=1.5;opacity=30;" target="LGKwGivQQfBh0KK_UAAQ-615" />
+        <mxCell id="LGKwGivQQfBh0KK_UAAQ-631" edge="1" parent="1" source="LGKwGivQQfBh0KK_UAAQ-598" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;dashed=1;strokeColor=#888899;strokeWidth=1.5;opacity=30;" target="LGKwGivQQfBh0KK_UAAQ-604" />
+        <mxCell id="LGKwGivQQfBh0KK_UAAQ-632" edge="1" parent="1" source="LGKwGivQQfBh0KK_UAAQ-598" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;dashed=1;strokeColor=#888899;strokeWidth=1.5;opacity=30;" target="LGKwGivQQfBh0KK_UAAQ-616" />
+        <mxCell id="LGKwGivQQfBh0KK_UAAQ-633" edge="1" parent="1" source="LGKwGivQQfBh0KK_UAAQ-599" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;dashed=1;strokeColor=#b85450;strokeWidth=1.5;opacity=30;" target="LGKwGivQQfBh0KK_UAAQ-605" />
+        <mxCell id="LGKwGivQQfBh0KK_UAAQ-634" edge="1" parent="1" source="LGKwGivQQfBh0KK_UAAQ-599" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;dashed=1;strokeColor=#b85450;strokeWidth=1.5;opacity=30;" target="LGKwGivQQfBh0KK_UAAQ-617" />
+        <mxCell id="LGKwGivQQfBh0KK_UAAQ-635" edge="1" parent="1" source="LGKwGivQQfBh0KK_UAAQ-600" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;dashed=1;strokeColor=#9673a6;strokeWidth=1.5;opacity=30;" target="LGKwGivQQfBh0KK_UAAQ-606" />
+        <mxCell id="LGKwGivQQfBh0KK_UAAQ-636" edge="1" parent="1" source="LGKwGivQQfBh0KK_UAAQ-600" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;dashed=1;strokeColor=#9673a6;strokeWidth=1.5;opacity=30;" target="LGKwGivQQfBh0KK_UAAQ-618" />
+        <mxCell id="LGKwGivQQfBh0KK_UAAQ-637" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffcc00;strokeColor=#dd9900;fontSize=16;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#664400;strokeWidth=2;shadow=1;" value="阳" vertex="1">
+          <mxGeometry height="30" width="60" x="10930" y="14850" as="geometry" />
+        </mxCell>
+        <mxCell id="LGKwGivQQfBh0KK_UAAQ-638" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ccccdd;strokeColor=#888899;fontSize=16;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#444455;strokeWidth=2;shadow=1;" value="阴" vertex="1">
+          <mxGeometry height="30" width="60" x="12210" y="14848" as="geometry" />
+        </mxCell>
+        <mxCell id="LGKwGivQQfBh0KK_UAAQ-639" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f9f9;strokeColor=#999999;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#333333;align=left;spacingLeft=12;dashed=1;" value="图例：日·阳（金色）与月·阴（灰蓝）的六维对仗 · 本原→职能→表现→节律→象征→交感" vertex="1">
+          <mxGeometry height="34" width="1300" x="10860" y="15244" as="geometry" />
+        </mxCell>
+        <mxCell id="LGKwGivQQfBh0KK_UAAQ-640" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontFamily=Microsoft YaHei;fontColor=#8899bb;fontStyle=2;" value="六维框架完整呈现日与月作为&#39;阳之精&#39;与&#39;阴之精&#39;的全部古代认知维度" vertex="1">
+          <mxGeometry height="26" width="800" x="11210" y="15304" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
