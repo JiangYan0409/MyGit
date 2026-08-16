@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="PuLjtf2pLbviaWbeD8w5">
-    <mxGraphModel dx="19700" dy="13420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2790" dy="1980" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -597,327 +597,6 @@
         </mxCell>
         <mxCell id="LGKwGivQQfBh0KK_UAAQ-95" parent="LGKwGivQQfBh0KK_UAAQ-98" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#d79b00;fontStyle=1;" value="补充" vertex="1">
           <mxGeometry height="22" width="40" y="870" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-205" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="1351" width="1890" x="6020" y="9073" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-99" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=24;fontStyle=1;fontFamily=Microsoft YaHei;strokeWidth=3;shadow=1;" value="二十八星宿 · 完整认知框架" vertex="1">
-          <mxGeometry height="54" width="800" x="570" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-101" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#003366;strokeWidth=3;shadow=1;" value="&amp;nbsp;天文与科学" vertex="1">
-          <mxGeometry height="50" width="1840" x="50" y="91" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-102" parent="LGKwGivQQfBh0KK_UAAQ-205" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#6c8ebf;fontStyle=2;" value="硬核 · 可验证 · 根基" vertex="1">
-          <mxGeometry height="40" width="200" x="1670" y="96" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-103" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf2f8;strokeColor=#6c8ebf;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#003366;" value="① 赤道坐标系：量天尺" vertex="1">
-          <mxGeometry height="30" width="430" x="70" y="156" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-104" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f6fc;strokeColor=#bbccdd;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#445577;align=left;spacingLeft=10;" value="· 二十八宿沿天赤道分布" vertex="1">
-          <mxGeometry height="22" width="200" x="80" y="191" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-105" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f6fc;strokeColor=#bbccdd;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#445577;align=left;spacingLeft=10;" value="· 距星 + 入宿度 + 去极度 = 精确坐标" vertex="1">
-          <mxGeometry height="22" width="200" x="80" y="217" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-106" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f6fc;strokeColor=#bbccdd;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#445577;align=left;spacingLeft=10;" value="· 覆盖黄道 ±23.5°范围" vertex="1">
-          <mxGeometry height="22" width="200" x="80" y="243" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-107" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f6fc;strokeColor=#bbccdd;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#445577;align=left;spacingLeft=10;" value="· 周天365.25度，各宿不均" vertex="1">
-          <mxGeometry height="22" width="200" x="80" y="269" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-108" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf2f8;strokeColor=#6c8ebf;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#003366;" value="② 历法功能：时间标尺" vertex="1">
-          <mxGeometry height="30" width="380" x="520" y="156" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-109" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f6fc;strokeColor=#bbccdd;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#445577;align=left;spacingLeft=10;" value="· 昏旦中星观测定节气" vertex="1">
-          <mxGeometry height="22" width="350" x="530" y="191" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-110" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f6fc;strokeColor=#bbccdd;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#445577;align=left;spacingLeft=10;" value="· 岁差发现（冬至点从虚宿移至斗宿）" vertex="1">
-          <mxGeometry height="22" width="350" x="530" y="217" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-111" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f6fc;strokeColor=#bbccdd;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#445577;align=left;spacingLeft=10;" value="· 《尚书》日中星鸟，以殷仲春" vertex="1">
-          <mxGeometry height="22" width="350" x="530" y="243" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-112" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf2f8;strokeColor=#6c8ebf;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#003366;" value="③ 天象记录：空间坐标" vertex="1">
-          <mxGeometry height="30" width="380" x="940" y="156" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-113" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f6fc;strokeColor=#bbccdd;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#445577;align=left;spacingLeft=10;" value="· 彗星/客星用入宿某度记录" vertex="1">
-          <mxGeometry height="22" width="350" x="950" y="191" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-114" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f6fc;strokeColor=#bbccdd;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#445577;align=left;spacingLeft=10;" value="· 1054年天关客星（毕宿附近）" vertex="1">
-          <mxGeometry height="22" width="350" x="950" y="217" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-115" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f6fc;strokeColor=#bbccdd;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#445577;align=left;spacingLeft=10;" value="· 日月食预测依赖同宿或对宿" vertex="1">
-          <mxGeometry height="22" width="350" x="950" y="243" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-116" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf2f8;strokeColor=#6c8ebf;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#003366;" value="④ 距星沿革：动态修正" vertex="1">
-          <mxGeometry height="30" width="480" x="1360" y="156" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-117" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f6fc;strokeColor=#bbccdd;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#445577;align=left;spacingLeft=10;" value="· 历代实测更换距星以保证精度" vertex="1">
-          <mxGeometry height="22" width="450" x="1370" y="191" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-118" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f6fc;strokeColor=#bbccdd;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#445577;align=left;spacingLeft=10;" value="· 非僵死系统，持续校验修正" vertex="1">
-          <mxGeometry height="22" width="450" x="1370" y="217" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-119" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f6fc;strokeColor=#bbccdd;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#445577;align=left;spacingLeft=10;" value="· 不同朝代宿度数值有差异（实测结果不同）" vertex="1">
-          <mxGeometry height="22" width="450" x="1370" y="243" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-120" edge="1" parent="LGKwGivQQfBh0KK_UAAQ-205" style="shape=flexArrow;endArrow=classic;html=1;width=24;fillColor=#6c8ebf;strokeColor=#6c8ebf;opacity=50;" value="">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="950" y="311" as="sourcePoint" />
-            <mxPoint x="950" y="351" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-121" parent="LGKwGivQQfBh0KK_UAAQ-205" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Microsoft YaHei;fontColor=#6c8ebf;fontStyle=2;" value="支撑" vertex="1">
-          <mxGeometry height="18" width="80" x="910" y="326" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-122" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=18;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#004400;strokeWidth=3;shadow=1;" value="术数与实践" vertex="1">
-          <mxGeometry height="50" width="1840" x="50" y="366" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-123" parent="LGKwGivQQfBh0KK_UAAQ-205" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#82b366;fontStyle=2;" value="哲学 · 神秘主义 · 操作系统" vertex="1">
-          <mxGeometry height="40" width="230" x="1640" y="371" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-124" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf5ea;strokeColor=#82b366;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#004400;" value="① 三层能量嵌套结构" vertex="1">
-          <mxGeometry height="30" width="430" x="70" y="431" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-125" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="层级一：四象方位（木/火/金/水）→ 气候带" vertex="1">
-          <mxGeometry height="22" width="410" x="80" y="466" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-126" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="层级二：宿五行（木金土火水循环）→ 星宿禀赋" vertex="1">
-          <mxGeometry height="22" width="410" x="80" y="492" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-127" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="层级三：宿内度数（气的强弱浓淡）→ 微观精度" vertex="1">
-          <mxGeometry height="22" width="410" x="80" y="518" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-128" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf5ea;strokeColor=#82b366;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#004400;" value="② 五行生克的动态调制" vertex="1">
-          <mxGeometry height="30" width="380" x="530" y="431" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-129" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="· 宿生星 → 行星能量放大" vertex="1">
-          <mxGeometry height="22" width="350" x="540" y="466" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-130" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="· 宿克星 → 行星能量压制" vertex="1">
-          <mxGeometry height="22" width="350" x="540" y="492" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-131" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="· 星生宿 / 星克宿 → 双向博弈" vertex="1">
-          <mxGeometry height="22" width="350" x="540" y="518" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-132" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf5ea;strokeColor=#82b366;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#004400;" value="③ 善恶定性：吉凶标签" vertex="1">
-          <mxGeometry height="30" width="380" x="940" y="431" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-133" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="· 角吉（利嫁娶） / 亢凶（主口舌）" vertex="1">
-          <mxGeometry height="22" width="350" x="950" y="466" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-134" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="· 吉凶日逢宿互减" vertex="1">
-          <mxGeometry height="22" width="350" x="950" y="492" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-135" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="· 择日与占验的直接依据" vertex="1">
-          <mxGeometry height="22" width="350" x="950" y="518" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-136" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf5ea;strokeColor=#82b366;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#004400;" value="④ 分野系统：天地对应" vertex="1">
-          <mxGeometry height="30" width="480" x="1360" y="431" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-137" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="· 翼轸→荆州，参宿→益州" vertex="1">
-          <mxGeometry height="22" width="450" x="1370" y="466" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-138" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="· 异常天象预示对应地域治乱吉凶" vertex="1">
-          <mxGeometry height="22" width="450" x="1370" y="492" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-139" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="· 天人感应的地理框架" vertex="1">
-          <mxGeometry height="22" width="450" x="1370" y="518" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-140" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf5ea;strokeColor=#82b366;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#004400;" value="⑤ 度主推算：微观视角" vertex="1">
-          <mxGeometry height="30" width="430" x="70" y="561" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-141" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="· 十二宫为州，二十八宿为县" vertex="1">
-          <mxGeometry height="22" width="410" x="80" y="596" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-142" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="· 流年须精确到某宿几度" vertex="1">
-          <mxGeometry height="22" width="410" x="80" y="622" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-143" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="· 同宿不同度数吉凶五行各异" vertex="1">
-          <mxGeometry height="22" width="410" x="80" y="648" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-144" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf5ea;strokeColor=#82b366;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#004400;" value="⑥ 宿曜组合：特殊格局" vertex="1">
-          <mxGeometry height="30" width="380" x="530" y="561" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-145" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="· 荧惑守心（火星入心宿）→ 顶级凶格" vertex="1">
-          <mxGeometry height="22" width="350" x="540" y="596" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-146" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="· 青龙归位（木星入角宿）→ 大吉" vertex="1">
-          <mxGeometry height="22" width="350" x="540" y="622" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-147" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="· 月离于毕（月亮入毕宿）→ 主大雨" vertex="1">
-          <mxGeometry height="22" width="350" x="540" y="648" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-148" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf5ea;strokeColor=#82b366;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#004400;" value="⑦ 宿度制煞与伏断" vertex="1">
-          <mxGeometry height="30" width="380" x="940" y="561" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-149" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="· 制煞：凶星行至被克度数，凶性被制" vertex="1">
-          <mxGeometry height="22" width="350" x="950" y="596" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-150" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="· 伏断度：行星至此能量中断" vertex="1">
-          <mxGeometry height="22" width="350" x="950" y="622" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-151" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="· 所主之事易夭折" vertex="1">
-          <mxGeometry height="22" width="350" x="950" y="648" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-152" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf5ea;strokeColor=#82b366;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#004400;" value="⑧ 运行节律：迟疾留逆" vertex="1">
-          <mxGeometry height="30" width="480" x="1360" y="561" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-153" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="· 留：行星在某宿停留，能量集中释放" vertex="1">
-          <mxGeometry height="22" width="450" x="1370" y="596" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-154" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="· 逆行：主该领域反复阻滞" vertex="1">
-          <mxGeometry height="22" width="450" x="1370" y="622" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-155" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf5ea;strokeColor=#82b366;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#004400;" value="⑨ 多星博弈 &amp; 宿命互摄" vertex="1">
-          <mxGeometry height="30" width="430" x="70" y="691" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-156" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="· 两星同宿：能量混合" vertex="1">
-          <mxGeometry height="22" width="410" x="80" y="726" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-157" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="· 多星聚宿：生克博弈加剧" vertex="1">
-          <mxGeometry height="22" width="410" x="80" y="752" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-158" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="· 行运星照本命命度宿 → 能量共振加倍" vertex="1">
-          <mxGeometry height="22" width="410" x="80" y="778" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-159" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="· 行运星冲出生月宿 → 主情绪动荡" vertex="1">
-          <mxGeometry height="22" width="410" x="80" y="804" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-160" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf5ea;strokeColor=#82b366;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#004400;" value="⑩ 延伸应用：堪舆与音律" vertex="1">
-          <mxGeometry height="30" width="380" x="530" y="691" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-161" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="· 风水罗盘：宿度五行测方位吉凶" vertex="1">
-          <mxGeometry height="22" width="350" x="540" y="726" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-162" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="· 十二律吕与星宿对应" vertex="1">
-          <mxGeometry height="22" width="350" x="540" y="752" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-163" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=10;" value="· 纳音五行含宿度相关组合" vertex="1">
-          <mxGeometry height="22" width="350" x="540" y="778" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-164" edge="1" parent="LGKwGivQQfBh0KK_UAAQ-205" style="shape=flexArrow;endArrow=classic;html=1;width=24;fillColor=#82b366;strokeColor=#82b366;opacity=50;" value="">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="950" y="846" as="sourcePoint" />
-            <mxPoint x="950" y="886" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-165" parent="LGKwGivQQfBh0KK_UAAQ-205" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Microsoft YaHei;fontColor=#82b366;fontStyle=2;" value="延申" vertex="1">
-          <mxGeometry height="18" width="80" x="910" y="861" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-166" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#884400;strokeWidth=3;shadow=1;" value="文化与符号" vertex="1">
-          <mxGeometry height="50" width="1840" x="50" y="901" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-167" parent="LGKwGivQQfBh0KK_UAAQ-205" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#d79b00;fontStyle=2;" value="传播 · 艺术 · 认同" vertex="1">
-          <mxGeometry height="40" width="190" x="1680" y="906" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-168" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff4e6;strokeColor=#d79b00;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#884400;" value="① 神话与神化" vertex="1">
-          <mxGeometry height="30" width="430" x="70" y="966" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-169" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#faf5ec;strokeColor=#eeddcc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#775533;align=left;spacingLeft=10;" value="· 四象神兽：青龙/朱雀/白虎/玄武" vertex="1">
-          <mxGeometry height="22" width="410" x="80" y="1001" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-170" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#faf5ec;strokeColor=#eeddcc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#775533;align=left;spacingLeft=10;" value="· 道教星神：具体职掌、形象、法器" vertex="1">
-          <mxGeometry height="22" width="410" x="80" y="1027" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-171" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff4e6;strokeColor=#d79b00;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#884400;" value="② 跨文化融合" vertex="1">
-          <mxGeometry height="30" width="380" x="530" y="966" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-172" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#faf5ec;strokeColor=#eeddcc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#775533;align=left;spacingLeft=10;" value="· 印度二十七宿经《宿曜经》传入" vertex="1">
-          <mxGeometry height="22" width="350" x="540" y="1001" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-173" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#faf5ec;strokeColor=#eeddcc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#775533;align=left;spacingLeft=10;" value="· 星宿形象、吉凶规则被重新编码" vertex="1">
-          <mxGeometry height="22" width="350" x="540" y="1027" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-174" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#faf5ec;strokeColor=#eeddcc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#775533;align=left;spacingLeft=10;" value="· 兼收中印星象学精华" vertex="1">
-          <mxGeometry height="22" width="350" x="540" y="1053" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-175" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff4e6;strokeColor=#d79b00;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#884400;" value="③ 视觉图像" vertex="1">
-          <mxGeometry height="30" width="380" x="940" y="966" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-176" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#faf5ec;strokeColor=#eeddcc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#775533;align=left;spacingLeft=10;" value="· 汉代墓室壁画星图" vertex="1">
-          <mxGeometry height="22" width="350" x="950" y="1001" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-177" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#faf5ec;strokeColor=#eeddcc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#775533;align=left;spacingLeft=10;" value="· 《敦煌星图》· 宋代苏颂星图" vertex="1">
-          <mxGeometry height="22" width="350" x="950" y="1027" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-178" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#faf5ec;strokeColor=#eeddcc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#775533;align=left;spacingLeft=10;" value="· 道教《朝元图》星宿神像" vertex="1">
-          <mxGeometry height="22" width="350" x="950" y="1053" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-179" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff4e6;strokeColor=#d79b00;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#884400;" value="④ 文学意象" vertex="1">
-          <mxGeometry height="30" width="480" x="1360" y="966" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-180" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#faf5ec;strokeColor=#eeddcc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#775533;align=left;spacingLeft=10;" value="· 箕风毕雨：箕宿主风，毕宿主雨" vertex="1">
-          <mxGeometry height="22" width="450" x="1370" y="1001" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-181" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#faf5ec;strokeColor=#eeddcc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#775533;align=left;spacingLeft=10;" value="· 参商永隔：参宿与心宿永不相见" vertex="1">
-          <mxGeometry height="22" width="450" x="1370" y="1027" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-182" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#faf5ec;strokeColor=#eeddcc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#775533;align=left;spacingLeft=10;" value="· 《西游记》奎木狼等星神角色" vertex="1">
-          <mxGeometry height="22" width="450" x="1370" y="1053" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-183" edge="1" parent="LGKwGivQQfBh0KK_UAAQ-205" style="shape=flexArrow;endArrow=classic;html=1;width=24;fillColor=#d79b00;strokeColor=#d79b00;opacity=50;" value="">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="950" y="1101" as="sourcePoint" />
-            <mxPoint x="950" y="1141" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-184" parent="LGKwGivQQfBh0KK_UAAQ-205" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Microsoft YaHei;fontColor=#d79b00;fontStyle=2;" value="现代视角" vertex="1">
-          <mxGeometry height="18" width="80" x="910" y="1116" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-185" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#888899;fontSize=18;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#444455;strokeWidth=3;shadow=1;" value="当代认知" vertex="1">
-          <mxGeometry height="50" width="1840" x="50" y="1156" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-186" parent="LGKwGivQQfBh0KK_UAAQ-205" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#888899;fontStyle=2;" value="再发现 · 认知模型" vertex="1">
-          <mxGeometry height="40" width="160" x="1710" y="1161" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-187" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f0f0;strokeColor=#999999;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#444455;" value="① 科学史价值" vertex="1">
-          <mxGeometry height="30" width="430" x="70" y="1221" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-188" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8f8f8;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#555566;align=left;spacingLeft=10;" value="· 非西方科学范式的巅峰案例" vertex="1">
-          <mxGeometry height="22" width="410" x="80" y="1256" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-189" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8f8f8;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#555566;align=left;spacingLeft=10;" value="· 研究古代天体测量技术的活化石" vertex="1">
-          <mxGeometry height="22" width="410" x="80" y="1282" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-190" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f0f0;strokeColor=#999999;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#444455;" value="② 文化认同价值" vertex="1">
-          <mxGeometry height="30" width="380" x="530" y="1221" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-191" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8f8f8;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#555566;align=left;spacingLeft=10;" value="· 中华文明独特的宇宙符号体系" vertex="1">
-          <mxGeometry height="22" width="350" x="540" y="1256" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-192" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8f8f8;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#555566;align=left;spacingLeft=10;" value="· 天人合一理念最精密的技术实现" vertex="1">
-          <mxGeometry height="22" width="350" x="540" y="1282" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-193" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f0f0;strokeColor=#999999;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#444455;" value="③ 认知模型价值" vertex="1">
-          <mxGeometry height="30" width="380" x="940" y="1221" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-194" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8f8f8;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#555566;align=left;spacingLeft=10;" value="· 展示古人如何将宇宙秩序化、可理解化" vertex="1">
-          <mxGeometry height="22" width="350" x="950" y="1256" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-195" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8f8f8;strokeColor=#cccccc;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#555566;align=left;spacingLeft=10;" value="· 满足寻求确定性和意义的深层心理需求" vertex="1">
-          <mxGeometry height="22" width="350" x="950" y="1282" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-196" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f0f0;strokeColor=#999999;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#444455;strokeWidth=2;" value="④ 系统总定位" vertex="1">
-          <mxGeometry height="30" width="480" x="1360" y="1221" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-197" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8e8e8;strokeColor=#aaaaaa;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#444455;fontStyle=2;align=left;spacingLeft=10;" value="· 最完整的天-地-人认知操作系统" vertex="1">
-          <mxGeometry height="22" width="450" x="1370" y="1256" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-198" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8e8e8;strokeColor=#aaaaaa;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#444455;fontStyle=2;align=left;spacingLeft=10;" value="· 从量天尺到星神，从科学到信仰的完整光谱" vertex="1">
-          <mxGeometry height="22" width="450" x="1370" y="1282" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-199" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6c8ebf;strokeColor=#6c8ebf;fontSize=14;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#ffffff;" value="内核" vertex="1">
-          <mxGeometry height="100" width="40" y="171" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-200" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#82b366;strokeColor=#82b366;fontSize=14;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#ffffff;" value="应用" vertex="1">
-          <mxGeometry height="100" width="40" y="471" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-201" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d79b00;strokeColor=#d79b00;fontSize=14;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#ffffff;" value="表达" vertex="1">
-          <mxGeometry height="100" width="40" y="981" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKwGivQQfBh0KK_UAAQ-202" parent="LGKwGivQQfBh0KK_UAAQ-205" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#888899;strokeColor=#888899;fontSize=14;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#ffffff;" value="认知" vertex="1">
-          <mxGeometry height="100" width="40" y="1251" as="geometry" />
         </mxCell>
         <mxCell id="LGKwGivQQfBh0KK_UAAQ-319" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="1374" width="1890" x="10180" y="9240" as="geometry" />
@@ -2016,6 +1695,984 @@
         </mxCell>
         <mxCell id="LGKwGivQQfBh0KK_UAAQ-753" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ccccdd;strokeColor=#888899;fontSize=16;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#444455;strokeWidth=2;shadow=1;" value="阴" vertex="1">
           <mxGeometry height="30" width="60" x="11871" y="14751" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-123" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=26;fontStyle=1;fontFamily=Microsoft YaHei;strokeWidth=3;shadow=1;" value="日 · 月 十二维属性全图（古代认知完整版）" vertex="1">
+          <mxGeometry height="56" width="1400" x="9110" y="15570" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-124" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontFamily=Microsoft YaHei;fontColor=#8899bb;fontStyle=2;" value="本原 · 职能 · 表现 · 节律 · 象征 · 交感 · 神格 · 祭祀 · 星占 · 德性 · 文学 · 民间信仰   |   日月各81项 · 共162项 · 全部标注文献出处" vertex="1">
+          <mxGeometry height="26" width="1900" x="8860" y="15630" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-125" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#003366;strokeWidth=2;" value="一 · 本原" vertex="1">
+          <mxGeometry height="30" width="120" x="9680" y="15674" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-126" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#004400;strokeWidth=2;" value="二 · 职能" vertex="1">
+          <mxGeometry height="30" width="120" x="9680" y="15884" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-127" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#884400;strokeWidth=2;" value="三 · 表现" vertex="1">
+          <mxGeometry height="30" width="120" x="9680" y="16094" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-128" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#888899;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#444455;strokeWidth=2;" value="四 · 节律" vertex="1">
+          <mxGeometry height="30" width="120" x="9680" y="16304" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-129" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#660000;strokeWidth=2;" value="五 · 象征" vertex="1">
+          <mxGeometry height="30" width="120" x="9680" y="16514" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-131" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#665500;strokeWidth=2;" value="七 · 神格" vertex="1">
+          <mxGeometry height="30" width="120" x="9680" y="17014" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-132" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8f0d0;strokeColor=#a0b854;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#334400;strokeWidth=2;" value="八 · 祭祀" vertex="1">
+          <mxGeometry height="30" width="120" x="9680" y="17293" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-133" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0d0d0;strokeColor=#b85450;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#660000;strokeWidth=2;" value="九 · 星占" vertex="1">
+          <mxGeometry height="30" width="120" x="9680" y="17555" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-134" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0e8f0;strokeColor=#5480b8;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#003366;strokeWidth=2;" value="十 · 德性" vertex="1">
+          <mxGeometry height="30" width="120" x="9680" y="17815" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-135" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0d8f0;strokeColor=#b854a0;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#660044;strokeWidth=2;" value="十一 · 文学" vertex="1">
+          <mxGeometry height="30" width="120" x="9680" y="18075" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-136" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d8e8d0;strokeColor=#54b854;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#004400;strokeWidth=2;" value="十二 · 民间信仰" vertex="1">
+          <mxGeometry height="30" width="120" x="9680" y="18335" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-137" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc00;strokeColor=#dd9900;fontSize=17;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#664400;strokeWidth=2;shadow=1;" value="☀️ 日 · 阳之精" vertex="1">
+          <mxGeometry height="42" width="300" x="8680" y="15664" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-138" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ccccdd;strokeColor=#888899;fontSize=17;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#444455;strokeWidth=2;shadow=1;" value="🌙 月 · 阴之精" vertex="1">
+          <mxGeometry height="42" width="300" x="10440" y="15664" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-139" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff8e0;strokeColor=#dd9900;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#664400;align=left;spacingLeft=6;" value="1. 太阳之精 |《范子计然》" vertex="1">
+          <mxGeometry height="22" width="420" x="8660" y="15716" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-140" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff8e0;strokeColor=#dd9900;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#664400;align=left;spacingLeft=6;" value="2. 众阳之宗 | 皇甫谧《年历》" vertex="1">
+          <mxGeometry height="22" width="420" x="8660" y="15742" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-141" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff8e0;strokeColor=#dd9900;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#664400;align=left;spacingLeft=6;" value="3. 群阳之精 / 群阳之宗 | 刘氏《正历》《洪范传》" vertex="1">
+          <mxGeometry height="22" width="420" x="8660" y="15768" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-142" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff8e0;strokeColor=#dd9900;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#664400;align=left;spacingLeft=6;" value="4. 阳精之宗 | 张衡《灵宪》" vertex="1">
+          <mxGeometry height="22" width="420" x="8660" y="15794" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-143" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe0d0;strokeColor=#dd9900;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#664400;align=left;spacingLeft=6;strokeWidth=2;" value="5.【新增】阳德之母 |《春秋内事》" vertex="1">
+          <mxGeometry height="22" width="420" x="8660" y="15820" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-144" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f0f5;strokeColor=#888899;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#444455;align=left;spacingLeft=6;" value="1. 群阴之宗 | 皇甫谧《年历》" vertex="1">
+          <mxGeometry height="22" width="420" x="10340" y="15716" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-145" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f0f5;strokeColor=#888899;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#444455;align=left;spacingLeft=6;" value="2. 阴精之宗 | 张衡《灵宪》" vertex="1">
+          <mxGeometry height="22" width="420" x="10340" y="15742" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-146" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f0f5;strokeColor=#888899;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#444455;align=left;spacingLeft=6;" value="3. 太阴之精 / 水气之精 |《天官书》《淮南子》" vertex="1">
+          <mxGeometry height="22" width="420" x="10340" y="15768" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-147" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f0f5;strokeColor=#888899;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#444455;align=left;spacingLeft=6;" value="4. 金之精 / 水精 |《河图帝览嬉》《拾遗记》" vertex="1">
+          <mxGeometry height="22" width="420" x="10340" y="15794" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-148" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0d0e8;strokeColor=#888899;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#444455;align=left;spacingLeft=6;strokeWidth=2;" value="5.【新增】众阴之长 |《汉书·李寻传》" vertex="1">
+          <mxGeometry height="22" width="420" x="10340" y="15820" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-149" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8f4fd;strokeColor=#6c8ebf;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#003366;align=center;fontStyle=2;dashed=1;" value="▸ 日者阳精之宗，月者阴精之宗。本源即分，阴阳始判。" vertex="1">
+          <mxGeometry height="22" width="2100" x="8660" y="15850" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-150" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff8e0;strokeColor=#dd9900;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#664400;align=left;spacingLeft=6;" value="1. 阳之主 |《淮南子·天文训》" vertex="1">
+          <mxGeometry height="22" width="420" x="8660" y="15926" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-151" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff8e0;strokeColor=#dd9900;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#664400;align=left;spacingLeft=6;" value="2. 主生养恩德（人君之象）|《礼统》" vertex="1">
+          <mxGeometry height="22" width="420" x="8660" y="15952" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-152" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe0d0;strokeColor=#dd9900;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#664400;align=left;spacingLeft=6;strokeWidth=2;" value="3.【新增】主施（施故仁）|《春秋元命苞》" vertex="1">
+          <mxGeometry height="22" width="420" x="8660" y="15978" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-153" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe0d0;strokeColor=#dd9900;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#664400;align=left;spacingLeft=6;strokeWidth=2;" value="4.【新增】主光明（宣明于昼）| 张衡《灵宪》" vertex="1">
+          <mxGeometry height="22" width="420" x="8660" y="16004" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-154" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f0f5;strokeColor=#888899;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#444455;align=left;spacingLeft=6;" value="1. 阴之宗 |《淮南子·天文训》" vertex="1">
+          <mxGeometry height="22" width="420" x="10340" y="15926" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-155" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f0f5;strokeColor=#888899;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#444455;align=left;spacingLeft=6;" value="2. 主阴 |《日月周天论》" vertex="1">
+          <mxGeometry height="22" width="420" x="10340" y="15952" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-156" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f0f5;strokeColor=#888899;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#444455;align=left;spacingLeft=6;" value="3. 主夜（纳明于夜）| 张衡《灵宪》" vertex="1">
+          <mxGeometry height="22" width="420" x="10340" y="15978" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-157" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0d0e8;strokeColor=#888899;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#444455;align=left;spacingLeft=6;strokeWidth=2;" value="4.【新增】主刑（阴道也）|《日月周天论》" vertex="1">
+          <mxGeometry height="22" width="420" x="10340" y="16004" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-158" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8f8e8;strokeColor=#82b366;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#004400;align=center;fontStyle=2;dashed=1;" value="▸ 日主生养施仁，月主肃杀主刑。一施一收，一仁一刑。" vertex="1">
+          <mxGeometry height="22" width="2100" x="8660" y="16034" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-159" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff8e0;strokeColor=#dd9900;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#664400;align=left;spacingLeft=6;" value="1. 常满无亏（日尊故满）|《春秋元命苞》" vertex="1">
+          <mxGeometry height="22" width="420" x="8660" y="16136" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-160" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff8e0;strokeColor=#dd9900;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#664400;align=left;spacingLeft=6;" value="2. 日行一度 |《春秋元命包》" vertex="1">
+          <mxGeometry height="22" width="420" x="8660" y="16162" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-161" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff8e0;strokeColor=#dd9900;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#664400;align=left;spacingLeft=6;" value="3. 日中有三足乌 |《春秋元命苞》" vertex="1">
+          <mxGeometry height="22" width="420" x="8660" y="16188" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-162" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff8e0;strokeColor=#dd9900;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#664400;align=left;spacingLeft=6;" value="4. 日之为言实也 |《春秋元命苞》" vertex="1">
+          <mxGeometry height="22" width="420" x="8660" y="16214" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-163" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff8e0;strokeColor=#dd9900;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#664400;align=left;spacingLeft=6;" value="5. 日出至日入的完整行程 |《淮南子·天文训》" vertex="1">
+          <mxGeometry height="22" width="420" x="8660" y="16240" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-164" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f0f5;strokeColor=#888899;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#444455;align=left;spacingLeft=6;" value="1. 月者，阙也 |《礼记》" vertex="1">
+          <mxGeometry height="22" width="420" x="10340" y="16136" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-165" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f0f5;strokeColor=#888899;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#444455;align=left;spacingLeft=6;" value="2. 禀日之光而见其体 | 杨泉《物理论》" vertex="1">
+          <mxGeometry height="22" width="420" x="10340" y="16162" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-166" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f0f5;strokeColor=#888899;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#444455;align=left;spacingLeft=6;" value="3. 月中蟾蜍/兔蛤 | 张衡《灵宪》《演孔图》" vertex="1">
+          <mxGeometry height="22" width="420" x="10340" y="16188" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-167" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f0f5;strokeColor=#888899;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#444455;align=left;spacingLeft=6;" value="4. 月者，水也 |《范子计然》" vertex="1">
+          <mxGeometry height="22" width="420" x="10340" y="16214" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-168" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f0f5;strokeColor=#888899;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#444455;align=left;spacingLeft=6;" value="5. 坎为月 |《易说卦》" vertex="1">
+          <mxGeometry height="22" width="420" x="10340" y="16240" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-169" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff4e6;strokeColor=#d79b00;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#884400;align=center;fontStyle=2;dashed=1;" value="▸ 日常满无亏，月有阙复圆。日实月阙，日恒月变。" vertex="1">
+          <mxGeometry height="22" width="2100" x="8660" y="16270" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-170" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff8e0;strokeColor=#dd9900;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#664400;align=left;spacingLeft=6;" value="1. 行天一度，终而复始 |《范子计然》" vertex="1">
+          <mxGeometry height="22" width="420" x="8660" y="16346" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-171" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff8e0;strokeColor=#dd9900;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#664400;align=left;spacingLeft=6;" value="2. 行三百六十五度四分度之一 |《春秋元命包》" vertex="1">
+          <mxGeometry height="22" width="420" x="8660" y="16372" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-172" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff8e0;strokeColor=#dd9900;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#664400;align=left;spacingLeft=6;" value="3. 冬至夏至昼夜长短 | 杨泉《物理论》" vertex="1">
+          <mxGeometry height="22" width="420" x="8660" y="16398" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-173" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff8e0;strokeColor=#dd9900;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#664400;align=left;spacingLeft=6;" value="4. 日行九州七舍 |《淮南子·天文训》" vertex="1">
+          <mxGeometry height="22" width="420" x="8660" y="16424" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-174" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe0d0;strokeColor=#dd9900;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#664400;align=left;spacingLeft=6;strokeWidth=2;" value="5.【新增】日一岁一周天，分四时，定八节 |《白虎通·日月》" vertex="1">
+          <mxGeometry height="22" width="420" x="8660" y="16450" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-175" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f0f5;strokeColor=#888899;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#444455;align=left;spacingLeft=6;" value="1. 月行十三度，周天复还及日 |《淮南子·天文训》" vertex="1">
+          <mxGeometry height="22" width="420" x="10340" y="16346" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-176" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f0f5;strokeColor=#888899;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#444455;align=left;spacingLeft=6;" value="2. 二十九日余而周天 |《淮南子·天文训》" vertex="1">
+          <mxGeometry height="22" width="420" x="10340" y="16372" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-177" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f0f5;strokeColor=#888899;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#444455;align=left;spacingLeft=6;" value="3. 月行九道（±5.14°摆动）|《淮南子·天文训》" vertex="1">
+          <mxGeometry height="22" width="420" x="10340" y="16398" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-178" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f0f5;strokeColor=#888899;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#444455;align=left;spacingLeft=6;" value="4. 朔望晦（新月→满月→残月）|《白虎通·日月》" vertex="1">
+          <mxGeometry height="22" width="420" x="10340" y="16424" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-179" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0d0e8;strokeColor=#888899;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#444455;align=left;spacingLeft=6;strokeWidth=2;" value="5.【新增】月三让而成魄，三复而成明 |《白虎通·日月》" vertex="1">
+          <mxGeometry height="22" width="420" x="10340" y="16450" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-180" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#888899;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#444455;align=center;fontStyle=2;dashed=1;" value="▸ 日行一度一岁一周，月行十三度一月一周。节奏殊异，共成历法。" vertex="1">
+          <mxGeometry height="22" width="2100" x="8660" y="16480" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-181" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff8e0;strokeColor=#dd9900;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#664400;align=left;spacingLeft=6;" value="1. 人君之象 |《礼统》《说文》" vertex="1">
+          <mxGeometry height="22" width="420" x="8660" y="16556" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-182" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff8e0;strokeColor=#dd9900;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#664400;align=left;spacingLeft=6;" value="2. 众贵之象 | 刘氏《正历》" vertex="1">
+          <mxGeometry height="22" width="420" x="8660" y="16582" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-183" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff8e0;strokeColor=#dd9900;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#664400;align=left;spacingLeft=6;" value="3. 王者以日为兄 | 张衡《灵宪》注" vertex="1">
+          <mxGeometry height="22" width="420" x="8660" y="16608" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-184" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe0d0;strokeColor=#dd9900;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#664400;align=left;spacingLeft=6;strokeWidth=2;" value="4.【新增】君子之象 |《日月周天论》" vertex="1">
+          <mxGeometry height="22" width="420" x="8660" y="16634" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-185" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe0d0;strokeColor=#dd9900;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#664400;align=left;spacingLeft=6;strokeWidth=2;" value="5.【新增】日为父，月为母 |《周易·说卦》孔疏" vertex="1">
+          <mxGeometry height="22" width="420" x="8660" y="16660" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-186" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe0d0;strokeColor=#dd9900;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#664400;align=left;spacingLeft=6;strokeWidth=2;" value="6.【新增】日象礼，主德教 |《礼记·昏义》" vertex="1">
+          <mxGeometry height="22" width="420" x="8660" y="16686" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-187" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f0f5;strokeColor=#888899;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#444455;align=left;spacingLeft=6;" value="1. 妃后大臣诸侯之象 |《汉书·李寻传》" vertex="1">
+          <mxGeometry height="22" width="420" x="10340" y="16556" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-188" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f0f5;strokeColor=#888899;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#444455;align=left;spacingLeft=6;" value="2. 阴道 |《日月周天论》" vertex="1">
+          <mxGeometry height="22" width="420" x="10340" y="16582" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-189" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f0f5;strokeColor=#888899;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#444455;align=left;spacingLeft=6;" value="3. 小人之道 |《日月周天论》" vertex="1">
+          <mxGeometry height="22" width="420" x="10340" y="16608" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-190" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0d0e8;strokeColor=#888899;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#444455;align=left;spacingLeft=6;strokeWidth=2;" value="4.【新增】月者，刑也，主刑罚 |《淮南子·天文训》" vertex="1">
+          <mxGeometry height="22" width="420" x="10340" y="16634" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-191" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0d0e8;strokeColor=#888899;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#444455;align=left;spacingLeft=6;strokeWidth=2;" value="5.【新增】月为水之宗，主阴德 |《春秋元命苞》" vertex="1">
+          <mxGeometry height="22" width="420" x="10340" y="16660" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-192" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fdeaea;strokeColor=#b85450;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#660000;align=center;fontStyle=2;dashed=1;" value="▸ 日为人君君子父礼之象，月为妃后大臣刑之象。尊卑有别，刚柔相济。" vertex="1">
+          <mxGeometry height="22" width="2100" x="8660" y="16714" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-193" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff8e0;strokeColor=#dd9900;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#664400;align=left;spacingLeft=6;" value="1. 阳燧见日则燃而为火 |《淮南子·天文训》" vertex="1">
+          <mxGeometry height="22" width="420" x="8660" y="16766" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-194" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff8e0;strokeColor=#dd9900;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#664400;align=left;spacingLeft=6;" value="2. 日月者，天之使也 |《淮南子·天文训》" vertex="1">
+          <mxGeometry height="22" width="420" x="8660" y="16792" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-195" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe0d0;strokeColor=#dd9900;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#664400;align=left;spacingLeft=6;strokeWidth=2;" value="3.【新增】日有九光，光照四极 |《尚书考灵曜》" vertex="1">
+          <mxGeometry height="22" width="420" x="8660" y="16818" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-196" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff8e0;strokeColor=#dd9900;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#664400;align=left;spacingLeft=6;" value="4. 日躔二十八宿定节气 |《开元占经》" vertex="1">
+          <mxGeometry height="22" width="420" x="8660" y="16844" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-197" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff8e0;strokeColor=#dd9900;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#664400;align=left;spacingLeft=6;" value="5. 日主心·肾 · 一身之阳 |《灵枢·阴阳系日月》" vertex="1">
+          <mxGeometry height="22" width="420" x="8660" y="16870" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-198" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff8e0;strokeColor=#dd9900;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#664400;align=left;spacingLeft=6;" value="6. 日食→修德行政 |《礼记·昏义》" vertex="1">
+          <mxGeometry height="22" width="420" x="8660" y="16896" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-199" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe0d0;strokeColor=#dd9900;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#664400;align=left;spacingLeft=6;strokeWidth=2;" value="7.【新增】日出旸谷，浴于咸池，拂于扶桑 |《淮南子·天文训》" vertex="1">
+          <mxGeometry height="22" width="420" x="8660" y="16922" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-200" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe0d0;strokeColor=#dd9900;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#664400;align=left;spacingLeft=6;strokeWidth=2;" value="8.【新增】日主昼，昼主阳，阳主外 |《灵枢·营卫生会》" vertex="1">
+          <mxGeometry height="22" width="420" x="8660" y="16948" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-201" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f0f5;strokeColor=#888899;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#444455;align=left;spacingLeft=6;" value="1. 月虚而鱼脑减 |《淮南子·天文训》" vertex="1">
+          <mxGeometry height="22" width="420" x="10340" y="16766" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-202" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f0f5;strokeColor=#888899;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#444455;align=left;spacingLeft=6;" value="2. 月望则蚌蛤实 |《淮南子·天文训》" vertex="1">
+          <mxGeometry height="22" width="420" x="10340" y="16792" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-203" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f0f5;strokeColor=#888899;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#444455;align=left;spacingLeft=6;" value="3. 方诸见月则津而为水 |《淮南子·天文训》" vertex="1">
+          <mxGeometry height="22" width="420" x="10340" y="16818" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-204" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f0f5;strokeColor=#888899;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#444455;align=left;spacingLeft=6;" value="4. 月躔二十八宿断吉凶 |《开元占经》" vertex="1">
+          <mxGeometry height="22" width="420" x="10340" y="16844" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-205" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f0f5;strokeColor=#888899;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#444455;align=left;spacingLeft=6;" value="5. 月主脾胃·气血盛衰 |《灵枢·岁露论》" vertex="1">
+          <mxGeometry height="22" width="420" x="10340" y="16870" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-206" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f0f5;strokeColor=#888899;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#444455;align=left;spacingLeft=6;" value="6. 月食→警后修刑 |《礼记·昏义》" vertex="1">
+          <mxGeometry height="22" width="420" x="10340" y="16896" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-207" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0d0e8;strokeColor=#888899;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#444455;align=left;spacingLeft=6;strokeWidth=2;" value="7.【新增】月者，太阴之精，潮汐所系 |《论衡·书虚篇》" vertex="1">
+          <mxGeometry height="22" width="420" x="10340" y="16922" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-208" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0d0e8;strokeColor=#888899;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#444455;align=left;spacingLeft=6;strokeWidth=2;" value="8.【新增】月主夜，夜主阴，阴主内 |《灵枢·营卫生会》" vertex="1">
+          <mxGeometry height="22" width="420" x="10340" y="16948" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-209" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f3eef7;strokeColor=#9673a6;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#440066;align=center;fontStyle=2;dashed=1;" value="▸ 日以光热感物，月以水潮感物。天人感应，各有所主。" vertex="1">
+          <mxGeometry height="22" width="2100" x="8660" y="16976" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-210" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fffde0;strokeColor=#d6b656;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#665500;align=left;spacingLeft=6;" value="1. 羲和者，帝俊之妻，生十日 |《山海经·大荒南经》" vertex="1">
+          <mxGeometry height="22" width="420" x="8660" y="17056" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-211" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fffde0;strokeColor=#d6b656;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#665500;align=left;spacingLeft=6;" value="2. 日乘车，驾以六龙，羲和驭之 |《淮南子·天文训》注" vertex="1">
+          <mxGeometry height="22" width="420" x="8660" y="17082" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-212" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fffde0;strokeColor=#d6b656;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#665500;align=left;spacingLeft=6;" value="3. 日中有踆乌，三足 |《淮南子·精神训》" vertex="1">
+          <mxGeometry height="22" width="420" x="8660" y="17108" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-213" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fffde0;strokeColor=#d6b656;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#665500;align=left;spacingLeft=6;" value="4. 尧之时，十日并出，羿射九日 |《淮南子·本经训》" vertex="1">
+          <mxGeometry height="22" width="420" x="8660" y="17134" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-214" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fffde0;strokeColor=#d6b656;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#665500;align=left;spacingLeft=6;" value="5. 日出于旸谷，浴于咸池，拂于扶桑 |《淮南子·天文训》" vertex="1">
+          <mxGeometry height="22" width="420" x="8660" y="17160" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-215" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fffde0;strokeColor=#d6b656;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#665500;align=left;spacingLeft=6;" value="6. 日入于崦嵫，息于蒙谷 |《淮南子·天文训》" vertex="1">
+          <mxGeometry height="22" width="420" x="8660" y="17186" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-216" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fffde0;strokeColor=#d6b656;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#665500;align=left;spacingLeft=6;" value="7. 夸父与日逐走，道渴而死 |《山海经·海外北经》" vertex="1">
+          <mxGeometry height="22" width="420" x="8660" y="17212" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-217" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fffde0;strokeColor=#d6b656;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#665500;align=left;spacingLeft=6;" value="8. 日中有金乌，日之精也 |《春秋元命苞》" vertex="1">
+          <mxGeometry height="22" width="420" x="8660" y="17238" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-218" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5e8;strokeColor=#a0a080;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#555544;align=left;spacingLeft=6;" value="1. 常羲者，帝俊之妻，生月十有二 |《山海经·大荒西经》" vertex="1">
+          <mxGeometry height="22" width="420" x="10340" y="17056" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-219" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5e8;strokeColor=#a0a080;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#555544;align=left;spacingLeft=6;" value="2. 月御望舒，前望舒使先驱 |《楚辞·离骚》" vertex="1">
+          <mxGeometry height="22" width="420" x="10340" y="17082" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-220" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5e8;strokeColor=#a0a080;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#555544;align=left;spacingLeft=6;" value="3. 姮娥窃不死药以奔月，是为蟾蜍 | 张衡《灵宪》" vertex="1">
+          <mxGeometry height="22" width="420" x="10340" y="17108" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-221" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5e8;strokeColor=#a0a080;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#555544;align=left;spacingLeft=6;" value="4. 月中有桂树，吴刚斫之 |《酉阳杂俎·天咫》" vertex="1">
+          <mxGeometry height="22" width="420" x="10340" y="17134" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-222" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5e8;strokeColor=#a0a080;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#555544;align=left;spacingLeft=6;" value="5. 月中有玉兔，捣药于月中 |《太平御览》引《拟天问》" vertex="1">
+          <mxGeometry height="22" width="420" x="10340" y="17160" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-223" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5e8;strokeColor=#a0a080;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#555544;align=left;spacingLeft=6;" value="6. 月者，太阴之精，中有蟾蜍 |《春秋元命苞》" vertex="1">
+          <mxGeometry height="22" width="420" x="10340" y="17186" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-224" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5e8;strokeColor=#a0a080;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#555544;align=left;spacingLeft=6;" value="7. 嫦娥奔月，托身于月 |《淮南子·览冥训》" vertex="1">
+          <mxGeometry height="22" width="420" x="10340" y="17212" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-225" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5e8;strokeColor=#a0a080;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#555544;align=left;spacingLeft=6;" value="8. 月中仙人，名曰吴刚 |《酉阳杂俎》" vertex="1">
+          <mxGeometry height="22" width="420" x="10340" y="17238" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-226" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fffde0;strokeColor=#d6b656;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#665500;align=center;fontStyle=2;dashed=1;" value="▸ 日为羲和驭龙，月为望舒先驱。日月皆有神格，神话赋予其人格与故事。" vertex="1">
+          <mxGeometry height="22" width="2100" x="8660" y="17266" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-227" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f8e0;strokeColor=#a0b854;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#334400;align=left;spacingLeft=6;" value="1. 天子春分朝日于东郊 |《礼记·祭义》" vertex="1">
+          <mxGeometry height="22" width="420" x="8660" y="17316" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-228" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f8e0;strokeColor=#a0b854;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#334400;align=left;spacingLeft=6;" value="2. 祭日于坛，祭月于坎，以别幽明 |《礼记·祭义》" vertex="1">
+          <mxGeometry height="22" width="420" x="8660" y="17342" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-229" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f8e0;strokeColor=#a0b854;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#334400;align=left;spacingLeft=6;" value="3. 王宫，祭日也 |《周礼·春官·大宗伯》" vertex="1">
+          <mxGeometry height="22" width="420" x="8660" y="17368" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-230" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f8e0;strokeColor=#a0b854;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#334400;align=left;spacingLeft=6;" value="4. 祭日以牛，祭月以羊彘 |《礼记·祭法》" vertex="1">
+          <mxGeometry height="22" width="420" x="8660" y="17394" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-231" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f8e0;strokeColor=#a0b854;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#334400;align=left;spacingLeft=6;" value="5. 日食，天子素服而修六官之职 |《礼记·昏义》" vertex="1">
+          <mxGeometry height="22" width="420" x="8660" y="17420" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-232" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f8e0;strokeColor=#a0b854;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#334400;align=left;spacingLeft=6;" value="6. 春朝朝日，秋暮夕月 |《汉书·郊祀志》" vertex="1">
+          <mxGeometry height="22" width="420" x="8660" y="17446" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-233" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f8e0;strokeColor=#a0b854;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#334400;align=left;spacingLeft=6;" value="7. 立春日，天子迎春于东郊 |《礼记·月令》" vertex="1">
+          <mxGeometry height="22" width="420" x="8660" y="17472" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-234" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f8e0;strokeColor=#a0b854;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#334400;align=left;spacingLeft=6;" value="8. 冬至祭天于圜丘，以日配祀 |《周礼·春官》" vertex="1">
+          <mxGeometry height="22" width="420" x="8660" y="17498" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-235" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f5e0;strokeColor=#a0b854;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#334400;align=left;spacingLeft=6;" value="1. 天子秋分夕月于西郊 |《礼记·祭义》" vertex="1">
+          <mxGeometry height="22" width="420" x="10340" y="17316" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-236" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f5e0;strokeColor=#a0b854;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#334400;align=left;spacingLeft=6;" value="2. 夜明，祭月也 |《周礼·春官·大宗伯》" vertex="1">
+          <mxGeometry height="22" width="420" x="10340" y="17342" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-237" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f5e0;strokeColor=#a0b854;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#334400;align=left;spacingLeft=6;" value="3. 祭月于坎，以别幽明 |《礼记·祭义》" vertex="1">
+          <mxGeometry height="22" width="420" x="10340" y="17368" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-238" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f5e0;strokeColor=#a0b854;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#334400;align=left;spacingLeft=6;" value="4. 月食，后素服而修六宫之职 |《礼记·昏义》" vertex="1">
+          <mxGeometry height="22" width="420" x="10340" y="17394" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-239" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f5e0;strokeColor=#a0b854;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#334400;align=left;spacingLeft=6;" value="5. 中秋祭月，民间拜月 |《东京梦华录》" vertex="1">
+          <mxGeometry height="22" width="420" x="10340" y="17420" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-240" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f5e0;strokeColor=#a0b854;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#334400;align=left;spacingLeft=6;" value="6. 月坛，帝王祭月之所 |《明史·礼志》" vertex="1">
+          <mxGeometry height="22" width="420" x="10340" y="17446" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-241" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f5e0;strokeColor=#a0b854;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#334400;align=left;spacingLeft=6;" value="7. 朔日告朔于庙，月朔朝庙 |《周礼·春官》" vertex="1">
+          <mxGeometry height="22" width="420" x="10340" y="17472" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-242" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f5e0;strokeColor=#a0b854;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#334400;align=left;spacingLeft=6;" value="8. 八月十五，家家拜月，设果饼于庭 |《东京梦华录》" vertex="1">
+          <mxGeometry height="22" width="420" x="10340" y="17498" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-243" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f5d0;strokeColor=#a0b854;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#334400;align=center;fontStyle=2;dashed=1;" value="▸ 朝日夕月，祭坛祭坎。日月祭祀嵌入国家礼制与民间节庆，规范人的行为与秩序。" vertex="1">
+          <mxGeometry height="22" width="2100" x="8660" y="17526" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-244" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fde0e0;strokeColor=#b85450;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#660000;align=left;spacingLeft=6;" value="1. 日色赤，主兵起；日色白，主丧 |《开元占经》" vertex="1">
+          <mxGeometry height="22" width="420" x="8660" y="17576" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-245" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fde0e0;strokeColor=#b85450;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#660000;align=left;spacingLeft=6;" value="2. 日中黑子，主君德有亏 |《开元占经》" vertex="1">
+          <mxGeometry height="22" width="420" x="8660" y="17602" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-246" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fde0e0;strokeColor=#b85450;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#660000;align=left;spacingLeft=6;" value="3. 日晕，主围城；日重晕，主大风 |《开元占经》" vertex="1">
+          <mxGeometry height="22" width="420" x="8660" y="17628" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-247" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fde0e0;strokeColor=#b85450;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#660000;align=left;spacingLeft=6;" value="4. 日出无光，主国乱，君不明 |《开元占经》" vertex="1">
+          <mxGeometry height="22" width="420" x="8660" y="17654" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-248" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fde0e0;strokeColor=#b85450;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#660000;align=left;spacingLeft=6;" value="5. 日昼昏，主臣强君弱 |《晋书·天文志》" vertex="1">
+          <mxGeometry height="22" width="420" x="8660" y="17680" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-249" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fde0e0;strokeColor=#b85450;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#660000;align=left;spacingLeft=6;" value="6. 日无云而雷，主君令不行 |《开元占经》" vertex="1">
+          <mxGeometry height="22" width="420" x="8660" y="17706" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-250" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fde0e0;strokeColor=#b85450;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#660000;align=left;spacingLeft=6;" value="7. 日中有黑气，主后宫乱 |《开元占经》" vertex="1">
+          <mxGeometry height="22" width="420" x="8660" y="17732" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-251" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fde0e0;strokeColor=#b85450;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#660000;align=left;spacingLeft=6;" value="8. 日生珥，主兵；日生冠，主喜 |《开元占经》" vertex="1">
+          <mxGeometry height="22" width="420" x="8660" y="17758" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-252" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0e0e0;strokeColor=#b85450;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#660000;align=left;spacingLeft=6;" value="1. 月行失道，主大臣专权 |《开元占经》" vertex="1">
+          <mxGeometry height="22" width="420" x="10340" y="17576" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-253" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0e0e0;strokeColor=#b85450;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#660000;align=left;spacingLeft=6;" value="2. 月犯五星，各有吉凶 |《开元占经》" vertex="1">
+          <mxGeometry height="22" width="420" x="10340" y="17602" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-254" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0e0e0;strokeColor=#b85450;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#660000;align=left;spacingLeft=6;" value="3. 月晕，主风雨；月重晕，主大水 |《开元占经》" vertex="1">
+          <mxGeometry height="22" width="420" x="10340" y="17628" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-255" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0e0e0;strokeColor=#b85450;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#660000;align=left;spacingLeft=6;" value="4. 月昼见，主臣强君弱 |《开元占经》" vertex="1">
+          <mxGeometry height="22" width="420" x="10340" y="17654" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-256" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0e0e0;strokeColor=#b85450;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#660000;align=left;spacingLeft=6;" value="5. 月色赤，主兵；月色白，主旱 |《开元占经》" vertex="1">
+          <mxGeometry height="22" width="420" x="10340" y="17680" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-257" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0e0e0;strokeColor=#b85450;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#660000;align=left;spacingLeft=6;" value="6. 月犯二十八宿，各应分野 |《开元占经》" vertex="1">
+          <mxGeometry height="22" width="420" x="10340" y="17706" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-258" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0e0e0;strokeColor=#b85450;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#660000;align=left;spacingLeft=6;" value="7. 月行疾，主君令急；月行迟，主君令缓 |《开元占经》" vertex="1">
+          <mxGeometry height="22" width="420" x="10340" y="17732" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-259" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0e0e0;strokeColor=#b85450;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#660000;align=left;spacingLeft=6;" value="8. 月生齿，主臣强；月生角，主兵 |《开元占经》" vertex="1">
+          <mxGeometry height="22" width="420" x="10340" y="17758" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-260" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fde0e0;strokeColor=#b85450;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#660000;align=center;fontStyle=2;dashed=1;" value="▸ 日月变色、晕珥、失道、犯宿，皆有占验。星占将天象与政治人事对应，影响决策。" vertex="1">
+          <mxGeometry height="22" width="2100" x="8660" y="17786" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-261" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f0f8;strokeColor=#5480b8;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#003366;align=left;spacingLeft=6;" value="1. 日者，人君之象，君德如日 |《礼统》" vertex="1">
+          <mxGeometry height="22" width="420" x="8660" y="17836" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-262" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f0f8;strokeColor=#5480b8;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#003366;align=left;spacingLeft=6;" value="2. 日光照天下，无偏无党，君子法之 |《尚书·洪范》注" vertex="1">
+          <mxGeometry height="22" width="420" x="8660" y="17862" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-263" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f0f8;strokeColor=#5480b8;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#003366;align=left;spacingLeft=6;" value="3. 日有恒，故君子以自强不息 |《周易·乾卦》象传" vertex="1">
+          <mxGeometry height="22" width="420" x="8660" y="17888" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-264" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f0f8;strokeColor=#5480b8;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#003366;align=left;spacingLeft=6;" value="4. 日新之谓盛德 |《周易·系辞》" vertex="1">
+          <mxGeometry height="22" width="420" x="8660" y="17914" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-265" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f0f8;strokeColor=#5480b8;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#003366;align=left;spacingLeft=6;" value="5. 冬日之日，夏日之日，爱畏不同 |《左传·文公七年》" vertex="1">
+          <mxGeometry height="22" width="420" x="8660" y="17940" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-266" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f0f8;strokeColor=#5480b8;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#003366;align=left;spacingLeft=6;" value="6. 日出而作，日入而息 |《击壤歌》" vertex="1">
+          <mxGeometry height="22" width="420" x="8660" y="17966" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-267" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f0f8;strokeColor=#5480b8;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#003366;align=left;spacingLeft=6;" value="7. 日无私照，故能成其大 |《礼记·孔子闲居》" vertex="1">
+          <mxGeometry height="22" width="420" x="8660" y="17992" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-268" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f0f8;strokeColor=#5480b8;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#003366;align=left;spacingLeft=6;" value="8. 日月相推而明生焉 |《周易·系辞》" vertex="1">
+          <mxGeometry height="22" width="420" x="8660" y="18018" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-269" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8f0f5;strokeColor=#5480b8;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#003366;align=left;spacingLeft=6;" value="1. 月者，阙也，满则缺，君子法之以谦 |《礼记》注" vertex="1">
+          <mxGeometry height="22" width="420" x="10340" y="17836" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-270" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8f0f5;strokeColor=#5480b8;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#003366;align=left;spacingLeft=6;" value="2. 月有圆缺，人臣当效其盈虚 |《春秋元命苞》" vertex="1">
+          <mxGeometry height="22" width="420" x="10340" y="17862" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-271" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8f0f5;strokeColor=#5480b8;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#003366;align=left;spacingLeft=6;" value="3. 月之从星，则以风雨 |《尚书·洪范》" vertex="1">
+          <mxGeometry height="22" width="420" x="10340" y="17888" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-272" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8f0f5;strokeColor=#5480b8;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#003366;align=left;spacingLeft=6;" value="4. 月明如镜，君子法其清 |《白虎通·日月》" vertex="1">
+          <mxGeometry height="22" width="420" x="10340" y="17914" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-273" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8f0f5;strokeColor=#5480b8;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#003366;align=left;spacingLeft=6;" value="5. 月三五而盈，三五而缺，人道法之 |《礼记·礼运》" vertex="1">
+          <mxGeometry height="22" width="420" x="10340" y="17940" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-274" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8f0f5;strokeColor=#5480b8;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#003366;align=left;spacingLeft=6;" value="6. 明月之珠，不以暗投 |《淮南子·说林训》" vertex="1">
+          <mxGeometry height="22" width="420" x="10340" y="17966" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-275" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8f0f5;strokeColor=#5480b8;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#003366;align=left;spacingLeft=6;" value="7. 月者，水之精也，水善利万物而不争 |《道德经》注" vertex="1">
+          <mxGeometry height="22" width="420" x="10340" y="17992" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-276" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8f0f5;strokeColor=#5480b8;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#003366;align=left;spacingLeft=6;" value="8. 月白风清，君子之心 | 苏轼《后赤壁赋》" vertex="1">
+          <mxGeometry height="22" width="420" x="10340" y="18018" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-277" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f0f8;strokeColor=#5480b8;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#003366;align=center;fontStyle=2;dashed=1;" value="▸ 日无偏照故君子法其公，月有盈虚故君子法其谦。日月皆为道德楷模。" vertex="1">
+          <mxGeometry height="22" width="2100" x="8660" y="18046" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-278" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8e8f8;strokeColor=#b854a0;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#660044;align=left;spacingLeft=6;" value="1. 日出江花红胜火 | 白居易《忆江南》" vertex="1">
+          <mxGeometry height="22" width="420" x="8660" y="18096" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-279" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8e8f8;strokeColor=#b854a0;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#660044;align=left;spacingLeft=6;" value="2. 白日依山尽，黄河入海流 | 王之涣《登鹳雀楼》" vertex="1">
+          <mxGeometry height="22" width="420" x="8660" y="18122" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-280" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8e8f8;strokeColor=#b854a0;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#660044;align=left;spacingLeft=6;" value="3. 大漠孤烟直，长河落日圆 | 王维《使至塞上》" vertex="1">
+          <mxGeometry height="22" width="420" x="8660" y="18148" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-281" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8e8f8;strokeColor=#b854a0;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#660044;align=left;spacingLeft=6;" value="4. 日暮乡关何处是 | 崔颢《黄鹤楼》" vertex="1">
+          <mxGeometry height="22" width="420" x="8660" y="18174" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-282" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8e8f8;strokeColor=#b854a0;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#660044;align=left;spacingLeft=6;" value="5. 夕阳无限好，只是近黄昏 | 李商隐《登乐游原》" vertex="1">
+          <mxGeometry height="22" width="420" x="8660" y="18200" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-283" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8e8f8;strokeColor=#b854a0;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#660044;align=left;spacingLeft=6;" value="6. 迟日江山丽，春风花草香 | 杜甫《绝句》" vertex="1">
+          <mxGeometry height="22" width="420" x="8660" y="18226" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-284" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8e8f8;strokeColor=#b854a0;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#660044;align=left;spacingLeft=6;" value="7. 日出而林霏开 | 欧阳修《醉翁亭记》" vertex="1">
+          <mxGeometry height="22" width="420" x="8660" y="18252" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-285" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8e8f8;strokeColor=#b854a0;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#660044;align=left;spacingLeft=6;" value="8. 白日放歌须纵酒 | 杜甫《闻官军收河南河北》" vertex="1">
+          <mxGeometry height="22" width="420" x="8660" y="18278" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-286" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8e8f8;strokeColor=#b854a0;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#660044;align=left;spacingLeft=6;" value="1. 海上生明月，天涯共此时 | 张九龄《望月怀远》" vertex="1">
+          <mxGeometry height="22" width="420" x="10340" y="18096" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-287" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8e8f8;strokeColor=#b854a0;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#660044;align=left;spacingLeft=6;" value="2. 举头望明月，低头思故乡 | 李白《静夜思》" vertex="1">
+          <mxGeometry height="22" width="420" x="10340" y="18122" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-288" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8e8f8;strokeColor=#b854a0;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#660044;align=left;spacingLeft=6;" value="3. 月落乌啼霜满天 | 张继《枫桥夜泊》" vertex="1">
+          <mxGeometry height="22" width="420" x="10340" y="18148" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-289" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8e8f8;strokeColor=#b854a0;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#660044;align=left;spacingLeft=6;" value="4. 人有悲欢离合，月有阴晴圆缺 | 苏轼《水调歌头》" vertex="1">
+          <mxGeometry height="22" width="420" x="10340" y="18174" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-290" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8e8f8;strokeColor=#b854a0;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#660044;align=left;spacingLeft=6;" value="5. 春江潮水连海平，海上明月共潮生 | 张若虚" vertex="1">
+          <mxGeometry height="22" width="420" x="10340" y="18200" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-291" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8e8f8;strokeColor=#b854a0;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#660044;align=left;spacingLeft=6;" value="6. 明月松间照，清泉石上流 | 王维《山居秋暝》" vertex="1">
+          <mxGeometry height="22" width="420" x="10340" y="18226" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-292" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8e8f8;strokeColor=#b854a0;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#660044;align=left;spacingLeft=6;" value="7. 露从今夜白，月是故乡明 | 杜甫《月夜忆舍弟》" vertex="1">
+          <mxGeometry height="22" width="420" x="10340" y="18252" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-293" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8e8f8;strokeColor=#b854a0;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#660044;align=left;spacingLeft=6;" value="8. 月上柳梢头，人约黄昏后 | 欧阳修《生查子》" vertex="1">
+          <mxGeometry height="22" width="420" x="10340" y="18278" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-294" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8e8f8;strokeColor=#b854a0;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#660044;align=center;fontStyle=2;dashed=1;" value="▸ 日落月起，皆成诗境。日喻壮阔与迟暮，月寄团圆与离思。文学赋予日月以情感与美感。" vertex="1">
+          <mxGeometry height="22" width="2100" x="8660" y="18306" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-295" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8f5e0;strokeColor=#54b854;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#004400;align=left;spacingLeft=6;" value="1. 日食时民间敲锣打鼓以救日 |《荆楚岁时记》" vertex="1">
+          <mxGeometry height="22" width="420" x="8660" y="18356" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-296" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8f5e0;strokeColor=#54b854;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#004400;align=left;spacingLeft=6;" value="2. 正月初一迎日，拜日祈福 |《荆楚岁时记》" vertex="1">
+          <mxGeometry height="22" width="420" x="8660" y="18382" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-297" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8f5e0;strokeColor=#54b854;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#004400;align=left;spacingLeft=6;" value="3. 冬至日祭天迎日 |《东京梦华录》" vertex="1">
+          <mxGeometry height="22" width="420" x="8660" y="18408" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-298" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8f5e0;strokeColor=#54b854;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#004400;align=left;spacingLeft=6;" value="4. 日初出时不可指 | 民间禁忌（《风俗通义》）" vertex="1">
+          <mxGeometry height="22" width="420" x="8660" y="18434" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-299" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8f5e0;strokeColor=#54b854;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#004400;align=left;spacingLeft=6;" value="5. 日入后不可照镜 | 民间禁忌" vertex="1">
+          <mxGeometry height="22" width="420" x="8660" y="18460" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-300" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8f5e0;strokeColor=#54b854;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#004400;align=left;spacingLeft=6;" value="6. 春分日立蛋 | 民间习俗" vertex="1">
+          <mxGeometry height="22" width="420" x="8660" y="18486" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-301" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8f5e0;strokeColor=#54b854;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#004400;align=left;spacingLeft=6;" value="7. 六月六晒衣，取日光驱虫辟邪 | 民间习俗" vertex="1">
+          <mxGeometry height="22" width="420" x="8660" y="18512" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-302" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8f5e0;strokeColor=#54b854;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#004400;align=left;spacingLeft=6;" value="8. 日初升时祈愿 | 民间信仰" vertex="1">
+          <mxGeometry height="22" width="420" x="8660" y="18538" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-303" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8f5e0;strokeColor=#54b854;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#004400;align=left;spacingLeft=6;" value="1. 中秋拜月，祈求团圆 |《东京梦华录》" vertex="1">
+          <mxGeometry height="22" width="420" x="10340" y="18356" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-304" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8f5e0;strokeColor=#54b854;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#004400;align=left;spacingLeft=6;" value="2. 月食时民间敲锣打鼓以救月 |《荆楚岁时记》" vertex="1">
+          <mxGeometry height="22" width="420" x="10340" y="18382" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-305" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8f5e0;strokeColor=#54b854;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#004400;align=left;spacingLeft=6;" value="3. 正月十五元宵，赏月迎月 |《东京梦华录》" vertex="1">
+          <mxGeometry height="22" width="420" x="10340" y="18408" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-306" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8f5e0;strokeColor=#54b854;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#004400;align=left;spacingLeft=6;" value="4. 月下老人牵红线，主婚姻 |《续幽怪录》" vertex="1">
+          <mxGeometry height="22" width="420" x="10340" y="18434" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-307" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8f5e0;strokeColor=#54b854;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#004400;align=left;spacingLeft=6;" value="5. 中秋月下偷瓜，祈子之俗 | 民间习俗" vertex="1">
+          <mxGeometry height="22" width="420" x="10340" y="18460" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-308" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8f5e0;strokeColor=#54b854;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#004400;align=left;spacingLeft=6;" value="6. 月圆时不可指月 | 民间禁忌" vertex="1">
+          <mxGeometry height="22" width="420" x="10340" y="18486" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-309" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8f5e0;strokeColor=#54b854;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#004400;align=left;spacingLeft=6;" value="7. 婴儿不可见满月 | 民间禁忌" vertex="1">
+          <mxGeometry height="22" width="420" x="10340" y="18512" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-310" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8f5e0;strokeColor=#54b854;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#004400;align=left;spacingLeft=6;" value="8. 八月十五供兔儿爷，祭月祈福 | 北京民间习俗" vertex="1">
+          <mxGeometry height="22" width="420" x="10340" y="18538" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-311" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8f5e0;strokeColor=#54b854;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#004400;align=center;fontStyle=2;dashed=1;" value="▸ 拜日迎日、拜月祈月。民间信仰将日月融入节庆、禁忌与人生礼仪，成为日常生活的一部分。" vertex="1">
+          <mxGeometry height="22" width="2100" x="8660" y="18566" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-312" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=16;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#660000;strokeWidth=2;" value="日月关系总论" vertex="1">
+          <mxGeometry height="36" width="160" x="9580" y="18614" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-313" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff5f5;strokeColor=#b85450;fontSize=13;fontFamily=Microsoft YaHei;fontColor=#663333;align=center;spacingTop=8;dashed=1;" value="「日月相推而明生焉。」——《周易·系辞》&#xa;&#xa;日与月，非二物也，乃一阴一阳、一刚一柔、一施一受、一明一夜之两端。日无月则不显其恒，月无日则不能有其光。月禀日光而成其体，日因月行而分其岁。二者相推、相感、相成，共构天地之节律与人伦之纲纪。故古人言「日月为易」，明其相须而不相离也。" vertex="1">
+          <mxGeometry height="100" width="1900" x="8710" y="18662" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-316" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=24;fontStyle=1;fontFamily=Microsoft YaHei;strokeWidth=3;shadow=1;" value="日 · 月" vertex="1">
+          <mxGeometry height="54" width="1500" x="9320" y="18870" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-318" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc00;strokeColor=#dd9900;fontSize=17;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#664400;strokeWidth=2;shadow=1;" value="☀️ 日 · 阳之精" vertex="1">
+          <mxGeometry height="42" width="780" x="8690" y="18964" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-319" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d4e8c0;strokeColor=#6aaa50;fontSize=17;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#224400;strokeWidth=2;shadow=1;" value="☯️ 日月共同 · 阴阳合德" vertex="1">
+          <mxGeometry height="42" width="780" x="9550" y="18964" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-320" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ccccdd;strokeColor=#888899;fontSize=17;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#444455;strokeWidth=2;shadow=1;" value="🌙 月 · 阴之精" vertex="1">
+          <mxGeometry height="42" width="780" x="10410" y="18964" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-322" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#003366;strokeWidth=1;align=center;" value="一、自身属性（日月本身是什么）" vertex="1">
+          <mxGeometry height="30" width="2500" x="8690" y="19014" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-323" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#fff8e0;strokeColor=#dd9900;" value="1. 太阳之精｜《范子计然》" vertex="1">
+          <mxGeometry height="22" width="780" x="8690" y="19050" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-324" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#fff8e0;strokeColor=#dd9900;" value="2. 众阳之宗｜皇甫谧《年历》" vertex="1">
+          <mxGeometry height="22" width="780" x="8690" y="19074" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-325" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#fff8e0;strokeColor=#dd9900;" value="3. 群阳之精/群阳之宗｜刘氏《正历》《洪范传》" vertex="1">
+          <mxGeometry height="22" width="780" x="8690" y="19098" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-326" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#fff8e0;strokeColor=#dd9900;" value="4. 阳精之宗｜张衡《灵宪》" vertex="1">
+          <mxGeometry height="22" width="780" x="8690" y="19122" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-327" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#fff8e0;strokeColor=#dd9900;" value="5. 阳德之母｜《春秋内事》" vertex="1">
+          <mxGeometry height="22" width="780" x="8690" y="19146" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-328" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#fff8e0;strokeColor=#dd9900;" value="6. 常满无亏（日尊故满）｜《春秋元命苞》" vertex="1">
+          <mxGeometry height="22" width="780" x="8690" y="19170" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-329" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#fff8e0;strokeColor=#dd9900;" value="7. 日之为言实也｜《春秋元命苞》" vertex="1">
+          <mxGeometry height="22" width="780" x="8690" y="19194" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-330" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#fff8e0;strokeColor=#dd9900;" value="8. 日中有三足乌｜《春秋元命苞》" vertex="1">
+          <mxGeometry height="22" width="780" x="8690" y="19218" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-331" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#fff8e0;strokeColor=#dd9900;" value="9. 日中有金乌，日之精也｜《春秋元命苞》" vertex="1">
+          <mxGeometry height="22" width="780" x="8690" y="19242" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-332" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#fff8e0;strokeColor=#dd9900;" value="10. 日出行程：旸谷→咸池→扶桑→崦嵫｜《淮南子》" vertex="1">
+          <mxGeometry height="22" width="780" x="8690" y="19266" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-333" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#fff8e0;strokeColor=#dd9900;" value="11. 日有九光，光照四极｜《尚书考灵曜》" vertex="1">
+          <mxGeometry height="22" width="780" x="8690" y="19290" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-334" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f8e8;strokeColor=#6aaa50;" value="1. 日月者，天之使也｜《淮南子·天文训》" vertex="1">
+          <mxGeometry height="22" width="780" x="9550" y="19050" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-335" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f8e8;strokeColor=#6aaa50;" value="2. 日月为易，阴阳相须｜《周易》" vertex="1">
+          <mxGeometry height="22" width="780" x="9550" y="19074" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-336" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f8e8;strokeColor=#6aaa50;" value="3. 日月相推而明生焉｜《周易·系辞》" vertex="1">
+          <mxGeometry height="22" width="780" x="9550" y="19098" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-337" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f8e8;strokeColor=#6aaa50;" value="4. 日主昼，月主夜｜《灵枢·营卫生会》" vertex="1">
+          <mxGeometry height="22" width="780" x="9550" y="19122" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-338" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f8e8;strokeColor=#6aaa50;" value="5. 日月运行，一寒一暑｜《周易·系辞》" vertex="1">
+          <mxGeometry height="22" width="780" x="9550" y="19146" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-339" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f0f5;strokeColor=#888899;" value="1. 群阴之宗｜皇甫谧《年历》" vertex="1">
+          <mxGeometry height="22" width="780" x="10410" y="19050" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-340" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f0f5;strokeColor=#888899;" value="2. 阴精之宗｜张衡《灵宪》" vertex="1">
+          <mxGeometry height="22" width="780" x="10410" y="19074" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-341" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f0f5;strokeColor=#888899;" value="3. 太阴之精/水气之精｜《天官书》《淮南子》" vertex="1">
+          <mxGeometry height="22" width="780" x="10410" y="19098" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-342" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f0f5;strokeColor=#888899;" value="4. 金之精/水精｜《河图帝览嬉》《拾遗记》" vertex="1">
+          <mxGeometry height="22" width="780" x="10410" y="19122" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-343" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f0f5;strokeColor=#888899;" value="5. 众阴之长｜《汉书·李寻传》" vertex="1">
+          <mxGeometry height="22" width="780" x="10410" y="19146" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-344" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f0f5;strokeColor=#888899;" value="6. 月者，阙也｜《礼记》" vertex="1">
+          <mxGeometry height="22" width="780" x="10410" y="19170" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-345" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f0f5;strokeColor=#888899;" value="7. 月者，水也｜《范子计然》" vertex="1">
+          <mxGeometry height="22" width="780" x="10410" y="19194" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-346" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f0f5;strokeColor=#888899;" value="8. 坎为月｜《易说卦》" vertex="1">
+          <mxGeometry height="22" width="780" x="10410" y="19218" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-347" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f0f5;strokeColor=#888899;" value="9. 月中有蟾蜍/兔蛤｜张衡《灵宪》《演孔图》" vertex="1">
+          <mxGeometry height="22" width="780" x="10410" y="19242" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-348" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f0f5;strokeColor=#888899;" value="10. 月者，太阴之精，中有蟾蜍｜《春秋元命苞》" vertex="1">
+          <mxGeometry height="22" width="780" x="10410" y="19266" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-349" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f0f5;strokeColor=#888899;" value="11. 禀日之光而见其体｜杨泉《物理论》" vertex="1">
+          <mxGeometry height="22" width="780" x="10410" y="19290" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-350" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#004400;strokeWidth=1;align=center;" value="二、影响机制（日月如何作用于万物）" vertex="1">
+          <mxGeometry height="30" width="2500" x="8690" y="19324" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-351" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#fff8e0;strokeColor=#dd9900;" value="1. 阳之主｜《淮南子·天文训》" vertex="1">
+          <mxGeometry height="22" width="780" x="8690" y="19360" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-352" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#fff8e0;strokeColor=#dd9900;" value="2. 主生养恩德｜《礼统》" vertex="1">
+          <mxGeometry height="22" width="780" x="8690" y="19384" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-353" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#fff8e0;strokeColor=#dd9900;" value="3. 主施（施故仁）｜《春秋元命苞》" vertex="1">
+          <mxGeometry height="22" width="780" x="8690" y="19408" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-354" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#fff8e0;strokeColor=#dd9900;" value="4. 主光明（宣明于昼）｜张衡《灵宪》" vertex="1">
+          <mxGeometry height="22" width="780" x="8690" y="19432" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-355" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#fff8e0;strokeColor=#dd9900;" value="5. 日行一度，终而复始｜《范子计然》" vertex="1">
+          <mxGeometry height="22" width="780" x="8690" y="19456" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-356" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#fff8e0;strokeColor=#dd9900;" value="6. 行三百六十五度四分度之一｜《春秋元命包》" vertex="1">
+          <mxGeometry height="22" width="780" x="8690" y="19480" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-357" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#fff8e0;strokeColor=#dd9900;" value="7. 日行九州七舍｜《淮南子·天文训》" vertex="1">
+          <mxGeometry height="22" width="780" x="8690" y="19504" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-358" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#fff8e0;strokeColor=#dd9900;" value="8. 日一岁一周天，分四时，定八节｜《白虎通·日月》" vertex="1">
+          <mxGeometry height="22" width="780" x="8690" y="19528" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-359" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#fff8e0;strokeColor=#dd9900;" value="9. 阳燧见日则燃而为火｜《淮南子·天文训》" vertex="1">
+          <mxGeometry height="22" width="780" x="8690" y="19552" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-360" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#fff8e0;strokeColor=#dd9900;" value="10. 日躔二十八宿定节气｜《开元占经》" vertex="1">
+          <mxGeometry height="22" width="780" x="8690" y="19576" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-361" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#fff8e0;strokeColor=#dd9900;" value="11. 日主心·肾·一身之阳｜《灵枢·阴阳系日月》" vertex="1">
+          <mxGeometry height="22" width="780" x="8690" y="19600" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-362" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#fff8e0;strokeColor=#dd9900;" value="12. 日出旸谷，浴于咸池，拂于扶桑｜《淮南子》" vertex="1">
+          <mxGeometry height="22" width="780" x="8690" y="19624" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-363" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f8e8;strokeColor=#6aaa50;" value="1. 日月相推而明生焉｜《周易·系辞》" vertex="1">
+          <mxGeometry height="22" width="780" x="9550" y="19360" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-364" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f8e8;strokeColor=#6aaa50;" value="2. 日月运行，一寒一暑｜《周易·系辞》" vertex="1">
+          <mxGeometry height="22" width="780" x="9550" y="19384" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-365" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f8e8;strokeColor=#6aaa50;" value="3. 日月合朔（新月），产生朔望月｜《白虎通·日月》" vertex="1">
+          <mxGeometry height="22" width="780" x="9550" y="19408" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-366" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f8e8;strokeColor=#6aaa50;" value="4. 日月对望（满月），产生望｜《白虎通·日月》" vertex="1">
+          <mxGeometry height="22" width="780" x="9550" y="19432" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-367" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f8e8;strokeColor=#6aaa50;" value="5. 日月共同引起潮汐｜《论衡》" vertex="1">
+          <mxGeometry height="22" width="780" x="9550" y="19456" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-368" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f8e8;strokeColor=#6aaa50;" value="6. 日月合璧，五星连珠，为祥瑞｜《开元占经》" vertex="1">
+          <mxGeometry height="22" width="780" x="9550" y="19480" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-369" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f0f5;strokeColor=#888899;" value="1. 阴之宗｜《淮南子·天文训》" vertex="1">
+          <mxGeometry height="22" width="780" x="10410" y="19360" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-370" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f0f5;strokeColor=#888899;" value="2. 主阴｜《日月周天论》" vertex="1">
+          <mxGeometry height="22" width="780" x="10410" y="19384" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-371" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f0f5;strokeColor=#888899;" value="3. 主夜（纳明于夜）｜张衡《灵宪》" vertex="1">
+          <mxGeometry height="22" width="780" x="10410" y="19408" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-372" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f0f5;strokeColor=#888899;" value="4. 主刑（阴道也）｜《日月周天论》" vertex="1">
+          <mxGeometry height="22" width="780" x="10410" y="19432" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-373" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f0f5;strokeColor=#888899;" value="5. 月行十三度，周天复还及日｜《淮南子》" vertex="1">
+          <mxGeometry height="22" width="780" x="10410" y="19456" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-374" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f0f5;strokeColor=#888899;" value="6. 二十九日余而周天｜《淮南子·天文训》" vertex="1">
+          <mxGeometry height="22" width="780" x="10410" y="19480" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-375" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f0f5;strokeColor=#888899;" value="7. 月行九道｜《淮南子·天文训》" vertex="1">
+          <mxGeometry height="22" width="780" x="10410" y="19504" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-376" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f0f5;strokeColor=#888899;" value="8. 朔望晦（新月→满月→残月）｜《白虎通》" vertex="1">
+          <mxGeometry height="22" width="780" x="10410" y="19528" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-377" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f0f5;strokeColor=#888899;" value="9. 月三让而成魄，三复而成明｜《白虎通》" vertex="1">
+          <mxGeometry height="22" width="780" x="10410" y="19552" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-378" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f0f5;strokeColor=#888899;" value="10. 方诸见月则津而为水｜《淮南子》" vertex="1">
+          <mxGeometry height="22" width="780" x="10410" y="19576" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-379" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f0f5;strokeColor=#888899;" value="11. 月躔二十八宿断吉凶｜《开元占经》" vertex="1">
+          <mxGeometry height="22" width="780" x="10410" y="19600" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-380" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f0f5;strokeColor=#888899;" value="12. 月主脾胃·气血盛衰｜《灵枢·岁露论》" vertex="1">
+          <mxGeometry height="22" width="780" x="10410" y="19624" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-381" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#884400;strokeWidth=1;align=center;" value="三、地球反应（日月影响在地球上的表现）" vertex="1">
+          <mxGeometry height="30" width="2500" x="8690" y="19662" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-382" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#fff8e0;strokeColor=#dd9900;" value="1. 昼夜交替，日出而作｜《击壤歌》" vertex="1">
+          <mxGeometry height="22" width="780" x="8690" y="19698" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-383" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#fff8e0;strokeColor=#dd9900;" value="2. 冬至夏至昼夜长短变化｜杨泉《物理论》" vertex="1">
+          <mxGeometry height="22" width="780" x="8690" y="19722" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-384" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#fff8e0;strokeColor=#dd9900;" value="3. 春分秋分昼夜平分｜《春秋繁露》" vertex="1">
+          <mxGeometry height="22" width="780" x="8690" y="19746" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-385" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#fff8e0;strokeColor=#dd9900;" value="4. 万物生长靠日光｜《礼统》" vertex="1">
+          <mxGeometry height="22" width="780" x="8690" y="19770" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-386" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#fff8e0;strokeColor=#dd9900;" value="5. 日光照耀，草木繁茂｜《周易·说卦》" vertex="1">
+          <mxGeometry height="22" width="780" x="8690" y="19794" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-387" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#fff8e0;strokeColor=#dd9900;" value="6. 日出而林霏开｜欧阳修《醉翁亭记》" vertex="1">
+          <mxGeometry height="22" width="780" x="8690" y="19818" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-388" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#fff8e0;strokeColor=#dd9900;" value="7. 日入于崦嵫，息于蒙谷｜《淮南子》" vertex="1">
+          <mxGeometry height="22" width="780" x="8690" y="19842" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-389" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#fff8e0;strokeColor=#dd9900;" value="8. 日光驱虫辟邪｜民间习俗" vertex="1">
+          <mxGeometry height="22" width="780" x="8690" y="19866" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-390" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#fff8e0;strokeColor=#dd9900;" value="9. 日主昼，昼主阳，阳主外｜《灵枢》" vertex="1">
+          <mxGeometry height="22" width="780" x="8690" y="19890" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-391" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#fff8e0;strokeColor=#dd9900;" value="10. 冬日之日，夏日之日，爱畏不同｜《左传》" vertex="1">
+          <mxGeometry height="22" width="780" x="8690" y="19914" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-392" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f8e8;strokeColor=#6aaa50;" value="1. 昼夜交替，日月轮转｜《击壤歌》" vertex="1">
+          <mxGeometry height="22" width="780" x="9550" y="19698" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-393" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f8e8;strokeColor=#6aaa50;" value="2. 四季更替，寒暑往来｜《周易·系辞》" vertex="1">
+          <mxGeometry height="22" width="780" x="9550" y="19722" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-394" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f8e8;strokeColor=#6aaa50;" value="3. 回归年与朔望月结合，形成阴阳历｜《尚书·尧典》" vertex="1">
+          <mxGeometry height="22" width="780" x="9550" y="19746" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-395" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f8e8;strokeColor=#6aaa50;" value="4. 潮汐大潮（朔望），小潮（上下弦）｜《论衡》" vertex="1">
+          <mxGeometry height="22" width="780" x="9550" y="19770" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-396" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f8e8;strokeColor=#6aaa50;" value="5. 日月食现象（日食月食）｜《礼记·昏义》" vertex="1">
+          <mxGeometry height="22" width="780" x="9550" y="19794" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-397" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f0f5;strokeColor=#888899;" value="1. 月虚而鱼脑减｜《淮南子·天文训》" vertex="1">
+          <mxGeometry height="22" width="780" x="10410" y="19698" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-398" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f0f5;strokeColor=#888899;" value="2. 月望则蚌蛤实｜《淮南子·天文训》" vertex="1">
+          <mxGeometry height="22" width="780" x="10410" y="19722" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-399" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f0f5;strokeColor=#888899;" value="3. 月者，太阴之精，潮汐所系｜《论衡》" vertex="1">
+          <mxGeometry height="22" width="780" x="10410" y="19746" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-400" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f0f5;strokeColor=#888899;" value="4. 月三五而盈，三五而缺｜《礼记·礼运》" vertex="1">
+          <mxGeometry height="22" width="780" x="10410" y="19770" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-401" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f0f5;strokeColor=#888899;" value="5. 月主夜，夜主阴，阴主内｜《灵枢》" vertex="1">
+          <mxGeometry height="22" width="780" x="10410" y="19794" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-402" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f0f5;strokeColor=#888899;" value="6. 月出皎兮，夜行动物活动｜《诗经》" vertex="1">
+          <mxGeometry height="22" width="780" x="10410" y="19818" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-403" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#660000;strokeWidth=1;align=center;" value="四、人类反应（人类如何理解与回应日月）" vertex="1">
+          <mxGeometry height="30" width="2500" x="8690" y="19952" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-404" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#fff8e0;strokeColor=#dd9900;" value="1. 人君之象，君德如日｜《礼统》" vertex="1">
+          <mxGeometry height="22" width="380" x="8690" y="19988" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-405" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#fff8e0;strokeColor=#dd9900;" value="2. 众贵之象｜刘氏《正历》" vertex="1">
+          <mxGeometry height="22" width="380" x="8690" y="20012" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-406" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#fff8e0;strokeColor=#dd9900;" value="3. 王者以日为兄｜张衡《灵宪》注" vertex="1">
+          <mxGeometry height="22" width="380" x="8690" y="20036" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-407" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#fff8e0;strokeColor=#dd9900;" value="4. 君子之象｜《日月周天论》" vertex="1">
+          <mxGeometry height="22" width="380" x="8690" y="20060" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-408" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#fff8e0;strokeColor=#dd9900;" value="5. 日为父｜《周易·说卦》孔疏" vertex="1">
+          <mxGeometry height="22" width="380" x="8690" y="20084" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-409" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#fff8e0;strokeColor=#dd9900;" value="6. 日象礼，主德教｜《礼记·昏义》" vertex="1">
+          <mxGeometry height="22" width="380" x="8690" y="20108" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-410" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#fff8e0;strokeColor=#dd9900;" value="7. 君子法日之恒，自强不息｜《周易》" vertex="1">
+          <mxGeometry height="22" width="380" x="8690" y="20132" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-411" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#fff8e0;strokeColor=#dd9900;" value="8. 日新之谓盛德｜《周易·系辞》" vertex="1">
+          <mxGeometry height="22" width="380" x="8690" y="20156" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-412" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#fff8e0;strokeColor=#dd9900;" value="9. 日无偏照，君子法其公｜《礼记》" vertex="1">
+          <mxGeometry height="22" width="380" x="8690" y="20180" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-413" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#fff8e0;strokeColor=#dd9900;" value="10. 春分朝日于东郊｜《礼记·祭义》" vertex="1">
+          <mxGeometry height="22" width="380" x="8690" y="20204" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-414" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#fff8e0;strokeColor=#dd9900;" value="11. 祭日于坛｜《礼记·祭义》" vertex="1">
+          <mxGeometry height="22" width="380" x="9090" y="19988" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-415" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#fff8e0;strokeColor=#dd9900;" value="12. 祭日以牛｜《礼记·祭法》" vertex="1">
+          <mxGeometry height="22" width="380" x="9090" y="20012" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-416" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#fff8e0;strokeColor=#dd9900;" value="13. 日食修德行政｜《礼记·昏义》" vertex="1">
+          <mxGeometry height="22" width="380" x="9090" y="20036" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-417" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#fff8e0;strokeColor=#dd9900;" value="14. 羲和驭日，驾以六龙｜《淮南子》" vertex="1">
+          <mxGeometry height="22" width="380" x="9090" y="20060" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-418" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#fff8e0;strokeColor=#dd9900;" value="15. 十日并出，羿射九日｜《淮南子》" vertex="1">
+          <mxGeometry height="22" width="380" x="9090" y="20084" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-419" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#fff8e0;strokeColor=#dd9900;" value="16. 夸父逐日｜《山海经》" vertex="1">
+          <mxGeometry height="22" width="380" x="9090" y="20108" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-420" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#fff8e0;strokeColor=#dd9900;" value="17. 日出江花红胜火｜白居易" vertex="1">
+          <mxGeometry height="22" width="380" x="9090" y="20132" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-421" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#fff8e0;strokeColor=#dd9900;" value="18. 白日依山尽｜王之涣" vertex="1">
+          <mxGeometry height="22" width="380" x="9090" y="20156" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-422" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#fff8e0;strokeColor=#dd9900;" value="19. 正月初一迎日祈福｜《荆楚岁时记》" vertex="1">
+          <mxGeometry height="22" width="380" x="9090" y="20180" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-423" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#fff8e0;strokeColor=#dd9900;" value="20. 日初出不可指｜民间禁忌" vertex="1">
+          <mxGeometry height="22" width="380" x="9090" y="20204" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-424" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f8e8;strokeColor=#6aaa50;" value="1. 祭日于坛，祭月于坎，以别幽明｜《礼记·祭义》" vertex="1">
+          <mxGeometry height="22" width="780" x="9550" y="19988" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-425" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f8e8;strokeColor=#6aaa50;" value="2. 日食修德，月食修刑｜《礼记·昏义》" vertex="1">
+          <mxGeometry height="22" width="780" x="9550" y="20012" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-426" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f8e8;strokeColor=#6aaa50;" value="3. 春分朝日，秋分夕月｜《礼记·祭义》" vertex="1">
+          <mxGeometry height="22" width="780" x="9550" y="20036" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-427" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f8e8;strokeColor=#6aaa50;" value="4. 置闰以合四时，协调日月运行｜《尚书·尧典》" vertex="1">
+          <mxGeometry height="22" width="780" x="9550" y="20060" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-428" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f8e8;strokeColor=#6aaa50;" value="5. 日月为易，圣人法之以治天下｜《周易·系辞》" vertex="1">
+          <mxGeometry height="22" width="780" x="9550" y="20084" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-429" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f8e8;strokeColor=#6aaa50;" value="6. 君子观日月之象以修身｜《周易·大象》" vertex="1">
+          <mxGeometry height="22" width="780" x="9550" y="20108" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-430" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f8e8;strokeColor=#6aaa50;" value="7. 日月并明，君臣共治｜《尚书·洪范》" vertex="1">
+          <mxGeometry height="22" width="780" x="9550" y="20132" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-431" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f8e8;strokeColor=#6aaa50;" value="8. 日月合璧，国之大庆｜《开元占经》" vertex="1">
+          <mxGeometry height="22" width="780" x="9550" y="20156" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-432" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f0f5;strokeColor=#888899;" value="1. 妃后大臣诸侯之象｜《汉书·李寻传》" vertex="1">
+          <mxGeometry height="22" width="380" x="10410" y="19988" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-433" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f0f5;strokeColor=#888899;" value="2. 阴道，小人之道｜《日月周天论》" vertex="1">
+          <mxGeometry height="22" width="380" x="10410" y="20012" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-434" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f0f5;strokeColor=#888899;" value="3. 月者，刑也，主刑罚｜《淮南子》" vertex="1">
+          <mxGeometry height="22" width="380" x="10410" y="20036" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-435" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f0f5;strokeColor=#888899;" value="4. 月为水之宗，主阴德｜《春秋元命苞》" vertex="1">
+          <mxGeometry height="22" width="380" x="10410" y="20060" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-436" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f0f5;strokeColor=#888899;" value="5. 君子法月之谦｜《礼记》注" vertex="1">
+          <mxGeometry height="22" width="380" x="10410" y="20084" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-437" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f0f5;strokeColor=#888899;" value="6. 秋分夕月于西郊｜《礼记·祭义》" vertex="1">
+          <mxGeometry height="22" width="380" x="10410" y="20108" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-438" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f0f5;strokeColor=#888899;" value="7. 祭月于坎｜《礼记·祭义》" vertex="1">
+          <mxGeometry height="22" width="380" x="10410" y="20132" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-439" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f0f5;strokeColor=#888899;" value="8. 祭月以羊彘｜《礼记·祭法》" vertex="1">
+          <mxGeometry height="22" width="380" x="10410" y="20156" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-440" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f0f5;strokeColor=#888899;" value="9. 月食修六宫之职｜《礼记·昏义》" vertex="1">
+          <mxGeometry height="22" width="380" x="10410" y="20180" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-441" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f0f5;strokeColor=#888899;" value="10. 中秋祭月｜《东京梦华录》" vertex="1">
+          <mxGeometry height="22" width="380" x="10410" y="20204" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-442" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f0f5;strokeColor=#888899;" value="11. 常羲生月十有二｜《山海经》" vertex="1">
+          <mxGeometry height="22" width="380" x="10810" y="19988" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-443" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f0f5;strokeColor=#888899;" value="12. 嫦娥奔月｜《淮南子》" vertex="1">
+          <mxGeometry height="22" width="380" x="10810" y="20012" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-444" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f0f5;strokeColor=#888899;" value="13. 吴刚伐桂｜《酉阳杂俎》" vertex="1">
+          <mxGeometry height="22" width="380" x="10810" y="20036" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-445" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f0f5;strokeColor=#888899;" value="14. 玉兔捣药｜《太平御览》" vertex="1">
+          <mxGeometry height="22" width="380" x="10810" y="20060" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-446" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f0f5;strokeColor=#888899;" value="15. 月下老人牵红线｜《续幽怪录》" vertex="1">
+          <mxGeometry height="22" width="380" x="10810" y="20084" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-447" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f0f5;strokeColor=#888899;" value="16. 海上生明月｜张九龄" vertex="1">
+          <mxGeometry height="22" width="380" x="10810" y="20108" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-448" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f0f5;strokeColor=#888899;" value="17. 举头望明月｜李白" vertex="1">
+          <mxGeometry height="22" width="380" x="10810" y="20132" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-449" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f0f5;strokeColor=#888899;" value="18. 月圆不可指｜民间禁忌" vertex="1">
+          <mxGeometry height="22" width="380" x="10810" y="20156" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-450" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f0f5;strokeColor=#888899;" value="19. 婴儿不可见满月｜民间禁忌" vertex="1">
+          <mxGeometry height="22" width="380" x="10810" y="20180" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-451" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f0f5;strokeColor=#888899;" value="20. 八月十五供兔儿爷｜北京民俗" vertex="1">
+          <mxGeometry height="22" width="380" x="10810" y="20204" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-452" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=16;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#660000;strokeWidth=2;" value="总结" vertex="1">
+          <mxGeometry height="36" width="400" x="9690" y="20254" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-453" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff5f5;strokeColor=#b85450;fontSize=13;fontFamily=Microsoft YaHei;fontColor=#663333;align=center;spacingTop=8;dashed=1;" value="「日月相推而明生焉。」——《周易·系辞》&#xa;&#xa;日与月，非二物也，乃一阴一阳、一刚一柔、一施一受、一明一夜之两端。日无月则不显其恒，月无日则不能有其光。月禀日光而成其体，日因月行而分其岁。二者相推、相感、相成，共构天地之节律与人伦之纲纪。故古人言「日月为易」，明其相须而不相离也。" vertex="1">
+          <mxGeometry height="90" width="1800" x="9020" y="20302" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
