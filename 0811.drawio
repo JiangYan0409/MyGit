@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="PuLjtf2pLbviaWbeD8w5">
-    <mxGraphModel dx="2790" dy="1980" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="698" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2673,6 +2673,429 @@
         </mxCell>
         <mxCell id="he2GaYkOudRTViyqP790-453" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff5f5;strokeColor=#b85450;fontSize=13;fontFamily=Microsoft YaHei;fontColor=#663333;align=center;spacingTop=8;dashed=1;" value="「日月相推而明生焉。」——《周易·系辞》&#xa;&#xa;日与月，非二物也，乃一阴一阳、一刚一柔、一施一受、一明一夜之两端。日无月则不显其恒，月无日则不能有其光。月禀日光而成其体，日因月行而分其岁。二者相推、相感、相成，共构天地之节律与人伦之纲纪。故古人言「日月为易」，明其相须而不相离也。" vertex="1">
           <mxGeometry height="90" width="1800" x="9020" y="20302" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-455" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=22;fontStyle=1;fontFamily=Microsoft YaHei;strokeWidth=3;shadow=1;" value="五星四层框架全图（古代认知完整版）" vertex="1">
+          <mxGeometry height="48" width="1200" x="12420" y="18870" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-456" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontFamily=Microsoft YaHei;fontColor=#8899bb;fontStyle=2;" value="自身属性 → 影响机制 → 地球反应 → 人类反应   |   木（岁星）· 火（荧惑）· 土（镇星）· 金（太白）· 水（辰星）· 全部标注文献出处" vertex="1">
+          <mxGeometry height="24" width="1800" x="12120" y="18922" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-457" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d4e8c0;strokeColor=#6aaa50;fontSize=15;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#224400;strokeWidth=2;shadow=1;" value="🌳 木星（岁星）" vertex="1">
+          <mxGeometry height="36" width="480" x="11740" y="18954" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-458" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=15;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#660000;strokeWidth=2;shadow=1;" value="🔥 火星（荧惑）" vertex="1">
+          <mxGeometry height="36" width="480" x="12260" y="18954" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-459" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=15;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#884400;strokeWidth=2;shadow=1;" value="🏔 土星（镇星）" vertex="1">
+          <mxGeometry height="36" width="480" x="12780" y="18954" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-460" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#999999;fontSize=15;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#444455;strokeWidth=2;shadow=1;" value="⚔ 金星（太白）" vertex="1">
+          <mxGeometry height="36" width="480" x="13300" y="18954" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-461" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#003366;strokeWidth=2;shadow=1;" value="💧 水星（辰星）" vertex="1">
+          <mxGeometry height="36" width="480" x="13820" y="18954" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-462" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d4e8c0;strokeColor=#6aaa50;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#224400;align=center;" value="一、自身属性" vertex="1">
+          <mxGeometry height="26" width="480" x="11740" y="18998" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-463" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#f0f8e8;strokeColor=#6aaa50;" value="1. 岁星，木之精，苍帝之子｜《春秋元命苞》" vertex="1">
+          <mxGeometry height="20" width="480" x="11740" y="19026" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-464" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#f0f8e8;strokeColor=#6aaa50;" value="2. 岁星属木，主春，主仁｜《淮南子·天文训》" vertex="1">
+          <mxGeometry height="20" width="480" x="11740" y="19048" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-465" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#f0f8e8;strokeColor=#6aaa50;" value="3. 岁星，东方木，其色苍｜《史记·天官书》" vertex="1">
+          <mxGeometry height="20" width="480" x="11740" y="19070" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-466" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#f0f8e8;strokeColor=#6aaa50;" value="4. 岁星为岁之首，主岁功｜《史记·天官书》" vertex="1">
+          <mxGeometry height="20" width="480" x="11740" y="19092" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-467" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#f0f8e8;strokeColor=#6aaa50;" value="5. 岁星一名摄提，一名重华，一名应星｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="480" x="11740" y="19114" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-468" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#f0f8e8;strokeColor=#6aaa50;" value="6. 岁星十二岁一周天｜《史记·天官书》" vertex="1">
+          <mxGeometry height="20" width="480" x="11740" y="19136" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-469" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#f0f8e8;strokeColor=#6aaa50;" value="7. 岁星居东方，主春，其日甲乙｜《礼记·月令》" vertex="1">
+          <mxGeometry height="20" width="480" x="11740" y="19158" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-470" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#f0f8e8;strokeColor=#6aaa50;" value="8. 岁星，木之精，其兽苍龙｜《史记·天官书》索隐" vertex="1">
+          <mxGeometry height="20" width="480" x="11740" y="19180" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-471" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d4e8c0;strokeColor=#6aaa50;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#224400;align=center;" value="二、影响机制" vertex="1">
+          <mxGeometry height="26" width="480" x="11740" y="19204" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-472" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#f0f8e8;strokeColor=#6aaa50;" value="1. 岁星每岁行一次，十二岁而周天｜《淮南子》" vertex="1">
+          <mxGeometry height="20" width="480" x="11740" y="19232" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-473" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#f0f8e8;strokeColor=#6aaa50;" value="2. 岁星所在，国不可伐，可以伐人｜《史记·天官书》" vertex="1">
+          <mxGeometry height="20" width="480" x="11740" y="19254" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-474" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#f0f8e8;strokeColor=#6aaa50;" value="3. 岁星超舍而前为赢，退舍为缩｜《史记·天官书》" vertex="1">
+          <mxGeometry height="20" width="480" x="11740" y="19276" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-475" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#f0f8e8;strokeColor=#6aaa50;" value="4. 岁星行失次，所居之国有灾｜《汉书·天文志》" vertex="1">
+          <mxGeometry height="20" width="480" x="11740" y="19298" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-476" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#f0f8e8;strokeColor=#6aaa50;" value="5. 岁星与太岁相应｜《淮南子·天文训》" vertex="1">
+          <mxGeometry height="20" width="480" x="11740" y="19320" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-477" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#f0f8e8;strokeColor=#6aaa50;" value="6. 岁星变色占：青主忧，赤主旱，白主丧｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="480" x="11740" y="19342" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-478" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#f0f8e8;strokeColor=#6aaa50;" value="7. 岁星入月，主其野有逐君｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="480" x="11740" y="19364" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-479" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d4e8c0;strokeColor=#6aaa50;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#224400;align=center;" value="三、地球反应" vertex="1">
+          <mxGeometry height="26" width="480" x="11740" y="19390" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-480" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#f0f8e8;strokeColor=#6aaa50;" value="1. 岁星所居之分野，五谷丰昌｜《史记·天官书》" vertex="1">
+          <mxGeometry height="20" width="480" x="11740" y="19418" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-481" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#f0f8e8;strokeColor=#6aaa50;" value="2. 岁星失次，其分野有饥荒、兵革｜《汉书·天文志》" vertex="1">
+          <mxGeometry height="20" width="480" x="11740" y="19440" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-482" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#f0f8e8;strokeColor=#6aaa50;" value="3. 岁星守心，主年丰；守角，主水灾｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="480" x="11740" y="19462" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-483" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#f0f8e8;strokeColor=#6aaa50;" value="4. 岁星与土星合，主内乱；与火星合，主旱｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="480" x="11740" y="19484" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-484" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#f0f8e8;strokeColor=#6aaa50;" value="5. 岁星昼见，主臣强；岁星入月，主女主忧｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="480" x="11740" y="19506" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-485" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d4e8c0;strokeColor=#6aaa50;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#224400;align=center;" value="四、人类反应" vertex="1">
+          <mxGeometry height="26" width="480" x="11740" y="19532" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-486" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#f0f8e8;strokeColor=#6aaa50;" value="1. 太岁之神，不可冲犯，动土须避｜《协纪辨方书》" vertex="1">
+          <mxGeometry height="20" width="480" x="11740" y="19560" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-487" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#f0f8e8;strokeColor=#6aaa50;" value="2. 岁星占验，为国之大政｜《史记·天官书》" vertex="1">
+          <mxGeometry height="20" width="480" x="11740" y="19582" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-488" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#f0f8e8;strokeColor=#6aaa50;" value="3. 春祭岁星于东郊｜《礼记·月令》" vertex="1">
+          <mxGeometry height="20" width="480" x="11740" y="19604" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-489" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#f0f8e8;strokeColor=#6aaa50;" value="4. 太岁、岁阴，主岁功｜《淮南子·天文训》" vertex="1">
+          <mxGeometry height="20" width="480" x="11740" y="19626" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-490" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#f0f8e8;strokeColor=#6aaa50;" value="5. 岁星所在，不可兴兵｜《史记·天官书》" vertex="1">
+          <mxGeometry height="20" width="480" x="11740" y="19648" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-491" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#f0f8e8;strokeColor=#6aaa50;" value="6. 岁星为德星，其国昌｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="480" x="11740" y="19670" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-492" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#660000;align=center;" value="一、自身属性" vertex="1">
+          <mxGeometry height="26" width="480" x="12260" y="18998" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-493" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fdeaea;strokeColor=#b85450;" value="1. 荧惑，火之精，赤帝之子｜《春秋元命苞》" vertex="1">
+          <mxGeometry height="20" width="480" x="12260" y="19026" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-494" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fdeaea;strokeColor=#b85450;" value="2. 荧惑属火，主夏，主礼｜《淮南子·天文训》" vertex="1">
+          <mxGeometry height="20" width="480" x="12260" y="19048" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-495" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fdeaea;strokeColor=#b85450;" value="3. 荧惑，南方火，其色赤｜《史记·天官书》" vertex="1">
+          <mxGeometry height="20" width="480" x="12260" y="19070" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-496" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fdeaea;strokeColor=#b85450;" value="4. 荧惑一名罚星，一名执法｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="480" x="12260" y="19092" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-497" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fdeaea;strokeColor=#b85450;" value="5. 荧惑行无常，出则有兵，入则兵散｜《史记》" vertex="1">
+          <mxGeometry height="20" width="480" x="12260" y="19114" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-498" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fdeaea;strokeColor=#b85450;" value="6. 荧惑，火之精，其兽朱雀｜《史记》索隐" vertex="1">
+          <mxGeometry height="20" width="480" x="12260" y="19136" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-499" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fdeaea;strokeColor=#b85450;" value="7. 荧惑主死丧，主兵乱，主疾疫｜《汉书·天文志》" vertex="1">
+          <mxGeometry height="20" width="480" x="12260" y="19158" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-500" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#660000;align=center;" value="二、影响机制" vertex="1">
+          <mxGeometry height="26" width="480" x="12260" y="19182" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-501" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fdeaea;strokeColor=#b85450;" value="1. 荧惑逆行、留、守，主兵起｜《史记·天官书》" vertex="1">
+          <mxGeometry height="20" width="480" x="12260" y="19210" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-502" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fdeaea;strokeColor=#b85450;" value="2. 荧惑守心，主天子有忧｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="480" x="12260" y="19232" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-503" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fdeaea;strokeColor=#b85450;" value="3. 荧惑入太微，主宫廷有乱｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="480" x="12260" y="19254" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-504" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fdeaea;strokeColor=#b85450;" value="4. 荧惑与太白合，主兵大起｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="480" x="12260" y="19276" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-505" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fdeaea;strokeColor=#b85450;" value="5. 荧惑色变：赤甚主旱，白主丧，青主忧｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="480" x="12260" y="19298" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-506" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fdeaea;strokeColor=#b85450;" value="6. 荧惑行疾主兵速，行迟主兵缓｜《汉书·天文志》" vertex="1">
+          <mxGeometry height="20" width="480" x="12260" y="19320" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-507" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#660000;align=center;" value="三、地球反应" vertex="1">
+          <mxGeometry height="26" width="480" x="12260" y="19346" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-508" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fdeaea;strokeColor=#b85450;" value="1. 荧惑所居之分野，有兵灾、火灾、旱灾｜《史记》" vertex="1">
+          <mxGeometry height="20" width="480" x="12260" y="19374" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-509" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fdeaea;strokeColor=#b85450;" value="2. 荧惑守心，主天下大旱｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="480" x="12260" y="19396" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-510" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fdeaea;strokeColor=#b85450;" value="3. 荧惑入毕，主边境有兵｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="480" x="12260" y="19418" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-511" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fdeaea;strokeColor=#b85450;" value="4. 荧惑与岁星合，主大旱；与辰星合，主大水｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="480" x="12260" y="19440" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-512" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fdeaea;strokeColor=#b85450;" value="5. 荧惑昼见，主天下大乱｜《汉书·天文志》" vertex="1">
+          <mxGeometry height="20" width="480" x="12260" y="19462" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-513" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#660000;align=center;" value="四、人类反应" vertex="1">
+          <mxGeometry height="26" width="480" x="12260" y="19488" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-514" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fdeaea;strokeColor=#b85450;" value="1. 荧惑占验，主兵刑，国君修德以禳之｜《史记》" vertex="1">
+          <mxGeometry height="20" width="480" x="12260" y="19516" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-515" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fdeaea;strokeColor=#b85450;" value="2. 夏祭火星于南郊｜《礼记·月令》" vertex="1">
+          <mxGeometry height="20" width="480" x="12260" y="19538" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-516" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fdeaea;strokeColor=#b85450;" value="3. 荧惑为罚星，主刑罚｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="480" x="12260" y="19560" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-517" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fdeaea;strokeColor=#b85450;" value="4. 火神祝融，主南方｜《淮南子·天文训》" vertex="1">
+          <mxGeometry height="20" width="480" x="12260" y="19582" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-518" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fdeaea;strokeColor=#b85450;" value="5. 荧惑守心，为最凶之兆，史不绝书｜《汉书》" vertex="1">
+          <mxGeometry height="20" width="480" x="12260" y="19604" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-519" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#884400;align=center;" value="一、自身属性" vertex="1">
+          <mxGeometry height="26" width="480" x="12780" y="18998" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-520" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fff4e6;strokeColor=#d79b00;" value="1. 镇星，土之精，黄帝之子｜《春秋元命苞》" vertex="1">
+          <mxGeometry height="20" width="480" x="12780" y="19026" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-521" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fff4e6;strokeColor=#d79b00;" value="2. 镇星属土，主季夏，主信｜《淮南子·天文训》" vertex="1">
+          <mxGeometry height="20" width="480" x="12780" y="19048" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-522" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fff4e6;strokeColor=#d79b00;" value="3. 镇星，中央土，其色黄｜《史记·天官书》" vertex="1">
+          <mxGeometry height="20" width="480" x="12780" y="19070" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-523" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fff4e6;strokeColor=#d79b00;" value="4. 镇星一名地候，一名卿魄｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="480" x="12780" y="19092" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-524" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fff4e6;strokeColor=#d79b00;" value="5. 镇星二十八岁一周天｜《史记·天官书》" vertex="1">
+          <mxGeometry height="20" width="480" x="12780" y="19114" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-525" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fff4e6;strokeColor=#d79b00;" value="6. 镇星，土之精，其兽勾陈｜《史记》索隐" vertex="1">
+          <mxGeometry height="20" width="480" x="12780" y="19136" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-526" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fff4e6;strokeColor=#d79b00;" value="7. 镇星主女主、主土功、主德｜《汉书·天文志》" vertex="1">
+          <mxGeometry height="20" width="480" x="12780" y="19158" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-527" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#884400;align=center;" value="二、影响机制" vertex="1">
+          <mxGeometry height="26" width="480" x="12780" y="19182" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-528" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fff4e6;strokeColor=#d79b00;" value="1. 镇星每岁镇一宿，二十八岁而周天｜《淮南子》" vertex="1">
+          <mxGeometry height="20" width="480" x="12780" y="19210" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-529" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fff4e6;strokeColor=#d79b00;" value="2. 镇星所居之分野，其国有福｜《史记·天官书》" vertex="1">
+          <mxGeometry height="20" width="480" x="12780" y="19232" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-530" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fff4e6;strokeColor=#d79b00;" value="3. 镇星失次，所居之国有土功、地震｜《汉书》" vertex="1">
+          <mxGeometry height="20" width="480" x="12780" y="19254" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-531" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fff4e6;strokeColor=#d79b00;" value="4. 镇星与岁星合，主内乱；与荧惑合，主旱｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="480" x="12780" y="19276" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-532" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fff4e6;strokeColor=#d79b00;" value="5. 镇星色变：黄主丰，白主丧，青主忧｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="480" x="12780" y="19298" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-533" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fff4e6;strokeColor=#d79b00;" value="6. 镇星入月，主女主忧｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="480" x="12780" y="19320" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-534" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#884400;align=center;" value="三、地球反应" vertex="1">
+          <mxGeometry height="26" width="480" x="12780" y="19346" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-535" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fff4e6;strokeColor=#d79b00;" value="1. 镇星所居之分野，五谷熟，人民安｜《史记》" vertex="1">
+          <mxGeometry height="20" width="480" x="12780" y="19374" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-536" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fff4e6;strokeColor=#d79b00;" value="2. 镇星失次，其分野有地震、山崩｜《汉书》" vertex="1">
+          <mxGeometry height="20" width="480" x="12780" y="19396" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-537" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fff4e6;strokeColor=#d79b00;" value="3. 镇星守南斗，主五谷丰登｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="480" x="12780" y="19418" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-538" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fff4e6;strokeColor=#d79b00;" value="4. 镇星与辰星合，主大水｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="480" x="12780" y="19440" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-539" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#884400;align=center;" value="四、人类反应" vertex="1">
+          <mxGeometry height="26" width="480" x="12780" y="19466" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-540" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fff4e6;strokeColor=#d79b00;" value="1. 镇星占验，主土功、女主、德政｜《史记》" vertex="1">
+          <mxGeometry height="20" width="480" x="12780" y="19494" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-541" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fff4e6;strokeColor=#d79b00;" value="2. 季夏祭土星于中郊｜《礼记·月令》" vertex="1">
+          <mxGeometry height="20" width="480" x="12780" y="19516" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-542" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fff4e6;strokeColor=#d79b00;" value="3. 镇星为德星，其国昌｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="480" x="12780" y="19538" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-543" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fff4e6;strokeColor=#d79b00;" value="4. 后土，主中央｜《淮南子·天文训》" vertex="1">
+          <mxGeometry height="20" width="480" x="12780" y="19560" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-544" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fff4e6;strokeColor=#d79b00;" value="5. 镇星失次，国君修宫室、慎女主｜《汉书》" vertex="1">
+          <mxGeometry height="20" width="480" x="12780" y="19582" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-545" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#999999;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#444455;align=center;" value="一、自身属性" vertex="1">
+          <mxGeometry height="26" width="480" x="13300" y="18998" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-546" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#f5f5f5;strokeColor=#999999;" value="1. 太白，金之精，白帝之子｜《春秋元命苞》" vertex="1">
+          <mxGeometry height="20" width="480" x="13300" y="19026" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-547" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#f5f5f5;strokeColor=#999999;" value="2. 太白属金，主秋，主义｜《淮南子·天文训》" vertex="1">
+          <mxGeometry height="20" width="480" x="13300" y="19048" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-548" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#f5f5f5;strokeColor=#999999;" value="3. 太白，西方金，其色白｜《史记·天官书》" vertex="1">
+          <mxGeometry height="20" width="480" x="13300" y="19070" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-549" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#f5f5f5;strokeColor=#999999;" value="4. 太白一名殷星，一名太正，一名营星｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="480" x="13300" y="19092" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-550" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#f5f5f5;strokeColor=#999999;" value="5. 太白晨出东方为启明，夕出西方为长庚｜《诗经》" vertex="1">
+          <mxGeometry height="20" width="480" x="13300" y="19114" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-551" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#f5f5f5;strokeColor=#999999;" value="6. 太白主兵革、主刑罚、主杀伐｜《汉书·天文志》" vertex="1">
+          <mxGeometry height="20" width="480" x="13300" y="19136" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-552" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#f5f5f5;strokeColor=#999999;" value="7. 太白，金之精，其兽白虎｜《史记》索隐" vertex="1">
+          <mxGeometry height="20" width="480" x="13300" y="19158" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-553" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#999999;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#444455;align=center;" value="二、影响机制" vertex="1">
+          <mxGeometry height="26" width="480" x="13300" y="19182" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-554" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#f5f5f5;strokeColor=#999999;" value="1. 太白出西方，主兵；出东方，主德｜《史记》" vertex="1">
+          <mxGeometry height="20" width="480" x="13300" y="19210" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-555" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#f5f5f5;strokeColor=#999999;" value="2. 太白昼见经天，主天下大乱｜《汉书》" vertex="1">
+          <mxGeometry height="20" width="480" x="13300" y="19232" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-556" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#f5f5f5;strokeColor=#999999;" value="3. 太白与荧惑合，主兵大起｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="480" x="13300" y="19254" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-557" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#f5f5f5;strokeColor=#999999;" value="4. 太白入月，主女主忧、大臣死｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="480" x="13300" y="19276" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-558" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#f5f5f5;strokeColor=#999999;" value="5. 太白色变：白甚主丧，赤主兵，青主忧｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="480" x="13300" y="19298" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-559" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#f5f5f5;strokeColor=#999999;" value="6. 太白行疾主兵速，行迟主兵缓｜《汉书》" vertex="1">
+          <mxGeometry height="20" width="480" x="13300" y="19320" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-560" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#999999;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#444455;align=center;" value="三、地球反应" vertex="1">
+          <mxGeometry height="26" width="480" x="13300" y="19346" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-561" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#f5f5f5;strokeColor=#999999;" value="1. 太白所居之分野，有兵灾、旱灾｜《史记》" vertex="1">
+          <mxGeometry height="20" width="480" x="13300" y="19374" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-562" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#f5f5f5;strokeColor=#999999;" value="2. 太白昼见，主天下大旱、大兵｜《汉书》" vertex="1">
+          <mxGeometry height="20" width="480" x="13300" y="19396" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-563" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#f5f5f5;strokeColor=#999999;" value="3. 太白守昴，主边境有兵｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="480" x="13300" y="19418" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-564" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#f5f5f5;strokeColor=#999999;" value="4. 太白与辰星合，主大水｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="480" x="13300" y="19440" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-565" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#999999;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#444455;align=center;" value="四、人类反应" vertex="1">
+          <mxGeometry height="26" width="480" x="13300" y="19466" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-566" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#f5f5f5;strokeColor=#999999;" value="1. 太白占验，主兵刑，国君修武备｜《史记》" vertex="1">
+          <mxGeometry height="20" width="480" x="13300" y="19494" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-567" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#f5f5f5;strokeColor=#999999;" value="2. 秋祭金星于西郊｜《礼记·月令》" vertex="1">
+          <mxGeometry height="20" width="480" x="13300" y="19516" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-568" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#f5f5f5;strokeColor=#999999;" value="3. 太白为兵星，主杀伐｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="480" x="13300" y="19538" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-569" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#f5f5f5;strokeColor=#999999;" value="4. 金神蓐收，主西方｜《淮南子·天文训》" vertex="1">
+          <mxGeometry height="20" width="480" x="13300" y="19560" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-570" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#f5f5f5;strokeColor=#999999;" value="5. 太白昼见，为兵乱之兆，史书多载｜《汉书》" vertex="1">
+          <mxGeometry height="20" width="480" x="13300" y="19582" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-571" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#003366;align=center;" value="一、自身属性" vertex="1">
+          <mxGeometry height="26" width="480" x="13820" y="18998" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-572" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#e8f0f8;strokeColor=#6c8ebf;" value="1. 辰星，水之精，黑帝之子｜《春秋元命苞》" vertex="1">
+          <mxGeometry height="20" width="480" x="13820" y="19026" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-573" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#e8f0f8;strokeColor=#6c8ebf;" value="2. 辰星属水，主冬，主智｜《淮南子·天文训》" vertex="1">
+          <mxGeometry height="20" width="480" x="13820" y="19048" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-574" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#e8f0f8;strokeColor=#6c8ebf;" value="3. 辰星，北方水，其色黑｜《史记·天官书》" vertex="1">
+          <mxGeometry height="20" width="480" x="13820" y="19070" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-575" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#e8f0f8;strokeColor=#6c8ebf;" value="4. 辰星一名北方，一名玄武，一名龟星｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="480" x="13820" y="19092" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-576" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#e8f0f8;strokeColor=#6c8ebf;" value="5. 辰星主水灾、主盗贼、主刑狱｜《汉书》" vertex="1">
+          <mxGeometry height="20" width="480" x="13820" y="19114" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-577" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#e8f0f8;strokeColor=#6c8ebf;" value="6. 辰星，水之精，其兽玄武｜《史记》索隐" vertex="1">
+          <mxGeometry height="20" width="480" x="13820" y="19136" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-578" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#e8f0f8;strokeColor=#6c8ebf;" value="7. 辰星出无常，主水旱｜《史记·天官书》" vertex="1">
+          <mxGeometry height="20" width="480" x="13820" y="19158" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-579" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#003366;align=center;" value="二、影响机制" vertex="1">
+          <mxGeometry height="26" width="480" x="13820" y="19182" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-580" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#e8f0f8;strokeColor=#6c8ebf;" value="1. 辰星出东方，主水；出西方，主旱｜《史记》" vertex="1">
+          <mxGeometry height="20" width="480" x="13820" y="19210" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-581" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#e8f0f8;strokeColor=#6c8ebf;" value="2. 辰星入月，主女主忧、大臣死｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="480" x="13820" y="19232" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-582" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#e8f0f8;strokeColor=#6c8ebf;" value="3. 辰星与荧惑合，主大水；与太白合，主兵｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="480" x="13820" y="19254" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-583" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#e8f0f8;strokeColor=#6c8ebf;" value="4. 辰星色变：黑甚主大水，白主旱，赤主兵｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="480" x="13820" y="19276" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-584" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#e8f0f8;strokeColor=#6c8ebf;" value="5. 辰星行疾主水速，行迟主水缓｜《汉书》" vertex="1">
+          <mxGeometry height="20" width="480" x="13820" y="19298" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-585" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#003366;align=center;" value="三、地球反应" vertex="1">
+          <mxGeometry height="26" width="480" x="13820" y="19324" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-586" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#e8f0f8;strokeColor=#6c8ebf;" value="1. 辰星所居之分野，有水灾、旱灾｜《史记》" vertex="1">
+          <mxGeometry height="20" width="480" x="13820" y="19352" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-587" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#e8f0f8;strokeColor=#6c8ebf;" value="2. 辰星昼见，主天下大水｜《汉书》" vertex="1">
+          <mxGeometry height="20" width="480" x="13820" y="19374" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-588" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#e8f0f8;strokeColor=#6c8ebf;" value="3. 辰星守虚，主大水；守危，主旱｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="480" x="13820" y="19396" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-589" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#e8f0f8;strokeColor=#6c8ebf;" value="4. 辰星与镇星合，主地震｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="480" x="13820" y="19418" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-590" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#003366;align=center;" value="四、人类反应" vertex="1">
+          <mxGeometry height="26" width="480" x="13820" y="19444" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-591" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#e8f0f8;strokeColor=#6c8ebf;" value="1. 辰星占验，主水旱、盗贼、刑狱｜《史记》" vertex="1">
+          <mxGeometry height="20" width="480" x="13820" y="19472" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-592" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#e8f0f8;strokeColor=#6c8ebf;" value="2. 冬祭水星于北郊｜《礼记·月令》" vertex="1">
+          <mxGeometry height="20" width="480" x="13820" y="19494" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-593" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#e8f0f8;strokeColor=#6c8ebf;" value="3. 辰星为刑星，主刑罚｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="480" x="13820" y="19516" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-594" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#e8f0f8;strokeColor=#6c8ebf;" value="4. 水神玄冥，主北方｜《淮南子·天文训》" vertex="1">
+          <mxGeometry height="20" width="480" x="13820" y="19538" as="geometry" />
+        </mxCell>
+        <mxCell id="he2GaYkOudRTViyqP790-595" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#e8f0f8;strokeColor=#6c8ebf;" value="5. 辰星出没异常，国君修水利、慎刑罚｜《汉书》" vertex="1">
+          <mxGeometry height="20" width="480" x="13820" y="19560" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
