@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net">
   <diagram name="天球体系 + 七政标注" id="oYeRGJrKcREHI5oMPTO9">
-    <mxGraphModel dx="5580" dy="3960" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="1188" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="qNWpDxCwMOwC-ozYdzcX-55" connectable="0" parent="1" style="group;aspect=fixed;fontSize=50;" value="" vertex="1">
-          <mxGeometry height="4170" width="4409.94" x="199" y="200" as="geometry" />
+          <mxGeometry height="4170" width="4451" x="199" y="200" as="geometry" />
         </mxCell>
         <mxCell id="qNWpDxCwMOwC-ozYdzcX-4" parent="qNWpDxCwMOwC-ozYdzcX-55" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6699cc;strokeWidth=2.5;opacity=60;fontSize=50;" value="" vertex="1">
           <mxGeometry height="1787.1428571428567" width="4408.244873267372" x="1.6951267326275972" y="1191.428571428571" as="geometry" />
@@ -37,14 +37,14 @@
         <mxCell id="qNWpDxCwMOwC-ozYdzcX-5" parent="qNWpDxCwMOwC-ozYdzcX-55" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontFamily=Microsoft YaHei;fontColor=#5588bb;fontStyle=1;" value="天球赤道" vertex="1">
           <mxGeometry height="107.2285714285714" width="416.996136660427" x="1967.5340567032124" y="1042.4999999999998" as="geometry" />
         </mxCell>
-        <mxCell id="qNWpDxCwMOwC-ozYdzcX-6" parent="qNWpDxCwMOwC-ozYdzcX-55" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#dd9900;strokeWidth=2.5;opacity=70;rotation=23.5;fontSize=50;" value="" vertex="1">
+        <mxCell id="qNWpDxCwMOwC-ozYdzcX-6" parent="qNWpDxCwMOwC-ozYdzcX-55" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#dd9900;strokeWidth=2.5;opacity=70;rotation=23.5;fontSize=50;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" value="" vertex="1">
           <mxGeometry height="1489.2857142857133" width="4169.9613666042715" x="120.83688006417817" y="1340.3571428571424" as="geometry" />
         </mxCell>
         <mxCell id="qNWpDxCwMOwC-ozYdzcX-7" parent="qNWpDxCwMOwC-ozYdzcX-55" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontFamily=Microsoft YaHei;fontColor=#dd9900;fontStyle=1;" value="黄道（日轨）" vertex="1">
           <mxGeometry height="107.2285714285714" width="476.5670133262024" x="359.12038672727925" y="1191.428571428571" as="geometry" />
         </mxCell>
         <mxCell id="qNWpDxCwMOwC-ozYdzcX-9" parent="qNWpDxCwMOwC-ozYdzcX-55" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontFamily=Microsoft YaHei;fontColor=#d4c090;fontStyle=2;opacity=60;" value="黄道带" vertex="1">
-          <mxGeometry height="95.31428571428569" width="357.42525999465175" x="2027.104933368987" y="1191.428571428571" as="geometry" />
+          <mxGeometry height="95.31428571428569" width="357.42525999465175" x="2281.214933368987" y="1298.6585714285711" as="geometry" />
         </mxCell>
         <mxCell id="qNWpDxCwMOwC-ozYdzcX-10" parent="qNWpDxCwMOwC-ozYdzcX-55" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffcc44;strokeColor=#cc9900;strokeWidth=2.5;shadow=1;fontSize=50;" value="" vertex="1">
           <mxGeometry height="107.2285714285714" width="107.22757799839552" x="2146.246686700538" y="178.71428571428564" as="geometry" />
@@ -116,83 +116,47 @@
         <mxCell id="qNWpDxCwMOwC-ozYdzcX-38" parent="qNWpDxCwMOwC-ozYdzcX-55" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontFamily=Microsoft YaHei;fontColor=#998844;fontStyle=1;" value="土星（镇星）" vertex="1">
           <mxGeometry height="95.31428571428569" width="327.63982166176413" x="1383.7394653786143" y="2311.3714285714277" as="geometry" />
         </mxCell>
-        <mxCell id="qNWpDxCwMOwC-ozYdzcX-92" connectable="0" parent="qNWpDxCwMOwC-ozYdzcX-55" style="group;" value="" vertex="1">
-          <mxGeometry height="348" width="400" x="1841" y="1450" as="geometry" />
-        </mxCell>
-        <mxCell id="qNWpDxCwMOwC-ozYdzcX-80" parent="qNWpDxCwMOwC-ozYdzcX-92" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ccccdd;strokeColor=#888899;fontSize=15;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#444455;strokeWidth=2;shadow=1;" value="🌙 月 · 阴之精" vertex="1">
-          <mxGeometry height="42" width="400" y="33" as="geometry" />
-        </mxCell>
-        <mxCell id="qNWpDxCwMOwC-ozYdzcX-81" parent="qNWpDxCwMOwC-ozYdzcX-92" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;spacingLeft=6;fillColor=#f0f0f5;strokeColor=#888899;" value="1. 群阴之宗｜皇甫谧《年历》" vertex="1">
-          <mxGeometry height="22" width="400" y="86" as="geometry" />
-        </mxCell>
-        <mxCell id="qNWpDxCwMOwC-ozYdzcX-82" parent="qNWpDxCwMOwC-ozYdzcX-92" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;spacingLeft=6;fillColor=#f0f0f5;strokeColor=#888899;" value="2. 阴精之宗｜张衡《灵宪》" vertex="1">
-          <mxGeometry height="22" width="400" y="110" as="geometry" />
-        </mxCell>
-        <mxCell id="qNWpDxCwMOwC-ozYdzcX-83" parent="qNWpDxCwMOwC-ozYdzcX-92" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;spacingLeft=6;fillColor=#f0f0f5;strokeColor=#888899;" value="3. 太阴之精/水气之精｜《天官书》《淮南子》" vertex="1">
-          <mxGeometry height="22" width="400" y="134" as="geometry" />
-        </mxCell>
-        <mxCell id="qNWpDxCwMOwC-ozYdzcX-84" parent="qNWpDxCwMOwC-ozYdzcX-92" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;spacingLeft=6;fillColor=#f0f0f5;strokeColor=#888899;" value="4. 金之精/水精｜《河图帝览嬉》《拾遗记》" vertex="1">
-          <mxGeometry height="22" width="400" y="158" as="geometry" />
-        </mxCell>
-        <mxCell id="qNWpDxCwMOwC-ozYdzcX-85" parent="qNWpDxCwMOwC-ozYdzcX-92" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;spacingLeft=6;fillColor=#f0f0f5;strokeColor=#888899;" value="5. 众阴之长｜《汉书·李寻传》" vertex="1">
-          <mxGeometry height="22" width="400" y="182" as="geometry" />
-        </mxCell>
-        <mxCell id="qNWpDxCwMOwC-ozYdzcX-86" parent="qNWpDxCwMOwC-ozYdzcX-92" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;spacingLeft=6;fillColor=#f0f0f5;strokeColor=#888899;" value="6. 月者，阙也｜《礼记》" vertex="1">
-          <mxGeometry height="22" width="400" y="206" as="geometry" />
-        </mxCell>
-        <mxCell id="qNWpDxCwMOwC-ozYdzcX-87" parent="qNWpDxCwMOwC-ozYdzcX-92" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;spacingLeft=6;fillColor=#f0f0f5;strokeColor=#888899;" value="7. 月者，水也｜《范子计然》" vertex="1">
-          <mxGeometry height="22" width="400" y="230" as="geometry" />
-        </mxCell>
-        <mxCell id="qNWpDxCwMOwC-ozYdzcX-88" parent="qNWpDxCwMOwC-ozYdzcX-92" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;spacingLeft=6;fillColor=#f0f0f5;strokeColor=#888899;" value="8. 坎为月｜《易说卦》" vertex="1">
-          <mxGeometry height="22" width="400" y="254" as="geometry" />
-        </mxCell>
-        <mxCell id="qNWpDxCwMOwC-ozYdzcX-89" parent="qNWpDxCwMOwC-ozYdzcX-92" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;spacingLeft=6;fillColor=#f0f0f5;strokeColor=#888899;" value="9. 月中有蟾蜍/兔蛤｜张衡《灵宪》《演孔图》" vertex="1">
-          <mxGeometry height="22" width="400" y="278" as="geometry" />
-        </mxCell>
-        <mxCell id="qNWpDxCwMOwC-ozYdzcX-90" parent="qNWpDxCwMOwC-ozYdzcX-92" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;spacingLeft=6;fillColor=#f0f0f5;strokeColor=#888899;" value="10. 月者，太阴之精，中有蟾蜍｜《春秋元命苞》" vertex="1">
-          <mxGeometry height="22" width="400" y="302" as="geometry" />
-        </mxCell>
-        <mxCell id="qNWpDxCwMOwC-ozYdzcX-91" parent="qNWpDxCwMOwC-ozYdzcX-92" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;spacingLeft=6;fillColor=#f0f0f5;strokeColor=#888899;" value="11. 禀日之光而见其体｜杨泉《物理论》" vertex="1">
-          <mxGeometry height="22" width="400" y="326" as="geometry" />
-        </mxCell>
         <mxCell id="qNWpDxCwMOwC-ozYdzcX-93" connectable="0" parent="qNWpDxCwMOwC-ozYdzcX-55" style="group" value="" vertex="1">
-          <mxGeometry height="316" width="400" x="3531" y="1626.03" as="geometry" />
+          <mxGeometry height="339.97" width="819" x="3531" y="1626.03" as="geometry" />
         </mxCell>
         <mxCell id="qNWpDxCwMOwC-ozYdzcX-56" parent="qNWpDxCwMOwC-ozYdzcX-93" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc00;strokeColor=#dd9900;fontSize=17;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#664400;strokeWidth=2;shadow=1;" value="☀️ 日 · 阳之精" vertex="1">
-          <mxGeometry height="42" width="400" as="geometry" />
+          <mxGeometry height="45.18588607594937" width="819" as="geometry" />
         </mxCell>
         <mxCell id="qNWpDxCwMOwC-ozYdzcX-57" parent="qNWpDxCwMOwC-ozYdzcX-93" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#fff8e0;strokeColor=#dd9900;" value="1. 太阳之精｜《范子计然》" vertex="1">
-          <mxGeometry height="22" width="400" y="54" as="geometry" />
+          <mxGeometry height="23.66879746835443" width="400" y="58.09613924050633" as="geometry" />
         </mxCell>
         <mxCell id="qNWpDxCwMOwC-ozYdzcX-58" parent="qNWpDxCwMOwC-ozYdzcX-93" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#fff8e0;strokeColor=#dd9900;" value="2. 众阳之宗｜皇甫谧《年历》" vertex="1">
-          <mxGeometry height="22" width="400" y="78" as="geometry" />
+          <mxGeometry height="23.66879746835443" width="400" y="83.91664556962026" as="geometry" />
         </mxCell>
         <mxCell id="qNWpDxCwMOwC-ozYdzcX-59" parent="qNWpDxCwMOwC-ozYdzcX-93" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#fff8e0;strokeColor=#dd9900;" value="3. 群阳之精/群阳之宗｜刘氏《正历》《洪范传》" vertex="1">
-          <mxGeometry height="22" width="400" y="102" as="geometry" />
+          <mxGeometry height="23.66879746835443" width="400" y="109.7371518987342" as="geometry" />
         </mxCell>
         <mxCell id="qNWpDxCwMOwC-ozYdzcX-60" parent="qNWpDxCwMOwC-ozYdzcX-93" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#fff8e0;strokeColor=#dd9900;" value="4. 阳精之宗｜张衡《灵宪》" vertex="1">
-          <mxGeometry height="22" width="400" y="126" as="geometry" />
+          <mxGeometry height="23.66879746835443" width="400" y="135.55765822784812" as="geometry" />
         </mxCell>
         <mxCell id="qNWpDxCwMOwC-ozYdzcX-61" parent="qNWpDxCwMOwC-ozYdzcX-93" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#fff8e0;strokeColor=#dd9900;" value="5. 阳德之母｜《春秋内事》" vertex="1">
-          <mxGeometry height="22" width="400" y="150" as="geometry" />
+          <mxGeometry height="23.66879746835443" width="400" y="161.37816455696205" as="geometry" />
         </mxCell>
         <mxCell id="qNWpDxCwMOwC-ozYdzcX-62" parent="qNWpDxCwMOwC-ozYdzcX-93" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#fff8e0;strokeColor=#dd9900;" value="6. 常满无亏（日尊故满）｜《春秋元命苞》" vertex="1">
-          <mxGeometry height="22" width="400" y="174" as="geometry" />
+          <mxGeometry height="23.66879746835443" width="400" y="187.19867088607597" as="geometry" />
         </mxCell>
         <mxCell id="qNWpDxCwMOwC-ozYdzcX-63" parent="qNWpDxCwMOwC-ozYdzcX-93" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#fff8e0;strokeColor=#dd9900;" value="7. 日之为言实也｜《春秋元命苞》" vertex="1">
-          <mxGeometry height="22" width="400" y="198" as="geometry" />
+          <mxGeometry height="23.66879746835443" width="400" y="213.0191772151899" as="geometry" />
         </mxCell>
         <mxCell id="qNWpDxCwMOwC-ozYdzcX-64" parent="qNWpDxCwMOwC-ozYdzcX-93" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#fff8e0;strokeColor=#dd9900;" value="8. 日中有三足乌｜《春秋元命苞》" vertex="1">
-          <mxGeometry height="22" width="400" y="222" as="geometry" />
+          <mxGeometry height="23.66879746835443" width="400" y="238.83968354430382" as="geometry" />
         </mxCell>
         <mxCell id="qNWpDxCwMOwC-ozYdzcX-65" parent="qNWpDxCwMOwC-ozYdzcX-93" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#fff8e0;strokeColor=#dd9900;" value="9. 日中有金乌，日之精也｜《春秋元命苞》" vertex="1">
-          <mxGeometry height="22" width="400" y="246" as="geometry" />
+          <mxGeometry height="23.66879746835443" width="400" y="264.6601898734178" as="geometry" />
         </mxCell>
         <mxCell id="qNWpDxCwMOwC-ozYdzcX-66" parent="qNWpDxCwMOwC-ozYdzcX-93" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#fff8e0;strokeColor=#dd9900;" value="10. 日出行程：旸谷→咸池→扶桑→崦嵫｜《淮南子》" vertex="1">
-          <mxGeometry height="22" width="400" y="270" as="geometry" />
+          <mxGeometry height="23.66879746835443" width="400" y="290.48069620253165" as="geometry" />
         </mxCell>
         <mxCell id="qNWpDxCwMOwC-ozYdzcX-67" parent="qNWpDxCwMOwC-ozYdzcX-93" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#fff8e0;strokeColor=#dd9900;" value="11. 日有九光，光照四极｜《尚书考灵曜》" vertex="1">
-          <mxGeometry height="22" width="400" y="294" as="geometry" />
+          <mxGeometry height="23.66879746835443" width="400" y="316.30120253164563" as="geometry" />
+        </mxCell>
+        <mxCell id="qNWpDxCwMOwC-ozYdzcX-239" parent="qNWpDxCwMOwC-ozYdzcX-93" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="作用机制" vertex="1">
+          <mxGeometry height="30" width="70" x="570" y="33.97000000000003" as="geometry" />
         </mxCell>
         <mxCell id="qNWpDxCwMOwC-ozYdzcX-100" connectable="0" parent="qNWpDxCwMOwC-ozYdzcX-55" style="group" value="" vertex="1">
           <mxGeometry height="168" width="400" x="2866.18" y="1380.8600000000001" as="geometry" />
@@ -215,8 +179,8 @@
         <mxCell id="qNWpDxCwMOwC-ozYdzcX-99" parent="qNWpDxCwMOwC-ozYdzcX-100" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f8e8;strokeColor=#6aaa50;" value="5. 日月运行，一寒一暑｜《周易·系辞》" vertex="1">
           <mxGeometry height="22" width="399.99999999999994" y="146" as="geometry" />
         </mxCell>
-        <mxCell id="qNWpDxCwMOwC-ozYdzcX-116" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="286" width="400" x="4340" y="1850" as="geometry" />
+        <mxCell id="qNWpDxCwMOwC-ozYdzcX-116" connectable="0" parent="qNWpDxCwMOwC-ozYdzcX-55" style="group" value="" vertex="1">
+          <mxGeometry height="286" width="400" x="3950" y="1680" as="geometry" />
         </mxCell>
         <mxCell id="qNWpDxCwMOwC-ozYdzcX-104" parent="qNWpDxCwMOwC-ozYdzcX-116" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#fff8e0;strokeColor=#dd9900;" value="1. 阳之主｜《淮南子·天文训》" vertex="1">
           <mxGeometry height="22" width="399.99999999999994" as="geometry" />
@@ -253,6 +217,96 @@
         </mxCell>
         <mxCell id="qNWpDxCwMOwC-ozYdzcX-115" parent="qNWpDxCwMOwC-ozYdzcX-116" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#fff8e0;strokeColor=#dd9900;" value="12. 日出旸谷，浴于咸池，拂于扶桑｜《淮南子》" vertex="1">
           <mxGeometry height="22" width="399.99999999999994" y="264" as="geometry" />
+        </mxCell>
+        <mxCell id="qNWpDxCwMOwC-ozYdzcX-131" parent="qNWpDxCwMOwC-ozYdzcX-55" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="自身属性" vertex="1">
+          <mxGeometry height="30" width="70" x="3681" y="1662" as="geometry" />
+        </mxCell>
+        <mxCell id="qNWpDxCwMOwC-ozYdzcX-338" connectable="0" parent="qNWpDxCwMOwC-ozYdzcX-55" style="group" value="" vertex="1">
+          <mxGeometry height="366" width="610" x="1741" y="1430" as="geometry" />
+        </mxCell>
+        <mxCell id="qNWpDxCwMOwC-ozYdzcX-92" connectable="0" parent="qNWpDxCwMOwC-ozYdzcX-338" style="group;" value="" vertex="1">
+          <mxGeometry height="366" width="610" as="geometry" />
+        </mxCell>
+        <mxCell id="qNWpDxCwMOwC-ozYdzcX-80" parent="qNWpDxCwMOwC-ozYdzcX-92" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ccccdd;strokeColor=#888899;fontSize=15;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#444455;strokeWidth=2;shadow=1;" value="🌙 月 · 阴之精" vertex="1">
+          <mxGeometry height="44.172413793103445" width="610" y="34.706896551724135" as="geometry" />
+        </mxCell>
+        <mxCell id="qNWpDxCwMOwC-ozYdzcX-81" parent="qNWpDxCwMOwC-ozYdzcX-92" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f0f5;strokeColor=#888899;" value="1. 群阴之宗｜皇甫谧《年历》" vertex="1">
+          <mxGeometry height="23.137931034482758" width="300" y="90.44827586206897" as="geometry" />
+        </mxCell>
+        <mxCell id="qNWpDxCwMOwC-ozYdzcX-82" parent="qNWpDxCwMOwC-ozYdzcX-92" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f0f5;strokeColor=#888899;" value="2. 阴精之宗｜张衡《灵宪》" vertex="1">
+          <mxGeometry height="23.137931034482758" width="300" y="115.6896551724138" as="geometry" />
+        </mxCell>
+        <mxCell id="qNWpDxCwMOwC-ozYdzcX-83" parent="qNWpDxCwMOwC-ozYdzcX-92" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f0f5;strokeColor=#888899;" value="3. 太阴之精/水气之精｜《天官书》《淮南子》" vertex="1">
+          <mxGeometry height="23.137931034482758" width="300" y="140.93103448275863" as="geometry" />
+        </mxCell>
+        <mxCell id="qNWpDxCwMOwC-ozYdzcX-84" parent="qNWpDxCwMOwC-ozYdzcX-92" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f0f5;strokeColor=#888899;" value="4. 金之精/水精｜《河图帝览嬉》《拾遗记》" vertex="1">
+          <mxGeometry height="23.137931034482758" width="300" y="166.17241379310346" as="geometry" />
+        </mxCell>
+        <mxCell id="qNWpDxCwMOwC-ozYdzcX-85" parent="qNWpDxCwMOwC-ozYdzcX-92" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f0f5;strokeColor=#888899;" value="5. 众阴之长｜《汉书·李寻传》" vertex="1">
+          <mxGeometry height="23.137931034482758" width="300" y="191.41379310344828" as="geometry" />
+        </mxCell>
+        <mxCell id="qNWpDxCwMOwC-ozYdzcX-86" parent="qNWpDxCwMOwC-ozYdzcX-92" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f0f5;strokeColor=#888899;" value="6. 月者，阙也｜《礼记》" vertex="1">
+          <mxGeometry height="23.137931034482758" width="300" y="216.6551724137931" as="geometry" />
+        </mxCell>
+        <mxCell id="qNWpDxCwMOwC-ozYdzcX-87" parent="qNWpDxCwMOwC-ozYdzcX-92" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f0f5;strokeColor=#888899;" value="7. 月者，水也｜《范子计然》" vertex="1">
+          <mxGeometry height="23.137931034482758" width="300" y="241.89655172413794" as="geometry" />
+        </mxCell>
+        <mxCell id="qNWpDxCwMOwC-ozYdzcX-88" parent="qNWpDxCwMOwC-ozYdzcX-92" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f0f5;strokeColor=#888899;" value="8. 坎为月｜《易说卦》" vertex="1">
+          <mxGeometry height="23.137931034482758" width="300" y="267.13793103448273" as="geometry" />
+        </mxCell>
+        <mxCell id="qNWpDxCwMOwC-ozYdzcX-89" parent="qNWpDxCwMOwC-ozYdzcX-92" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f0f5;strokeColor=#888899;" value="9. 月中有蟾蜍/兔蛤｜张衡《灵宪》《演孔图》" vertex="1">
+          <mxGeometry height="23.137931034482758" width="300" y="292.37931034482756" as="geometry" />
+        </mxCell>
+        <mxCell id="qNWpDxCwMOwC-ozYdzcX-90" parent="qNWpDxCwMOwC-ozYdzcX-92" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f0f5;strokeColor=#888899;" value="10. 月者，太阴之精，中有蟾蜍｜《春秋元命苞》" vertex="1">
+          <mxGeometry height="23.137931034482758" width="300" y="317.6206896551724" as="geometry" />
+        </mxCell>
+        <mxCell id="qNWpDxCwMOwC-ozYdzcX-91" parent="qNWpDxCwMOwC-ozYdzcX-92" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f0f5;strokeColor=#888899;" value="11. 禀日之光而见其体｜杨泉《物理论》" vertex="1">
+          <mxGeometry height="23.137931034482758" width="300" y="342.86206896551727" as="geometry" />
+        </mxCell>
+        <mxCell id="qNWpDxCwMOwC-ozYdzcX-336" parent="qNWpDxCwMOwC-ozYdzcX-92" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="自身属性" vertex="1">
+          <mxGeometry height="30" width="70" x="110" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qNWpDxCwMOwC-ozYdzcX-337" parent="qNWpDxCwMOwC-ozYdzcX-92" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="作用机制" vertex="1">
+          <mxGeometry height="30" width="70" x="420" y="60.450000000000045" as="geometry" />
+        </mxCell>
+        <mxCell id="qNWpDxCwMOwC-ozYdzcX-130" connectable="0" parent="qNWpDxCwMOwC-ozYdzcX-338" style="group" value="" vertex="1">
+          <mxGeometry height="286" width="300" x="310" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qNWpDxCwMOwC-ozYdzcX-118" parent="qNWpDxCwMOwC-ozYdzcX-130" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f0f5;strokeColor=#888899;" value="1. 阴之宗｜《淮南子·天文训》" vertex="1">
+          <mxGeometry height="22" width="300" as="geometry" />
+        </mxCell>
+        <mxCell id="qNWpDxCwMOwC-ozYdzcX-119" parent="qNWpDxCwMOwC-ozYdzcX-130" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f0f5;strokeColor=#888899;" value="2. 主阴｜《日月周天论》" vertex="1">
+          <mxGeometry height="22" width="300" y="24" as="geometry" />
+        </mxCell>
+        <mxCell id="qNWpDxCwMOwC-ozYdzcX-120" parent="qNWpDxCwMOwC-ozYdzcX-130" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f0f5;strokeColor=#888899;" value="3. 主夜（纳明于夜）｜张衡《灵宪》" vertex="1">
+          <mxGeometry height="22" width="300" y="48" as="geometry" />
+        </mxCell>
+        <mxCell id="qNWpDxCwMOwC-ozYdzcX-121" parent="qNWpDxCwMOwC-ozYdzcX-130" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f0f5;strokeColor=#888899;" value="4. 主刑（阴道也）｜《日月周天论》" vertex="1">
+          <mxGeometry height="22" width="300" y="72" as="geometry" />
+        </mxCell>
+        <mxCell id="qNWpDxCwMOwC-ozYdzcX-122" parent="qNWpDxCwMOwC-ozYdzcX-130" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f0f5;strokeColor=#888899;" value="5. 月行十三度，周天复还及日｜《淮南子》" vertex="1">
+          <mxGeometry height="22" width="300" y="96" as="geometry" />
+        </mxCell>
+        <mxCell id="qNWpDxCwMOwC-ozYdzcX-123" parent="qNWpDxCwMOwC-ozYdzcX-130" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f0f5;strokeColor=#888899;" value="6. 二十九日余而周天｜《淮南子·天文训》" vertex="1">
+          <mxGeometry height="22" width="300" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="qNWpDxCwMOwC-ozYdzcX-124" parent="qNWpDxCwMOwC-ozYdzcX-130" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f0f5;strokeColor=#888899;" value="7. 月行九道｜《淮南子·天文训》" vertex="1">
+          <mxGeometry height="22" width="300" y="144" as="geometry" />
+        </mxCell>
+        <mxCell id="qNWpDxCwMOwC-ozYdzcX-125" parent="qNWpDxCwMOwC-ozYdzcX-130" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f0f5;strokeColor=#888899;" value="8. 朔望晦（新月→满月→残月）｜《白虎通》" vertex="1">
+          <mxGeometry height="22" width="300" y="168" as="geometry" />
+        </mxCell>
+        <mxCell id="qNWpDxCwMOwC-ozYdzcX-126" parent="qNWpDxCwMOwC-ozYdzcX-130" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f0f5;strokeColor=#888899;" value="9. 月三让而成魄，三复而成明｜《白虎通》" vertex="1">
+          <mxGeometry height="22" width="300" y="192" as="geometry" />
+        </mxCell>
+        <mxCell id="qNWpDxCwMOwC-ozYdzcX-127" parent="qNWpDxCwMOwC-ozYdzcX-130" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f0f5;strokeColor=#888899;" value="10. 方诸见月则津而为水｜《淮南子》" vertex="1">
+          <mxGeometry height="22" width="300" y="216" as="geometry" />
+        </mxCell>
+        <mxCell id="qNWpDxCwMOwC-ozYdzcX-128" parent="qNWpDxCwMOwC-ozYdzcX-130" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f0f5;strokeColor=#888899;" value="11. 月躔二十八宿断吉凶｜《开元占经》" vertex="1">
+          <mxGeometry height="22" width="300" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="qNWpDxCwMOwC-ozYdzcX-129" parent="qNWpDxCwMOwC-ozYdzcX-130" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f0f5;strokeColor=#888899;" value="12. 月主脾胃·气血盛衰｜《灵枢·岁露论》" vertex="1">
+          <mxGeometry height="22" width="300" y="264" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
