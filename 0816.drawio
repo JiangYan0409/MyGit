@@ -1,13 +1,16 @@
 <mxfile host="app.diagrams.net">
   <diagram name="天球体系 + 七政标注" id="oYeRGJrKcREHI5oMPTO9">
-    <mxGraphModel dx="10254" dy="5300" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="14967" dy="9119" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="CD_Jmd47FaJQ_FMy_ziK-94" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;dashed=1;dashPattern=8 4 1 4;glass=1;fillColor=#E6E6E6;fontColor=#333333;strokeColor=#666666;fillStyle=zigzag-line;gradientColor=none;" value="" vertex="1">
+          <mxGeometry height="5830" width="6450" x="-750" y="-550" as="geometry" />
+        </mxCell>
         <mxCell id="qNWpDxCwMOwC-ozYdzcX-55" connectable="0" parent="1" style="group;aspect=fixed;fontSize=50;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
           <mxGeometry height="4170" width="4763" x="260" y="180" as="geometry" />
         </mxCell>
-        <mxCell id="qNWpDxCwMOwC-ozYdzcX-3" parent="qNWpDxCwMOwC-ozYdzcX-55" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f6f9fe;strokeColor=#aabbcc;strokeWidth=1.5;dashed=1;opacity=50;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=50;" value="" vertex="1">
+        <mxCell id="qNWpDxCwMOwC-ozYdzcX-3" parent="qNWpDxCwMOwC-ozYdzcX-55" style="ellipse;whiteSpace=wrap;html=1;fillColor=#D4E1F5;strokeColor=#aabbcc;strokeWidth=1.5;dashed=1;opacity=30;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=50;" value="" vertex="1">
           <mxGeometry height="4169.999999999999" width="4169.9613666042715" x="91.0468800641782" y="-69.59" as="geometry" />
         </mxCell>
         <mxCell id="qNWpDxCwMOwC-ozYdzcX-19" parent="qNWpDxCwMOwC-ozYdzcX-55" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#888899;strokeWidth=1.5;dashed=1;opacity=40;fontSize=50;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
