@@ -41,7 +41,7 @@
           <mxGeometry height="360" width="350" x="4710" y="905.64" as="geometry" />
         </mxCell>
         <mxCell id="Ne2uE1Ed6V1glsiNg_6Q-25" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="4169.999999999999" width="4861" x="116" y="110.41" as="geometry" />
+          <mxGeometry height="4209.59" width="4861" x="116" y="110.41" as="geometry" />
         </mxCell>
         <mxCell id="Ne2uE1Ed6V1glsiNg_6Q-10" parent="Ne2uE1Ed6V1glsiNg_6Q-25" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;凝聚&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="120" y="2261.59" as="geometry" />
@@ -652,6 +652,9 @@
         <mxCell id="Ne2uE1Ed6V1glsiNg_6Q-27" parent="Ne2uE1Ed6V1glsiNg_6Q-25" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;阴阳互推，化生五行&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="654" x="4207" y="679.59" as="geometry" />
         </mxCell>
+        <mxCell id="Ne2uE1Ed6V1glsiNg_6Q-39" parent="Ne2uE1Ed6V1glsiNg_6Q-25" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.stylisedArrow;dy=0.6;dx=40;notch=116.25;feather=0.4;rotation=-45;" value="" vertex="1">
+          <mxGeometry height="150" width="467" x="765.32" y="3981.59" as="geometry" />
+        </mxCell>
         <mxCell id="Ne2uE1Ed6V1glsiNg_6Q-28" edge="1" parent="1" source="Ne2uE1Ed6V1glsiNg_6Q-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;curved=1;strokeWidth=5;dashed=1;dashPattern=8 4 1 4;" target="qNWpDxCwMOwC-ozYdzcX-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -665,13 +668,19 @@
           <mxGeometry height="60" width="654" x="-190" y="3380" as="geometry" />
         </mxCell>
         <mxCell id="Ne2uE1Ed6V1glsiNg_6Q-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;aspect=fixed;fontSize=50;" value="五行生克" vertex="1">
-          <mxGeometry height="150" width="300" x="2300" y="-270" as="geometry" />
+          <mxGeometry height="150" width="300" x="2310" y="-500" as="geometry" />
         </mxCell>
         <mxCell id="Ne2uE1Ed6V1glsiNg_6Q-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;aspect=fixed;fontSize=50;" value="同气相求" vertex="1">
           <mxGeometry height="150" width="300" x="730" y="4390" as="geometry" />
         </mxCell>
         <mxCell id="Ne2uE1Ed6V1glsiNg_6Q-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;aspect=fixed;fontSize=50;" value="同类相感" vertex="1">
           <mxGeometry height="150" width="300" x="3940" y="4450" as="geometry" />
+        </mxCell>
+        <mxCell id="Ne2uE1Ed6V1glsiNg_6Q-40" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.stylisedArrow;dy=0.6;dx=40;notch=116.25;feather=0.4;rotation=-130;flipH=0;legacyAnchorPoints=0;flipV=1;" value="" vertex="1">
+          <mxGeometry height="150" width="467" x="3510.00244199605" y="4110.00244199605" as="geometry" />
+        </mxCell>
+        <mxCell id="Ne2uE1Ed6V1glsiNg_6Q-41" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.stylisedArrow;dy=0.6;dx=40;notch=116.25;feather=0.4;rotation=90;" value="" vertex="1">
+          <mxGeometry height="150" width="330" x="2295" y="-180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
