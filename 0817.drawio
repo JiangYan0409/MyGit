@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="hbvwoiXoD7ZSWJCbfr5h">
-    <mxGraphModel dx="5580" dy="3960" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1395" dy="990" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -50,7 +50,7 @@
         <mxCell id="UmHISxPJmjEUVxG4FA49-12" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;凝聚&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start;&quot;&gt;积阴之寒气为水，水气之精者为月&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="300" x="12" y="2183.94" as="geometry" />
         </mxCell>
-        <mxCell id="UmHISxPJmjEUVxG4FA49-13" parent="UmHISxPJmjEUVxG4FA49-11" style="ellipse;whiteSpace=wrap;html=1;fillColor=#D4E1F5;strokeColor=#aabbcc;strokeWidth=1.5;dashed=1;opacity=30;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;fontSize=50;" value="" vertex="1">
+        <mxCell id="UmHISxPJmjEUVxG4FA49-13" parent="UmHISxPJmjEUVxG4FA49-11" style="ellipse;whiteSpace=wrap;html=1;fillColor=#D4E1F5;strokeColor=#aabbcc;strokeWidth=1.5;dashed=1;opacity=30;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=50;" value="" vertex="1">
           <mxGeometry height="4169.999999999999" width="4169.9613666042715" x="235.0468800641782" as="geometry" />
         </mxCell>
         <mxCell id="UmHISxPJmjEUVxG4FA49-14" parent="UmHISxPJmjEUVxG4FA49-11" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#888899;strokeWidth=1.5;dashed=1;opacity=40;fontSize=50;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
@@ -205,7 +205,7 @@
         <mxCell id="inCaOdDOQ_w14JDPJGUT-27" edge="1" parent="UmHISxPJmjEUVxG4FA49-11" source="UmHISxPJmjEUVxG4FA49-47" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#dd6644, #ededed);strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startArrow=classic;startFill=1;endArrow=classic;endFill=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" target="UmHISxPJmjEUVxG4FA49-30" value="&lt;strong style=&quot;font-size: 16px; font-style: normal; font-variant-caps: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; font-weight: 600; caret-color: rgb(15, 17, 21); color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif;&quot;&gt;&lt;span class=&quot;&quot;&gt;同气相应&lt;/span&gt;&lt;/strong&gt;">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-32" connectable="0" parent="inCaOdDOQ_w14JDPJGUT-27" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;strong style=&quot;font-size: 16px; text-align: start; white-space: normal; caret-color: rgb(15, 17, 21); color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif;&quot;&gt;&lt;span class=&quot;&quot;&gt;同气相应&lt;/span&gt;&lt;/strong&gt;" vertex="1">
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-32" connectable="0" parent="inCaOdDOQ_w14JDPJGUT-27" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=1;points=[];movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;strong style=&quot;font-size: 16px; text-align: start; white-space: normal; caret-color: rgb(15, 17, 21); color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif;&quot;&gt;&lt;span class=&quot;&quot;&gt;同气相应&lt;/span&gt;&lt;/strong&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.4907" as="geometry">
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
@@ -737,7 +737,7 @@
         <mxCell id="UmHISxPJmjEUVxG4FA49-213" parent="UmHISxPJmjEUVxG4FA49-11" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="以阴之极统摄五星" vertex="1">
           <mxGeometry height="40" width="120" x="2603.43" y="1699.87" as="geometry" />
         </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-35" edge="1" parent="UmHISxPJmjEUVxG4FA49-11" source="UmHISxPJmjEUVxG4FA49-30" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.595;entryY=0.997;entryDx=0;entryDy=0;strokeWidth=4;endArrow=block;endFill=1;strokeColor=light-dark(#00c7fc, #ededed);entryPerimeter=0;" target="inCaOdDOQ_w14JDPJGUT-201">
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-35" edge="1" parent="UmHISxPJmjEUVxG4FA49-11" source="UmHISxPJmjEUVxG4FA49-30" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.595;entryY=0.997;entryDx=0;entryDy=0;strokeWidth=4;endArrow=block;endFill=1;strokeColor=light-dark(#00c7fc, #ededed);entryPerimeter=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" target="inCaOdDOQ_w14JDPJGUT-201">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2343.8604756997365" y="355.5328571428572" as="targetPoint" />
           </mxGeometry>
@@ -759,307 +759,310 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-143" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;strong style=&quot;font-size: 16px; text-align: start; caret-color: rgb(15, 17, 21); color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif;&quot;&gt;&lt;span class=&quot;&quot;&gt;万物之精华上升于天，凝聚为星，排列在天上，各有归属。&lt;/span&gt;&lt;/strong&gt;" vertex="1">
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-143" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;strong style=&quot;font-size: 16px; text-align: start; caret-color: rgb(15, 17, 21); color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif;&quot;&gt;&lt;span class=&quot;&quot;&gt;万物之精华上升于天，凝聚为星，排列在天上，各有归属。&lt;/span&gt;&lt;/strong&gt;" vertex="1">
           <mxGeometry height="60" width="214" x="2269" y="900" as="geometry" />
         </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-247" connectable="0" parent="UmHISxPJmjEUVxG4FA49-11" style="group;aspect=fixed;" value="" vertex="1">
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-247" connectable="0" parent="UmHISxPJmjEUVxG4FA49-11" style="group;aspect=fixed;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
           <mxGeometry height="654.3" width="2000" x="1429" y="140" as="geometry" />
         </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-148" connectable="0" parent="inCaOdDOQ_w14JDPJGUT-247" style="group" value="" vertex="1">
-          <mxGeometry height="171.93894741523536" width="778.3982285877021" x="1191.6884381086322" y="218.8823738440569" as="geometry" />
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-148" connectable="0" parent="inCaOdDOQ_w14JDPJGUT-247" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
+          <mxGeometry height="171.94" width="778.3982285877021" x="1169.9984381086322" y="253.27237384405692" as="geometry" />
         </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-149" connectable="0" parent="inCaOdDOQ_w14JDPJGUT-148" style="group;aspect=fixed;fontSize=30;" value="" vertex="1">
-          <mxGeometry height="123.62805027320088" width="778.3982285877021" as="geometry" />
-        </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-150" parent="inCaOdDOQ_w14JDPJGUT-149" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=30;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#003366;strokeWidth=2;shadow=1;" value="天文实测" vertex="1">
-          <mxGeometry height="30.52544451190145" width="137.36439328018272" x="15.262710364464743" as="geometry" />
-        </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-151" parent="inCaOdDOQ_w14JDPJGUT-149" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf2f8;strokeColor=#99bbdd;fontSize=30;fontFamily=Microsoft YaHei;fontColor=#445577;align=left;spacingLeft=8;" value="· 去极度零点（北极星基准）" vertex="1">
-          <mxGeometry height="16.7889944815458" width="167.8898140091122" y="38.156805639876815" as="geometry" />
-        </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-152" parent="inCaOdDOQ_w14JDPJGUT-149" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf2f8;strokeColor=#99bbdd;fontSize=30;fontFamily=Microsoft YaHei;fontColor=#445577;align=left;spacingLeft=8;" value="· 天球坐标的南北基准" vertex="1">
-          <mxGeometry height="16.7889944815458" width="167.8898140091122" y="57.998344572612766" as="geometry" />
-        </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-153" parent="inCaOdDOQ_w14JDPJGUT-149" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf2f8;strokeColor=#99bbdd;fontSize=30;fontFamily=Microsoft YaHei;fontColor=#445577;align=left;spacingLeft=8;" value="· 异常天象的参照框架" vertex="1">
-          <mxGeometry height="16.7889944815458" width="167.8898140091122" y="77.83988350534871" as="geometry" />
-        </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-154" parent="inCaOdDOQ_w14JDPJGUT-149" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf2f8;strokeColor=#99bbdd;fontSize=30;fontFamily=Microsoft YaHei;fontColor=#445577;align=left;spacingLeft=8;" value="· 恒星分布的骨架" vertex="1">
-          <mxGeometry height="16.7889944815458" width="167.8898140091122" y="97.68142243808467" as="geometry" />
-        </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-155" parent="inCaOdDOQ_w14JDPJGUT-149" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=30;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#660000;strokeWidth=2;shadow=1;" value="星占预警" vertex="1">
-          <mxGeometry height="30.52544451190145" width="137.36439328018272" x="209.92331835284804" as="geometry" />
-        </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-156" parent="inCaOdDOQ_w14JDPJGUT-149" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fce8e4;strokeColor=#ddbbbb;fontSize=30;fontFamily=Microsoft YaHei;fontColor=#883333;align=left;spacingLeft=8;" value="· 七政入垣/犯垣预警" vertex="1">
-          <mxGeometry height="16.7889944815458" width="167.8898140091122" x="209.92331835284804" y="38.156805639876815" as="geometry" />
-        </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-157" parent="inCaOdDOQ_w14JDPJGUT-149" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fce8e4;strokeColor=#ddbbbb;fontSize=30;fontFamily=Microsoft YaHei;fontColor=#883333;align=left;spacingLeft=8;" value="· 荧惑入太微 → 帝位不保" vertex="1">
-          <mxGeometry height="16.7889944815458" width="167.8898140091122" x="209.92331835284804" y="57.998344572612766" as="geometry" />
-        </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-158" parent="inCaOdDOQ_w14JDPJGUT-149" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fce8e4;strokeColor=#ddbbbb;fontSize=30;fontFamily=Microsoft YaHei;fontColor=#883333;align=left;spacingLeft=8;" value="· 月犯太微 → 必正礼法" vertex="1">
-          <mxGeometry height="16.7889944815458" width="167.8898140091122" x="209.92331835284804" y="77.83988350534871" as="geometry" />
-        </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-159" parent="inCaOdDOQ_w14JDPJGUT-149" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fce8e4;strokeColor=#ddbbbb;fontSize=30;fontFamily=Microsoft YaHei;fontColor=#883333;align=left;spacingLeft=8;" value="· 天市垣明润 → 国泰民安" vertex="1">
-          <mxGeometry height="16.7889944815458" width="167.8898140091122" x="209.92331835284804" y="97.68142243808467" as="geometry" />
-        </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-160" parent="inCaOdDOQ_w14JDPJGUT-149" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=30;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#884400;strokeWidth=2;shadow=1;" value="政治哲学" vertex="1">
-          <mxGeometry height="30.52544451190145" width="137.36439328018272" x="427.35589020501294" y="9.157633353570436" as="geometry" />
-        </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-161" parent="inCaOdDOQ_w14JDPJGUT-149" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#faf5ec;strokeColor=#eeddcc;fontSize=30;fontFamily=Microsoft YaHei;fontColor=#775533;align=left;spacingLeft=8;" value="· 紫微垣 → 帝王·宫室·宗庙" vertex="1">
-          <mxGeometry height="16.7889944815458" width="167.8898140091122" x="412.09317984054815" y="47.314438993447254" as="geometry" />
-        </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-162" parent="inCaOdDOQ_w14JDPJGUT-149" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#faf5ec;strokeColor=#eeddcc;fontSize=30;fontFamily=Microsoft YaHei;fontColor=#775533;align=left;spacingLeft=8;" value="· 太微垣 → 朝纲·官爵·政令" vertex="1">
-          <mxGeometry height="16.7889944815458" width="167.8898140091122" x="412.09317984054815" y="67.1559779261832" as="geometry" />
-        </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-163" parent="inCaOdDOQ_w14JDPJGUT-149" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#faf5ec;strokeColor=#eeddcc;fontSize=30;fontFamily=Microsoft YaHei;fontColor=#775533;align=left;spacingLeft=8;" value="· 天市垣 → 民生·商贾·货殖" vertex="1">
-          <mxGeometry height="16.7889944815458" width="167.8898140091122" x="412.09317984054815" y="86.99751685891916" as="geometry" />
-        </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-164" parent="inCaOdDOQ_w14JDPJGUT-149" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#faf5ec;strokeColor=#eeddcc;fontSize=30;fontFamily=Microsoft YaHei;fontColor=#775533;align=left;spacingLeft=8;" value="· 天-地-人同构的视觉化" vertex="1">
-          <mxGeometry height="16.7889944815458" width="167.8898140091122" x="412.09317984054815" y="106.83905579165507" as="geometry" />
-        </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-165" parent="inCaOdDOQ_w14JDPJGUT-149" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=30;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#004400;strokeWidth=2;shadow=1;" value="文化符号" vertex="1">
-          <mxGeometry height="30.52544451190145" width="137.36439328018272" x="610.5084145785898" y="9.157633353570436" as="geometry" />
-        </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-166" parent="inCaOdDOQ_w14JDPJGUT-149" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf5ea;strokeColor=#bbddbb;fontSize=30;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=8;" value="· 语言印记（紫禁城/紫微郎）" vertex="1">
-          <mxGeometry height="16.7889944815458" width="167.8898140091122" x="610.5084145785898" y="47.314438993447254" as="geometry" />
-        </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-167" parent="inCaOdDOQ_w14JDPJGUT-149" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf5ea;strokeColor=#bbddbb;fontSize=30;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=8;" value="· 道教星神（紫微大帝）" vertex="1">
-          <mxGeometry height="16.7889944815458" width="167.8898140091122" x="610.5084145785898" y="67.1559779261832" as="geometry" />
-        </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-168" parent="inCaOdDOQ_w14JDPJGUT-149" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf5ea;strokeColor=#bbddbb;fontSize=30;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=8;" value="· 象天设都（都城规划蓝本）" vertex="1">
-          <mxGeometry height="16.7889944815458" width="167.8898140091122" x="610.5084145785898" y="86.99751685891916" as="geometry" />
-        </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-169" parent="inCaOdDOQ_w14JDPJGUT-149" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf5ea;strokeColor=#bbddbb;fontSize=30;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=8;" value="· 星图传统（敦煌/汉代图像）" vertex="1">
-          <mxGeometry height="16.7889944815458" width="167.8898140091122" x="610.5084145785898" y="106.83905579165507" as="geometry" />
-        </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-170" parent="inCaOdDOQ_w14JDPJGUT-148" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f0f0;strokeColor=#888899;fontSize=30;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#444455;strokeWidth=2;shadow=1;" value="三垣与二十八宿 · 并列互补" vertex="1">
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-170" parent="inCaOdDOQ_w14JDPJGUT-148" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f0f0;strokeColor=#888899;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#444455;strokeWidth=2;shadow=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="三垣与二十八宿 · 并列互补" vertex="1">
           <mxGeometry height="16.375137849070033" width="278.3677953171411" x="259.9504907416733" y="135.0948872548278" as="geometry" />
         </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-171" parent="inCaOdDOQ_w14JDPJGUT-148" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8f8f8;strokeColor=#cccccc;fontSize=30;fontFamily=Microsoft YaHei;fontColor=#445577;align=center;" value="二十八宿：赤道量天尺（东西入宿度）" vertex="1">
-          <mxGeometry height="12.281353386802525" width="147.37118575613354" x="141.23481332701016" y="159.65759402843284" as="geometry" />
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-171" parent="inCaOdDOQ_w14JDPJGUT-148" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8f8f8;strokeColor=#cccccc;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#445577;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="二十八宿：赤道量天尺（东西入宿度）" vertex="1">
+          <mxGeometry height="12.28" width="228.61" x="60" y="159.66" as="geometry" />
         </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-172" parent="inCaOdDOQ_w14JDPJGUT-148" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8f8f8;strokeColor=#cccccc;fontSize=30;fontFamily=Microsoft YaHei;fontColor=#445577;align=center;" value="三垣：天球中宫（南北去极度）" vertex="1">
-          <mxGeometry height="12.281353386802525" width="147.37118575613354" x="313.1678633758326" y="159.65759402843284" as="geometry" />
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-172" parent="inCaOdDOQ_w14JDPJGUT-148" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8f8f8;strokeColor=#cccccc;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#445577;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="三垣：天球中宫（南北去极度）" vertex="1">
+          <mxGeometry height="12.28" width="174.02" x="313.17" y="159.66" as="geometry" />
         </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-173" parent="inCaOdDOQ_w14JDPJGUT-148" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8f8f8;strokeColor=#cccccc;fontSize=30;fontFamily=Microsoft YaHei;fontColor=#445577;align=center;" value="共同构成完整赤道坐标体系" vertex="1">
-          <mxGeometry height="12.281353386802525" width="147.37118575613354" x="485.10091342465506" y="159.65759402843284" as="geometry" />
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-173" parent="inCaOdDOQ_w14JDPJGUT-148" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8f8f8;strokeColor=#cccccc;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#445577;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="共同构成完整赤道坐标体系" vertex="1">
+          <mxGeometry height="12.281353386802525" width="147.37118575613354" x="513.1009134246551" y="159.65759402843284" as="geometry" />
         </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-174" edge="1" parent="inCaOdDOQ_w14JDPJGUT-247" source="inCaOdDOQ_w14JDPJGUT-181" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;strokeWidth=5;dashed=1;dashPattern=12 12;" target="inCaOdDOQ_w14JDPJGUT-155">
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-150" parent="inCaOdDOQ_w14JDPJGUT-148" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#003366;strokeWidth=2;shadow=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="天文实测" vertex="1">
+          <mxGeometry height="30.52544451190145" width="137.36439328018272" x="15.262710364464743" as="geometry" />
+        </mxCell>
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-151" parent="inCaOdDOQ_w14JDPJGUT-148" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf2f8;strokeColor=#99bbdd;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#445577;align=left;spacingLeft=8;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="· 去极度零点（北极星基准）" vertex="1">
+          <mxGeometry height="16.7889944815458" width="167.8898140091122" y="38.156805639876815" as="geometry" />
+        </mxCell>
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-152" parent="inCaOdDOQ_w14JDPJGUT-148" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf2f8;strokeColor=#99bbdd;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#445577;align=left;spacingLeft=8;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="· 天球坐标的南北基准" vertex="1">
+          <mxGeometry height="16.7889944815458" width="167.8898140091122" y="57.998344572612766" as="geometry" />
+        </mxCell>
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-153" parent="inCaOdDOQ_w14JDPJGUT-148" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf2f8;strokeColor=#99bbdd;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#445577;align=left;spacingLeft=8;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="· 异常天象的参照框架" vertex="1">
+          <mxGeometry height="16.7889944815458" width="167.8898140091122" y="77.83988350534871" as="geometry" />
+        </mxCell>
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-154" parent="inCaOdDOQ_w14JDPJGUT-148" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf2f8;strokeColor=#99bbdd;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#445577;align=left;spacingLeft=8;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="· 恒星分布的骨架" vertex="1">
+          <mxGeometry height="16.7889944815458" width="167.8898140091122" y="97.68142243808467" as="geometry" />
+        </mxCell>
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-155" parent="inCaOdDOQ_w14JDPJGUT-148" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#660000;strokeWidth=2;shadow=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="星占预警" vertex="1">
+          <mxGeometry height="30.52544451190145" width="137.36439328018272" x="209.92331835284804" as="geometry" />
+        </mxCell>
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-156" parent="inCaOdDOQ_w14JDPJGUT-148" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fce8e4;strokeColor=#ddbbbb;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#883333;align=left;spacingLeft=8;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="· 七政入垣/犯垣预警" vertex="1">
+          <mxGeometry height="16.7889944815458" width="167.8898140091122" x="209.92331835284804" y="38.156805639876815" as="geometry" />
+        </mxCell>
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-157" parent="inCaOdDOQ_w14JDPJGUT-148" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fce8e4;strokeColor=#ddbbbb;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#883333;align=left;spacingLeft=8;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="· 荧惑入太微 → 帝位不保" vertex="1">
+          <mxGeometry height="16.7889944815458" width="167.8898140091122" x="209.92331835284804" y="57.998344572612766" as="geometry" />
+        </mxCell>
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-158" parent="inCaOdDOQ_w14JDPJGUT-148" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fce8e4;strokeColor=#ddbbbb;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#883333;align=left;spacingLeft=8;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="· 月犯太微 → 必正礼法" vertex="1">
+          <mxGeometry height="16.7889944815458" width="167.8898140091122" x="209.92331835284804" y="77.83988350534871" as="geometry" />
+        </mxCell>
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-159" parent="inCaOdDOQ_w14JDPJGUT-148" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fce8e4;strokeColor=#ddbbbb;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#883333;align=left;spacingLeft=8;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="· 天市垣明润 → 国泰民安" vertex="1">
+          <mxGeometry height="16.7889944815458" width="167.8898140091122" x="209.92331835284804" y="97.68142243808467" as="geometry" />
+        </mxCell>
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-160" parent="inCaOdDOQ_w14JDPJGUT-148" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#884400;strokeWidth=2;shadow=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="政治哲学" vertex="1">
+          <mxGeometry height="30.52544451190145" width="137.36439328018272" x="427.35589020501294" y="9.157633353570436" as="geometry" />
+        </mxCell>
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-161" parent="inCaOdDOQ_w14JDPJGUT-148" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#faf5ec;strokeColor=#eeddcc;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#775533;align=left;spacingLeft=8;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="· 紫微垣 → 帝王·宫室·宗庙" vertex="1">
+          <mxGeometry height="16.7889944815458" width="167.8898140091122" x="412.09317984054815" y="47.314438993447254" as="geometry" />
+        </mxCell>
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-162" parent="inCaOdDOQ_w14JDPJGUT-148" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#faf5ec;strokeColor=#eeddcc;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#775533;align=left;spacingLeft=8;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="· 太微垣 → 朝纲·官爵·政令" vertex="1">
+          <mxGeometry height="16.7889944815458" width="167.8898140091122" x="412.09317984054815" y="67.1559779261832" as="geometry" />
+        </mxCell>
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-163" parent="inCaOdDOQ_w14JDPJGUT-148" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#faf5ec;strokeColor=#eeddcc;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#775533;align=left;spacingLeft=8;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="· 天市垣 → 民生·商贾·货殖" vertex="1">
+          <mxGeometry height="16.7889944815458" width="167.8898140091122" x="412.09317984054815" y="86.99751685891916" as="geometry" />
+        </mxCell>
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-164" parent="inCaOdDOQ_w14JDPJGUT-148" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#faf5ec;strokeColor=#eeddcc;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#775533;align=left;spacingLeft=8;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="· 天-地-人同构的视觉化" vertex="1">
+          <mxGeometry height="16.7889944815458" width="167.8898140091122" x="412.09317984054815" y="106.83905579165507" as="geometry" />
+        </mxCell>
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-165" parent="inCaOdDOQ_w14JDPJGUT-148" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#004400;strokeWidth=2;shadow=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="文化符号" vertex="1">
+          <mxGeometry height="30.52544451190145" width="137.36439328018272" x="610.5084145785898" y="9.157633353570436" as="geometry" />
+        </mxCell>
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-166" parent="inCaOdDOQ_w14JDPJGUT-148" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf5ea;strokeColor=#bbddbb;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=8;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="· 语言印记（紫禁城/紫微郎）" vertex="1">
+          <mxGeometry height="16.7889944815458" width="167.8898140091122" x="610.5084145785898" y="47.314438993447254" as="geometry" />
+        </mxCell>
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-167" parent="inCaOdDOQ_w14JDPJGUT-148" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf5ea;strokeColor=#bbddbb;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=8;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="· 道教星神（紫微大帝）" vertex="1">
+          <mxGeometry height="16.7889944815458" width="167.8898140091122" x="610.5084145785898" y="67.1559779261832" as="geometry" />
+        </mxCell>
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-168" parent="inCaOdDOQ_w14JDPJGUT-148" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf5ea;strokeColor=#bbddbb;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=8;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="· 象天设都（都城规划蓝本）" vertex="1">
+          <mxGeometry height="16.7889944815458" width="167.8898140091122" x="610.5084145785898" y="86.99751685891916" as="geometry" />
+        </mxCell>
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-169" parent="inCaOdDOQ_w14JDPJGUT-148" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf5ea;strokeColor=#bbddbb;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=8;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="· 星图传统（敦煌/汉代图像）" vertex="1">
+          <mxGeometry height="16.7889944815458" width="167.8898140091122" x="610.5084145785898" y="106.83905579165507" as="geometry" />
+        </mxCell>
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-174" edge="1" parent="inCaOdDOQ_w14JDPJGUT-247" source="inCaOdDOQ_w14JDPJGUT-181" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;strokeWidth=5;dashed=1;dashPattern=12 12;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" target="inCaOdDOQ_w14JDPJGUT-155">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-175" edge="1" parent="inCaOdDOQ_w14JDPJGUT-247" source="inCaOdDOQ_w14JDPJGUT-177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;strokeWidth=5;dashed=1;dashPattern=12 12;" target="inCaOdDOQ_w14JDPJGUT-155">
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-175" edge="1" parent="inCaOdDOQ_w14JDPJGUT-247" source="inCaOdDOQ_w14JDPJGUT-177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;strokeWidth=5;dashed=1;dashPattern=12 12;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" target="inCaOdDOQ_w14JDPJGUT-155">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-176" edge="1" parent="inCaOdDOQ_w14JDPJGUT-247" source="inCaOdDOQ_w14JDPJGUT-201" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;strokeWidth=5;dashed=1;dashPattern=12 12;" target="inCaOdDOQ_w14JDPJGUT-155">
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-176" edge="1" parent="inCaOdDOQ_w14JDPJGUT-247" source="inCaOdDOQ_w14JDPJGUT-201" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;strokeWidth=5;dashed=1;dashPattern=12 12;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" target="inCaOdDOQ_w14JDPJGUT-155">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-177" parent="inCaOdDOQ_w14JDPJGUT-247" style="ellipse;whiteSpace=wrap;html=1;fillColor=#6c8ebf;strokeColor=#4a6a9a;fontSize=16;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#ffffff;strokeWidth=2;shadow=1;aspect=fixed;" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;太微垣&lt;/font&gt;" vertex="1">
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-177" parent="inCaOdDOQ_w14JDPJGUT-247" style="ellipse;whiteSpace=wrap;html=1;fillColor=#6c8ebf;strokeColor=#4a6a9a;fontSize=16;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#ffffff;strokeWidth=2;shadow=1;aspect=fixed;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;太微垣&lt;/font&gt;" vertex="1">
           <mxGeometry height="220.55777913389736" width="220.55777913389736" x="912.7586731324154" y="177.7534243394861" as="geometry" />
         </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-178" parent="inCaOdDOQ_w14JDPJGUT-247" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0e0f0;strokeColor=#6c8ebf;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#224477;align=center;" value="五帝座·三公·九卿·执法" vertex="1">
-          <mxGeometry height="11.028267217313871" width="77.19547306962454" x="977.8234290053852" y="232.89476042605568" as="geometry" />
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-178" parent="inCaOdDOQ_w14JDPJGUT-247" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0e0f0;strokeColor=#6c8ebf;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#224477;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="五帝座·三公·九卿·执法" vertex="1">
+          <mxGeometry height="11.03" width="92.07" x="977" y="228.64" as="geometry" />
         </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-179" parent="inCaOdDOQ_w14JDPJGUT-247" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0e0f0;strokeColor=#6c8ebf;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#224477;align=center;" value="政令·官爵·朝纲·得失" vertex="1">
-          <mxGeometry height="11.028267217313871" width="77.19547306962454" x="977.8234290053852" y="332.1491653818808" as="geometry" />
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-179" parent="inCaOdDOQ_w14JDPJGUT-247" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0e0f0;strokeColor=#6c8ebf;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#224477;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="政令·官爵·朝纲·得失" vertex="1">
+          <mxGeometry height="11.03" width="92.07" x="977.82" y="332.15" as="geometry" />
         </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-180" connectable="0" parent="inCaOdDOQ_w14JDPJGUT-247" style="group;aspect=fixed;" value="" vertex="1">
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-180" connectable="0" parent="inCaOdDOQ_w14JDPJGUT-247" style="group;aspect=fixed;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
           <mxGeometry height="482.6856634358738" width="497.1894443007066" x="413.8674133318084" y="3.5493111287859596" as="geometry" />
         </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-181" parent="inCaOdDOQ_w14JDPJGUT-180" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d4a030;strokeColor=#aa7722;fontSize=16;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#ffffff;strokeWidth=2;shadow=1;opacity=80;verticalAlign=bottom;" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;紫微垣&lt;/font&gt;" vertex="1">
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-181" parent="inCaOdDOQ_w14JDPJGUT-180" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d4a030;strokeColor=#aa7722;fontSize=16;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#ffffff;strokeWidth=2;shadow=1;opacity=80;verticalAlign=bottom;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;紫微垣&lt;/font&gt;" vertex="1">
           <mxGeometry height="482.6856634358738" width="497.1894443007066" as="geometry" />
         </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-182" parent="inCaOdDOQ_w14JDPJGUT-180" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5e8c8;strokeColor=#d4a030;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#664400;align=center;" value="北极星 · 勾陈 · 北斗" vertex="1">
-          <mxGeometry height="24.134283171793687" width="174.01630550524732" x="169.04441106224024" y="389.7148008687861" as="geometry" />
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-182" parent="inCaOdDOQ_w14JDPJGUT-180" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5e8c8;strokeColor=#d4a030;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#664400;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="北极星 · 勾陈 · 北斗" vertex="1">
+          <mxGeometry height="24.134283171793687" width="174.01630550524732" x="169.04441106224024" y="367.7148008687861" as="geometry" />
         </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-183" parent="inCaOdDOQ_w14JDPJGUT-180" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5e8c8;strokeColor=#d4a030;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#664400;align=center;" value="帝王·宫室·宗庙·国运" vertex="1">
-          <mxGeometry height="24.134283171793687" width="174.01630550524732" x="169.04441106224024" y="428.6037643491625" as="geometry" />
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-183" parent="inCaOdDOQ_w14JDPJGUT-180" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5e8c8;strokeColor=#d4a030;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#664400;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="帝王·宫室·宗庙·国运" vertex="1">
+          <mxGeometry height="24.134283171793687" width="174.01630550524732" x="169.04441106224024" y="394.6037643491625" as="geometry" />
         </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-184" connectable="0" parent="inCaOdDOQ_w14JDPJGUT-180" style="group" value="" vertex="1">
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-184" connectable="0" parent="inCaOdDOQ_w14JDPJGUT-180" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
           <mxGeometry height="115.44076217563791" width="204.6822024390743" x="148.73846286842658" y="177.25478731223834" as="geometry" />
         </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-185" parent="inCaOdDOQ_w14JDPJGUT-184" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffcc00;strokeColor=#dd9900;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#664400;strokeWidth=2;shadow=1;" value="天枢" vertex="1">
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-185" parent="inCaOdDOQ_w14JDPJGUT-184" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffcc00;strokeColor=#dd9900;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#664400;strokeWidth=2;shadow=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="天枢" vertex="1">
           <mxGeometry height="16.374576195125943" width="32.749152390251886" y="16.374576195125943" as="geometry" />
         </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-186" parent="inCaOdDOQ_w14JDPJGUT-184" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffdd44;strokeColor=#ddaa22;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#664400;strokeWidth=2;shadow=1;" value="天璇" vertex="1">
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-186" parent="inCaOdDOQ_w14JDPJGUT-184" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffdd44;strokeColor=#ddaa22;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#664400;strokeWidth=2;shadow=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="天璇" vertex="1">
           <mxGeometry height="16.374576195125943" width="32.749152390251886" x="61.40466073172229" as="geometry" />
         </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-187" parent="inCaOdDOQ_w14JDPJGUT-184" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffdd44;strokeColor=#ddaa22;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#664400;strokeWidth=2;shadow=1;" value="天玑" vertex="1">
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-187" parent="inCaOdDOQ_w14JDPJGUT-184" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffdd44;strokeColor=#ddaa22;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#664400;strokeWidth=2;shadow=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="天玑" vertex="1">
           <mxGeometry height="16.374576195125943" width="32.749152390251886" x="122.80932146344458" y="16.374576195125943" as="geometry" />
         </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-188" parent="inCaOdDOQ_w14JDPJGUT-184" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffdd44;strokeColor=#ddaa22;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#664400;strokeWidth=2;shadow=1;" value="天权" vertex="1">
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-188" parent="inCaOdDOQ_w14JDPJGUT-184" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffdd44;strokeColor=#ddaa22;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#664400;strokeWidth=2;shadow=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="天权" vertex="1">
           <mxGeometry height="16.374576195125943" width="32.749152390251886" x="171.93305004882242" y="40.936440487814856" as="geometry" />
         </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-189" parent="inCaOdDOQ_w14JDPJGUT-184" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffdd44;strokeColor=#ddaa22;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#664400;strokeWidth=2;shadow=1;" value="玉衡" vertex="1">
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-189" parent="inCaOdDOQ_w14JDPJGUT-184" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffdd44;strokeColor=#ddaa22;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#664400;strokeWidth=2;shadow=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="玉衡" vertex="1">
           <mxGeometry height="16.374576195125943" width="32.749152390251886" x="122.80932146344458" y="73.68559287806676" as="geometry" />
         </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-190" parent="inCaOdDOQ_w14JDPJGUT-184" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffdd44;strokeColor=#ddaa22;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#664400;strokeWidth=2;shadow=1;" value="开阳" vertex="1">
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-190" parent="inCaOdDOQ_w14JDPJGUT-184" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffdd44;strokeColor=#ddaa22;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#664400;strokeWidth=2;shadow=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="开阳" vertex="1">
           <mxGeometry height="16.374576195125943" width="32.749152390251886" x="61.40466073172229" y="90.0601690731927" as="geometry" />
         </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-191" parent="inCaOdDOQ_w14JDPJGUT-184" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffdd44;strokeColor=#ddaa22;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#664400;strokeWidth=2;shadow=1;" value="摇光" vertex="1">
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-191" parent="inCaOdDOQ_w14JDPJGUT-184" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffdd44;strokeColor=#ddaa22;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#664400;strokeWidth=2;shadow=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="摇光" vertex="1">
           <mxGeometry height="16.374576195125943" width="32.749152390251886" y="81.87288097562971" as="geometry" />
         </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-192" parent="inCaOdDOQ_w14JDPJGUT-184" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0e8c8;strokeColor=#ccaa77;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#664400;fontStyle=2;align=center;" value="贪狼" vertex="1">
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-192" parent="inCaOdDOQ_w14JDPJGUT-184" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0e8c8;strokeColor=#ccaa77;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#664400;fontStyle=2;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="贪狼" vertex="1">
           <mxGeometry height="7.368559287806675" width="32.749152390251886" y="34.38661000976448" as="geometry" />
         </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-193" parent="inCaOdDOQ_w14JDPJGUT-184" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0e8c8;strokeColor=#ccaa77;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#664400;fontStyle=2;align=center;" value="巨门" vertex="1">
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-193" parent="inCaOdDOQ_w14JDPJGUT-184" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0e8c8;strokeColor=#ccaa77;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#664400;fontStyle=2;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="巨门" vertex="1">
           <mxGeometry height="7.368559287806675" width="32.749152390251886" x="61.40466073172229" y="18.01203381463854" as="geometry" />
         </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-194" parent="inCaOdDOQ_w14JDPJGUT-184" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0e8c8;strokeColor=#ccaa77;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#664400;fontStyle=2;align=center;" value="禄存" vertex="1">
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-194" parent="inCaOdDOQ_w14JDPJGUT-184" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0e8c8;strokeColor=#ccaa77;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#664400;fontStyle=2;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="禄存" vertex="1">
           <mxGeometry height="7.368559287806675" width="32.749152390251886" x="122.80932146344458" y="34.38661000976448" as="geometry" />
         </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-195" parent="inCaOdDOQ_w14JDPJGUT-184" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0e8c8;strokeColor=#ccaa77;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#664400;fontStyle=2;align=center;" value="文曲" vertex="1">
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-195" parent="inCaOdDOQ_w14JDPJGUT-184" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0e8c8;strokeColor=#ccaa77;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#664400;fontStyle=2;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="文曲" vertex="1">
           <mxGeometry height="7.368559287806675" width="32.749152390251886" x="171.93305004882242" y="58.9484743024534" as="geometry" />
         </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-196" parent="inCaOdDOQ_w14JDPJGUT-184" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0e8c8;strokeColor=#ccaa77;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#664400;fontStyle=2;align=center;" value="廉贞" vertex="1">
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-196" parent="inCaOdDOQ_w14JDPJGUT-184" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0e8c8;strokeColor=#ccaa77;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#664400;fontStyle=2;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="廉贞" vertex="1">
           <mxGeometry height="7.368559287806675" width="32.749152390251886" x="122.80932146344458" y="91.6976266927053" as="geometry" />
         </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-197" parent="inCaOdDOQ_w14JDPJGUT-184" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0e8c8;strokeColor=#ccaa77;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#664400;fontStyle=2;align=center;" value="武曲" vertex="1">
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-197" parent="inCaOdDOQ_w14JDPJGUT-184" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0e8c8;strokeColor=#ccaa77;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#664400;fontStyle=2;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="武曲" vertex="1">
           <mxGeometry height="7.368559287806675" width="32.749152390251886" x="61.40466073172229" y="108.07220288783124" as="geometry" />
         </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-198" parent="inCaOdDOQ_w14JDPJGUT-184" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0e8c8;strokeColor=#ccaa77;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#664400;fontStyle=2;align=center;" value="破军" vertex="1">
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-198" parent="inCaOdDOQ_w14JDPJGUT-184" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0e8c8;strokeColor=#ccaa77;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#664400;fontStyle=2;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="破军" vertex="1">
           <mxGeometry height="7.368559287806675" width="32.749152390251886" y="99.88491479026827" as="geometry" />
         </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-199" parent="inCaOdDOQ_w14JDPJGUT-184" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc00;strokeColor=#dd9900;fontSize=18;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#664400;strokeWidth=2;shadow=1;" value="北斗七星" vertex="1">
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-199" parent="inCaOdDOQ_w14JDPJGUT-184" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc00;strokeColor=#dd9900;fontSize=18;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#664400;strokeWidth=2;shadow=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="北斗七星" vertex="1">
           <mxGeometry height="16.374576195125943" width="49.12372858537783" x="57.31101668294081" y="49.12372858537783" as="geometry" />
         </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-200" parent="inCaOdDOQ_w14JDPJGUT-184" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#888899;fontStyle=2;" value="紫微垣·天帝御驾" vertex="1">
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-200" parent="inCaOdDOQ_w14JDPJGUT-184" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#888899;fontStyle=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="紫微垣·天帝御驾" vertex="1">
           <mxGeometry height="6.549830478050378" width="40.936440487814856" x="61.40466073172229" y="67.13576240001638" as="geometry" />
         </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-201" parent="inCaOdDOQ_w14JDPJGUT-247" style="ellipse;whiteSpace=wrap;html=1;fillColor=#82b366;strokeColor=#5a8a44;fontSize=16;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#ffffff;strokeWidth=2;shadow=1;aspect=fixed;" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;天市垣&lt;/font&gt;" vertex="1">
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-201" parent="inCaOdDOQ_w14JDPJGUT-247" style="ellipse;whiteSpace=wrap;html=1;fillColor=#82b366;strokeColor=#5a8a44;fontSize=16;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#ffffff;strokeWidth=2;shadow=1;aspect=fixed;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;天市垣&lt;/font&gt;" vertex="1">
           <mxGeometry height="220.55777913389736" width="220.55777913389736" x="783.1923131673635" y="425.2086856541101" as="geometry" />
         </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-202" parent="inCaOdDOQ_w14JDPJGUT-247" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#82b366;fontStyle=2;" value="天街万民 · 市集" vertex="1">
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-202" parent="inCaOdDOQ_w14JDPJGUT-247" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=Microsoft YaHei;fontColor=#82b366;fontStyle=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="天街万民 · 市集" vertex="1">
           <mxGeometry height="8.822613773851097" width="60.65358598327642" x="791.4632567105376" y="474.83588813202266" as="geometry" />
         </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-203" parent="inCaOdDOQ_w14JDPJGUT-247" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0e8d0;strokeColor=#82b366;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#224422;align=center;" value="帝座·列肆·帛度·市楼" vertex="1">
-          <mxGeometry height="11.028267217313871" width="77.19547306962454" x="854.8738238748717" y="488.62122215366526" as="geometry" />
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-203" parent="inCaOdDOQ_w14JDPJGUT-247" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0e8d0;strokeColor=#82b366;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#224422;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="帝座·列肆·帛度·市楼" vertex="1">
+          <mxGeometry height="11.03" width="92.07" x="852.12" y="486" as="geometry" />
         </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-204" parent="inCaOdDOQ_w14JDPJGUT-247" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0e8d0;strokeColor=#82b366;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#224422;align=center;" value="经济·民生·商贾·货殖" vertex="1">
-          <mxGeometry height="11.028267217313871" width="77.19547306962454" x="854.8738238748717" y="584.0157335834301" as="geometry" />
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-204" parent="inCaOdDOQ_w14JDPJGUT-247" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0e8d0;strokeColor=#82b366;fontSize=9;fontFamily=Microsoft YaHei;fontColor=#224422;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="经济·民生·商贾·货殖" vertex="1">
+          <mxGeometry height="11.03" width="89.32" x="854.87" y="584.02" as="geometry" />
         </mxCell>
         <mxCell id="inCaOdDOQ_w14JDPJGUT-205" parent="inCaOdDOQ_w14JDPJGUT-247" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star;aspect=fixed;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
           <mxGeometry height="61.507001832941825" width="61.507001832941825" x="832.6471995221544" y="139.7044885593411" as="geometry" />
         </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-206" connectable="0" parent="inCaOdDOQ_w14JDPJGUT-247" style="group;aspect=fixed;fontSize=12;" value="" vertex="1">
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-206" connectable="0" parent="inCaOdDOQ_w14JDPJGUT-247" style="group;aspect=fixed;fontSize=12;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
           <mxGeometry height="327.7576107656897" width="416.32359976107716" y="70.27799786374635" as="geometry" />
         </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-207" parent="inCaOdDOQ_w14JDPJGUT-206" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#003366;strokeWidth=2;shadow=1;" value="北辰 — 北斗 体用关系" vertex="1">
-          <mxGeometry height="21.214084839203213" width="159.10456041824605" x="26.51742673637434" y="40.30676119448611" as="geometry" />
-        </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-208" parent="inCaOdDOQ_w14JDPJGUT-206" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf2f8;strokeColor=#6c8ebf;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#003366;" value="北辰（北极星）· 不动" vertex="1">
-          <mxGeometry height="15.910563629402414" width="68.9453095145733" x="31.82091208364921" y="66.82436724349012" as="geometry" />
-        </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-209" parent="inCaOdDOQ_w14JDPJGUT-206" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f6fc;strokeColor=#99bbdd;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#445577;align=center;" value="天道·终极权威·体" vertex="1">
-          <mxGeometry height="10.607042419601607" width="68.9453095145733" x="31.82091208364921" y="84.85633935681285" as="geometry" />
-        </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-210" parent="inCaOdDOQ_w14JDPJGUT-206" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf2f8;strokeColor=#6c8ebf;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#003366;" value="北斗七星 · 运转" vertex="1">
-          <mxGeometry height="15.910563629402414" width="68.9453095145733" x="111.37319229277223" y="66.82436724349012" as="geometry" />
-        </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-211" parent="inCaOdDOQ_w14JDPJGUT-206" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f6fc;strokeColor=#99bbdd;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#445577;align=center;" value="执行·时令变换·用" vertex="1">
-          <mxGeometry height="10.607042419601607" width="68.9453095145733" x="111.37319229277223" y="84.85633935681285" as="geometry" />
-        </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-212" edge="1" parent="inCaOdDOQ_w14JDPJGUT-206" source="inCaOdDOQ_w14JDPJGUT-208" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#6c8ebf;strokeWidth=3;opacity=50;fontSize=12;" target="inCaOdDOQ_w14JDPJGUT-210" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-213" parent="inCaOdDOQ_w14JDPJGUT-206" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#8899bb;fontStyle=2;" value="《论语》北辰居其所而众星共之" vertex="1">
-          <mxGeometry height="8.485633935681285" width="106.06970694549736" x="37.124397430924084" y="103.94901571209574" as="geometry" />
-        </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-214" parent="inCaOdDOQ_w14JDPJGUT-206" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#004400;strokeWidth=2;shadow=1;" value="斗柄指向 · 二十四节气" vertex="1">
-          <mxGeometry height="21.214084839203213" width="180.3185018073455" x="10.606970694549737" y="236.53704595711585" as="geometry" />
-        </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-215" parent="inCaOdDOQ_w14JDPJGUT-206" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8f5e0;strokeColor=#82b366;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#336633;" value="斗柄东指 · 天下皆春" vertex="1">
-          <mxGeometry height="13.78915514548209" width="79.55228020912303" x="15.910456041824604" y="263.05465200611985" as="geometry" />
-        </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-216" parent="inCaOdDOQ_w14JDPJGUT-206" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8f5e0;strokeColor=#82b366;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#336633;" value="斗柄南指 · 天下皆夏" vertex="1">
-          <mxGeometry height="13.78915514548209" width="79.55228020912303" x="106.06970694549736" y="263.05465200611985" as="geometry" />
-        </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-217" parent="inCaOdDOQ_w14JDPJGUT-206" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8f5e0;strokeColor=#82b366;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#336633;" value="斗柄西指 · 天下皆秋" vertex="1">
-          <mxGeometry height="13.78915514548209" width="79.55228020912303" x="15.910456041824604" y="282.14732836140274" as="geometry" />
-        </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-218" parent="inCaOdDOQ_w14JDPJGUT-206" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8f5e0;strokeColor=#82b366;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#336633;" value="斗柄北指 · 天下皆冬" vertex="1">
-          <mxGeometry height="13.78915514548209" width="79.55228020912303" x="106.06970694549736" y="282.14732836140274" as="geometry" />
-        </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-219" parent="inCaOdDOQ_w14JDPJGUT-206" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#8899bb;fontStyle=2;" value="《淮南子·天文训》斗柄指向定二十四节气" vertex="1">
-          <mxGeometry height="8.485633935681285" width="148.49758972369634" x="31.82091208364921" y="302.8310610796259" as="geometry" />
-        </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-220" parent="inCaOdDOQ_w14JDPJGUT-206" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#884400;strokeWidth=2;shadow=1;" value="分野对应表（某星变则某地应）" vertex="1">
-          <mxGeometry height="21.214084839203213" width="148.49758972369634" x="26.51742673637434" y="135.77014297090057" as="geometry" />
-        </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-221" parent="inCaOdDOQ_w14JDPJGUT-206" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#faf5ec;strokeColor=#eeddcc;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#775533;align=center;" value="天枢 秦 · 天璇 楚 · 天玑 梁" vertex="1">
-          <mxGeometry height="12.72845090352193" width="137.8906190291466" x="31.82091208364921" y="162.2877490199046" as="geometry" />
-        </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-222" parent="inCaOdDOQ_w14JDPJGUT-206" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#faf5ec;strokeColor=#eeddcc;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#775533;align=center;" value="天权 吴 · 玉衡 赵 · 开阳 燕" vertex="1">
-          <mxGeometry height="12.72845090352193" width="137.8906190291466" x="31.82091208364921" y="178.198312649307" as="geometry" />
-        </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-223" parent="inCaOdDOQ_w14JDPJGUT-206" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#faf5ec;strokeColor=#eeddcc;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#775533;align=center;" value="摇光 齐" vertex="1">
-          <mxGeometry height="12.72845090352193" width="137.8906190291466" x="31.82091208364921" y="194.10887627870937" as="geometry" />
-        </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-224" parent="inCaOdDOQ_w14JDPJGUT-206" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#8899bb;fontStyle=2;" value="《史记·天官书》《开元占经》" vertex="1">
-          <mxGeometry height="8.485633935681285" width="106.06970694549736" x="42.42788277819895" y="211.08014415007196" as="geometry" />
-        </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-225" parent="inCaOdDOQ_w14JDPJGUT-206" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#003366;" value="天文" vertex="1">
-          <mxGeometry height="15.910563629402414" width="106.06970694549736" x="296.9951794473927" y="40.30676119448611" as="geometry" />
-        </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-226" parent="inCaOdDOQ_w14JDPJGUT-206" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf2f8;strokeColor=#99bbdd;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#445577;align=center;" value="建四时 · 定节气" vertex="1">
-          <mxGeometry height="10.607042419601607" width="50.38311079911125" x="296.9951794473927" y="58.33873330780885" as="geometry" />
-        </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-227" parent="inCaOdDOQ_w14JDPJGUT-206" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf2f8;strokeColor=#99bbdd;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#445577;align=center;" value="定方向 · 作导航" vertex="1">
-          <mxGeometry height="10.607042419601607" width="50.38311079911125" x="352.68177559377875" y="58.33873330780885" as="geometry" />
-        </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-228" parent="inCaOdDOQ_w14JDPJGUT-206" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf2f8;strokeColor=#99bbdd;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#445577;align=center;" value="量天尺（去极度基准）" vertex="1">
-          <mxGeometry height="10.607042419601607" width="106.06970694549736" x="296.9951794473927" y="71.06718421133077" as="geometry" />
-        </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-229" parent="inCaOdDOQ_w14JDPJGUT-206" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#660000;" value="政治、星占" vertex="1">
-          <mxGeometry height="15.910563629402414" width="106.06970694549736" x="296.9951794473927" y="86.97774784073317" as="geometry" />
-        </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-230" parent="inCaOdDOQ_w14JDPJGUT-206" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fce8e4;strokeColor=#ddbbbb;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#883333;align=center;" value="斗为帝车（天帝御驾）" vertex="1">
-          <mxGeometry height="10.607042419601607" width="106.06970694549736" x="296.9951794473927" y="105.00971995405591" as="geometry" />
-        </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-231" parent="inCaOdDOQ_w14JDPJGUT-206" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fce8e4;strokeColor=#ddbbbb;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#883333;align=center;" value="七政之枢机（运转中枢）" vertex="1">
-          <mxGeometry height="10.607042419601607" width="106.06970694549736" x="296.9951794473927" y="117.73817085757783" as="geometry" />
-        </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-232" parent="inCaOdDOQ_w14JDPJGUT-206" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fce8e4;strokeColor=#ddbbbb;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#883333;align=center;" value="分野占验（某星变某地应）" vertex="1">
-          <mxGeometry height="10.607042419601607" width="106.06970694549736" x="296.9951794473927" y="130.46662176109976" as="geometry" />
-        </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-233" parent="inCaOdDOQ_w14JDPJGUT-206" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#440066;" value="道教神格" vertex="1">
-          <mxGeometry height="15.910563629402414" width="106.06970694549736" x="296.9951794473927" y="146.37718539050218" as="geometry" />
-        </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-234" parent="inCaOdDOQ_w14JDPJGUT-206" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f3eaf5;strokeColor=#ddccee;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#663399;align=center;" value="北斗注死（主掌寿夭）" vertex="1">
-          <mxGeometry height="10.607042419601607" width="106.06970694549736" x="296.9951794473927" y="164.4091575038249" as="geometry" />
-        </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-235" parent="inCaOdDOQ_w14JDPJGUT-206" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f3eaf5;strokeColor=#ddccee;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#663399;align=center;" value="七元君（贪狼·巨门·禄存·文曲·廉贞·武曲·破军）" vertex="1">
-          <mxGeometry height="10.607042419601607" width="106.06970694549736" x="296.9951794473927" y="177.13760840734687" as="geometry" />
-        </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-236" parent="inCaOdDOQ_w14JDPJGUT-206" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#884400;" value="术数命理" vertex="1">
-          <mxGeometry height="15.910563629402414" width="106.06970694549736" x="296.9951794473927" y="193.04817203674926" as="geometry" />
-        </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-237" parent="inCaOdDOQ_w14JDPJGUT-206" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#faf5ec;strokeColor=#eeddcc;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#775533;align=center;" value="紫微斗数（命盘基准）" vertex="1">
-          <mxGeometry height="10.607042419601607" width="106.06970694549736" x="296.9951794473927" y="211.08014415007196" as="geometry" />
-        </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-238" parent="inCaOdDOQ_w14JDPJGUT-206" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#faf5ec;strokeColor=#eeddcc;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#775533;align=center;" value="本命星占（祭祀本命星君）" vertex="1">
-          <mxGeometry height="10.607042419601607" width="106.06970694549736" x="296.9951794473927" y="223.80859505359393" as="geometry" />
-        </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-239" parent="inCaOdDOQ_w14JDPJGUT-206" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#004400;" value="宇宙观" vertex="1">
-          <mxGeometry height="15.910563629402414" width="106.06970694549736" x="296.9951794473927" y="239.7191586829963" as="geometry" />
-        </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-240" parent="inCaOdDOQ_w14JDPJGUT-206" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf5ea;strokeColor=#bbddbb;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#336633;align=center;" value="斗为帝车（宇宙秩序模型）" vertex="1">
-          <mxGeometry height="10.607042419601607" width="106.06970694549736" x="296.9951794473927" y="257.75113079631905" as="geometry" />
-        </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-241" parent="inCaOdDOQ_w14JDPJGUT-206" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf5ea;strokeColor=#bbddbb;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#336633;align=center;" value="天圆地方·八风从律" vertex="1">
-          <mxGeometry height="10.607042419601607" width="106.06970694549736" x="296.9951794473927" y="270.479581699841" as="geometry" />
-        </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-242" parent="inCaOdDOQ_w14JDPJGUT-206" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#888899;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#444455;" value="文化符号" vertex="1">
-          <mxGeometry height="15.910563629402414" width="106.06970694549736" x="296.9951794473927" y="286.3901453292434" as="geometry" />
-        </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-243" parent="inCaOdDOQ_w14JDPJGUT-206" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8f8f8;strokeColor=#cccccc;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#555566;align=center;" value="泰斗（德高望重）" vertex="1">
-          <mxGeometry height="10.607042419601607" width="106.06970694549736" x="296.9951794473927" y="304.4221174425661" as="geometry" />
-        </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-244" parent="inCaOdDOQ_w14JDPJGUT-206" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8f8f8;strokeColor=#cccccc;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#555566;align=center;" value="北斗卫星导航系统（现代传承）" vertex="1">
-          <mxGeometry height="10.607042419601607" width="106.06970694549736" x="296.9951794473927" y="317.15056834608805" as="geometry" />
-        </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-245" parent="inCaOdDOQ_w14JDPJGUT-206" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f0f0;strokeColor=#888899;fontSize=15;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#444455;strokeWidth=2;shadow=1;" value="北斗七星 ： 紫微垣核心枢纽 · 天-地-人联动轴心" vertex="1">
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-245" parent="inCaOdDOQ_w14JDPJGUT-206" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f0f0;strokeColor=#888899;fontSize=15;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#444455;strokeWidth=2;shadow=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="北斗七星 ： 紫微垣核心枢纽 · 天-地-人联动轴心" vertex="1">
           <mxGeometry height="21.214084839203213" width="416.3235997610772" as="geometry" />
         </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-246" edge="1" parent="inCaOdDOQ_w14JDPJGUT-247" source="inCaOdDOQ_w14JDPJGUT-199" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;strokeWidth=5;dashed=1;dashPattern=12 12;" target="inCaOdDOQ_w14JDPJGUT-245">
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-249" connectable="0" parent="inCaOdDOQ_w14JDPJGUT-206" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
+          <mxGeometry height="271.01" width="320.61" x="-169" y="40.31" as="geometry" />
+        </mxCell>
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-207" parent="inCaOdDOQ_w14JDPJGUT-249" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#003366;strokeWidth=2;shadow=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="北辰 — 北斗 体用关系" vertex="1">
+          <mxGeometry height="21.21409001956947" width="282.8911764705883" x="28.28911764705882" as="geometry" />
+        </mxCell>
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-208" parent="inCaOdDOQ_w14JDPJGUT-249" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf2f8;strokeColor=#6c8ebf;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#003366;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="北辰（北极星）· 不动" vertex="1">
+          <mxGeometry height="15.910567514677105" width="122.58617647058826" x="37.718823529411765" y="26.51761252446183" as="geometry" />
+        </mxCell>
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-209" parent="inCaOdDOQ_w14JDPJGUT-249" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f6fc;strokeColor=#99bbdd;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#445577;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="天道·终极权威·体" vertex="1">
+          <mxGeometry height="10.607045009784734" width="122.58617647058826" x="37.718823529411765" y="44.54958904109588" as="geometry" />
+        </mxCell>
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-210" parent="inCaOdDOQ_w14JDPJGUT-249" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf2f8;strokeColor=#6c8ebf;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#003366;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="北斗七星 · 运转" vertex="1">
+          <mxGeometry height="15.910567514677105" width="122.58617647058826" x="179.1644117647059" y="26.51761252446183" as="geometry" />
+        </mxCell>
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-211" parent="inCaOdDOQ_w14JDPJGUT-249" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f6fc;strokeColor=#99bbdd;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#445577;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="执行·时令变换·用" vertex="1">
+          <mxGeometry height="10.607045009784734" width="122.58617647058826" x="179.1644117647059" y="44.54958904109588" as="geometry" />
+        </mxCell>
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-212" edge="1" parent="inCaOdDOQ_w14JDPJGUT-249" source="inCaOdDOQ_w14JDPJGUT-208" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#6c8ebf;strokeWidth=3;opacity=50;fontSize=12;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" target="inCaOdDOQ_w14JDPJGUT-210" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-213" parent="inCaOdDOQ_w14JDPJGUT-249" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#8899bb;fontStyle=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="《论语》北辰居其所而众星共之" vertex="1">
+          <mxGeometry height="8.485636007827788" width="188.59411764705882" x="47.14852941176473" y="63.6422700587084" as="geometry" />
+        </mxCell>
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-214" parent="inCaOdDOQ_w14JDPJGUT-249" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#004400;strokeWidth=2;shadow=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="斗柄指向 · 二十四节气" vertex="1">
+          <mxGeometry height="21.21409001956947" width="320.61" y="196.2303326810176" as="geometry" />
+        </mxCell>
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-215" parent="inCaOdDOQ_w14JDPJGUT-249" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8f5e0;strokeColor=#82b366;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#336633;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="斗柄东指 · 天下皆春" vertex="1">
+          <mxGeometry height="13.789158512720155" width="141.44558823529414" x="9.42970588235294" y="222.7479452054794" as="geometry" />
+        </mxCell>
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-216" parent="inCaOdDOQ_w14JDPJGUT-249" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8f5e0;strokeColor=#82b366;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#336633;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="斗柄南指 · 天下皆夏" vertex="1">
+          <mxGeometry height="13.789158512720155" width="141.44558823529414" x="169.73470588235293" y="222.7479452054794" as="geometry" />
+        </mxCell>
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-217" parent="inCaOdDOQ_w14JDPJGUT-249" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8f5e0;strokeColor=#82b366;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#336633;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="斗柄西指 · 天下皆秋" vertex="1">
+          <mxGeometry height="13.789158512720155" width="141.44558823529414" x="9.42970588235294" y="241.84062622309193" as="geometry" />
+        </mxCell>
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-218" parent="inCaOdDOQ_w14JDPJGUT-249" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8f5e0;strokeColor=#82b366;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#336633;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="斗柄北指 · 天下皆冬" vertex="1">
+          <mxGeometry height="13.789158512720155" width="141.44558823529414" x="169.73470588235293" y="241.84062622309193" as="geometry" />
+        </mxCell>
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-219" parent="inCaOdDOQ_w14JDPJGUT-249" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#8899bb;fontStyle=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="《淮南子·天文训》斗柄指向定二十四节气" vertex="1">
+          <mxGeometry height="8.485636007827788" width="264.03176470588244" x="37.718823529411765" y="262.5243639921722" as="geometry" />
+        </mxCell>
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-220" parent="inCaOdDOQ_w14JDPJGUT-249" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#884400;strokeWidth=2;shadow=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="分野对应表（某星变则某地应）" vertex="1">
+          <mxGeometry height="21.21409001956947" width="264.03176470588244" x="28.28911764705882" y="95.4634050880626" as="geometry" />
+        </mxCell>
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-221" parent="inCaOdDOQ_w14JDPJGUT-249" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#faf5ec;strokeColor=#eeddcc;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#775533;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="天枢 秦 · 天璇 楚 · 天玑 梁" vertex="1">
+          <mxGeometry height="12.728454011741682" width="245.1723529411765" x="37.718823529411765" y="121.98101761252444" as="geometry" />
+        </mxCell>
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-222" parent="inCaOdDOQ_w14JDPJGUT-249" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#faf5ec;strokeColor=#eeddcc;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#775533;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="天权 吴 · 玉衡 赵 · 开阳 燕" vertex="1">
+          <mxGeometry height="12.728454011741682" width="245.1723529411765" x="37.718823529411765" y="137.89158512720155" as="geometry" />
+        </mxCell>
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-223" parent="inCaOdDOQ_w14JDPJGUT-249" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#faf5ec;strokeColor=#eeddcc;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#775533;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="摇光 齐" vertex="1">
+          <mxGeometry height="12.728454011741682" width="245.1723529411765" x="37.718823529411765" y="153.8021526418786" as="geometry" />
+        </mxCell>
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-224" parent="inCaOdDOQ_w14JDPJGUT-249" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#8899bb;fontStyle=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="《史记·天官书》《开元占经》" vertex="1">
+          <mxGeometry height="8.485636007827788" width="188.59411764705882" x="56.578235294117654" y="170.77342465753418" as="geometry" />
+        </mxCell>
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-250" connectable="0" parent="inCaOdDOQ_w14JDPJGUT-206" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
+          <mxGeometry height="287.45084957120355" width="250" x="169.99517944739267" y="40.30676119448611" as="geometry" />
+        </mxCell>
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-225" parent="inCaOdDOQ_w14JDPJGUT-250" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#003366;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="天文" vertex="1">
+          <mxGeometry height="15.910563629402414" width="250.00000000000009" as="geometry" />
+        </mxCell>
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-226" parent="inCaOdDOQ_w14JDPJGUT-250" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf2f8;strokeColor=#99bbdd;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#445577;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="建四时 · 定节气" vertex="1">
+          <mxGeometry height="10.607042419601607" width="118.75000000000006" y="18.031972113322745" as="geometry" />
+        </mxCell>
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-227" parent="inCaOdDOQ_w14JDPJGUT-250" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf2f8;strokeColor=#99bbdd;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#445577;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="定方向 · 作导航" vertex="1">
+          <mxGeometry height="10.607042419601607" width="118.75000000000006" x="131.24999999999997" y="18.031972113322745" as="geometry" />
+        </mxCell>
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-228" parent="inCaOdDOQ_w14JDPJGUT-250" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf2f8;strokeColor=#99bbdd;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#445577;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="量天尺（去极度基准）" vertex="1">
+          <mxGeometry height="10.607042419601607" width="250.00000000000009" y="30.760423016844662" as="geometry" />
+        </mxCell>
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-229" parent="inCaOdDOQ_w14JDPJGUT-250" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#660000;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="政治、星占" vertex="1">
+          <mxGeometry height="15.910563629402414" width="250.00000000000009" y="46.670986646247066" as="geometry" />
+        </mxCell>
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-230" parent="inCaOdDOQ_w14JDPJGUT-250" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fce8e4;strokeColor=#ddbbbb;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#883333;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="斗为帝车（天帝御驾）" vertex="1">
+          <mxGeometry height="10.607042419601607" width="250.00000000000009" y="64.70295875956981" as="geometry" />
+        </mxCell>
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-231" parent="inCaOdDOQ_w14JDPJGUT-250" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fce8e4;strokeColor=#ddbbbb;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#883333;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="七政之枢机（运转中枢）" vertex="1">
+          <mxGeometry height="10.607042419601607" width="250.00000000000009" y="77.43140966309173" as="geometry" />
+        </mxCell>
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-232" parent="inCaOdDOQ_w14JDPJGUT-250" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fce8e4;strokeColor=#ddbbbb;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#883333;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="分野占验（某星变某地应）" vertex="1">
+          <mxGeometry height="10.607042419601607" width="250.00000000000009" y="90.15986056661365" as="geometry" />
+        </mxCell>
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-233" parent="inCaOdDOQ_w14JDPJGUT-250" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#440066;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="道教神格" vertex="1">
+          <mxGeometry height="15.910563629402414" width="250.00000000000009" y="106.07042419601606" as="geometry" />
+        </mxCell>
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-234" parent="inCaOdDOQ_w14JDPJGUT-250" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f3eaf5;strokeColor=#ddccee;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#663399;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="北斗注死（主掌寿夭）" vertex="1">
+          <mxGeometry height="10.607042419601607" width="250.00000000000009" y="124.10239630933879" as="geometry" />
+        </mxCell>
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-235" parent="inCaOdDOQ_w14JDPJGUT-250" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f3eaf5;strokeColor=#ddccee;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#663399;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="七元君（贪狼·巨门·禄存·文曲·廉贞·武曲·破军）" vertex="1">
+          <mxGeometry height="10.607042419601607" width="250.00000000000009" y="136.83084721286076" as="geometry" />
+        </mxCell>
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-236" parent="inCaOdDOQ_w14JDPJGUT-250" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#884400;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="术数命理" vertex="1">
+          <mxGeometry height="15.910563629402414" width="250.00000000000009" y="152.74141084226315" as="geometry" />
+        </mxCell>
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-237" parent="inCaOdDOQ_w14JDPJGUT-250" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#faf5ec;strokeColor=#eeddcc;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#775533;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="紫微斗数（命盘基准）" vertex="1">
+          <mxGeometry height="10.607042419601607" width="250.00000000000009" y="170.77338295558584" as="geometry" />
+        </mxCell>
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-238" parent="inCaOdDOQ_w14JDPJGUT-250" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#faf5ec;strokeColor=#eeddcc;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#775533;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="本命星占（祭祀本命星君）" vertex="1">
+          <mxGeometry height="10.607042419601607" width="250.00000000000009" y="183.50183385910782" as="geometry" />
+        </mxCell>
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-239" parent="inCaOdDOQ_w14JDPJGUT-250" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#004400;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="宇宙观" vertex="1">
+          <mxGeometry height="15.910563629402414" width="250.00000000000009" y="199.41239748851018" as="geometry" />
+        </mxCell>
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-240" parent="inCaOdDOQ_w14JDPJGUT-250" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf5ea;strokeColor=#bbddbb;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#336633;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="斗为帝车（宇宙秩序模型）" vertex="1">
+          <mxGeometry height="10.607042419601607" width="250.00000000000009" y="217.44436960183293" as="geometry" />
+        </mxCell>
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-241" parent="inCaOdDOQ_w14JDPJGUT-250" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf5ea;strokeColor=#bbddbb;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#336633;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="天圆地方·八风从律" vertex="1">
+          <mxGeometry height="10.607042419601607" width="250.00000000000009" y="230.17282050535488" as="geometry" />
+        </mxCell>
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-242" parent="inCaOdDOQ_w14JDPJGUT-250" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#888899;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#444455;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="文化符号" vertex="1">
+          <mxGeometry height="15.910563629402414" width="250.00000000000009" y="246.0833841347573" as="geometry" />
+        </mxCell>
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-243" parent="inCaOdDOQ_w14JDPJGUT-250" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8f8f8;strokeColor=#cccccc;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#555566;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="泰斗（德高望重）" vertex="1">
+          <mxGeometry height="10.607042419601607" width="250.00000000000009" y="264.11535624808" as="geometry" />
+        </mxCell>
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-244" parent="inCaOdDOQ_w14JDPJGUT-250" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8f8f8;strokeColor=#cccccc;fontSize=12;fontFamily=Microsoft YaHei;fontColor=#555566;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="北斗卫星导航系统（现代传承）" vertex="1">
+          <mxGeometry height="10.607042419601607" width="250.00000000000009" y="276.84380715160194" as="geometry" />
+        </mxCell>
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-246" edge="1" parent="inCaOdDOQ_w14JDPJGUT-247" source="inCaOdDOQ_w14JDPJGUT-199" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;strokeWidth=5;dashed=1;dashPattern=12 12;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" target="inCaOdDOQ_w14JDPJGUT-245">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="632.0586411318616" />
