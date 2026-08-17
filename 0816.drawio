@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="天球体系 + 七政标注" id="oYeRGJrKcREHI5oMPTO9">
-    <mxGraphModel dx="14967" dy="9119" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="10254" dy="6469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -172,7 +172,7 @@
         <mxCell id="qNWpDxCwMOwC-ozYdzcX-93" connectable="0" parent="Ne2uE1Ed6V1glsiNg_6Q-25" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
           <mxGeometry height="339.97" width="819" x="3845" y="1889.59" as="geometry" />
         </mxCell>
-        <mxCell id="qNWpDxCwMOwC-ozYdzcX-56" parent="qNWpDxCwMOwC-ozYdzcX-93" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc00;strokeColor=#dd9900;fontSize=17;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#664400;strokeWidth=2;shadow=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="☀️ 日 · 阳之精——火" vertex="1">
+        <mxCell id="qNWpDxCwMOwC-ozYdzcX-56" parent="qNWpDxCwMOwC-ozYdzcX-93" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc00;strokeColor=#dd9900;fontSize=17;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#664400;strokeWidth=2;shadow=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="☀️ 日 · 阳之极——火之精" vertex="1">
           <mxGeometry height="45.19" width="400" as="geometry" />
         </mxCell>
         <mxCell id="qNWpDxCwMOwC-ozYdzcX-57" parent="qNWpDxCwMOwC-ozYdzcX-93" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#fff8e0;strokeColor=#dd9900;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="1. 太阳之精｜《范子计然》" vertex="1">
@@ -256,7 +256,7 @@
         <mxCell id="qNWpDxCwMOwC-ozYdzcX-92" connectable="0" parent="qNWpDxCwMOwC-ozYdzcX-338" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
           <mxGeometry height="471.72" width="670" as="geometry" />
         </mxCell>
-        <mxCell id="qNWpDxCwMOwC-ozYdzcX-80" parent="qNWpDxCwMOwC-ozYdzcX-92" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ccccdd;strokeColor=#888899;fontSize=15;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#444455;strokeWidth=2;shadow=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="🌙 月 · 阴之精——水" vertex="1">
+        <mxCell id="qNWpDxCwMOwC-ozYdzcX-80" parent="qNWpDxCwMOwC-ozYdzcX-92" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ccccdd;strokeColor=#888899;fontSize=15;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#444455;strokeWidth=2;shadow=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="🌙 月 · 阴之极——水之精" vertex="1">
           <mxGeometry height="44.17" width="300" y="34.71" as="geometry" />
         </mxCell>
         <mxCell id="qNWpDxCwMOwC-ozYdzcX-81" parent="qNWpDxCwMOwC-ozYdzcX-92" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;spacingLeft=6;fillColor=#f0f0f5;strokeColor=#888899;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="1. 群阴之宗｜皇甫谧《年历》" vertex="1">
