@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="hbvwoiXoD7ZSWJCbfr5h">
-    <mxGraphModel dx="12697" dy="7554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="16654" dy="9682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -948,6 +948,9 @@
         </mxCell>
         <mxCell id="UmHISxPJmjEUVxG4FA49-213" parent="UmHISxPJmjEUVxG4FA49-11" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="以阴之极统摄五星，提供运行节律框架" vertex="1">
           <mxGeometry height="40" width="120" x="2603.43" y="1699.87" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-542" edge="1" parent="UmHISxPJmjEUVxG4FA49-11" source="UmHISxPJmjEUVxG4FA49-30" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=7;" target="xsbeXi4ZopbAxWsLfnY3-504">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UmHISxPJmjEUVxG4FA49-30" parent="UmHISxPJmjEUVxG4FA49-11" style="ellipse;whiteSpace=wrap;html=1;fillColor=#66aadd;strokeColor=#3388bb;strokeWidth=2.5;shadow=1;fontSize=50;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
           <mxGeometry height="238.28571428571428" width="238.2835066631012" x="2290.246686700538" y="1946.0899999999995" as="geometry" />
@@ -2174,6 +2177,120 @@
         </mxCell>
         <mxCell id="xsbeXi4ZopbAxWsLfnY3-343" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fdeaea;strokeColor=#b85450;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#660000;align=center;container=0;" value="【历史实例】" vertex="1">
           <mxGeometry height="24" width="120.5357142857143" x="1232.3200000000002" y="4112" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-503" connectable="0" parent="UmHISxPJmjEUVxG4FA49-11" style="group" value="" vertex="1">
+          <mxGeometry height="590" width="900" x="2984.3900000000003" y="3233" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-504" parent="xsbeXi4ZopbAxWsLfnY3-503" style="whiteSpace=wrap;html=1;verticalAlign=top;shadow=1;strokeColor=#82b366;strokeWidth=3;align=center;fontFamily=Microsoft YaHei;fontSize=18;fontColor=#224400;fontStyle=1;fillColor=#d5e8d4;" value="&lt;span style=&quot;color: rgb(34, 68, 0); font-family: &amp;quot;Microsoft YaHei&amp;quot;; font-size: 18px; font-weight: 700;&quot;&gt;地&lt;/span&gt;&lt;br style=&quot;color: rgb(34, 68, 0); font-family: &amp;quot;Microsoft YaHei&amp;quot;; font-size: 18px; font-weight: 700;&quot;&gt;&lt;span style=&quot;color: rgb(34, 68, 0); font-family: &amp;quot;Microsoft YaHei&amp;quot;; font-size: 18px; font-weight: 700;&quot;&gt;（重浊之气凝聚）&lt;/span&gt;" vertex="1">
+          <mxGeometry height="590" width="900" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-505" parent="xsbeXi4ZopbAxWsLfnY3-503" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#224400;strokeWidth=2;" value="一、本质属性" vertex="1">
+          <mxGeometry height="34" width="264.49541284403676" x="36.190000000000055" y="64" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-506" parent="xsbeXi4ZopbAxWsLfnY3-503" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0f8e8;strokeColor=#82b366;fontSize=11;fontFamily=Microsoft YaHei;fontColor=#224400;align=left;spacingLeft=8;" value="1. 地者，阴之主｜《淮南子》" vertex="1">
+          <mxGeometry height="24" width="264.49541284403676" x="36.190000000000055" y="102" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-507" parent="xsbeXi4ZopbAxWsLfnY3-503" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0f8e8;strokeColor=#82b366;fontSize=11;fontFamily=Microsoft YaHei;fontColor=#224400;align=left;spacingLeft=8;" value="2. 坤为地，坤道厚德｜《周易·坤卦》" vertex="1">
+          <mxGeometry height="24" width="264.49541284403676" x="36.190000000000055" y="128" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-508" parent="xsbeXi4ZopbAxWsLfnY3-503" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0f8e8;strokeColor=#82b366;fontSize=11;fontFamily=Microsoft YaHei;fontColor=#224400;align=left;spacingLeft=8;" value="3. 地者，土也，为土之盛｜《说文解字》" vertex="1">
+          <mxGeometry height="24" width="264.49541284403676" x="36.190000000000055" y="154" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-509" parent="xsbeXi4ZopbAxWsLfnY3-503" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0f8e8;strokeColor=#82b366;fontSize=11;fontFamily=Microsoft YaHei;fontColor=#224400;align=left;spacingLeft=8;" value="4. 天动地静｜《周易·坤卦》文言“坤至静而德方”" vertex="1">
+          <mxGeometry height="24" width="264.49541284403676" x="36.190000000000055" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-510" parent="xsbeXi4ZopbAxWsLfnY3-503" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0f8e8;strokeColor=#82b366;fontSize=11;fontFamily=Microsoft YaHei;fontColor=#224400;align=left;spacingLeft=8;" value="5. 天圆地方｜《周髀算经》" vertex="1">
+          <mxGeometry height="24" width="264.49541284403676" x="36.190000000000055" y="206" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-511" parent="xsbeXi4ZopbAxWsLfnY3-503" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0f8e8;strokeColor=#82b366;fontSize=11;fontFamily=Microsoft YaHei;fontColor=#224400;align=left;spacingLeft=8;" value="6. 地承天而时行｜《周易·坤卦》文言" vertex="1">
+          <mxGeometry height="24" width="264.49541284403676" x="36.190000000000055" y="232" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-512" parent="xsbeXi4ZopbAxWsLfnY3-503" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0f8e8;strokeColor=#82b366;fontSize=11;fontFamily=Microsoft YaHei;fontColor=#224400;align=left;spacingLeft=8;" value="7. 清阳为天，重浊为地｜《淮南子·天文训》" vertex="1">
+          <mxGeometry height="24" width="264.49541284403676" x="36.190000000000055" y="258" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-513" parent="xsbeXi4ZopbAxWsLfnY3-503" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#224400;strokeWidth=2;" value="二、形态结构" vertex="1">
+          <mxGeometry height="34" width="264.49541284403676" x="317.74963302752303" y="64" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-514" parent="xsbeXi4ZopbAxWsLfnY3-503" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0f8e8;strokeColor=#82b366;fontSize=11;fontFamily=Microsoft YaHei;fontColor=#224400;align=left;spacingLeft=8;" value="1. 地有四极，东南西北｜《淮南子》" vertex="1">
+          <mxGeometry height="24" width="264.49541284403676" x="317.74963302752303" y="102" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-515" parent="xsbeXi4ZopbAxWsLfnY3-503" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0f8e8;strokeColor=#82b366;fontSize=11;fontFamily=Microsoft YaHei;fontColor=#224400;align=left;spacingLeft=8;" value="2. 地分九州｜《尚书·禹贡》" vertex="1">
+          <mxGeometry height="24" width="264.49541284403676" x="317.74963302752303" y="128" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-516" parent="xsbeXi4ZopbAxWsLfnY3-503" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0f8e8;strokeColor=#82b366;fontSize=11;fontFamily=Microsoft YaHei;fontColor=#224400;align=left;spacingLeft=8;" value="3. 五方：东西南北中｜《礼记·月令》" vertex="1">
+          <mxGeometry height="24" width="264.49541284403676" x="317.74963302752303" y="154" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-517" parent="xsbeXi4ZopbAxWsLfnY3-503" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0f8e8;strokeColor=#82b366;fontSize=11;fontFamily=Microsoft YaHei;fontColor=#224400;align=left;spacingLeft=8;" value="4. 五岳四渎，山岳为地之骨，江河为地之脉｜《礼记·祭法》" vertex="1">
+          <mxGeometry height="24" width="264.49541284403676" x="317.74963302752303" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-518" parent="xsbeXi4ZopbAxWsLfnY3-503" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0f8e8;strokeColor=#82b366;fontSize=11;fontFamily=Microsoft YaHei;fontColor=#224400;align=left;spacingLeft=8;" value="5. 地之厚，不可测｜《庄子》" vertex="1">
+          <mxGeometry height="24" width="264.49541284403676" x="317.74963302752303" y="206" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-519" parent="xsbeXi4ZopbAxWsLfnY3-503" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0f8e8;strokeColor=#82b366;fontSize=11;fontFamily=Microsoft YaHei;fontColor=#224400;align=left;spacingLeft=8;" value="6. 万物所陈列也｜《说文解字》" vertex="1">
+          <mxGeometry height="24" width="264.49541284403676" x="317.74963302752303" y="232" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-520" parent="xsbeXi4ZopbAxWsLfnY3-503" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#224400;strokeWidth=2;" value="三、德性属性" vertex="1">
+          <mxGeometry height="34" width="264.49541284403676" x="599.309266055046" y="64" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-521" parent="xsbeXi4ZopbAxWsLfnY3-503" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0f8e8;strokeColor=#82b366;fontSize=11;fontFamily=Microsoft YaHei;fontColor=#224400;align=left;spacingLeft=8;" value="1. 厚德载物｜《周易·坤卦》象传" vertex="1">
+          <mxGeometry height="24" width="264.49541284403676" x="599.309266055046" y="102" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-522" parent="xsbeXi4ZopbAxWsLfnY3-503" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0f8e8;strokeColor=#82b366;fontSize=11;fontFamily=Microsoft YaHei;fontColor=#224400;align=left;spacingLeft=8;" value="2. 含弘光大，品物咸亨｜《周易·坤卦》彖传" vertex="1">
+          <mxGeometry height="24" width="264.49541284403676" x="599.309266055046" y="128" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-523" parent="xsbeXi4ZopbAxWsLfnY3-503" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0f8e8;strokeColor=#82b366;fontSize=11;fontFamily=Microsoft YaHei;fontColor=#224400;align=left;spacingLeft=8;" value="3. 静而能容，不争不拒｜《老子》“地法天”" vertex="1">
+          <mxGeometry height="24" width="264.49541284403676" x="599.309266055046" y="154" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-524" parent="xsbeXi4ZopbAxWsLfnY3-503" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0f8e8;strokeColor=#82b366;fontSize=11;fontFamily=Microsoft YaHei;fontColor=#224400;align=left;spacingLeft=8;" value="4. 生养万物，不择善恶｜《礼记·中庸》" vertex="1">
+          <mxGeometry height="24" width="264.49541284403676" x="599.309266055046" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-525" parent="xsbeXi4ZopbAxWsLfnY3-503" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0f8e8;strokeColor=#82b366;fontSize=11;fontFamily=Microsoft YaHei;fontColor=#224400;align=left;spacingLeft=8;" value="5. 坤至柔而动也刚，至静而德方｜《周易·坤卦》文言" vertex="1">
+          <mxGeometry height="24" width="264.49541284403676" x="599.309266055046" y="206" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-526" parent="xsbeXi4ZopbAxWsLfnY3-503" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0f8e8;strokeColor=#82b366;fontSize=11;fontFamily=Microsoft YaHei;fontColor=#224400;align=left;spacingLeft=8;" value="6. 万物资生，乃顺承天｜《周易·坤卦》彖传" vertex="1">
+          <mxGeometry height="24" width="264.49541284403676" x="599.309266055046" y="232" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-527" parent="xsbeXi4ZopbAxWsLfnY3-503" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#224400;strokeWidth=2;" value="四、与天及日月五星的关系" vertex="1">
+          <mxGeometry height="34" width="264.49541284403676" x="196.19000000000005" y="317" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-528" parent="xsbeXi4ZopbAxWsLfnY3-503" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0f8e8;strokeColor=#82b366;fontSize=11;fontFamily=Microsoft YaHei;fontColor=#224400;align=left;spacingLeft=8;" value="1. 天施地生，其益无方｜《礼记·乐记》" vertex="1">
+          <mxGeometry height="24" width="264.49541284403676" x="196.19000000000005" y="355" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-529" parent="xsbeXi4ZopbAxWsLfnY3-503" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0f8e8;strokeColor=#82b366;fontSize=11;fontFamily=Microsoft YaHei;fontColor=#224400;align=left;spacingLeft=8;" value="2. 日光照地，地受光而生万物" vertex="1">
+          <mxGeometry height="24" width="264.49541284403676" x="196.19000000000005" y="381" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-530" parent="xsbeXi4ZopbAxWsLfnY3-503" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0f8e8;strokeColor=#82b366;fontSize=11;fontFamily=Microsoft YaHei;fontColor=#224400;align=left;spacingLeft=8;" value="3. 月气下降，地中水气应之，潮汐消长｜《论衡》" vertex="1">
+          <mxGeometry height="24" width="264.49541284403676" x="196.19000000000005" y="407" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-531" parent="xsbeXi4ZopbAxWsLfnY3-503" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0f8e8;strokeColor=#82b366;fontSize=11;fontFamily=Microsoft YaHei;fontColor=#224400;align=left;spacingLeft=8;" value="4. 五星在天布气，地受其气于分野｜《开元占经》" vertex="1">
+          <mxGeometry height="24" width="264.49541284403676" x="196.19000000000005" y="433" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-532" parent="xsbeXi4ZopbAxWsLfnY3-503" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0f8e8;strokeColor=#82b366;fontSize=11;fontFamily=Microsoft YaHei;fontColor=#224400;align=left;spacingLeft=8;" value="5. 荧惑失次，地有火灾旱灾；辰星异常，地有水灾" vertex="1">
+          <mxGeometry height="24" width="264.49541284403676" x="196.19000000000005" y="459" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-533" parent="xsbeXi4ZopbAxWsLfnY3-503" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0f8e8;strokeColor=#82b366;fontSize=11;fontFamily=Microsoft YaHei;fontColor=#224400;align=left;spacingLeft=8;" value="6. 岁星失常，地有饥荒｜《汉书·天文志》" vertex="1">
+          <mxGeometry height="24" width="264.49541284403676" x="196.19000000000005" y="485" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-534" parent="xsbeXi4ZopbAxWsLfnY3-503" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#224400;strokeWidth=2;" value="五、与人的关系" vertex="1">
+          <mxGeometry height="34" width="264.49541284403676" x="477.74963302752303" y="317" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-535" parent="xsbeXi4ZopbAxWsLfnY3-503" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0f8e8;strokeColor=#82b366;fontSize=11;fontFamily=Microsoft YaHei;fontColor=#224400;align=left;spacingLeft=8;" value="1. 人法地，地法天，天法道，道法自然｜《老子》" vertex="1">
+          <mxGeometry height="24" width="264.49541284403676" x="477.74963302752303" y="355" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-536" parent="xsbeXi4ZopbAxWsLfnY3-503" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0f8e8;strokeColor=#82b366;fontSize=11;fontFamily=Microsoft YaHei;fontColor=#224400;align=left;spacingLeft=8;" value="2. 地生五谷，养万民｜《尚书》" vertex="1">
+          <mxGeometry height="24" width="264.49541284403676" x="477.74963302752303" y="381" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-537" parent="xsbeXi4ZopbAxWsLfnY3-503" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0f8e8;strokeColor=#82b366;fontSize=11;fontFamily=Microsoft YaHei;fontColor=#224400;align=left;spacingLeft=8;" value="3. 人立于地，承地之德｜《礼记》" vertex="1">
+          <mxGeometry height="24" width="264.49541284403676" x="477.74963302752303" y="407" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-538" parent="xsbeXi4ZopbAxWsLfnY3-503" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0f8e8;strokeColor=#82b366;fontSize=11;fontFamily=Microsoft YaHei;fontColor=#224400;align=left;spacingLeft=8;" value="4. 人有德则地出瑞，人无德则地生灾｜《尚书·洪范》" vertex="1">
+          <mxGeometry height="24" width="264.49541284403676" x="477.74963302752303" y="433" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-539" parent="xsbeXi4ZopbAxWsLfnY3-503" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0f8e8;strokeColor=#82b366;fontSize=11;fontFamily=Microsoft YaHei;fontColor=#224400;align=left;spacingLeft=8;" value="5. 地势坤，君子以厚德载物｜《周易·坤卦》象传" vertex="1">
+          <mxGeometry height="24" width="264.49541284403676" x="477.74963302752303" y="459" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-540" parent="xsbeXi4ZopbAxWsLfnY3-503" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f9f9;strokeColor=#999999;fontSize=11;fontFamily=Microsoft YaHei;fontColor=#444444;align=center;fontStyle=2;spacingLeft=10;spacingRight=10;dashed=1;" value="▸ 地者，重浊之气凝聚而成。天施地受，地承天载物。地在五行中属土之盛，具坤德，厚德载物，静而能容。地是日月五星之气的承受者与显现者，是万物之形的所在，是人类立足与取养之基。" vertex="1">
+          <mxGeometry height="50" width="853.211009174312" x="36.188990825688165" y="525" as="geometry" />
         </mxCell>
         <mxCell id="UmHISxPJmjEUVxG4FA49-215" edge="1" parent="1" source="UmHISxPJmjEUVxG4FA49-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;curved=1;strokeWidth=3;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" target="UmHISxPJmjEUVxG4FA49-9">
           <mxGeometry relative="1" as="geometry" />
