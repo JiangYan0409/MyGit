@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="hbvwoiXoD7ZSWJCbfr5h">
-    <mxGraphModel dx="7913" dy="4257" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2793" dy="1502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -736,10 +736,10 @@
         <mxCell id="inCaOdDOQ_w14JDPJGUT-4" parent="UmHISxPJmjEUVxG4FA49-11" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;span class=&quot;&quot; style=&quot;font-size: 20px; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; text-align: left; text-wrap-style: auto;&quot;&gt;五行之精水在&lt;/span&gt;&lt;span style=&quot;font-size: 20px; font-weight: 600; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; text-align: left; text-wrap-style: auto;&quot;&gt;天上&lt;/span&gt;&lt;span class=&quot;&quot; style=&quot;font-size: 20px; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; text-align: left; text-wrap-style: auto;&quot;&gt;凝聚&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="107.23" x="3989" y="670" as="geometry" />
         </mxCell>
-        <mxCell id="inCaOdDOQ_w14JDPJGUT-21" parent="UmHISxPJmjEUVxG4FA49-11" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="以阳之极统摄五星，约束运行节律" vertex="1">
+        <mxCell id="inCaOdDOQ_w14JDPJGUT-21" parent="UmHISxPJmjEUVxG4FA49-11" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="以阳之极统摄五星，提供运行节律框架" vertex="1">
           <mxGeometry height="44.17" width="120" x="3474.26" y="1980" as="geometry" />
         </mxCell>
-        <mxCell id="UmHISxPJmjEUVxG4FA49-213" parent="UmHISxPJmjEUVxG4FA49-11" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="以阴之极统摄五星，约束运行节律" vertex="1">
+        <mxCell id="UmHISxPJmjEUVxG4FA49-213" parent="UmHISxPJmjEUVxG4FA49-11" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="以阴之极统摄五星，提供运行节律框架" vertex="1">
           <mxGeometry height="40" width="120" x="2603.43" y="1699.87" as="geometry" />
         </mxCell>
         <mxCell id="UmHISxPJmjEUVxG4FA49-30" parent="UmHISxPJmjEUVxG4FA49-11" style="ellipse;whiteSpace=wrap;html=1;fillColor=#66aadd;strokeColor=#3388bb;strokeWidth=2.5;shadow=1;fontSize=50;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
@@ -1127,6 +1127,15 @@
         </mxCell>
         <mxCell id="xsbeXi4ZopbAxWsLfnY3-5" parent="UmHISxPJmjEUVxG4FA49-11" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=#DD6644;strokeColor=#AA4433;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="以火之精与五星同属五行，遵循生克规则" vertex="1">
           <mxGeometry height="44.17" width="120" x="3473" y="2027.81" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-6" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0faf0;strokeColor=#bbddbb;fontSize=11;fontFamily=Microsoft YaHei;fontColor=#336633;align=left;spacingLeft=12;" value="月定朔望：五星行度以月为参照" vertex="1">
+          <mxGeometry height="26" width="180" x="2723.43" y="1706.87" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-7" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f0fa;strokeColor=#ddccee;fontSize=11;fontFamily=Microsoft YaHei;fontColor=#553366;align=left;spacingLeft=12;" value="日定昼夜：五星昼见夜隐，运行有节" vertex="1">
+          <mxGeometry height="26" width="200" x="3499" y="1919.5900000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-8" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f0fa;strokeColor=#ddccee;fontSize=11;fontFamily=Microsoft YaHei;fontColor=#553366;align=left;spacingLeft=12;" value="日月定四时：五星行于四时之中" vertex="1">
+          <mxGeometry height="26" width="200" x="3499" y="1951.5900000000001" as="geometry" />
         </mxCell>
         <mxCell id="UmHISxPJmjEUVxG4FA49-215" edge="1" parent="1" source="UmHISxPJmjEUVxG4FA49-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;curved=1;strokeWidth=3;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" target="UmHISxPJmjEUVxG4FA49-9">
           <mxGeometry relative="1" as="geometry" />
