@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="hbvwoiXoD7ZSWJCbfr5h">
-    <mxGraphModel dx="16654" dy="9682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="48307" dy="26709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2728,10 +2728,16 @@
           <mxGeometry height="60" width="2733.34" x="2438.83" y="6630" as="geometry" />
         </mxCell>
         <mxCell id="xsbeXi4ZopbAxWsLfnY3-501" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" value="&lt;div&gt;&lt;font style=&quot;font-size: 50px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 50px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;pre style=&quot;overflow: auto; text-wrap: wrap; word-break: break-all; padding: 16px; color: rgb(15, 17, 21); text-align: start; margin-top: 0px !important; margin-bottom: 0px !important;&quot;&gt;&lt;font style=&quot;font-size: 50px;&quot;&gt;太易（无气）&lt;br&gt;  ↓&lt;br&gt;太初（有气）&lt;br&gt;  ↓&lt;br&gt;太始（有形）&lt;br&gt;  ↓&lt;br&gt;太素（有质）&lt;br&gt;  ↓&lt;br&gt;浑沦/混沌（气形质未分）&lt;br&gt;  ↓&lt;br&gt;元气分化 → 阴阳二气&lt;br&gt;  ↓&lt;br&gt;阴阳互推 → 五行之气&lt;br&gt;  ↓&lt;br&gt;五行凝聚 → 日月五星 + 万物&lt;/font&gt;&lt;/pre&gt;&lt;font style=&quot;font-size: 50px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;br style=&quot;color: rgb(51, 51, 51);&quot;&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="295" width="980" x="3270" y="-440" as="geometry" />
+          <mxGeometry height="945" width="980" x="5223" y="-225" as="geometry" />
         </mxCell>
         <mxCell id="xsbeXi4ZopbAxWsLfnY3-502" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" value="&lt;span style=&quot;font-weight: 600; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span class=&quot;&quot; style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 80px;&quot;&gt;混沌为源，阴阳五行为纲，日月五星为天之精，地为重浊之聚，万物为五行之化，人为天地之心，运行规则贯穿始终。&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="60" width="2530.87" x="2641.31" y="7870" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-545" edge="1" parent="1" source="xsbeXi4ZopbAxWsLfnY3-544" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="xsbeXi4ZopbAxWsLfnY3-501">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-544" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontSize=50;" value="&lt;div&gt;【生成阶段】&lt;/div&gt;&lt;div&gt;混沌 → 元气 → 阴阳 → 五行 → 天（日月五星）→ 地（万物）→ 人&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;【运行阶段】&lt;/div&gt;&lt;div&gt;天施气于地 → 地受气而化 → 万物生长 → 人得养而生&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;↑&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ↓&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;│&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 人观天察地&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;│&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ↓&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;└── 天复常 ← 人修省 ← 占验 ← 灾异显现&lt;/div&gt;" vertex="1">
+          <mxGeometry height="660" width="2700" x="2230" y="-600" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
