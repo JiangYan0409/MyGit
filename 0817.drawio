@@ -4,23 +4,23 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="UmHISxPJmjEUVxG4FA49-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;dashed=1;dashPattern=8 4 1 4;glass=1;fillColor=light-dark(#DBDBDB,#FFFFFF);fontColor=#333333;strokeColor=#666666;fillStyle=auto;gradientColor=none;gradientDirection=north;absoluteArcSize=0;backgroundOutline=0;shadow=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
+          <mxGeometry height="5830" width="6450" x="370" y="440" as="geometry" />
+        </mxCell>
         <mxCell id="UmHISxPJmjEUVxG4FA49-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;fontStyle=1;fontSize=150;strokeColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;div&gt;&lt;font&gt;阳&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="600" width="600" x="5970" y="2330" as="geometry" />
         </mxCell>
         <mxCell id="UmHISxPJmjEUVxG4FA49-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;fontStyle=1;fontSize=150;strokeColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="阴" vertex="1">
           <mxGeometry height="600" width="600" x="520" y="3230" as="geometry" />
         </mxCell>
-        <mxCell id="UmHISxPJmjEUVxG4FA49-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;dashed=1;dashPattern=8 4 1 4;glass=1;fillColor=light-dark(#DBDBDB,#FFFFFF);fontColor=#333333;strokeColor=#666666;fillStyle=auto;gradientColor=none;gradientDirection=north;absoluteArcSize=0;backgroundOutline=0;shadow=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
-          <mxGeometry height="5830" width="6450" x="370" y="440" as="geometry" />
-        </mxCell>
         <mxCell id="UmHISxPJmjEUVxG4FA49-2" edge="1" parent="1" source="UmHISxPJmjEUVxG4FA49-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.024;entryY=0.384;entryDx=0;entryDy=0;curved=1;strokeWidth=3;entryPerimeter=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" target="UmHISxPJmjEUVxG4FA49-43">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1120" y="3320" />
+              <mxPoint x="1840.06" y="3320" />
               <mxPoint x="2449" y="3320" />
               <mxPoint x="2449" y="2900" />
-              <mxPoint x="3800" y="2900" />
-              <mxPoint x="3800" y="2921" />
+              <mxPoint x="3800.06" y="2900" />
+              <mxPoint x="3800.06" y="2921.06" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -42,7 +42,7 @@
           <mxGeometry height="360" width="350" x="5830" y="1895.6399999999999" as="geometry" />
         </mxCell>
         <mxCell id="UmHISxPJmjEUVxG4FA49-11" connectable="0" parent="1" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
-          <mxGeometry height="4209.59" width="4861" x="1221" y="1140" as="geometry" />
+          <mxGeometry height="4344" width="4861" x="1221" y="1140" as="geometry" />
         </mxCell>
         <mxCell id="xsbeXi4ZopbAxWsLfnY3-190" connectable="0" parent="UmHISxPJmjEUVxG4FA49-11" style="group" value="" vertex="1">
           <mxGeometry height="626" width="280" x="1415" y="1867.0100000000002" as="geometry" />
@@ -1261,13 +1261,13 @@
           <mxGeometry height="128" width="128" x="1674" y="3490" as="geometry" />
         </mxCell>
         <mxCell id="5_sjZKSDZrQdZ30qBFPX-12" parent="UmHISxPJmjEUVxG4FA49-11" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Iconoir_Vol_4-2342/star-dashed-1470.svg" value="" vertex="1">
-          <mxGeometry height="24" width="24" x="2735" y="3880" as="geometry" />
+          <mxGeometry height="24" width="24" x="2178" y="3780" as="geometry" />
         </mxCell>
         <mxCell id="5_sjZKSDZrQdZ30qBFPX-13" parent="UmHISxPJmjEUVxG4FA49-11" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Christmas_free-2599/star-1380.svg" value="" vertex="1">
           <mxGeometry height="128" width="128" x="969" y="3380" as="geometry" />
         </mxCell>
         <mxCell id="5_sjZKSDZrQdZ30qBFPX-14" parent="UmHISxPJmjEUVxG4FA49-11" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/material-symbols/1/Kid_Star.svg" value="" vertex="1">
-          <mxGeometry height="96" width="96" x="3068" y="3460" as="geometry" />
+          <mxGeometry height="96" width="96" x="2511" y="3360" as="geometry" />
         </mxCell>
         <mxCell id="5_sjZKSDZrQdZ30qBFPX-15" parent="UmHISxPJmjEUVxG4FA49-11" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/material-symbols/1/Kid_Star.svg" value="" vertex="1">
           <mxGeometry height="96" width="96" x="3377" y="959" as="geometry" />
@@ -1276,10 +1276,10 @@
           <mxGeometry height="24" width="24" x="3995" y="1303" as="geometry" />
         </mxCell>
         <mxCell id="5_sjZKSDZrQdZ30qBFPX-17" parent="UmHISxPJmjEUVxG4FA49-11" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Iconoir_Vol_4-2342/star-dashed-1470.svg" value="" vertex="1">
-          <mxGeometry height="24" width="24" x="1972" y="3960" as="geometry" />
+          <mxGeometry height="24" width="24" x="1415" y="3860" as="geometry" />
         </mxCell>
         <mxCell id="5_sjZKSDZrQdZ30qBFPX-18" parent="UmHISxPJmjEUVxG4FA49-11" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/material-symbols/1/Family_Star.svg" value="" vertex="1">
-          <mxGeometry height="96" width="96" x="2405" y="4038" as="geometry" />
+          <mxGeometry height="96" width="96" x="1848" y="3938" as="geometry" />
         </mxCell>
         <mxCell id="5_sjZKSDZrQdZ30qBFPX-24" edge="1" parent="UmHISxPJmjEUVxG4FA49-11" source="UmHISxPJmjEUVxG4FA49-35" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;strokeWidth=3;strokeColor=light-dark(#FFD966,#EDEDED);movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;dashed=1;dashPattern=8 4 1 4;edgeStyle=orthogonalEdgeStyle;curved=1;" target="5_sjZKSDZrQdZ30qBFPX-23" value="">
           <mxGeometry relative="1" as="geometry">
@@ -1686,6 +1686,375 @@
         <mxCell id="xsbeXi4ZopbAxWsLfnY3-220" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f3eef7;strokeColor=#9673a6;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#440066;align=center;container=0;" value="【五星掩日月】" vertex="1">
           <mxGeometry height="24" width="120.5357142857143" x="2639" y="1174.4299999999998" as="geometry" />
         </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-221" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=22;fontStyle=1;fontFamily=Microsoft YaHei;strokeWidth=3;shadow=1;container=0;" value="五星共同作用" vertex="1">
+          <mxGeometry height="48" width="738.28125" x="1574.859375" y="3200" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-222" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#003366;strokeWidth=2;container=0;" value="一、五星两两合（十种组合）" vertex="1">
+          <mxGeometry height="36" width="1350" x="1269" y="3262" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-223" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e8f0f8;strokeColor=#6c8ebf;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#003366;align=left;spacingLeft=8;container=0;" value="1. 岁星（木）与荧惑（火）合" vertex="1">
+          <mxGeometry height="26" width="263.671875" x="1269" y="3304" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-224" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#f5f9ff;strokeColor=#6c8ebf;container=0;" value="1. 岁星与荧惑合，主旱，五谷不登｜《开元占经》卷二十" vertex="1">
+          <mxGeometry height="20" width="263.671875" x="1269" y="3332" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-225" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#f5f9ff;strokeColor=#6c8ebf;container=0;" value="2. 合于房，主天子有忧｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="263.671875" x="1269" y="3354" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-226" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#f5f9ff;strokeColor=#6c8ebf;container=0;" value="3. 合于虚，主大水｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="263.671875" x="1269" y="3376" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-227" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#f5f9ff;strokeColor=#6c8ebf;container=0;" value="4. 同色，天下大兵｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="263.671875" x="1269" y="3398" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-228" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#f5f9ff;strokeColor=#6c8ebf;container=0;" value="5. 所居之国不可伐，可以伐人｜《史记·天官书》" vertex="1">
+          <mxGeometry height="20" width="263.671875" x="1269" y="3420" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-229" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e8f0f8;strokeColor=#6c8ebf;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#003366;align=left;spacingLeft=8;container=0;" value="2. 岁星（木）与镇星（土）合" vertex="1">
+          <mxGeometry height="26" width="263.671875" x="1543.21875" y="3304" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-230" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#f5f9ff;strokeColor=#6c8ebf;container=0;" value="1. 主内乱，女主忧｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="263.671875" x="1543.21875" y="3332" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-231" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#f5f9ff;strokeColor=#6c8ebf;container=0;" value="2. 合于亢，主五谷熟｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="263.671875" x="1543.21875" y="3354" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-232" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#f5f9ff;strokeColor=#6c8ebf;container=0;" value="3. 合于房，主天子有丧｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="263.671875" x="1543.21875" y="3376" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-233" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#f5f9ff;strokeColor=#6c8ebf;container=0;" value="4. 地动，土功兴｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="263.671875" x="1543.21875" y="3398" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-234" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#f5f9ff;strokeColor=#6c8ebf;container=0;" value="5. 合于牛，主牛疫｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="263.671875" x="1543.21875" y="3420" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-235" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e8f0f8;strokeColor=#6c8ebf;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#003366;align=left;spacingLeft=8;container=0;" value="3. 岁星（木）与太白（金）合" vertex="1">
+          <mxGeometry height="26" width="263.671875" x="1817.4375" y="3304" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-236" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#f5f9ff;strokeColor=#6c8ebf;container=0;" value="1. 主兵起，边境有忧｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="263.671875" x="1817.4375" y="3332" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-237" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#f5f9ff;strokeColor=#6c8ebf;container=0;" value="2. 合于斗，主大将死｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="263.671875" x="1817.4375" y="3354" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-238" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#f5f9ff;strokeColor=#6c8ebf;container=0;" value="3. 合于奎，主水灾｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="263.671875" x="1817.4375" y="3376" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-239" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#f5f9ff;strokeColor=#6c8ebf;container=0;" value="4. 金伐木，主兵丧｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="263.671875" x="1817.4375" y="3398" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-240" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#f5f9ff;strokeColor=#6c8ebf;container=0;" value="5. 同度，主天下大兵｜《史记·天官书》" vertex="1">
+          <mxGeometry height="20" width="263.671875" x="1817.4375" y="3420" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-241" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e8f0f8;strokeColor=#6c8ebf;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#003366;align=left;spacingLeft=8;container=0;" value="4. 岁星（木）与辰星（水）合" vertex="1">
+          <mxGeometry height="26" width="263.671875" x="2091.65625" y="3304" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-242" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#f5f9ff;strokeColor=#6c8ebf;container=0;" value="1. 主大水，五谷不登｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="263.671875" x="2091.65625" y="3332" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-243" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#f5f9ff;strokeColor=#6c8ebf;container=0;" value="2. 合于虚，主冬多雨｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="263.671875" x="2091.65625" y="3354" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-244" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#f5f9ff;strokeColor=#6c8ebf;container=0;" value="3. 合于危，主民流亡｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="263.671875" x="2091.65625" y="3376" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-245" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#f5f9ff;strokeColor=#6c8ebf;container=0;" value="4. 水木相生，主丰年｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="263.671875" x="2091.65625" y="3398" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-246" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#f5f9ff;strokeColor=#6c8ebf;container=0;" value="5. 合于室，主后宫有喜｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="263.671875" x="2091.65625" y="3420" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-247" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e8f0f8;strokeColor=#6c8ebf;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#003366;align=left;spacingLeft=8;container=0;" value="5. 荧惑（火）与镇星（土）合" vertex="1">
+          <mxGeometry height="26" width="253.125" x="2365.875" y="3304" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-248" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#f5f9ff;strokeColor=#6c8ebf;container=0;" value="1. 主旱，兵起｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="253.125" x="2365.875" y="3332" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-249" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#f5f9ff;strokeColor=#6c8ebf;container=0;" value="2. 合于角，主天子有忧｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="253.125" x="2365.875" y="3354" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-250" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#f5f9ff;strokeColor=#6c8ebf;container=0;" value="3. 合于井，主火灾｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="253.125" x="2365.875" y="3376" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-251" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#f5f9ff;strokeColor=#6c8ebf;container=0;" value="4. 火土相生，主土功｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="253.125" x="2365.875" y="3398" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-252" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#f5f9ff;strokeColor=#6c8ebf;container=0;" value="5. 合于轸，主楚国兵｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="253.125" x="2365.875" y="3420" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-253" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fdeaea;strokeColor=#b85450;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#660000;align=left;spacingLeft=8;container=0;" value="6. 荧惑（火）与太白（金）合" vertex="1">
+          <mxGeometry height="26" width="263.671875" x="1269" y="3452" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-254" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fdf5f5;strokeColor=#b85450;container=0;" value="1. 主兵大起，天下乱｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="263.671875" x="1269" y="3480" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-255" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fdf5f5;strokeColor=#b85450;container=0;" value="2. 合于毕，主边境大兵｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="263.671875" x="1269" y="3502" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-256" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fdf5f5;strokeColor=#b85450;container=0;" value="3. 合于参，主将死｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="263.671875" x="1269" y="3524" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-257" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fdf5f5;strokeColor=#b85450;container=0;" value="4. 金火相克，主旱｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="263.671875" x="1269" y="3546" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-258" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fdf5f5;strokeColor=#b85450;container=0;" value="5. 合于鬼，主天下大疫｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="263.671875" x="1269" y="3568" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-259" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fdeaea;strokeColor=#b85450;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#660000;align=left;spacingLeft=8;container=0;" value="7. 荧惑（火）与辰星（水）合" vertex="1">
+          <mxGeometry height="26" width="263.671875" x="1543.21875" y="3452" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-260" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fdf5f5;strokeColor=#b85450;container=0;" value="1. 主大水，民流亡｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="263.671875" x="1543.21875" y="3480" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-261" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fdf5f5;strokeColor=#b85450;container=0;" value="2. 合于虚，主冬雷｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="263.671875" x="1543.21875" y="3502" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-262" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fdf5f5;strokeColor=#b85450;container=0;" value="3. 合于危，主兵败｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="263.671875" x="1543.21875" y="3524" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-263" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fdf5f5;strokeColor=#b85450;container=0;" value="4. 火水相克，主盗贼｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="263.671875" x="1543.21875" y="3546" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-264" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fdf5f5;strokeColor=#b85450;container=0;" value="5. 合于室，主后宫火｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="263.671875" x="1543.21875" y="3568" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-265" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff4e6;strokeColor=#d79b00;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#884400;align=left;spacingLeft=8;container=0;" value="8. 镇星（土）与太白（金）合" vertex="1">
+          <mxGeometry height="26" width="263.671875" x="1817.4375" y="3452" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-266" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fff8f0;strokeColor=#d79b00;container=0;" value="1. 主兵，土功兴｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="263.671875" x="1817.4375" y="3480" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-267" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fff8f0;strokeColor=#d79b00;container=0;" value="2. 合于昴，主边兵｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="263.671875" x="1817.4375" y="3502" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-268" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fff8f0;strokeColor=#d79b00;container=0;" value="3. 合于毕，主大水｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="263.671875" x="1817.4375" y="3524" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-269" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fff8f0;strokeColor=#d79b00;container=0;" value="4. 金土相生，主民安｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="263.671875" x="1817.4375" y="3546" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-270" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fff8f0;strokeColor=#d79b00;container=0;" value="5. 合于井，主秦地兵｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="263.671875" x="1817.4375" y="3568" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-271" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff4e6;strokeColor=#d79b00;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#884400;align=left;spacingLeft=8;container=0;" value="9. 镇星（土）与辰星（水）合" vertex="1">
+          <mxGeometry height="26" width="263.671875" x="2091.65625" y="3452" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-272" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fff8f0;strokeColor=#d79b00;container=0;" value="1. 主地震，山崩｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="263.671875" x="2091.65625" y="3480" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-273" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fff8f0;strokeColor=#d79b00;container=0;" value="2. 合于虚，主冬旱｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="263.671875" x="2091.65625" y="3502" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-274" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fff8f0;strokeColor=#d79b00;container=0;" value="3. 合于危，主民疫｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="263.671875" x="2091.65625" y="3524" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-275" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fff8f0;strokeColor=#d79b00;container=0;" value="4. 土水相克，主大水｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="263.671875" x="2091.65625" y="3546" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-276" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fff8f0;strokeColor=#d79b00;container=0;" value="5. 合于室，主后宫有丧｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="263.671875" x="2091.65625" y="3568" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-277" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#999999;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#444455;align=left;spacingLeft=8;container=0;" value="10. 太白（金）与辰星（水）合" vertex="1">
+          <mxGeometry height="26" width="253.125" x="2365.875" y="3452" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-278" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fafafa;strokeColor=#999999;container=0;" value="1. 主兵，水旱并起｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="253.125" x="2365.875" y="3480" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-279" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fafafa;strokeColor=#999999;container=0;" value="2. 合于虚，主秋雨｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="253.125" x="2365.875" y="3502" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-280" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fafafa;strokeColor=#999999;container=0;" value="3. 合于危，主民疫｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="253.125" x="2365.875" y="3524" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-281" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fafafa;strokeColor=#999999;container=0;" value="4. 金水相生，主丰年｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="253.125" x="2365.875" y="3546" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-282" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fafafa;strokeColor=#999999;container=0;" value="5. 合于室，主后宫有兵｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="253.125" x="2365.875" y="3568" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-283" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=16;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#004400;strokeWidth=2;container=0;" value="二、五星三星组合（十种）" vertex="1">
+          <mxGeometry height="36" width="1350" x="1269" y="3602" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-284" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=8;fillColor=#f0f8f0;strokeColor=#82b366;container=0;" value="1. 岁星+荧惑+镇星合 → 主天下大旱，民饥｜《开元占经》" vertex="1">
+          <mxGeometry height="22" width="321.6796875" x="1269" y="3644" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-285" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=8;fillColor=#f0f8f0;strokeColor=#82b366;container=0;" value="2. 岁星+荧惑+太白合 → 主兵大起，天下乱｜《开元占经》" vertex="1">
+          <mxGeometry height="22" width="321.6796875" x="1601.2265625" y="3644" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-286" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=8;fillColor=#f0f8f0;strokeColor=#82b366;container=0;" value="3. 岁星+荧惑+辰星合 → 主大水，五谷不登｜《开元占经》" vertex="1">
+          <mxGeometry height="22" width="321.6796875" x="1933.453125" y="3644" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-287" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=8;fillColor=#f0f8f0;strokeColor=#82b366;container=0;" value="4. 岁星+镇星+太白合 → 主内乱，女主忧，边兵｜《开元占经》" vertex="1">
+          <mxGeometry height="22" width="353.3203125" x="2265.6796875" y="3644" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-288" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=8;fillColor=#f0f8f0;strokeColor=#82b366;container=0;" value="5. 岁星+镇星+辰星合 → 主地震，山崩，民流亡｜《开元占经》" vertex="1">
+          <mxGeometry height="22" width="321.6796875" x="1269" y="3670" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-289" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=8;fillColor=#f0f8f0;strokeColor=#82b366;container=0;" value="6. 岁星+太白+辰星合 → 主兵，水旱并起｜《开元占经》" vertex="1">
+          <mxGeometry height="22" width="321.6796875" x="1601.2265625" y="3670" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-290" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=8;fillColor=#f0f8f0;strokeColor=#82b366;container=0;" value="7. 荧惑+镇星+太白合 → 主大兵，大旱｜《开元占经》" vertex="1">
+          <mxGeometry height="22" width="321.6796875" x="1933.453125" y="3670" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-291" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=8;fillColor=#f0f8f0;strokeColor=#82b366;container=0;" value="8. 荧惑+镇星+辰星合 → 主大水，火灾｜《开元占经》" vertex="1">
+          <mxGeometry height="22" width="353.3203125" x="2265.6796875" y="3670" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-292" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=8;fillColor=#f0f8f0;strokeColor=#82b366;container=0;" value="9. 荧惑+太白+辰星合 → 主兵大起，天下疫｜《开元占经》" vertex="1">
+          <mxGeometry height="22" width="321.6796875" x="1269" y="3696" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-293" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=8;fillColor=#f0f8f0;strokeColor=#82b366;container=0;" value="10. 镇星+太白+辰星合 → 主地震，边兵，大水｜《开元占经》" vertex="1">
+          <mxGeometry height="22" width="321.6796875" x="1601.2265625" y="3696" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-294" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=16;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#884400;strokeWidth=2;container=0;" value="三、五星四星组合（五种）" vertex="1">
+          <mxGeometry height="36" width="1350" x="1269" y="3732" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-295" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=8;fillColor=#fff8f0;strokeColor=#d79b00;container=0;" value="1. 岁星+荧惑+镇星+太白合 → 主天下大兵，天子有忧｜《开元占经》" vertex="1">
+          <mxGeometry height="24" width="321.6796875" x="1269" y="3774" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-296" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=8;fillColor=#fff8f0;strokeColor=#d79b00;container=0;" value="2. 岁星+荧惑+镇星+辰星合 → 主大水，地震，民饥｜《开元占经》" vertex="1">
+          <mxGeometry height="24" width="321.6796875" x="1601.2265625" y="3774" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-297" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=8;fillColor=#fff8f0;strokeColor=#d79b00;container=0;" value="3. 岁星+荧惑+太白+辰星合 → 主兵大起，水旱并作｜《开元占经》" vertex="1">
+          <mxGeometry height="24" width="321.6796875" x="1933.453125" y="3774" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-298" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=8;fillColor=#fff8f0;strokeColor=#d79b00;container=0;" value="4. 岁星+镇星+太白+辰星合 → 主地震，兵起，女主忧｜《开元占经》" vertex="1">
+          <mxGeometry height="24" width="353.3203125" x="2265.6796875" y="3774" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-299" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=8;fillColor=#fff8f0;strokeColor=#d79b00;container=0;" value="5. 荧惑+镇星+太白+辰星合 → 主大旱，大兵，天下乱｜《开元占经》" vertex="1">
+          <mxGeometry height="24" width="321.6796875" x="1269" y="3802" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-300" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=16;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#660000;strokeWidth=2;container=0;" value="四、五星合聚（五星聚于一宿）" vertex="1">
+          <mxGeometry height="36" width="1350" x="1269" y="3842" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-301" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0d8f0;strokeColor=#b854a0;fontSize=16;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#660044;strokeWidth=2;container=0;" value="五、五星行度异常占验" vertex="1">
+          <mxGeometry height="36" width="1350" x="1269" y="4028" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-302" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=8;fillColor=#fdf5fb;strokeColor=#b854a0;container=0;" value="1. 岁星超舍而前（赢）→ 所居之国有灾｜《史记·天官书》" vertex="1">
+          <mxGeometry height="22" width="321.6796875" x="1269" y="4070" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-303" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=8;fillColor=#fdf5fb;strokeColor=#b854a0;container=0;" value="2. 岁星退舍（缩）→ 所居之国有兵｜《史记·天官书》" vertex="1">
+          <mxGeometry height="22" width="321.6796875" x="1601.2265625" y="4070" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-304" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=8;fillColor=#fdf5fb;strokeColor=#b854a0;container=0;" value="3. 荧惑逆行 → 主兵起｜《史记·天官书》" vertex="1">
+          <mxGeometry height="22" width="321.6796875" x="1933.453125" y="4070" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-305" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=8;fillColor=#fdf5fb;strokeColor=#b854a0;container=0;" value="4. 荧惑留 → 主兵缓｜《史记·天官书》" vertex="1">
+          <mxGeometry height="22" width="353.3203125" x="2265.6796875" y="4070" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-306" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=8;fillColor=#fdf5fb;strokeColor=#b854a0;container=0;" value="5. 荧惑守 → 主大灾｜《史记·天官书》" vertex="1">
+          <mxGeometry height="22" width="321.6796875" x="1269" y="4096" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-307" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=8;fillColor=#fdf5fb;strokeColor=#b854a0;container=0;" value="6. 镇星失次 → 主土功、地震｜《汉书·天文志》" vertex="1">
+          <mxGeometry height="22" width="321.6796875" x="1601.2265625" y="4096" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-308" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=8;fillColor=#fdf5fb;strokeColor=#b854a0;container=0;" value="7. 太白昼见 → 主天下大乱｜《汉书·天文志》" vertex="1">
+          <mxGeometry height="22" width="321.6796875" x="1933.453125" y="4096" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-309" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=8;fillColor=#fdf5fb;strokeColor=#b854a0;container=0;" value="8. 辰星出无常 → 主水旱｜《史记·天官书》" vertex="1">
+          <mxGeometry height="22" width="353.3203125" x="2265.6796875" y="4096" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-310" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0e8f0;strokeColor=#5480b8;fontSize=16;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#003366;strokeWidth=2;container=0;" value="六、五星变色占验" vertex="1">
+          <mxGeometry height="36" width="1350" x="1269" y="4128" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-311" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=8;fillColor=#f0f6fb;strokeColor=#5480b8;container=0;" value="1. 岁星青甚 → 主忧｜《开元占经》" vertex="1">
+          <mxGeometry height="22" width="205.6640625" x="1269" y="4170" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-312" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=8;fillColor=#f0f6fb;strokeColor=#5480b8;container=0;" value="2. 岁星赤 → 主旱｜《开元占经》" vertex="1">
+          <mxGeometry height="22" width="205.6640625" x="1479.9375" y="4170" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-313" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=8;fillColor=#f0f6fb;strokeColor=#5480b8;container=0;" value="3. 岁星白 → 主丧｜《开元占经》" vertex="1">
+          <mxGeometry height="22" width="205.6640625" x="1690.875" y="4170" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-314" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=8;fillColor=#f0f6fb;strokeColor=#5480b8;container=0;" value="4. 荧惑赤甚 → 主旱｜《开元占经》" vertex="1">
+          <mxGeometry height="22" width="205.6640625" x="1901.8125" y="4170" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-315" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=8;fillColor=#f0f6fb;strokeColor=#5480b8;container=0;" value="5. 荧惑白 → 主丧｜《开元占经》" vertex="1">
+          <mxGeometry height="22" width="205.6640625" x="2112.75" y="4170" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-316" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=8;fillColor=#f0f6fb;strokeColor=#5480b8;container=0;" value="6. 荧惑青 → 主忧｜《开元占经》" vertex="1">
+          <mxGeometry height="22" width="295.3125" x="2323.6875" y="4170" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-317" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=8;fillColor=#f0f6fb;strokeColor=#5480b8;container=0;" value="7. 镇星黄甚 → 主丰｜《开元占经》" vertex="1">
+          <mxGeometry height="22" width="205.6640625" x="1269" y="4196" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-318" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=8;fillColor=#f0f6fb;strokeColor=#5480b8;container=0;" value="8. 镇星白 → 主丧｜《开元占经》" vertex="1">
+          <mxGeometry height="22" width="205.6640625" x="1479.9375" y="4196" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-319" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=8;fillColor=#f0f6fb;strokeColor=#5480b8;container=0;" value="9. 太白白甚 → 主丧｜《开元占经》" vertex="1">
+          <mxGeometry height="22" width="205.6640625" x="1690.875" y="4196" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-320" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=8;fillColor=#f0f6fb;strokeColor=#5480b8;container=0;" value="10. 太白赤 → 主兵｜《开元占经》" vertex="1">
+          <mxGeometry height="22" width="205.6640625" x="1901.8125" y="4196" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-321" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=8;fillColor=#f0f6fb;strokeColor=#5480b8;container=0;" value="11. 辰星黑甚 → 主大水｜《开元占经》" vertex="1">
+          <mxGeometry height="22" width="205.6640625" x="2112.75" y="4196" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-322" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=8;fillColor=#f0f6fb;strokeColor=#5480b8;container=0;" value="12. 辰星白 → 主旱｜《开元占经》" vertex="1">
+          <mxGeometry height="22" width="295.3125" x="2323.6875" y="4196" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-323" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=8;fillColor=#f0f6fb;strokeColor=#5480b8;container=0;" value="13. 辰星赤 → 主兵｜《开元占经》" vertex="1">
+          <mxGeometry height="22" width="205.6640625" x="1269" y="4222" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-324" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fdf5f5;strokeColor=#b85450;container=0;" value="1. 五星合于一舍，其下之国可以义致天下｜《史记·天官书》" vertex="1">
+          <mxGeometry height="20" width="294.6097883597884" x="1405.6071428571431" y="3884" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-325" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fdf5f5;strokeColor=#b85450;container=0;" value="2. 五星聚于一宿，天下大乱，改朝换代｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="294.6097883597884" x="1705.2103174603162" y="3884" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-326" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fdf5f5;strokeColor=#b85450;container=0;" value="3. 五星合于房，天子有丧；合于心，天子有忧｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="294.6097883597884" x="2004.813492063493" y="3884" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-327" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fdf5f5;strokeColor=#b85450;container=0;" value="4. 五星合于斗，主天下大兵｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="314.58333333333337" x="2304.416666666668" y="3884" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-328" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fdf5f5;strokeColor=#b85450;container=0;" value="5. 五星合于牛，主天下大水｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="294.6097883597884" x="1405.6071428571431" y="3908" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-329" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fdf5f5;strokeColor=#b85450;container=0;" value="6. 五星合于虚，主天下大旱｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="294.6097883597884" x="1705.2103174603162" y="3908" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-330" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fdf5f5;strokeColor=#b85450;container=0;" value="7. 五星合于奎，主天下大疫｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="294.6097883597884" x="2004.813492063493" y="3908" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-331" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fdf5f5;strokeColor=#b85450;container=0;" value="8. 五星合于井，主天下火灾｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="314.58333333333337" x="2304.416666666668" y="3908" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-332" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fdf5f5;strokeColor=#b85450;container=0;" value="1. 五星聚于房 → 天子失位，天下乱｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="294.6097883597884" x="1405.6071428571431" y="3938" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-333" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fdf5f5;strokeColor=#b85450;container=0;" value="2. 五星聚于心 → 天子有忧，大臣死｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="294.6097883597884" x="1705.2103174603162" y="3938" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-334" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fdf5f5;strokeColor=#b85450;container=0;" value="3. 五星聚于斗 → 天下大兵，流血千里｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="294.6097883597884" x="2004.813492063493" y="3938" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-335" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fdf5f5;strokeColor=#b85450;container=0;" value="4. 五星聚于牛 → 天下大水，五谷不登｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="314.58333333333337" x="2304.416666666668" y="3938" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-336" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fdf5f5;strokeColor=#b85450;container=0;" value="5. 五星聚于井 → 天下火灾，宫室焚｜《开元占经》" vertex="1">
+          <mxGeometry height="20" width="294.6097883597884" x="1405.6071428571431" y="3962" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-337" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fdf5f5;strokeColor=#b85450;container=0;" value="1. 五星聚于房（周文王时）→ 殷纣亡，周室兴｜《竹书纪年》" vertex="1">
+          <mxGeometry height="20" width="294.6097883597884" x="1405.6071428571431" y="3992" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-338" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fdf5f5;strokeColor=#b85450;container=0;" value="2. 五星聚于井（汉高祖时）→ 秦亡，汉兴｜《汉书·天文志》" vertex="1">
+          <mxGeometry height="20" width="294.6097883597884" x="1705.2103174603162" y="3992" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-339" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fdf5f5;strokeColor=#b85450;container=0;" value="3. 五星聚于尾（唐玄宗时）→ 开元盛世｜《新唐书·天文志》" vertex="1">
+          <mxGeometry height="20" width="294.6097883597884" x="2004.813492063493" y="3992" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-340" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingLeft=6;fillColor=#fdf5f5;strokeColor=#b85450;container=0;" value="4. 五星聚于牛（后赵时）→ 天下大乱｜《晋书·天文志》" vertex="1">
+          <mxGeometry height="20" width="314.58333333333337" x="2304.416666666668" y="3992" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-341" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fdeaea;strokeColor=#b85450;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#660000;align=center;container=0;" value="【总体占验】" vertex="1">
+          <mxGeometry height="24" width="120.5357142857143" x="1269" y="3884" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-342" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fdeaea;strokeColor=#b85450;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#660000;align=center;container=0;" value="【特定星宿占验】" vertex="1">
+          <mxGeometry height="24" width="120.5357142857143" x="1269" y="3938" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-343" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fdeaea;strokeColor=#b85450;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#660000;align=center;container=0;" value="【历史实例】" vertex="1">
+          <mxGeometry height="24" width="120.5357142857143" x="1269" y="3992" as="geometry" />
+        </mxCell>
         <mxCell id="UmHISxPJmjEUVxG4FA49-215" edge="1" parent="1" source="UmHISxPJmjEUVxG4FA49-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;curved=1;strokeWidth=3;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" target="UmHISxPJmjEUVxG4FA49-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -1718,7 +2087,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5_sjZKSDZrQdZ30qBFPX-19" edge="1" parent="1" source="UmHISxPJmjEUVxG4FA49-221" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 4 1 4;strokeColor=light-dark(#00FF00,#006512);strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;resizable=1;endArrow=classic;curved=1;" target="5_sjZKSDZrQdZ30qBFPX-11">
+        <mxCell id="5_sjZKSDZrQdZ30qBFPX-19" edge="1" parent="1" source="UmHISxPJmjEUVxG4FA49-221" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;dashed=1;dashPattern=8 4 1 4;strokeColor=light-dark(#00FF00,#006512);strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;resizable=1;endArrow=classic;curved=1;" target="5_sjZKSDZrQdZ30qBFPX-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UmHISxPJmjEUVxG4FA49-221" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;阴阳互推，化生五行&lt;/font&gt;" vertex="1">
