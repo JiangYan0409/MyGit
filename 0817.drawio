@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="hbvwoiXoD7ZSWJCbfr5h">
-    <mxGraphModel dx="1978" dy="1064" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="11870" dy="6385" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -204,6 +204,9 @@
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-17" edge="1" parent="UmHISxPJmjEUVxG4FA49-11" source="xsbeXi4ZopbAxWsLfnY3-23" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startArrow=classic;startFill=1;endArrow=classic;" target="UmHISxPJmjEUVxG4FA49-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UmHISxPJmjEUVxG4FA49-47" parent="UmHISxPJmjEUVxG4FA49-11" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dd6644;strokeColor=#aa4433;strokeWidth=2;shadow=1;fontSize=50;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
           <mxGeometry height="107.2285714285714" width="107.22757799839552" x="1525.200079549556" y="1195.2027003484318" as="geometry" />
         </mxCell>
@@ -223,6 +226,9 @@
           <mxGeometry relative="1" x="-0.0242" y="-1" as="geometry">
             <mxPoint x="-27" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-15" edge="1" parent="UmHISxPJmjEUVxG4FA49-11" source="UmHISxPJmjEUVxG4FA49-51" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startArrow=classic;startFill=1;endArrow=classic;" target="UmHISxPJmjEUVxG4FA49-104">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UmHISxPJmjEUVxG4FA49-51" parent="UmHISxPJmjEUVxG4FA49-11" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ccbb66;strokeColor=#998844;strokeWidth=2;shadow=1;fontSize=50;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
           <mxGeometry height="142.97142857142853" width="142.97010399786072" x="462.6561667112346" y="2321.3914285714277" as="geometry" />
@@ -386,8 +392,11 @@
         <mxCell id="UmHISxPJmjEUVxG4FA49-103" parent="UmHISxPJmjEUVxG4FA49-96" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="自身属性" vertex="1">
           <mxGeometry height="30" width="70" x="234" y="33.1400000000001" as="geometry" />
         </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-16" edge="1" parent="UmHISxPJmjEUVxG4FA49-11" source="UmHISxPJmjEUVxG4FA49-104" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startArrow=classic;startFill=1;endArrow=classic;" target="UmHISxPJmjEUVxG4FA49-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UmHISxPJmjEUVxG4FA49-104" parent="UmHISxPJmjEUVxG4FA49-11" style="ellipse;whiteSpace=wrap;html=1;fillColor=#7788cc;strokeColor=#4455aa;strokeWidth=2;shadow=1;fontSize=50;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
-          <mxGeometry height="95.31428571428569" width="95.31340266524046" x="1714.5708766657754" y="1959.8999999999999" as="geometry" />
+          <mxGeometry height="95.31428571428569" width="95.31340266524046" x="1706.6908766657752" y="1959.8999999999999" as="geometry" />
         </mxCell>
         <mxCell id="UmHISxPJmjEUVxG4FA49-105" parent="UmHISxPJmjEUVxG4FA49-11" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontFamily=Microsoft YaHei;fontColor=#4455aa;fontStyle=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="水星（辰星）" vertex="1">
           <mxGeometry height="95.31428571428569" width="357.42525999465175" x="1655" y="2079.042857142857" as="geometry" />
@@ -1146,6 +1155,30 @@
         <mxCell id="xsbeXi4ZopbAxWsLfnY3-12" edge="1" parent="UmHISxPJmjEUVxG4FA49-11" source="inCaOdDOQ_w14JDPJGUT-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.546;entryY=0.922;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;dashed=1;dashPattern=1 1;curved=1;" target="xsbeXi4ZopbAxWsLfnY3-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-13" edge="1" parent="UmHISxPJmjEUVxG4FA49-11" source="UmHISxPJmjEUVxG4FA49-49" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.086;entryY=0.76;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;strokeWidth=5;" target="UmHISxPJmjEUVxG4FA49-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-14" edge="1" parent="UmHISxPJmjEUVxG4FA49-11" source="UmHISxPJmjEUVxG4FA49-49" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.674;entryY=0.13;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startArrow=classic;startFill=1;endArrow=classic;" target="UmHISxPJmjEUVxG4FA49-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-18" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="五行生克" vertex="1">
+          <mxGeometry height="40" width="80" x="1199" y="1463.56" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-20" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="五行生克" vertex="1">
+          <mxGeometry height="40" width="80" x="1069" y="2220" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-22" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="五行生克" vertex="1">
+          <mxGeometry height="40" width="80" x="2523.43" y="2174.36" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-23" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="五行生克" vertex="1">
+          <mxGeometry height="40" width="80" x="2201.12" y="1664.1399999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-24" edge="1" parent="UmHISxPJmjEUVxG4FA49-11" source="UmHISxPJmjEUVxG4FA49-47" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startArrow=classic;startFill=1;endArrow=classic;" target="xsbeXi4ZopbAxWsLfnY3-23" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2853" y="2389" as="sourcePoint" />
+            <mxPoint x="4262" y="3401" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="UmHISxPJmjEUVxG4FA49-215" edge="1" parent="1" source="UmHISxPJmjEUVxG4FA49-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;curved=1;strokeWidth=3;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" target="UmHISxPJmjEUVxG4FA49-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -1217,6 +1250,9 @@
         </mxCell>
         <mxCell id="UmHISxPJmjEUVxG4FA49-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;凝聚&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start;&quot;&gt;积阴之寒气为水，水气之精者为月&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="300" x="1540" y="3286.62" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="五行生克" vertex="1">
+          <mxGeometry height="40" width="80" x="1930" y="3160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
