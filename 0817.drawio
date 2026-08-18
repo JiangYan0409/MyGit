@@ -1,9 +1,12 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="hbvwoiXoD7ZSWJCbfr5h">
-    <mxGraphModel dx="23740" dy="12770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="24567" dy="13939" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-495" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="9108" width="9108" x="-811" y="-1090" as="geometry" />
+        </mxCell>
         <mxCell id="UmHISxPJmjEUVxG4FA49-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;dashed=1;dashPattern=8 4 1 4;glass=1;fillColor=light-dark(#DBDBDB,#FFFFFF);fontColor=#333333;strokeColor=#666666;fillStyle=auto;gradientColor=none;gradientDirection=north;absoluteArcSize=0;backgroundOutline=0;shadow=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
           <mxGeometry height="5830" width="6450" x="370" y="440" as="geometry" />
         </mxCell>
@@ -2591,6 +2594,18 @@
         </mxCell>
         <mxCell id="xsbeXi4ZopbAxWsLfnY3-494" parent="xsbeXi4ZopbAxWsLfnY3-384" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#888899;strokeColor=#888899;fontSize=14;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#ffffff;container=0;" value="审视" vertex="1">
           <mxGeometry height="94.61426491994177" width="26.666666666666668" y="1101.1790393013107" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-496" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#f5f5f5;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/material-symbols/1/Airwave.svg;fontColor=#333333;labelBorderColor=#666666;rotation=-30;" value="" vertex="1">
+          <mxGeometry height="550" width="550" x="5280" y="6590" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-497" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/meteocons/1/Extreme_Smoke.svg" value="" vertex="1">
+          <mxGeometry height="917" width="917" x="1120" y="-380" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-498" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/material-symbols/1/Air.svg;rotation=-30;" value="" vertex="1">
+          <mxGeometry height="490" width="490" x="-240" y="3847" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-499" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/material-symbols/1/Air.svg;rotation=-30;direction=west;" value="" vertex="1">
+          <mxGeometry height="490" width="490" x="6919.996223927187" y="1753.9962239271874" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
