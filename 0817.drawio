@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="hbvwoiXoD7ZSWJCbfr5h">
-    <mxGraphModel dx="48307" dy="26709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="16654" dy="9682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -38,14 +38,11 @@
         <mxCell id="UmHISxPJmjEUVxG4FA49-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#faf3e0;strokeColor=#d4c090;strokeWidth=1;opacity=18;rotation=23.5;fontSize=50;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;aspect=fixed;" value="" vertex="1">
           <mxGeometry height="1820" width="4809.96" x="1253.02" y="2255.64" as="geometry" />
         </mxCell>
-        <mxCell id="UmHISxPJmjEUVxG4FA49-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff5f5;strokeColor=#b85450;fontSize=13;fontFamily=Microsoft YaHei;fontColor=#663333;align=center;spacingTop=8;dashed=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;「日月相推而明生焉。」——《周易·系辞》&lt;br&gt;&lt;br&gt;日与月，非二物也，乃一阴一阳、一刚一柔、一施一受、一明一夜之两端。日无月则不显其恒，月无日则不能有其光。月禀日光而成其体，日因月行而分其岁。二者相推、相感、相成，共构天地之节律与人伦之纲纪。故古人言「日月为易」，明其相须而不相离也。&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="146.42" width="380" x="5530" y="3612.29" as="geometry" />
-        </mxCell>
         <mxCell id="UmHISxPJmjEUVxG4FA49-10" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=15;dx=38;arrowHead=126.27;direction=north;flipV=0;legacyAnchorPoints=0;flipH=1;rotation=-75;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
           <mxGeometry height="360" width="350" x="5830" y="1895.6399999999999" as="geometry" />
         </mxCell>
         <mxCell id="UmHISxPJmjEUVxG4FA49-11" connectable="0" parent="1" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
-          <mxGeometry height="4344" width="5169" x="1221" y="1140" as="geometry" />
+          <mxGeometry height="4344" width="6140" x="1221" y="1140" as="geometry" />
         </mxCell>
         <mxCell id="xsbeXi4ZopbAxWsLfnY3-346" connectable="0" parent="UmHISxPJmjEUVxG4FA49-11" style="group" value="" vertex="1">
           <mxGeometry height="2160" width="5520" x="-450" y="1040" as="geometry" />
@@ -2291,6 +2288,12 @@
         </mxCell>
         <mxCell id="xsbeXi4ZopbAxWsLfnY3-540" parent="xsbeXi4ZopbAxWsLfnY3-503" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f9f9;strokeColor=#999999;fontSize=11;fontFamily=Microsoft YaHei;fontColor=#444444;align=center;fontStyle=2;spacingLeft=10;spacingRight=10;dashed=1;" value="▸ 地者，重浊之气凝聚而成。天施地受，地承天载物。地在五行中属土之盛，具坤德，厚德载物，静而能容。地是日月五星之气的承受者与显现者，是万物之形的所在，是人类立足与取养之基。" vertex="1">
           <mxGeometry height="50" width="853.211009174312" x="36.188990825688165" y="525" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-546" parent="UmHISxPJmjEUVxG4FA49-11" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;align=left;" value="&lt;div&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;日月（阴阳之极）统摄五星节律&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp;↓&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;五星各行其度：岁星十二岁周天，荧惑二年周天，镇星二十八岁周天，太白一岁周天，辰星一岁周天&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp;↓&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;日月与五星互动：&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp;├── 日月（火水）与五星按五行生克互相作用&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp;├── 五星之间两两合、三星合、四星合、五星&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 30px; background-color: transparent;&quot;&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp;└── 五星入宿、守宿、犯宿&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp;↓&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;天象呈现：正常或变异&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp;↓&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;进入天地人循环&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="509.01" width="1371" x="4769" y="2298" as="geometry" />
+        </mxCell>
+        <mxCell id="UmHISxPJmjEUVxG4FA49-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff5f5;strokeColor=#b85450;fontSize=13;fontFamily=Microsoft YaHei;fontColor=#663333;align=center;spacingTop=8;dashed=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;「日月相推而明生焉。」——《周易·系辞》&lt;br&gt;&lt;br&gt;日与月，非二物也，乃一阴一阳、一刚一柔、一施一受、一明一夜之两端。日无月则不显其恒，月无日则不能有其光。月禀日光而成其体，日因月行而分其岁。二者相推、相感、相成，共构天地之节律与人伦之纲纪。故古人言「日月为易」，明其相须而不相离也。&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="146.42" width="380" x="5530" y="3612.29" as="geometry" />
         </mxCell>
         <mxCell id="UmHISxPJmjEUVxG4FA49-215" edge="1" parent="1" source="UmHISxPJmjEUVxG4FA49-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;curved=1;strokeWidth=3;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" target="UmHISxPJmjEUVxG4FA49-9">
           <mxGeometry relative="1" as="geometry" />
