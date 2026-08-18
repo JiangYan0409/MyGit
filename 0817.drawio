@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="hbvwoiXoD7ZSWJCbfr5h">
-    <mxGraphModel dx="9496" dy="5108" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="9470" dy="5180" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1076,6 +1076,39 @@
         </mxCell>
         <mxCell id="UmHISxPJmjEUVxG4FA49-26" parent="UmHISxPJmjEUVxG4FA49-11" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;fontFamily=Microsoft YaHei;fontColor=#cc9900;fontStyle=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="北极星" vertex="1">
           <mxGeometry height="107.2285714285714" width="297.85438332887645" x="2171.1003717018752" y="210.00142857142856" as="geometry" />
+        </mxCell>
+        <mxCell id="5_sjZKSDZrQdZ30qBFPX-8" parent="UmHISxPJmjEUVxG4FA49-11" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Dynamic_Premium-2331/star-dynamic-premium-565.png" value="" vertex="1">
+          <mxGeometry height="128" width="128" x="935" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="5_sjZKSDZrQdZ30qBFPX-9" parent="UmHISxPJmjEUVxG4FA49-11" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Isometric-2602/star-iso-premium-1340.png" value="" vertex="1">
+          <mxGeometry height="128" width="128" x="1809.88" y="1010" as="geometry" />
+        </mxCell>
+        <mxCell id="5_sjZKSDZrQdZ30qBFPX-10" parent="UmHISxPJmjEUVxG4FA49-11" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Front_Color-2851/star-front-color-1173.png" value="" vertex="1">
+          <mxGeometry height="128" width="128" x="3748" y="3013" as="geometry" />
+        </mxCell>
+        <mxCell id="5_sjZKSDZrQdZ30qBFPX-11" parent="UmHISxPJmjEUVxG4FA49-11" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Front_Premium-2435/star-front-premium-1485.png" value="" vertex="1">
+          <mxGeometry height="128" width="128" x="1674" y="3490" as="geometry" />
+        </mxCell>
+        <mxCell id="5_sjZKSDZrQdZ30qBFPX-12" parent="UmHISxPJmjEUVxG4FA49-11" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Iconoir_Vol_4-2342/star-dashed-1470.svg" value="" vertex="1">
+          <mxGeometry height="24" width="24" x="2735" y="3880" as="geometry" />
+        </mxCell>
+        <mxCell id="5_sjZKSDZrQdZ30qBFPX-13" parent="UmHISxPJmjEUVxG4FA49-11" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Christmas_free-2599/star-1380.svg" value="" vertex="1">
+          <mxGeometry height="128" width="128" x="969" y="3380" as="geometry" />
+        </mxCell>
+        <mxCell id="5_sjZKSDZrQdZ30qBFPX-14" parent="UmHISxPJmjEUVxG4FA49-11" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/material-symbols/1/Kid_Star.svg" value="" vertex="1">
+          <mxGeometry height="96" width="96" x="3068" y="3460" as="geometry" />
+        </mxCell>
+        <mxCell id="5_sjZKSDZrQdZ30qBFPX-15" parent="UmHISxPJmjEUVxG4FA49-11" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/material-symbols/1/Kid_Star.svg" value="" vertex="1">
+          <mxGeometry height="96" width="96" x="3377" y="959" as="geometry" />
+        </mxCell>
+        <mxCell id="5_sjZKSDZrQdZ30qBFPX-16" parent="UmHISxPJmjEUVxG4FA49-11" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Basic-2519/star-802.svg" value="" vertex="1">
+          <mxGeometry height="24" width="24" x="3995" y="1303" as="geometry" />
+        </mxCell>
+        <mxCell id="5_sjZKSDZrQdZ30qBFPX-17" parent="UmHISxPJmjEUVxG4FA49-11" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Iconoir_Vol_4-2342/star-dashed-1470.svg" value="" vertex="1">
+          <mxGeometry height="24" width="24" x="1972" y="3960" as="geometry" />
+        </mxCell>
+        <mxCell id="5_sjZKSDZrQdZ30qBFPX-18" parent="UmHISxPJmjEUVxG4FA49-11" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/material-symbols/1/Family_Star.svg" value="" vertex="1">
+          <mxGeometry height="96" width="96" x="2405" y="4038" as="geometry" />
         </mxCell>
         <mxCell id="UmHISxPJmjEUVxG4FA49-215" edge="1" parent="1" source="UmHISxPJmjEUVxG4FA49-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;curved=1;strokeWidth=3;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" target="UmHISxPJmjEUVxG4FA49-9">
           <mxGeometry relative="1" as="geometry" />
