@@ -2800,6 +2800,24 @@
         <mxCell id="xsbeXi4ZopbAxWsLfnY3-561" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fce8e0;strokeColor=#aa4433;fontSize=15;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="3. 荧惑守心（心宿停留）" vertex="1">
           <mxGeometry height="60.96161290322579" width="243.24999999999997" x="2820" y="2291.918387096775" as="geometry" />
         </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-562" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f0f5;strokeColor=#888899;fontSize=15;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="1. 朔望月（29.53天）" vertex="1">
+          <mxGeometry height="35" width="173.36214768366952" x="3500" y="2645.0026400598817" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-563" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f0f5;strokeColor=#888899;fontSize=15;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="2. 恒星月（27.32天）" vertex="1">
+          <mxGeometry height="35" width="173.36214768366952" x="3500" y="2680.001907055925" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-564" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f0f5;strokeColor=#888899;fontSize=15;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="3. 18.6年交点周期" vertex="1">
+          <mxGeometry height="35" width="173.36214768366952" x="3500" y="2715.001174051969" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-565" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f0f5;strokeColor=#888899;fontSize=15;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="4. 月食" vertex="1">
+          <mxGeometry height="35" width="173.36214768366952" x="3673.3599628051124" y="2645" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-566" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f0ff;strokeColor=#4477aa;fontSize=15;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="5. 🔵 引力驱动岁差（主贡献者）" vertex="1">
+          <mxGeometry height="35" width="173.36214768366952" x="3673.3599628051124" y="2679.9992669960416" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-567" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f0ff;strokeColor=#4477aa;fontSize=15;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="6. 🔵 黄赤交角长期变化（稳定器反馈）" vertex="1">
+          <mxGeometry height="35" width="173.36214768366952" x="3673.3599628051124" y="2714.9985339920854" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
