@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="hbvwoiXoD7ZSWJCbfr5h">
-    <mxGraphModel dx="48307" dy="26709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4784" dy="3297" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2817,6 +2817,18 @@
         </mxCell>
         <mxCell id="xsbeXi4ZopbAxWsLfnY3-567" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f0ff;strokeColor=#4477aa;fontSize=15;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="6. 🔵 黄赤交角长期变化（稳定器反馈）" vertex="1">
           <mxGeometry height="35" width="173.36214768366952" x="3673.3599628051124" y="2714.9985339920854" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-572" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fffaf0;strokeColor=#dd9900;fontSize=15;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="1. 太阳活动周期（约 11 年）" vertex="1">
+          <mxGeometry height="35" width="180" x="5000" y="3320" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-573" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fffaf0;strokeColor=#dd9900;fontSize=15;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="2. 日食（月球遮挡）" vertex="1">
+          <mxGeometry height="35" width="180" x="5000" y="3356.9978009881306" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-574" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f0ff;strokeColor=#4477aa;fontSize=15;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="3. 🔵 引力驱动岁差（与月球协同）" vertex="1">
+          <mxGeometry height="35" width="180" x="5000" y="3396.8670679841744" as="geometry" />
+        </mxCell>
+        <mxCell id="xsbeXi4ZopbAxWsLfnY3-575" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f0ff;strokeColor=#4477aa;fontSize=15;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="4. 🔵 黄赤交角长期变化（协同）" vertex="1">
+          <mxGeometry height="35" width="180" x="5000" y="3434.866334980218" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
