@@ -4108,7 +4108,7 @@
         <mxCell id="GzwJVmzmDODFBmZMGdF7-270" parent="GzwJVmzmDODFBmZMGdF7-336" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff8f0;strokeColor=#d79b00;fontSize=10;align=left;spacingLeft=6;container=0;" value="五星道：行于黄道附近" vertex="1">
           <mxGeometry height="24.148199445983376" width="386.8421052631579" x="856.5789473684208" y="782.6911080332393" as="geometry" />
         </mxCell>
-        <mxCell id="GzwJVmzmDODFBmZMGdF7-271" parent="GzwJVmzmDODFBmZMGdF7-336" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff4e6;strokeColor=#d79b00;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#884400;strokeWidth=1;container=0;" value="交食条件" vertex="1">
+        <mxCell id="GzwJVmzmDODFBmZMGdF7-271" parent="GzwJVmzmDODFBmZMGdF7-336" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff4e6;strokeColor=#d79b00;fontSize=13;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#884400;strokeWidth=1;container=0;" value="交食" vertex="1">
           <mxGeometry height="32.92936288088642" width="331.578947368421" x="1271.052631578947" y="694.8794736842101" as="geometry" />
         </mxCell>
         <mxCell id="GzwJVmzmDODFBmZMGdF7-272" parent="GzwJVmzmDODFBmZMGdF7-336" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff8f0;strokeColor=#d79b00;fontSize=10;align=left;spacingLeft=6;container=0;" value="日食：日月同度且月道交于日道" vertex="1">
