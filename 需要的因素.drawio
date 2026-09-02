@@ -1,539 +1,14 @@
 <mxfile host="app.diagrams.net">
   <diagram name="输入与状态依赖关系图" id="L_VnvDvNDMuefzfLW9jZ">
-    <mxGraphModel dx="8740" dy="4257" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6762" dy="-314" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="eraa9lYt7ighmdzpdxKw-122" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="太阳高度角" vertex="1">
-          <mxGeometry height="80" width="80" x="460" y="860" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-123" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="太阳方位角" vertex="1">
-          <mxGeometry height="80" width="80" x="900" y="780" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-124" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="月球高度角" vertex="1">
-          <mxGeometry height="80" width="80" x="1160" y="1130" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-125" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="月球方位角" vertex="1">
-          <mxGeometry height="80" width="80" x="1270" y="1130" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-126" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="月相(0-1)" vertex="1">
-          <mxGeometry height="80" width="80" x="1380" y="1130" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-127" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="月面光照率(%)" vertex="1">
-          <mxGeometry height="80" width="80" x="1490" y="1130" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-128" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="日地距离(AU)" vertex="1">
-          <mxGeometry height="80" width="80" x="-20" y="2130" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-129" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="儒略日(JD)" vertex="1">
-          <mxGeometry height="80" width="80" x="1710" y="1130" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-130" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="地方时(小时)" vertex="1">
-          <mxGeometry height="80" width="80" x="1820" y="1130" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-131" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="晨光阶段" vertex="1">
-          <mxGeometry height="80" width="80" x="1930" y="1130" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-132" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="大气层顶辐射(TOA)" vertex="1">
-          <mxGeometry height="80" width="80" x="560" y="1570" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-133" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="晴空直射辐射(DNI_clear)" vertex="1">
-          <mxGeometry height="80" width="80" x="320" y="1180" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-134" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="晴空水平面总辐射(GHI_clear)" vertex="1">
-          <mxGeometry height="80" width="80" x="1170" y="810" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-135" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="晴空散射辐射(DHI_clear)" vertex="1">
-          <mxGeometry height="80" width="80" x="1270" y="1300" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-136" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="实际地表直射辐射(DNI)" vertex="1">
-          <mxGeometry height="80" width="80" x="1380" y="1300" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-137" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="实际地表总辐射(GHI)" vertex="1">
-          <mxGeometry height="80" width="80" x="1490" y="1300" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-138" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="实际地表散射辐射(DHI)" vertex="1">
-          <mxGeometry height="80" width="80" x="1600" y="1300" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-139" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="光合有效辐射(PAR)" vertex="1">
-          <mxGeometry height="80" width="80" x="1710" y="1300" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-140" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="紫外-A辐照度" vertex="1">
-          <mxGeometry height="80" width="80" x="1820" y="1300" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-141" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="紫外-B辐照度" vertex="1">
-          <mxGeometry height="80" width="80" x="1930" y="1300" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-142" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="近红外(NIR)辐照度" vertex="1">
-          <mxGeometry height="80" width="80" x="2040" y="1300" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-143" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="热红外(TIR)辐照度" vertex="1">
-          <mxGeometry height="80" width="80" x="2150" y="1300" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-144" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="照度(Lux)" vertex="1">
-          <mxGeometry height="80" width="80" x="2260" y="1300" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-145" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="色温(估算)" vertex="1">
-          <mxGeometry height="80" width="80" x="2370" y="1300" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-146" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="大气质量(Air Mass)" vertex="1">
-          <mxGeometry height="80" width="80" x="850" y="1169" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-147" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="大气透明度" vertex="1">
-          <mxGeometry height="80" width="80" x="900" y="1540" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-148" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="气溶胶光学厚度(AOD)" vertex="1">
-          <mxGeometry height="80" width="80" x="1160" y="1470" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-149" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="大气水汽柱含量(PWV)" vertex="1">
-          <mxGeometry height="80" width="80" x="1270" y="1470" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-150" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="总云量(%)" vertex="1">
-          <mxGeometry height="80" width="80" x="1380" y="1470" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-151" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="低云量/高云量分类(%)" vertex="1">
-          <mxGeometry height="80" width="80" x="1490" y="1470" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-152" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="云对直射辐射衰减系数" vertex="1">
-          <mxGeometry height="80" width="80" x="1600" y="1410" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-153" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="云对散射辐射增强系数" vertex="1">
-          <mxGeometry height="80" width="80" x="1830" y="1590" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-154" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="空气温度(近地面)" vertex="1">
-          <mxGeometry height="80" width="80" x="940" y="1640" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-155" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="露点温度" vertex="1">
-          <mxGeometry height="80" width="80" x="870" y="1714" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-156" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="相对湿度(%)" vertex="1">
-          <mxGeometry height="80" width="80" x="670" y="1610" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-157" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="大气饱和水汽压差(VPD)" vertex="1">
-          <mxGeometry height="80" width="80" x="1270" y="1640" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-158" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="近地表风速" vertex="1">
-          <mxGeometry height="80" width="80" x="1380" y="1640" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-159" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="近地表风向" vertex="1">
-          <mxGeometry height="80" width="80" x="1490" y="1640" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-160" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="降水率(降雨/降雪)" vertex="1">
-          <mxGeometry height="80" width="80" x="1600" y="1640" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-161" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="大气稳定度" vertex="1">
-          <mxGeometry height="80" width="80" x="570" y="1750" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-162" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="土地利用/覆盖类型(LULC)" vertex="1">
-          <mxGeometry height="80" width="80" x="940" y="1810" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-163" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="叶面积指数(LAI)" vertex="1">
-          <mxGeometry height="80" width="80" x="1050" y="1810" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-164" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="植被覆盖度(FVC)" vertex="1">
-          <mxGeometry height="80" width="80" x="1160" y="1810" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-165" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="地表反照率(动态值)" vertex="1">
-          <mxGeometry height="80" width="80" x="1270" y="1810" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-166" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="反照率修正因子" vertex="1">
-          <mxGeometry height="80" width="80" x="1380" y="1810" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-167" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="地表粗糙度" vertex="1">
-          <mxGeometry height="80" width="80" x="1490" y="1810" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-168" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="多层土壤温度(5/10/40/100cm)" vertex="1">
-          <mxGeometry height="80" width="80" x="940" y="1980" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-169" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="多层土壤体积含水量" vertex="1">
-          <mxGeometry height="80" width="80" x="1050" y="1980" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-170" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="土壤热通量(G)" vertex="1">
-          <mxGeometry height="80" width="80" x="1160" y="1980" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-171" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="土壤热容量" vertex="1">
-          <mxGeometry height="80" width="80" x="650" y="2100" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-172" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#cc0000;" value="地表净辐射(Rₙ)" vertex="1">
-          <mxGeometry height="80" width="80" x="1880" y="2230" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-173" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#cc0000;" value="感热通量(H)" vertex="1">
-          <mxGeometry height="80" width="80" x="1050" y="2150" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-174" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#cc0000;" value="潜热通量(LE)" vertex="1">
-          <mxGeometry height="80" width="80" x="374" y="1880" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-175" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#cc0000;" value="地表温度(Ts)" vertex="1">
-          <mxGeometry height="80" width="80" x="1270" y="2150" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-176" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#cc0000;" value="地表温度变化速率" vertex="1">
-          <mxGeometry height="80" width="80" x="1380" y="2150" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-177" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#00cccc;" value="实际蒸散发(ET)" vertex="1">
-          <mxGeometry height="80" width="80" x="750" y="2370" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-178" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#00cccc;" value="露水状态" vertex="1">
-          <mxGeometry height="80" width="80" x="930" y="2380" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-179" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#00cccc;" value="露水累积量" vertex="1">
-          <mxGeometry height="80" width="80" x="1160" y="2320" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-180" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#00cccc;" value="霜冻风险" vertex="1">
-          <mxGeometry height="80" width="80" x="1270" y="2320" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-181" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#00cccc;" value="雪深/雪水当量" vertex="1">
-          <mxGeometry height="80" width="80" x="1730" y="2430" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-182" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#d80073;" value="海潮振幅(推算)" vertex="1">
-          <mxGeometry height="80" width="80" x="1480" y="2700" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-183" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#d80073;" value="固体潮位移(cm)" vertex="1">
-          <mxGeometry height="80" width="80" x="1550" y="2640" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-184" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#d80073;" value="潮汐相位" vertex="1">
-          <mxGeometry height="80" width="80" x="1060" y="2530" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-185" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#d80073;" value="引潮力势" vertex="1">
-          <mxGeometry height="80" width="80" x="1380" y="2540" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-186" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#d80073;" value="地磁扰动等级(Kp)" vertex="1">
-          <mxGeometry height="80" width="80" x="1650" y="2640" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-187" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#d80073;" value="电离层总电子含量(TEC)" vertex="1">
-          <mxGeometry height="80" width="80" x="1490" y="2490" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-188" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#d80073;" value="极光存在性/强度/位置" vertex="1">
-          <mxGeometry height="80" width="80" x="1600" y="2490" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-189" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;" value="数字高程模型(DEM)" vertex="1">
-          <mxGeometry height="80" width="80" x="1110" y="2843" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-190" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;" value="坡向与坡度" vertex="1">
-          <mxGeometry height="80" width="80" x="1050" y="2660" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-191" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;" value="地形视域因子(SVF)" vertex="1">
-          <mxGeometry height="80" width="80" x="1160" y="2660" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-192" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;" value="地形阴影遮蔽" vertex="1">
-          <mxGeometry height="80" width="80" x="1290" y="2710" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-193" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-122" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-131">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-194" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-122" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-133">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-195" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-122" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-134">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-196" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-122" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-135">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-197" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-122" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-137">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-198" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-122" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-145">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-199" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-128" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-132">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-200" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-122" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-143">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-201" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-122" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-146">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-202" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-132" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-133">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-203" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-133" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-134">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-204" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-133" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-135">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-205" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-134" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-135">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-206" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-136" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-137">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-207" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-138" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-137">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-208" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-137" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-139">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-209" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-137" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-140">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-210" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-137" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-141">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-211" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-137" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-142">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-212" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-137" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-144">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-213" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-146" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-133">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-214" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-146" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-145">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-215" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-148" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-147">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-216" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-149" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-147">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-217" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-146" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-147">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-218" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-150" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-152">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-219" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-151" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-152">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-220" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-150" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-153">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-221" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-151" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-153">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-222" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-152" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-136">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-223" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-153" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-138">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-224" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-154" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-155">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-225" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-156" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-155">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-226" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-154" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-157">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-227" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-156" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-157">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-228" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-154" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-161">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-229" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-157" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-174">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-230" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-158" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-174">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-231" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-154" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-143">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-232" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-160" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-169">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-233" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-160" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-181">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-234" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-154" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-181">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-235" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-162" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-163">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-236" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-129" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-163">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-237" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-163" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-164">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-238" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-162" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-164">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-239" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-162" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-165">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-240" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-163" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-165">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-241" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-122" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-165">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-242" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-169" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-165">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-243" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-122" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-166">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-244" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-162" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-166">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-245" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-162" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-167">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-246" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-165" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-172">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-247" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-162" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-174">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-248" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-168" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-170">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-249" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-175" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-168">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-250" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-170" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-172">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-251" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-170" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-173">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-252" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-170" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-174">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-253" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-170" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-175">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-254" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-137" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-172">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-255" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-143" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-172">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-256" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-172" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-173">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-257" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-172" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-174">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-258" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-172" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-175">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-259" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-174" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-173">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-260" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-173" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-175">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-261" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-174" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-175">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-262" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-175" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-176">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-263" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-174" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-177">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-264" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-175" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-178">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-265" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-155" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-178">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-266" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-156" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-178">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-267" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-175" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-179">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-268" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-156" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-179">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-269" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-158" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-179">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-270" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-175" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-180">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-271" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-175" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-181">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-272" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-177" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-169">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-273" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-124" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-185">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-274" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-125" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-185">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-275" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-128" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-185">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-276" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-122" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-185">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-277" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-123" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-185">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-278" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-185" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-182">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-279" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-185" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-183">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-280" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-185" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-184">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-281" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-124" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-184">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-282" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-125" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-184">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-283" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-122" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-184">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-284" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-123" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-184">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-285" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-186" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-187">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-286" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-132" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-187">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-287" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-186" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-188">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-288" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-189" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-190">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-289" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-189" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-191">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-290" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-189" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-192">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-291" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-122" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-192">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-292" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-123" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-192">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-293" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-192" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-136">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-294" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-192" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-137">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-295" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-135" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-138">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eraa9lYt7ighmdzpdxKw-296" edge="1" parent="1" source="eraa9lYt7ighmdzpdxKw-147" style="endArrow=block;html=1;rounded=0;" target="eraa9lYt7ighmdzpdxKw-133">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="bW34Fo37VXy2yKvW5ARQ-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#cc0000;flipV=1;legacyAnchorPoints=0;flipH=1;" value="潜热通量(LE)" vertex="1">
           <mxGeometry height="80" width="80" x="2120" y="4870" as="geometry" />
         </mxCell>
         <mxCell id="bW34Fo37VXy2yKvW5ARQ-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#d80073;flipV=1;legacyAnchorPoints=0;flipH=1;" value="潮汐相位" vertex="1">
-          <mxGeometry height="80" width="80" x="2200" y="5080" as="geometry" />
+          <mxGeometry height="80" width="80" x="2250" y="5120" as="geometry" />
         </mxCell>
         <mxCell id="bW34Fo37VXy2yKvW5ARQ-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#d80073;flipV=1;legacyAnchorPoints=0;flipH=1;" value="引潮力势" vertex="1">
           <mxGeometry height="80" width="80" x="2148" y="6160" as="geometry" />
@@ -587,13 +62,13 @@
           <mxGeometry height="80" width="80" x="1040" y="4530" as="geometry" />
         </mxCell>
         <mxCell id="bW34Fo37VXy2yKvW5ARQ-20" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;flipV=1;legacyAnchorPoints=0;flipH=1;" value="色温(估算)" vertex="1">
-          <mxGeometry height="80" width="80" x="1040" y="4630" as="geometry" />
+          <mxGeometry height="80" width="80" x="2481" y="3690" as="geometry" />
         </mxCell>
         <mxCell id="bW34Fo37VXy2yKvW5ARQ-21" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;flipV=1;legacyAnchorPoints=0;flipH=1;" value="云对直射辐射衰减系数" vertex="1">
-          <mxGeometry height="80" width="80" x="1040" y="4730" as="geometry" />
+          <mxGeometry height="80" width="80" x="-20" y="5020" as="geometry" />
         </mxCell>
         <mxCell id="bW34Fo37VXy2yKvW5ARQ-22" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;flipV=1;legacyAnchorPoints=0;flipH=1;" value="云对散射辐射增强系数" vertex="1">
-          <mxGeometry height="80" width="80" x="1040" y="4830" as="geometry" />
+          <mxGeometry height="80" width="80" x="-20" y="5270" as="geometry" />
         </mxCell>
         <mxCell id="bW34Fo37VXy2yKvW5ARQ-23" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;flipV=1;legacyAnchorPoints=0;flipH=1;" value="露点温度" vertex="1">
           <mxGeometry height="80" width="80" x="1330" y="5120" as="geometry" />
@@ -611,7 +86,7 @@
           <mxGeometry height="80" width="80" x="1970" y="6340" as="geometry" />
         </mxCell>
         <mxCell id="bW34Fo37VXy2yKvW5ARQ-28" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;flipV=1;legacyAnchorPoints=0;flipH=1;" value="多层土壤体积含水量" vertex="1">
-          <mxGeometry height="80" width="80" x="1040" y="5430" as="geometry" />
+          <mxGeometry height="80" width="80" x="1080" y="5580" as="geometry" />
         </mxCell>
         <mxCell id="bW34Fo37VXy2yKvW5ARQ-29" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#d80073;flipV=1;legacyAnchorPoints=0;flipH=1;" value="电离层总电子含量(TEC)" vertex="1">
           <mxGeometry height="80" width="80" x="747" y="6070" as="geometry" />
@@ -722,13 +197,13 @@
           <mxGeometry height="80" width="80" x="140" y="6230" as="geometry" />
         </mxCell>
         <mxCell id="bW34Fo37VXy2yKvW5ARQ-65" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;flipV=1;legacyAnchorPoints=0;flipH=1;" value="近地表风速" vertex="1">
-          <mxGeometry height="80" width="80" x="440" y="5730" as="geometry" />
+          <mxGeometry height="80" width="80" x="-40" y="6030" as="geometry" />
         </mxCell>
         <mxCell id="bW34Fo37VXy2yKvW5ARQ-66" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;flipV=1;legacyAnchorPoints=0;flipH=1;" value="近地表风向" vertex="1">
-          <mxGeometry height="80" width="80" x="440" y="5830" as="geometry" />
+          <mxGeometry height="80" width="80" x="-300" y="6260" as="geometry" />
         </mxCell>
         <mxCell id="bW34Fo37VXy2yKvW5ARQ-67" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;flipV=1;legacyAnchorPoints=0;flipH=1;" value="降水率(降雨/降雪)" vertex="1">
-          <mxGeometry height="80" width="80" x="440" y="5930" as="geometry" />
+          <mxGeometry height="80" width="80" x="-40" y="5810" as="geometry" />
         </mxCell>
         <mxCell id="bW34Fo37VXy2yKvW5ARQ-68" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;flipV=1;legacyAnchorPoints=0;flipH=1;" value="土地利用/覆盖类型(LULC)" vertex="1">
           <mxGeometry height="80" width="80" x="1790" y="6210" as="geometry" />
@@ -737,10 +212,10 @@
           <mxGeometry height="80" width="80" x="440" y="6130" as="geometry" />
         </mxCell>
         <mxCell id="bW34Fo37VXy2yKvW5ARQ-70" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#d80073;flipV=1;legacyAnchorPoints=0;flipH=1;" value="地磁扰动等级(Kp)" vertex="1">
-          <mxGeometry height="80" width="80" x="440" y="6230" as="geometry" />
+          <mxGeometry height="80" width="80" x="440" y="6390" as="geometry" />
         </mxCell>
         <mxCell id="bW34Fo37VXy2yKvW5ARQ-71" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;flipV=1;legacyAnchorPoints=0;flipH=1;" value="数字高程模型(DEM)" vertex="1">
-          <mxGeometry height="80" width="80" x="440" y="6330" as="geometry" />
+          <mxGeometry height="80" width="80" x="1160" y="6570" as="geometry" />
         </mxCell>
         <mxCell id="bW34Fo37VXy2yKvW5ARQ-72" edge="1" parent="1" source="bW34Fo37VXy2yKvW5ARQ-50" style="endArrow=block;html=1;rounded=0;" target="bW34Fo37VXy2yKvW5ARQ-30">
           <mxGeometry relative="1" as="geometry" />
