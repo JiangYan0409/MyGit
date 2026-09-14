@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="天-地-人完整因果链布局" id="SjSHOlrHnjoS6EgHSpwo">
-    <mxGraphModel dx="20987" dy="15530" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#ffffff, #121212)" math="0" shadow="0">
+    <mxGraphModel dx="24977" dy="17677" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#ffffff, #121212)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3381,7 +3381,8 @@
         <mxCell id="b1fRG6G1WEVx8HJ13RTH-814" edge="1" parent="1" source="b1fRG6G1WEVx8HJ13RTH-813" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.004;entryY=0.284;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;curved=1;" target="b1fRG6G1WEVx8HJ13RTH-807">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-14121.71" y="3325.53" />
+              <mxPoint x="-14645" y="3332.94" />
+              <mxPoint x="-14121.71" y="3332.94" />
               <mxPoint x="-14121.71" y="3151.53" />
             </Array>
           </mxGeometry>
