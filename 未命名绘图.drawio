@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="天-地-人完整因果链布局" id="SjSHOlrHnjoS6EgHSpwo">
-    <mxGraphModel dx="41934" dy="26798" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#ffffff, #121212)" math="0" shadow="0">
+    <mxGraphModel dx="19831" dy="14909" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#ffffff, #121212)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3202,7 +3202,7 @@
           <mxGeometry height="200" width="350" x="-9987" y="422" as="geometry" />
         </mxCell>
         <mxCell id="b1fRG6G1WEVx8HJ13RTH-756" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0e8ff;strokeColor=#7a5ba8;verticalAlign=top;align=left;" value="&lt;div style=&quot;text-align:left;font-size:10px;padding:4px;line-height:1.35;&quot;&gt;&lt;b style=&quot;font-size:13px;&quot;&gt;11.6 狗的意图&lt;/b&gt;&lt;hr style=&quot;margin:3px 0;&quot;/&gt;&lt;b&gt;【构成要素】&lt;/b&gt;&lt;br/&gt;• 嗅闻：遇到嗅觉兴趣点&lt;br/&gt;• 排尿：遇到尿液标记点&lt;br/&gt;• 观察：听到/看到远处刺激&lt;br/&gt;• 加速：见到其他狗/猫/鸟&lt;br/&gt;• 减速：疲劳/炎热/绳持续张紧&lt;br/&gt;• 停住：用户拉绳&amp;gt;5N&lt;br/&gt;• 吠叫：极强刺激&lt;br/&gt;&lt;hr style=&quot;margin:3px 0;&quot;/&gt;&lt;b&gt;【动态规则】&lt;/b&gt;&lt;br/&gt;• 嗅闻→停止→低头嗅地面&lt;br/&gt;• 排尿→停住→抬腿/蹲下&lt;br/&gt;• 观察→停住→抬头，耳朵转向&lt;br/&gt;• 加速→加速前进→拽绳&lt;br/&gt;• 减速→步幅减小→速度降低&lt;br/&gt;• 停住→停住→可能回头&lt;br/&gt;• 吠叫→停住→朝刺激方向吠叫&lt;/div&gt;" vertex="1">
-          <mxGeometry height="200" width="350" x="-9517" y="422" as="geometry" />
+          <mxGeometry height="272" width="350" x="-9517" y="422" as="geometry" />
         </mxCell>
         <mxCell id="b1fRG6G1WEVx8HJ13RTH-757" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0e8ff;strokeColor=#7a5ba8;verticalAlign=top;align=left;" value="&lt;div style=&quot;text-align:left;font-size:10px;padding:4px;line-height:1.35;&quot;&gt;&lt;b style=&quot;font-size:13px;&quot;&gt;11.7 狗的记忆&lt;/b&gt;&lt;hr style=&quot;margin:3px 0;&quot;/&gt;&lt;b&gt;【构成要素】&lt;/b&gt;&lt;br/&gt;• 路线记忆：过去30天重复≥3次&lt;br/&gt;• 地点记忆：过去30天嗅闻停留≥5秒&lt;br/&gt;• 用户记忆：过去30天用户轨迹&lt;br/&gt;&lt;hr style=&quot;margin:3px 0;&quot;/&gt;&lt;b&gt;【动态规则】&lt;/b&gt;&lt;br/&gt;• 熟悉路线 → 更高概率主动选择&lt;br/&gt;• 历史嗅觉兴趣点 → 更高优先级&lt;br/&gt;• 用户轨迹 → 对用户熟悉 → 响应概率&lt;/div&gt;" vertex="1">
           <mxGeometry height="200" width="350" x="-10457" y="647" as="geometry" />
@@ -3211,7 +3211,7 @@
           <mxGeometry height="200" width="350" x="-9987" y="647" as="geometry" />
         </mxCell>
         <mxCell id="b1fRG6G1WEVx8HJ13RTH-759" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0e8ff;strokeColor=#7a5ba8;verticalAlign=top;align=left;" value="&lt;div style=&quot;text-align:left;font-size:10px;padding:4px;line-height:1.35;&quot;&gt;&lt;b style=&quot;font-size:13px;&quot;&gt;11.9 用户的意图&lt;/b&gt;&lt;hr style=&quot;margin:3px 0;&quot;/&gt;&lt;b&gt;【构成要素】&lt;/b&gt;&lt;br/&gt;• 走哪条路：用户选择&lt;br/&gt;• 什么时候回家：用户选择&lt;br/&gt;• 什么时候停下：用户选择&lt;br/&gt;&lt;hr style=&quot;margin:3px 0;&quot;/&gt;&lt;b&gt;【动态规则】&lt;/b&gt;&lt;br/&gt;• 用户选择 → 用户牵引方向 → 狗的行为约束&lt;br/&gt;• 用户选择 → 用户拉绳/转向 → 狗减速/停住&lt;br/&gt;• 用户选择 → 用户停住 → 狗停住/回头&lt;/div&gt;" vertex="1">
-          <mxGeometry height="200" width="350" x="-9517" y="647" as="geometry" />
+          <mxGeometry height="162" width="350" x="-9517" y="726" as="geometry" />
         </mxCell>
         <mxCell id="b1fRG6G1WEVx8HJ13RTH-760" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0e8ff;strokeColor=#7a5ba8;verticalAlign=top;align=left;" value="&lt;div style=&quot;text-align:left;font-size:10px;padding:4px;line-height:1.35;&quot;&gt;&lt;b style=&quot;font-size:13px;&quot;&gt;11.10 用户的注意&lt;/b&gt;&lt;hr style=&quot;margin:3px 0;&quot;/&gt;&lt;b&gt;【构成要素】&lt;/b&gt;&lt;br/&gt;• 注意狗：狗加速/吠叫&lt;br/&gt;• 注意路况：车辆靠近&lt;br/&gt;• 注意其他狗：其他狗出现&lt;br/&gt;&lt;hr style=&quot;margin:3px 0;&quot;/&gt;&lt;b&gt;【动态规则】&lt;/b&gt;&lt;br/&gt;• 狗加速/吠叫 → 用户看向狗 → 用户注意&lt;br/&gt;• 车辆靠近 → 用户看向车辆 → 用户注意&lt;br/&gt;• 其他狗出现 → 用户看向其他狗 → 用户注意&lt;/div&gt;" vertex="1">
           <mxGeometry height="200" width="350" x="-10456" y="871" as="geometry" />
@@ -3220,7 +3220,7 @@
           <mxGeometry height="200" width="350" x="-9986" y="871" as="geometry" />
         </mxCell>
         <mxCell id="b1fRG6G1WEVx8HJ13RTH-762" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0e8ff;strokeColor=#7a5ba8;verticalAlign=top;align=left;" value="&lt;div style=&quot;text-align:left;font-size:10px;padding:4px;line-height:1.35;&quot;&gt;&lt;b style=&quot;font-size:13px;&quot;&gt;11.12 用户的记忆&lt;/b&gt;&lt;hr style=&quot;margin:3px 0;&quot;/&gt;&lt;b&gt;【构成要素】&lt;/b&gt;&lt;br/&gt;• 路线记忆：过去30天&lt;br/&gt;• 地点记忆：过去30天&lt;br/&gt;• 狗的记忆：过去30天&lt;br/&gt;&lt;hr style=&quot;margin:3px 0;&quot;/&gt;&lt;b&gt;【动态规则】&lt;/b&gt;&lt;br/&gt;• 熟悉路线 → 用户更高概率选择&lt;br/&gt;• 历史地点 → 用户更高优先级&lt;br/&gt;• 狗的行为 → 用户有记忆 → 预期&lt;/div&gt;" vertex="1">
-          <mxGeometry height="200" width="350" x="-9516" y="871" as="geometry" />
+          <mxGeometry height="162" width="350" x="-9519" y="909" as="geometry" />
         </mxCell>
         <mxCell id="b1fRG6G1WEVx8HJ13RTH-763" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1f4e79;strokeColor=#0d2b45;fontColor=#ffffff;fontStyle=1;fontSize=14;align=left;spacingLeft=15;" value="L12 社会（17项展开）" vertex="1">
           <mxGeometry height="40" width="1410" x="-8908" y="-403" as="geometry" />
@@ -3253,7 +3253,7 @@
           <mxGeometry height="200" width="350" x="-7968" y="299" as="geometry" />
         </mxCell>
         <mxCell id="b1fRG6G1WEVx8HJ13RTH-773" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff8e1;strokeColor=#b8a04a;verticalAlign=top;align=left;" value="&lt;div style=&quot;text-align:left;font-size:10px;padding:4px;line-height:1.35;&quot;&gt;&lt;b style=&quot;font-size:13px;&quot;&gt;12.10 城市日程&lt;/b&gt;&lt;hr style=&quot;margin:3px 0;&quot;/&gt;&lt;b&gt;【构成要素】&lt;/b&gt;&lt;br/&gt;• 凌晨：车流极低/人声极低/商铺关闭/建筑亮灯&amp;lt;10%/人群极低&lt;br/&gt;• 清晨：车流低/人声低/早餐店开/建筑亮灯10-20%/人群低&lt;br/&gt;• 早高峰：车流高/人声高/全面开/建筑亮灯20-30%/人群高&lt;br/&gt;• 上午：车流中/人声中/营业/建筑亮灯20-30%/人群中&lt;br/&gt;• 午间：车流中高/人声高/餐饮高峰/建筑亮灯30-40%/人群高&lt;br/&gt;• 下午：车流中/人声中/营业/建筑亮灯20-30%/人群中&lt;br/&gt;• 晚高峰：车流高/人声高/餐饮高峰/建筑亮灯40-60%/人群高&lt;br/&gt;• 傍晚：车流中/人声中高/营业/建筑亮灯50-70%/人群中高&lt;br/&gt;• 夜间：车流低/人声低/陆续关/建筑亮灯40-60%/人群低&lt;br/&gt;• 深夜：车流极低/人声极低/关闭/建筑亮灯20-40%/人群极低&lt;br/&gt;&lt;hr style=&quot;margin:3px 0;&quot;/&gt;&lt;b&gt;【动态规则】&lt;/b&gt;&lt;br/&gt;• 城市日程 → 车流/人声/灯光同步 → 遛狗时段&lt;br/&gt;• 日期类型 → 周末/节假日修正 → 车流/人声/灯光&lt;br/&gt;• 无引导性 → 不因用户行为而改变&lt;/div&gt;" vertex="1">
-          <mxGeometry height="200" width="350" x="-8908" y="435" as="geometry" />
+          <mxGeometry height="272" width="350" x="-8908" y="435" as="geometry" />
         </mxCell>
         <mxCell id="b1fRG6G1WEVx8HJ13RTH-774" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff8e1;strokeColor=#b8a04a;verticalAlign=top;align=left;" value="&lt;div style=&quot;text-align:left;font-size:10px;padding:4px;line-height:1.35;&quot;&gt;&lt;b style=&quot;font-size:13px;&quot;&gt;12.11 建筑规范&lt;/b&gt;&lt;hr style=&quot;margin:3px 0;&quot;/&gt;&lt;b&gt;【构成要素】&lt;/b&gt;&lt;br/&gt;• 人行道宽度：按规范&lt;br/&gt;• 绿化带：按规范&lt;br/&gt;• 路灯间距：按规范&lt;br/&gt;&lt;hr style=&quot;margin:3px 0;&quot;/&gt;&lt;b&gt;【动态规则】&lt;/b&gt;&lt;br/&gt;• 人行道宽度 → 用户路径 → 用户行为&lt;br/&gt;• 绿化带 → 植被 → 视觉+嗅觉&lt;br/&gt;• 路灯间距 → 光影 → 视觉&lt;br/&gt;• 无引导性 → 不因用户行为而改变&lt;/div&gt;" vertex="1">
           <mxGeometry height="200" width="350" x="-8438" y="432" as="geometry" />
@@ -3262,7 +3262,7 @@
           <mxGeometry height="200" width="350" x="-7968" y="619" as="geometry" />
         </mxCell>
         <mxCell id="b1fRG6G1WEVx8HJ13RTH-776" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff8e1;strokeColor=#b8a04a;verticalAlign=top;align=left;" value="&lt;div style=&quot;text-align:left;font-size:10px;padding:4px;line-height:1.35;&quot;&gt;&lt;b style=&quot;font-size:13px;&quot;&gt;12.13 经济&lt;/b&gt;&lt;hr style=&quot;margin:3px 0;&quot;/&gt;&lt;b&gt;【构成要素】&lt;/b&gt;&lt;br/&gt;• 狗粮：商铺有售&lt;br/&gt;• 牵引绳：商铺有售&lt;br/&gt;• 拾便袋：商铺有售&lt;br/&gt;&lt;hr style=&quot;margin:3px 0;&quot;/&gt;&lt;b&gt;【动态规则】&lt;/b&gt;&lt;br/&gt;• 商铺营业 → 商品可售 → 商铺灯光&lt;br/&gt;• 无引导性 → 不因用户行为而改变&lt;/div&gt;" vertex="1">
-          <mxGeometry height="200" width="350" x="-8908" y="694" as="geometry" />
+          <mxGeometry height="152" width="350" x="-8908" y="739" as="geometry" />
         </mxCell>
         <mxCell id="b1fRG6G1WEVx8HJ13RTH-777" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff8e1;strokeColor=#b8a04a;verticalAlign=top;align=left;" value="&lt;div style=&quot;text-align:left;font-size:10px;padding:4px;line-height:1.35;&quot;&gt;&lt;b style=&quot;font-size:13px;&quot;&gt;12.14 医疗&lt;/b&gt;&lt;hr style=&quot;margin:3px 0;&quot;/&gt;&lt;b&gt;【构成要素】&lt;/b&gt;&lt;br/&gt;• 狗的健康：兽医诊所&lt;br/&gt;• 疫苗：兽医诊所&lt;br/&gt;• 急救：医院&lt;br/&gt;&lt;hr style=&quot;margin:3px 0;&quot;/&gt;&lt;b&gt;【动态规则】&lt;/b&gt;&lt;br/&gt;• 兽医诊所 → 商铺 → 建筑+灯光&lt;br/&gt;• 医院 → 建筑 → 视觉&lt;br/&gt;• 无引导性 → 不因用户行为而改变&lt;/div&gt;" vertex="1">
           <mxGeometry height="200" width="350" x="-8438" y="691" as="geometry" />
@@ -3271,7 +3271,7 @@
           <mxGeometry height="200" width="350" x="-7968" y="940" as="geometry" />
         </mxCell>
         <mxCell id="b1fRG6G1WEVx8HJ13RTH-779" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff8e1;strokeColor=#b8a04a;verticalAlign=top;align=left;" value="&lt;div style=&quot;text-align:left;font-size:10px;padding:4px;line-height:1.35;&quot;&gt;&lt;b style=&quot;font-size:13px;&quot;&gt;12.16 节日&lt;/b&gt;&lt;hr style=&quot;margin:3px 0;&quot;/&gt;&lt;b&gt;【构成要素】&lt;/b&gt;&lt;br/&gt;• 春节：农历正月初一，鞭炮声、狗害怕&lt;br/&gt;• 元宵节：农历正月十五，花灯、人群&lt;br/&gt;• 中秋节：农历八月十五，月饼摊、家庭聚会&lt;br/&gt;• 国庆节：10月1日，国旗、烟花、人群&lt;br/&gt;&lt;hr style=&quot;margin:3px 0;&quot;/&gt;&lt;b&gt;【动态规则】&lt;/b&gt;&lt;br/&gt;• 日期匹配 → 节日活动 → 建筑、人声、光影、嗅觉&lt;br/&gt;• 无引导性 → 不因用户行为而改变&lt;/div&gt;" vertex="1">
-          <mxGeometry height="200" width="350" x="-8908" y="953" as="geometry" />
+          <mxGeometry height="200" width="350" x="-8908" y="949" as="geometry" />
         </mxCell>
         <mxCell id="b1fRG6G1WEVx8HJ13RTH-780" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff8e1;strokeColor=#b8a04a;verticalAlign=top;align=left;" value="&lt;div style=&quot;text-align:left;font-size:10px;padding:4px;line-height:1.35;&quot;&gt;&lt;b style=&quot;font-size:13px;&quot;&gt;12.17 社会活动&lt;/b&gt;&lt;hr style=&quot;margin:3px 0;&quot;/&gt;&lt;b&gt;【构成要素】&lt;/b&gt;&lt;br/&gt;• 集市：特定日期/地点，摊位、人群&lt;br/&gt;• 庙会：特定日期/地点，摊位、人群、表演&lt;br/&gt;• 演出：特定日期/地点，舞台、灯光、人群&lt;br/&gt;• 广场舞：傍晚/清晨，公园/广场，人群、音响&lt;br/&gt;&lt;hr style=&quot;margin:3px 0;&quot;/&gt;&lt;b&gt;【动态规则】&lt;/b&gt;&lt;br/&gt;• 日期+地点+时间 → 社会活动 → 人声、音乐、车流&lt;br/&gt;• 广场舞 → 音乐 → 狗可能被惊吓&lt;br/&gt;• 无引导性 → 不因用户行为而改变&lt;/div&gt;" vertex="1">
           <mxGeometry height="200" width="350" x="-8438" y="949" as="geometry" />
@@ -3289,7 +3289,7 @@
           <mxGeometry height="200" width="350" x="-6445" y="-343" as="geometry" />
         </mxCell>
         <mxCell id="b1fRG6G1WEVx8HJ13RTH-785" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f7fa;strokeColor=#00838f;verticalAlign=top;align=left;" value="&lt;div style=&quot;text-align:left;font-size:10px;padding:4px;line-height:1.35;&quot;&gt;&lt;b style=&quot;font-size:13px;&quot;&gt;13.4 车辆&lt;/b&gt;&lt;hr style=&quot;margin:3px 0;&quot;/&gt;&lt;b&gt;【构成要素】&lt;/b&gt;&lt;br/&gt;• 车辆类型：按道路等级和时间段概率分配&lt;br/&gt;• 车辆颜色：白/黑/灰/银≥70%&lt;br/&gt;• 行驶速度：主干道40-60km/h，次干道20-40km/h，窄巷≤15km/h&lt;br/&gt;• 车灯：前灯5500-6000K，尾灯红色&lt;br/&gt;• 声景分层：基底层、中景层、近景层&lt;br/&gt;• 多普勒效应：驶向/驶离时声调变化&lt;br/&gt;&lt;hr style=&quot;margin:3px 0;&quot;/&gt;&lt;b&gt;【动态规则】&lt;/b&gt;&lt;br/&gt;• 车辆移动 → 多普勒 → 声景变化&lt;br/&gt;• 车辆移动 → 车灯光斑 → 光影&lt;br/&gt;• 道路等级 → 车辆类型分布 → 视觉&lt;br/&gt;• 无引导性 → 不因用户行为而改变&lt;/div&gt;" vertex="1">
-          <mxGeometry height="200" width="350" x="-7385" y="7" as="geometry" />
+          <mxGeometry height="223" width="350" x="-7385" y="7" as="geometry" />
         </mxCell>
         <mxCell id="b1fRG6G1WEVx8HJ13RTH-786" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f7fa;strokeColor=#00838f;verticalAlign=top;align=left;" value="&lt;div style=&quot;text-align:left;font-size:10px;padding:4px;line-height:1.35;&quot;&gt;&lt;b style=&quot;font-size:13px;&quot;&gt;13.5 电力&lt;/b&gt;&lt;hr style=&quot;margin:3px 0;&quot;/&gt;&lt;b&gt;【构成要素】&lt;/b&gt;&lt;br/&gt;• 路灯供电：按城市日程&lt;br/&gt;• 商铺供电：按营业时间&lt;br/&gt;• 住宅供电：按亮灯率&lt;br/&gt;&lt;hr style=&quot;margin:3px 0;&quot;/&gt;&lt;b&gt;【动态规则】&lt;/b&gt;&lt;br/&gt;• 城市日程 → 路灯供电 → 夜间遛狗&lt;br/&gt;• 营业时间 → 商铺供电 → 商铺灯光&lt;br/&gt;• 亮灯率 → 住宅供电 → 窗户亮灯&lt;br/&gt;• 无引导性 → 不因用户行为而改变&lt;/div&gt;" vertex="1">
           <mxGeometry height="200" width="350" x="-6915" y="7" as="geometry" />
@@ -3316,10 +3316,10 @@
           <mxGeometry height="200" width="350" x="-5860" y="-337" as="geometry" />
         </mxCell>
         <mxCell id="b1fRG6G1WEVx8HJ13RTH-794" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fce4ec;strokeColor=#ad1457;verticalAlign=top;align=left;" value="&lt;div style=&quot;text-align:left;font-size:10px;padding:4px;line-height:1.35;&quot;&gt;&lt;b style=&quot;font-size:13px;&quot;&gt;14.2 听觉&lt;/b&gt;&lt;hr style=&quot;margin:3px 0;&quot;/&gt;&lt;b&gt;【构成要素】&lt;/b&gt;&lt;br/&gt;• 频率范围：理想状态20Hz-20kHz&lt;br/&gt;• 空间音频：理想状态全空间&lt;br/&gt;• 多普勒效应：理想状态全移动声源&lt;br/&gt;• 混响：按空间类型&lt;br/&gt;&lt;hr style=&quot;margin:3px 0;&quot;/&gt;&lt;b&gt;【动态规则】&lt;/b&gt;&lt;br/&gt;• 狗吠 → 空间音频 → 听觉&lt;br/&gt;• 狗脚步 → 空间音频 → 听觉&lt;br/&gt;• 项圈声 → 空间音频 → 听觉&lt;br/&gt;• 环境声景 → 空间音频 → 听觉&lt;br/&gt;• 车流声 → 空间音频+多普勒 → 听觉&lt;br/&gt;• 无引导性 → 不因用户行为而改变&lt;/div&gt;" vertex="1">
-          <mxGeometry height="200" width="350" x="-5390" y="-337" as="geometry" />
+          <mxGeometry height="219" width="350" x="-5390" y="-337" as="geometry" />
         </mxCell>
         <mxCell id="b1fRG6G1WEVx8HJ13RTH-795" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fce4ec;strokeColor=#ad1457;verticalAlign=top;align=left;" value="&lt;div style=&quot;text-align:left;font-size:10px;padding:4px;line-height:1.35;&quot;&gt;&lt;b style=&quot;font-size:13px;&quot;&gt;14.3 触觉&lt;/b&gt;&lt;hr style=&quot;margin:3px 0;&quot;/&gt;&lt;b&gt;【构成要素】&lt;/b&gt;&lt;br/&gt;• 牵引绳张力：0-10N，分级震动&lt;br/&gt;• 狗靠近腿部：0-0.5G震动，+0.5°C&lt;br/&gt;• 狗蹭腿：0.2G，持续0.5秒&lt;br/&gt;• 狗鼻子触碰：-1°C，湿度+5%RH&lt;br/&gt;• 狗尾巴扫过：微弱气流，无震动&lt;br/&gt;&lt;hr style=&quot;margin:3px 0;&quot;/&gt;&lt;b&gt;【动态规则】&lt;/b&gt;&lt;br/&gt;• 狗移动/停止/转向 → 牵引绳张力 → 手腕/手部震动&lt;br/&gt;• 狗离用户&amp;lt;0.5m → 腿部/膝盖处气流+微温&lt;br/&gt;• 按用户设定性格 → 狗蹭腿 → 小腿外侧微压&lt;br/&gt;• 按用户设定性格 → 狗鼻子触碰 → 手部微凉+微湿&lt;br/&gt;• 按用户设定尾巴姿态 → 狗尾巴扫过 → 小腿外侧微气流&lt;/div&gt;" vertex="1">
-          <mxGeometry height="200" width="350" x="-4920" y="-337" as="geometry" />
+          <mxGeometry height="219" width="350" x="-4920" y="-337" as="geometry" />
         </mxCell>
         <mxCell id="b1fRG6G1WEVx8HJ13RTH-796" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fce4ec;strokeColor=#ad1457;verticalAlign=top;align=left;" value="&lt;div style=&quot;text-align:left;font-size:10px;padding:4px;line-height:1.35;&quot;&gt;&lt;b style=&quot;font-size:13px;&quot;&gt;14.4 嗅觉&lt;/b&gt;&lt;hr style=&quot;margin:3px 0;&quot;/&gt;&lt;b&gt;【构成要素】&lt;/b&gt;&lt;br/&gt;• 餐饮排烟：热气流上升，透明度8-12%&lt;br/&gt;• 雨后泥土：地面水汽蒸腾，透明度5-8%&lt;br/&gt;• 花草香：花粉/微粒浮动，近距离&amp;lt;3m可见&lt;br/&gt;• 垃圾味：热气流扭曲+少量飞虫&lt;br/&gt;• 烧烤烟味：烟雾，透明度15-25%&lt;br/&gt;• 水汽味：水面水汽蒸腾，透明度5-10%&lt;br/&gt;• 汽车尾气：尾气团，透明度≤10%&lt;br/&gt;• 潮湿墙面味：墙面水渍痕迹&lt;br/&gt;&lt;hr style=&quot;margin:3px 0;&quot;/&gt;&lt;b&gt;【动态规则】&lt;/b&gt;&lt;br/&gt;• 排烟量 → 可视化强度 → 视觉替代嗅觉&lt;br/&gt;• 地面湿度 → 水汽蒸腾 → 视觉替代嗅觉&lt;br/&gt;• 花期 → 微粒浮动 → 视觉替代嗅觉&lt;br/&gt;• 气温 → 垃圾味可视化强度 → 视觉替代嗅觉&lt;br/&gt;• 烧烤活动 → 烟雾 → 视觉替代嗅觉&lt;br/&gt;• 水温/气温差 → 水汽蒸腾 → 视觉替代嗅觉&lt;br/&gt;• 气温负相关 → 尾气团 → 视觉替代嗅觉&lt;br/&gt;• 湿度 → 墙面水渍 → 视觉替代嗅觉&lt;/div&gt;" vertex="1">
           <mxGeometry height="309" width="350" x="-5860" y="-72" as="geometry" />
