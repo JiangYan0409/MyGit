@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="天-地-人完整因果链布局" id="SjSHOlrHnjoS6EgHSpwo">
-    <mxGraphModel dx="22942" dy="16582" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#ffffff, #121212)" math="0" shadow="0">
+    <mxGraphModel dx="20987" dy="15530" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#ffffff, #121212)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3359,6 +3359,41 @@
         </mxCell>
         <mxCell id="b1fRG6G1WEVx8HJ13RTH-808" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f9f9;strokeColor=#666666;verticalAlign=top;align=left;" value="&lt;div style=&quot;text-align:left;font-size:14px;padding:10px;line-height:1.6;&quot;&gt;&lt;b style=&quot;font-size:16px;&quot;&gt;核心运转&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;太阳（火/阳）&lt;br/&gt;&amp;nbsp;&amp;nbsp;│ 火生土&lt;br/&gt;&amp;nbsp;&amp;nbsp;▼&lt;br/&gt;土壤（土/阴）←── 水（水/阴）&lt;br/&gt;&amp;nbsp;&amp;nbsp;│&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;│&lt;br/&gt;&amp;nbsp;&amp;nbsp;│ 土生金&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;│ 水生木&lt;br/&gt;&amp;nbsp;&amp;nbsp;▼&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;▼&lt;br/&gt;工具（金/阳）&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;作物（木/阳）&lt;br/&gt;&amp;nbsp;&amp;nbsp;│&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;│&lt;br/&gt;&amp;nbsp;&amp;nbsp;│ 金克木&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;│ 木生火&lt;br/&gt;&amp;nbsp;&amp;nbsp;▼&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;▼&lt;br/&gt;收割（金克木）&amp;nbsp;&amp;nbsp;能量（火/阳）&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;│&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;│ 火生土&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;▼&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;土壤（土/阴）&lt;br/&gt;&lt;br/&gt;&lt;b&gt;一句话：&lt;/b&gt;&lt;br/&gt;太阳（火）生土壤（土），土壤生工具（金），工具克作物（木），作物生能量（火），能量再生土壤。水（水）润作物（木），工具（金）克作物（木），土壤（土）克水（水），水（水）克火（火），火（火）克工具（金）。五行生克，循环不息。&lt;/div&gt;" vertex="1">
           <mxGeometry height="400" width="1900" x="-16010" y="7913" as="geometry" />
+        </mxCell>
+        <mxCell id="b1fRG6G1WEVx8HJ13RTH-809" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="40" width="54" x="-14672" y="3112" as="geometry" />
+        </mxCell>
+        <mxCell id="b1fRG6G1WEVx8HJ13RTH-810" edge="1" parent="1" source="b1fRG6G1WEVx8HJ13RTH-809" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.005;entryY=0.077;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" target="b1fRG6G1WEVx8HJ13RTH-807">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-14617.94" y="3092" />
+              <mxPoint x="-14209.47" y="3092" />
+              <mxPoint x="-14209.47" y="2711.65" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b1fRG6G1WEVx8HJ13RTH-811" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="31" width="54" x="-14495" y="3251" as="geometry" />
+        </mxCell>
+        <mxCell id="b1fRG6G1WEVx8HJ13RTH-812" edge="1" parent="1" source="b1fRG6G1WEVx8HJ13RTH-811" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.005;entryY=0.196;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;curved=1;" target="b1fRG6G1WEVx8HJ13RTH-807">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b1fRG6G1WEVx8HJ13RTH-814" edge="1" parent="1" source="b1fRG6G1WEVx8HJ13RTH-813" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.004;entryY=0.284;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;curved=1;" target="b1fRG6G1WEVx8HJ13RTH-807">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-14121.71" y="3325.53" />
+              <mxPoint x="-14121.71" y="3151.53" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b1fRG6G1WEVx8HJ13RTH-813" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="27" width="33" x="-14678" y="3312" as="geometry" />
+        </mxCell>
+        <mxCell id="b1fRG6G1WEVx8HJ13RTH-815" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="40" width="350" x="-15073" y="3494" as="geometry" />
+        </mxCell>
+        <mxCell id="b1fRG6G1WEVx8HJ13RTH-816" edge="1" parent="1" source="b1fRG6G1WEVx8HJ13RTH-815" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.001;entryY=0.385;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;curved=1;" target="b1fRG6G1WEVx8HJ13RTH-807">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
