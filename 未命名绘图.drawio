@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="天-地-人完整因果链布局" id="SjSHOlrHnjoS6EgHSpwo">
-    <mxGraphModel dx="21585" dy="15852" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#ffffff, #121212)" math="0" shadow="0">
+    <mxGraphModel dx="20987" dy="15530" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#ffffff, #121212)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2215,7 +2215,7 @@
           <mxGeometry height="50" width="140" x="-15574" y="-2681" as="geometry" />
         </mxCell>
         <mxCell id="b1fRG6G1WEVx8HJ13RTH-425" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#82b366;strokeColor=#4d7a3d;fontColor=#ffffff;fontSize=13;" value="太阳核聚变" vertex="1">
-          <mxGeometry height="50" width="160" x="-15380" y="-2755" as="geometry" />
+          <mxGeometry height="50" width="160" x="-15375" y="-2766" as="geometry" />
         </mxCell>
         <mxCell id="b1fRG6G1WEVx8HJ13RTH-426" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#82b366;strokeColor=#4d7a3d;fontColor=#ffffff;fontSize=13;" value="地球形成" vertex="1">
           <mxGeometry height="50" width="160" x="-15183" y="-2858" as="geometry" />
