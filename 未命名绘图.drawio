@@ -2208,6 +2208,14 @@
         <mxCell id="b1fRG6G1WEVx8HJ13RTH-422" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6c8ebf;strokeColor=#3d5a80;fontColor=#ffffff;fontSize=13;" value="电磁力" vertex="1">
           <mxGeometry height="50" width="140" x="-15925" y="-2591" as="geometry" />
         </mxCell>
+        <mxCell id="b1fRG6G1WEVx8HJ13RTH-515" edge="1" parent="1" source="b1fRG6G1WEVx8HJ13RTH-423" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#6c8ebf;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="b1fRG6G1WEVx8HJ13RTH-445">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-15739" y="-2775.58" />
+              <mxPoint x="-15777.83" y="-2775.58" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="b1fRG6G1WEVx8HJ13RTH-423" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6c8ebf;strokeColor=#3d5a80;fontColor=#ffffff;fontSize=13;" value="引力" vertex="1">
           <mxGeometry height="50" width="140" x="-15739" y="-2799" as="geometry" />
         </mxCell>
@@ -2623,6 +2631,15 @@
         </mxCell>
         <mxCell id="b1fRG6G1WEVx8HJ13RTH-429" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#82b366;strokeColor=#4d7a3d;fontColor=#ffffff;fontSize=13;" value="大气环流" vertex="1">
           <mxGeometry height="50" width="160" x="-14624" y="-2632" as="geometry" />
+        </mxCell>
+        <mxCell id="b1fRG6G1WEVx8HJ13RTH-516" edge="1" parent="1" source="b1fRG6G1WEVx8HJ13RTH-423" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#6c8ebf;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-15669" y="-2443.25" />
+              <mxPoint x="-15492.83" y="-2443.25" />
+            </Array>
+            <mxPoint x="-15492.82" y="-2161.98" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
